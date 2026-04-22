@@ -1,0 +1,407 @@
+{"original": "travis is touring .", "sentence_good": "travis touring .", "sentence_bad": "travis revealing ."}
+{"original": "this student 's supervisors descended .", "sentence_good": "student supervisors descended .", "sentence_bad": "student supervisors admired ."}
+{"original": "karen 's dentists buy .", "sentence_good": "karen dentists buy .", "sentence_bad": "karen dentists found ."}
+{"original": "tara 's doctors have watched .", "sentence_good": "tara doctors watched .", "sentence_bad": "tara doctors examined ."}
+{"original": "anne has n't climbed down .", "sentence_good": "anne n't climbed down .", "sentence_bad": "anne n't found ."}
+{"original": "kathleen helped .", "sentence_good": "kathleen helped .", "sentence_bad": "kathleen resembles ."}
+{"original": "marie is n't climbing down .", "sentence_good": "marie n't climbing down .", "sentence_bad": "marie n't lifting ."}
+{"original": "holly 's plumbers sold .", "sentence_good": "holly plumbers sold .", "sentence_bad": "holly plumbers admired ."}
+{"original": "some boy watches .", "sentence_good": "some boy watches .", "sentence_bad": "some boy fired ."}
+{"original": "the children see .", "sentence_good": "children see .", "sentence_bad": "children admire ."}
+{"original": "kendra is n't attacking .", "sentence_good": "kendra n't attacking .", "sentence_bad": "kendra n't revealing ."}
+{"original": "florence 's doctors have loved .", "sentence_good": "florence doctors loved .", "sentence_bad": "florence doctors disliked ."}
+{"original": "heather ascends .", "sentence_good": "heather ascends .", "sentence_bad": "heather concealed ."}
+{"original": "rose is buying .", "sentence_good": "rose buying .", "sentence_bad": "rose wearing ."}
+{"original": "nicole 's grandfathers do n't exit .", "sentence_good": "nicole grandfathers n't exit .", "sentence_bad": "nicole grandfathers n't admire ."}
+{"original": "every nephew of a lady attacked .", "sentence_good": "nephew lady attacked .", "sentence_bad": "nephew lady scared ."}
+{"original": "sisters of that guest were n't approaching .", "sentence_good": "sisters guest n't approaching .", "sentence_bad": "sisters guest n't examining ."}
+{"original": "connie 's plumbers are visiting .", "sentence_good": "connie plumbers visiting .", "sentence_bad": "connie plumbers firing ."}
+{"original": "the committees buy .", "sentence_good": "committees buy .", "sentence_bad": "committees dislike ."}
+{"original": "deborah 's mothers are leaving .", "sentence_good": "deborah mothers leaving .", "sentence_bad": "deborah mothers lifting ."}
+{"original": "stacey 's senators would n't approach .", "sentence_good": "stacey senators n't approach .", "sentence_bad": "stacey senators n't find ."}
+{"original": "jane had explored .", "sentence_good": "jane explored .", "sentence_bad": "jane admired ."}
+{"original": "the waitress has approached .", "sentence_good": "waitress approached .", "sentence_bad": "waitress resembled ."}
+{"original": "some companies had remembered .", "sentence_good": "some companies remembered .", "sentence_bad": "some companies respected ."}
+{"original": "stephanie wo n't explore .", "sentence_good": "stephanie wo n't explore .", "sentence_bad": "stephanie wo n't admire ."}
+{"original": "carla was n't buying .", "sentence_good": "carla n't buying .", "sentence_bad": "carla n't scaring ."}
+{"original": "leslie observed .", "sentence_good": "leslie observed .", "sentence_bad": "leslie found ."}
+{"original": "andrew does tour .", "sentence_good": "andrew tour .", "sentence_bad": "andrew respect ."}
+{"original": "brett had forgotten .", "sentence_good": "brett forgotten .", "sentence_bad": "brett referenced ."}
+{"original": "most ladies have n't sold .", "sentence_good": "most ladies n't sold .", "sentence_bad": "most ladies n't found ."}
+{"original": "veronica helps .", "sentence_good": "veronica helps .", "sentence_bad": "veronica scares ."}
+{"original": "tamara 's partner forgot .", "sentence_good": "tamara partner forgot .", "sentence_bad": "tamara partner concealed ."}
+{"original": "monica exits .", "sentence_good": "monica exits .", "sentence_bad": "monica fired ."}
+{"original": "these friends of timothy are observing .", "sentence_good": "friends timothy observing .", "sentence_bad": "friends timothy admiring ."}
+{"original": "lisa 's contractors pass .", "sentence_good": "lisa contractors pass .", "sentence_bad": "lisa contractors conceal ."}
+{"original": "deborah has passed .", "sentence_good": "deborah passed .", "sentence_bad": "deborah examined ."}
+{"original": "many sisters of sarah have n't attacked .", "sentence_good": "many sisters sarah n't attacked .", "sentence_bad": "many sisters sarah n't examined ."}
+{"original": "most pedestrians attack .", "sentence_good": "most pedestrians attack .", "sentence_bad": "most pedestrians disliked ."}
+{"original": "catherine 's handymen had loved .", "sentence_good": "catherine handymen loved .", "sentence_bad": "catherine handymen cured ."}
+{"original": "benjamin exited .", "sentence_good": "benjamin exited .", "sentence_bad": "benjamin wore ."}
+{"original": "that father of barbara knows .", "sentence_good": "father barbara knows .", "sentence_bad": "father barbara examined ."}
+{"original": "nina descended .", "sentence_good": "nina descended .", "sentence_bad": "nina resembled ."}
+{"original": "mary wo n't investigate .", "sentence_good": "mary wo n't investigate .", "sentence_bad": "mary wo n't resemble ."}
+{"original": "steve 's ex-wives observe .", "sentence_good": "steve ex-wives observe .", "sentence_bad": "steve ex-wives resembled ."}
+{"original": "this grandmother of brenda cleaned .", "sentence_good": "grandmother brenda cleaned .", "sentence_bad": "grandmother brenda dislikes ."}
+{"original": "wendy 's father cleans .", "sentence_good": "wendy father cleans .", "sentence_bad": "wendy father cures ."}
+{"original": "randolf approaches .", "sentence_good": "randolf approaches .", "sentence_bad": "randolf scares ."}
+{"original": "raymond is buying .", "sentence_good": "raymond buying .", "sentence_bad": "raymond referencing ."}
+{"original": "eric saw .", "sentence_good": "eric saw .", "sentence_bad": "eric references ."}
+{"original": "tiffany investigates .", "sentence_good": "tiffany investigates .", "sentence_bad": "tiffany concealed ."}
+{"original": "teresa did explore .", "sentence_good": "teresa explore .", "sentence_bad": "teresa conceal ."}
+{"original": "those grandsons of laura have n't exited .", "sentence_good": "grandsons laura n't exited .", "sentence_bad": "grandsons laura n't cured ."}
+{"original": "beth leaves .", "sentence_good": "beth leaves .", "sentence_bad": "beth references ."}
+{"original": "victoria has attacked .", "sentence_good": "victoria attacked .", "sentence_bad": "victoria fired ."}
+{"original": "sharon 's grandmothers had watched .", "sentence_good": "sharon grandmothers watched .", "sentence_bad": "sharon grandmothers found ."}
+{"original": "catherine had n't ascended .", "sentence_good": "catherine n't ascended .", "sentence_bad": "catherine n't lifted ."}
+{"original": "diane has n't approached .", "sentence_good": "diane n't approached .", "sentence_bad": "diane n't fired ."}
+{"original": "stacy observes .", "sentence_good": "stacy observes .", "sentence_bad": "stacy likes ."}
+{"original": "that organization forgot .", "sentence_good": "organization forgot .", "sentence_bad": "organization referenced ."}
+{"original": "elaine had approached .", "sentence_good": "elaine approached .", "sentence_bad": "elaine cured ."}
+{"original": "ruth 's daughters forget .", "sentence_good": "ruth daughters forget .", "sentence_bad": "ruth daughters reveal ."}
+{"original": "naomi 's ex-boyfriends descend .", "sentence_good": "naomi ex-boyfriends descend .", "sentence_bad": "naomi ex-boyfriends liked ."}
+{"original": "these boys ' guests pass .", "sentence_good": "boys ' guests pass .", "sentence_bad": "boys ' guests fired ."}
+{"original": "suzanne had cleaned .", "sentence_good": "suzanne cleaned .", "sentence_bad": "suzanne concealed ."}
+{"original": "rose buys .", "sentence_good": "rose buys .", "sentence_bad": "rose resembles ."}
+{"original": "alan 's doctor ca n't attack .", "sentence_good": "alan doctor n't attack .", "sentence_bad": "alan doctor n't wear ."}
+{"original": "a lot of boys explored .", "sentence_good": "lot boys explored .", "sentence_bad": "lot boys lifted ."}
+{"original": "those hospitals buy .", "sentence_good": "hospitals buy .", "sentence_bad": "hospitals liked ."}
+{"original": "nancy descended .", "sentence_good": "nancy descended .", "sentence_bad": "nancy lifts ."}
+{"original": "all dancers watch .", "sentence_good": "dancers watch .", "sentence_bad": "dancers concealed ."}
+{"original": "dana 's guest passes .", "sentence_good": "dana guest passes .", "sentence_bad": "dana guest revealed ."}
+{"original": "those organizations buy .", "sentence_good": "organizations buy .", "sentence_bad": "organizations fire ."}
+{"original": "stacey attacked .", "sentence_good": "stacey attacked .", "sentence_bad": "stacey wears ."}
+{"original": "kristen 's piano teachers had climbed up .", "sentence_good": "kristen piano teachers climbed up .", "sentence_bad": "kristen piano teachers revealed ."}
+{"original": "margaret exits .", "sentence_good": "margaret exits .", "sentence_bad": "margaret dislikes ."}
+{"original": "a lot of waiters ' best friend watches .", "sentence_good": "lot waiters ' best friend watches .", "sentence_bad": "lot waiters ' best friend references ."}
+{"original": "catherine was n't watching .", "sentence_good": "catherine n't watching .", "sentence_bad": "catherine n't admiring ."}
+{"original": "bradley visits .", "sentence_good": "bradley visits .", "sentence_bad": "bradley examines ."}
+{"original": "sandra cleans .", "sentence_good": "sandra cleans .", "sentence_bad": "sandra liked ."}
+{"original": "senators remember .", "sentence_good": "senators remember .", "sentence_bad": "senators found ."}
+{"original": "every actor is exiting .", "sentence_good": "actor exiting .", "sentence_bad": "actor lifting ."}
+{"original": "paula 's daughters had passed .", "sentence_good": "paula daughters passed .", "sentence_bad": "paula daughters examined ."}
+{"original": "those granddaughters of timothy do remember .", "sentence_good": "granddaughters timothy remember .", "sentence_bad": "granddaughters timothy scare ."}
+{"original": "those schools were helping .", "sentence_good": "schools helping .", "sentence_bad": "schools referencing ."}
+{"original": "andrew 's plumber was n't watching .", "sentence_good": "andrew plumber n't watching .", "sentence_bad": "andrew plumber n't firing ."}
+{"original": "lucille loved .", "sentence_good": "lucille loved .", "sentence_bad": "lucille dislikes ."}
+{"original": "janet had bought .", "sentence_good": "janet bought .", "sentence_bad": "janet fired ."}
+{"original": "julia 's podiatrists forget .", "sentence_good": "julia podiatrists forget .", "sentence_bad": "julia podiatrists respect ."}
+{"original": "many girls know .", "sentence_good": "many girls know .", "sentence_bad": "many girls respected ."}
+{"original": "some actors help .", "sentence_good": "some actors help .", "sentence_bad": "some actors reference ."}
+{"original": "veronica was n't leaving .", "sentence_good": "veronica n't leaving .", "sentence_bad": "veronica n't concealing ."}
+{"original": "the daughter of that teacher approaches .", "sentence_good": "daughter teacher approaches .", "sentence_bad": "daughter teacher wore ."}
+{"original": "many companies forget .", "sentence_good": "many companies forget .", "sentence_bad": "many companies fire ."}
+{"original": "laura watched .", "sentence_good": "laura watched .", "sentence_bad": "laura scares ."}
+{"original": "allison 's ex-wives have n't sold .", "sentence_good": "allison ex-wives n't sold .", "sentence_bad": "allison ex-wives n't cured ."}
+{"original": "david has n't known .", "sentence_good": "david n't known .", "sentence_bad": "david n't found ."}
+{"original": "julia visits .", "sentence_good": "julia visits .", "sentence_bad": "julia concealed ."}
+{"original": "christopher had n't attacked .", "sentence_good": "christopher n't attacked .", "sentence_bad": "christopher n't revealed ."}
+{"original": "those cousins of becca watch .", "sentence_good": "cousins becca watch .", "sentence_bad": "cousins becca examine ."}
+{"original": "catherine had explored .", "sentence_good": "catherine explored .", "sentence_bad": "catherine examined ."}
+{"original": "sherry had n't helped .", "sentence_good": "sherry n't helped .", "sentence_bad": "sherry n't admired ."}
+{"original": "paula had n't attacked .", "sentence_good": "paula n't attacked .", "sentence_bad": "paula n't disliked ."}
+{"original": "the guest sold .", "sentence_good": "guest sold .", "sentence_bad": "guest resembles ."}
+{"original": "marla 's cousin did love .", "sentence_good": "marla cousin love .", "sentence_bad": "marla cousin wear ."}
+{"original": "deborah left .", "sentence_good": "deborah left .", "sentence_bad": "deborah lifts ."}
+{"original": "all actors climb down .", "sentence_good": "actors climb down .", "sentence_bad": "actors reveal ."}
+{"original": "that teenager could pass .", "sentence_good": "teenager pass .", "sentence_bad": "teenager admire ."}
+{"original": "judy is leaving .", "sentence_good": "judy leaving .", "sentence_bad": "judy wearing ."}
+{"original": "april helped .", "sentence_good": "april helped .", "sentence_bad": "april disliked ."}
+{"original": "patrick approaches .", "sentence_good": "patrick approaches .", "sentence_bad": "patrick cures ."}
+{"original": "these waitresses exit .", "sentence_good": "waitresses exit .", "sentence_bad": "waitresses resembled ."}
+{"original": "those grandmothers of grace could n't explore .", "sentence_good": "grandmothers grace n't explore .", "sentence_bad": "grandmothers grace n't find ."}
+{"original": "carol 's supervisors have observed .", "sentence_good": "carol supervisors observed .", "sentence_bad": "carol supervisors concealed ."}
+{"original": "those guests would descend .", "sentence_good": "guests descend .", "sentence_bad": "guests scare ."}
+{"original": "jennifer is n't investigating .", "sentence_good": "jennifer n't investigating .", "sentence_bad": "jennifer n't curing ."}
+{"original": "george 's students forget .", "sentence_good": "george students forget .", "sentence_bad": "george students examined ."}
+{"original": "emily watches .", "sentence_good": "emily watches .", "sentence_bad": "emily respects ."}
+{"original": "janice ca n't love .", "sentence_good": "janice n't love .", "sentence_bad": "janice n't cure ."}
+{"original": "brad left .", "sentence_good": "brad left .", "sentence_bad": "brad dislikes ."}
+{"original": "carol visited .", "sentence_good": "carol visited .", "sentence_bad": "carol concealed ."}
+{"original": "the cashier had seen .", "sentence_good": "cashier seen .", "sentence_bad": "cashier examined ."}
+{"original": "tina climbed up .", "sentence_good": "tina climbed up .", "sentence_bad": "tina fired ."}
+{"original": "most cats should n't ascend .", "sentence_good": "most cats n't ascend .", "sentence_bad": "most cats n't resemble ."}
+{"original": "stephen is n't climbing down .", "sentence_good": "stephen n't climbing down .", "sentence_bad": "stephen n't wearing ."}
+{"original": "kathleen had n't helped .", "sentence_good": "kathleen n't helped .", "sentence_bad": "kathleen n't cured ."}
+{"original": "larry observes .", "sentence_good": "larry observes .", "sentence_bad": "larry scared ."}
+{"original": "rachel climbs down .", "sentence_good": "rachel climbs down .", "sentence_bad": "rachel resembled ."}
+{"original": "some doctor descends .", "sentence_good": "some doctor descends .", "sentence_bad": "some doctor resembled ."}
+{"original": "derek 's guests had seen .", "sentence_good": "derek guests seen .", "sentence_bad": "derek guests lifted ."}
+{"original": "craig remembers .", "sentence_good": "craig remembers .", "sentence_bad": "craig found ."}
+{"original": "the schools forget .", "sentence_good": "schools forget .", "sentence_bad": "schools conceal ."}
+{"original": "william exits .", "sentence_good": "william exits .", "sentence_bad": "william liked ."}
+{"original": "holly was n't touring .", "sentence_good": "holly n't touring .", "sentence_bad": "holly n't curing ."}
+{"original": "brett would see .", "sentence_good": "brett see .", "sentence_bad": "brett dislike ."}
+{"original": "tara 's ex-girlfriends do visit .", "sentence_good": "tara ex-girlfriends visit .", "sentence_bad": "tara ex-girlfriends lift ."}
+{"original": "tammy 's piano teachers forget .", "sentence_good": "tammy piano teachers forget .", "sentence_bad": "tammy piano teachers conceal ."}
+{"original": "derek 's ex-husband watches .", "sentence_good": "derek ex-husband watches .", "sentence_bad": "derek ex-husband admired ."}
+{"original": "rachelle approached .", "sentence_good": "rachelle approached .", "sentence_bad": "rachelle resembles ."}
+{"original": "tamara had climbed up .", "sentence_good": "tamara climbed up .", "sentence_bad": "tamara admired ."}
+{"original": "eric 's french teachers had climbed down .", "sentence_good": "eric french teachers climbed down .", "sentence_bad": "eric french teachers examined ."}
+{"original": "pamela 's podiatrists were visiting .", "sentence_good": "pamela podiatrists visiting .", "sentence_bad": "pamela podiatrists examining ."}
+{"original": "bruce passed .", "sentence_good": "bruce passed .", "sentence_bad": "bruce concealed ."}
+{"original": "some actors leave .", "sentence_good": "some actors leave .", "sentence_bad": "some actors lifted ."}
+{"original": "a woman toured .", "sentence_good": "woman toured .", "sentence_bad": "woman resembles ."}
+{"original": "patients buy .", "sentence_good": "patients buy .", "sentence_bad": "patients concealed ."}
+{"original": "alan forgot .", "sentence_good": "alan forgot .", "sentence_bad": "alan resembles ."}
+{"original": "tammy watches .", "sentence_good": "tammy watches .", "sentence_bad": "tammy respects ."}
+{"original": "veronica 's daughter left .", "sentence_good": "veronica daughter left .", "sentence_bad": "veronica daughter scared ."}
+{"original": "that mother of every man exited .", "sentence_good": "mother man exited .", "sentence_bad": "mother man wore ."}
+{"original": "the impressionists were attacking .", "sentence_good": "impressionists attacking .", "sentence_bad": "impressionists wearing ."}
+{"original": "mark ascends .", "sentence_good": "mark ascends .", "sentence_bad": "mark found ."}
+{"original": "kendra tours .", "sentence_good": "kendra tours .", "sentence_bad": "kendra reveals ."}
+{"original": "cynthia does n't climb down .", "sentence_good": "cynthia n't climb down .", "sentence_bad": "cynthia n't reference ."}
+{"original": "homer ascended .", "sentence_good": "homer ascended .", "sentence_bad": "homer admires ."}
+{"original": "andrew has n't left .", "sentence_good": "andrew n't left .", "sentence_bad": "andrew n't resembled ."}
+{"original": "tammy 's grandsons observe .", "sentence_good": "tammy grandsons observe .", "sentence_bad": "tammy grandsons concealed ."}
+{"original": "this waitress attacked .", "sentence_good": "waitress attacked .", "sentence_bad": "waitress admires ."}
+{"original": "elaine 's classmate toured .", "sentence_good": "elaine classmate toured .", "sentence_bad": "elaine classmate cured ."}
+{"original": "eva is n't ascending .", "sentence_good": "eva n't ascending .", "sentence_bad": "eva n't concealing ."}
+{"original": "a man did attack .", "sentence_good": "man attack .", "sentence_bad": "man cure ."}
+{"original": "barbara bought .", "sentence_good": "barbara bought .", "sentence_bad": "barbara lifts ."}
+{"original": "those senators know .", "sentence_good": "senators know .", "sentence_bad": "senators resemble ."}
+{"original": "this adult tours .", "sentence_good": "adult tours .", "sentence_bad": "adult examined ."}
+{"original": "joseph is n't passing .", "sentence_good": "joseph n't passing .", "sentence_bad": "joseph n't finding ."}
+{"original": "tracy buys .", "sentence_good": "tracy buys .", "sentence_bad": "tracy lifted ."}
+{"original": "candice is watching .", "sentence_good": "candice watching .", "sentence_bad": "candice finding ."}
+{"original": "jill 's ex-girlfriends have n't bought .", "sentence_good": "jill ex-girlfriends n't bought .", "sentence_bad": "jill ex-girlfriends n't scared ."}
+{"original": "elaine cleans .", "sentence_good": "elaine cleans .", "sentence_bad": "elaine resembles ."}
+{"original": "jessica sold .", "sentence_good": "jessica sold .", "sentence_bad": "jessica cured ."}
+{"original": "this teacher was observing .", "sentence_good": "teacher observing .", "sentence_bad": "teacher examining ."}
+{"original": "liam sees .", "sentence_good": "liam sees .", "sentence_bad": "liam concealed ."}
+{"original": "most drivers could n't watch .", "sentence_good": "most drivers n't watch .", "sentence_bad": "most drivers n't resemble ."}
+{"original": "some customers remember .", "sentence_good": "some customers remember .", "sentence_bad": "some customers scared ."}
+{"original": "elaine has exited .", "sentence_good": "elaine exited .", "sentence_bad": "elaine found ."}
+{"original": "ruth 's grandsons climb up .", "sentence_good": "ruth grandsons climb up .", "sentence_bad": "ruth grandsons concealed ."}
+{"original": "this actor had helped .", "sentence_good": "actor helped .", "sentence_bad": "actor scared ."}
+{"original": "catherine visited .", "sentence_good": "catherine visited .", "sentence_bad": "catherine liked ."}
+{"original": "karen 's son tours .", "sentence_good": "karen son tours .", "sentence_bad": "karen son cures ."}
+{"original": "adam had watched .", "sentence_good": "adam watched .", "sentence_bad": "adam lifted ."}
+{"original": "erin observes .", "sentence_good": "erin observes .", "sentence_bad": "erin respects ."}
+{"original": "a lot of grandsons of tara have helped .", "sentence_good": "lot grandsons tara helped .", "sentence_bad": "lot grandsons tara resembled ."}
+{"original": "stephen was n't watching .", "sentence_good": "stephen n't watching .", "sentence_bad": "stephen n't finding ."}
+{"original": "amelia 's hairdresser cleans .", "sentence_good": "amelia hairdresser cleans .", "sentence_bad": "amelia hairdresser reveals ."}
+{"original": "bethany can ascend .", "sentence_good": "bethany ascend .", "sentence_bad": "bethany cure ."}
+{"original": "the daughters of robert are leaving .", "sentence_good": "daughters robert leaving .", "sentence_bad": "daughters robert lifting ."}
+{"original": "holly attacks .", "sentence_good": "holly attacks .", "sentence_bad": "holly lifts ."}
+{"original": "kevin climbs down .", "sentence_good": "kevin climbs down .", "sentence_bad": "kevin resembles ."}
+{"original": "naomi approached .", "sentence_good": "naomi approached .", "sentence_bad": "naomi resembled ."}
+{"original": "all dancers had observed .", "sentence_good": "dancers observed .", "sentence_bad": "dancers lifted ."}
+{"original": "marie did descend .", "sentence_good": "marie descend .", "sentence_bad": "marie admire ."}
+{"original": "some friend of gregory has n't remembered .", "sentence_good": "some friend gregory n't remembered .", "sentence_bad": "some friend gregory n't concealed ."}
+{"original": "some sister of kathleen has loved .", "sentence_good": "some sister kathleen loved .", "sentence_bad": "some sister kathleen resembled ."}
+{"original": "aaron 's grandmothers exit .", "sentence_good": "aaron grandmothers exit .", "sentence_bad": "aaron grandmothers liked ."}
+{"original": "this lady 's french teacher sees .", "sentence_good": "lady french teacher sees .", "sentence_bad": "lady french teacher fires ."}
+{"original": "most brothers of irene observed .", "sentence_good": "most brothers irene observed .", "sentence_bad": "most brothers irene disliked ."}
+{"original": "every bank did remember .", "sentence_good": "bank remember .", "sentence_bad": "bank conceal ."}
+{"original": "some actress has observed .", "sentence_good": "some actress observed .", "sentence_bad": "some actress concealed ."}
+{"original": "keith loved .", "sentence_good": "keith loved .", "sentence_bad": "keith admired ."}
+{"original": "amelia would n't ascend .", "sentence_good": "amelia n't ascend .", "sentence_bad": "amelia n't cure ."}
+{"original": "every actress should n't know .", "sentence_good": "actress n't know .", "sentence_bad": "actress n't lift ."}
+{"original": "monica 's brothers clean .", "sentence_good": "monica brothers clean .", "sentence_bad": "monica brothers respected ."}
+{"original": "ellen 's spouse remembers .", "sentence_good": "ellen spouse remembers .", "sentence_bad": "ellen spouse reveals ."}
+{"original": "derek will pass .", "sentence_good": "derek pass .", "sentence_bad": "derek reference ."}
+{"original": "alan exited .", "sentence_good": "alan exited .", "sentence_bad": "alan resembles ."}
+{"original": "tamara exits .", "sentence_good": "tamara exits .", "sentence_bad": "tamara cures ."}
+{"original": "every teacher investigates .", "sentence_good": "teacher investigates .", "sentence_bad": "teacher wears ."}
+{"original": "tracy left .", "sentence_good": "tracy left .", "sentence_bad": "tracy resembled ."}
+{"original": "these customers ' wife is n't helping .", "sentence_good": "customers ' wife n't helping .", "sentence_bad": "customers ' wife n't concealing ."}
+{"original": "carol 's fathers exit .", "sentence_good": "carol fathers exit .", "sentence_bad": "carol fathers concealed ."}
+{"original": "april was observing .", "sentence_good": "april observing .", "sentence_bad": "april examining ."}
+{"original": "some person 's dentist forgets .", "sentence_good": "some person dentist forgets .", "sentence_bad": "some person dentist cured ."}
+{"original": "carol is n't climbing down .", "sentence_good": "carol n't climbing down .", "sentence_bad": "carol n't concealing ."}
+{"original": "elaine sells .", "sentence_good": "elaine sells .", "sentence_bad": "elaine cured ."}
+{"original": "some girl remembers .", "sentence_good": "some girl remembers .", "sentence_bad": "some girl wears ."}
+{"original": "julia is cleaning .", "sentence_good": "julia cleaning .", "sentence_bad": "julia concealing ."}
+{"original": "sara is n't leaving .", "sentence_good": "sara n't leaving .", "sentence_bad": "sara n't finding ."}
+{"original": "carl ascends .", "sentence_good": "carl ascends .", "sentence_bad": "carl found ."}
+{"original": "kathleen has visited .", "sentence_good": "kathleen visited .", "sentence_bad": "kathleen worn ."}
+{"original": "laurie is watching .", "sentence_good": "laurie watching .", "sentence_bad": "laurie revealing ."}
+{"original": "tanya has n't approached .", "sentence_good": "tanya n't approached .", "sentence_bad": "tanya n't disliked ."}
+{"original": "melissa descends .", "sentence_good": "melissa descends .", "sentence_bad": "melissa cures ."}
+{"original": "joel does help .", "sentence_good": "joel help .", "sentence_bad": "joel scare ."}
+{"original": "amanda had n't seen .", "sentence_good": "amanda n't seen .", "sentence_bad": "amanda n't respected ."}
+{"original": "natalie has forgotten .", "sentence_good": "natalie forgotten .", "sentence_bad": "natalie found ."}
+{"original": "florence 's daughter could love .", "sentence_good": "florence daughter love .", "sentence_bad": "florence daughter lift ."}
+{"original": "ellen sold .", "sentence_good": "ellen sold .", "sentence_bad": "ellen wears ."}
+{"original": "patrick loved .", "sentence_good": "patrick loved .", "sentence_bad": "patrick revealed ."}
+{"original": "bruce does approach .", "sentence_good": "bruce approach .", "sentence_bad": "bruce reveal ."}
+{"original": "sabrina is investigating .", "sentence_good": "sabrina investigating .", "sentence_bad": "sabrina concealing ."}
+{"original": "all museums would know .", "sentence_good": "museums know .", "sentence_bad": "museums conceal ."}
+{"original": "diane ascends .", "sentence_good": "diane ascends .", "sentence_bad": "diane wears ."}
+{"original": "fathers of the man ascend .", "sentence_good": "fathers man ascend .", "sentence_bad": "fathers man examine ."}
+{"original": "patricia climbed up .", "sentence_good": "patricia climbed up .", "sentence_bad": "patricia concealed ."}
+{"original": "elaine would n't tour .", "sentence_good": "elaine n't tour .", "sentence_bad": "elaine n't respect ."}
+{"original": "many governments do n't know .", "sentence_good": "many governments n't know .", "sentence_bad": "many governments n't fire ."}
+{"original": "many senators should explore .", "sentence_good": "many senators explore .", "sentence_bad": "many senators examine ."}
+{"original": "this grandfather of most drivers has n't climbed down .", "sentence_good": "grandfather most drivers n't climbed down .", "sentence_bad": "grandfather most drivers n't concealed ."}
+{"original": "tanya had seen .", "sentence_good": "tanya seen .", "sentence_bad": "tanya fired ."}
+{"original": "pamela buys .", "sentence_good": "pamela buys .", "sentence_bad": "pamela concealed ."}
+{"original": "some guy was n't passing .", "sentence_good": "some guy n't passing .", "sentence_bad": "some guy n't admiring ."}
+{"original": "most drivers had n't cleaned .", "sentence_good": "most drivers n't cleaned .", "sentence_bad": "most drivers n't resembled ."}
+{"original": "robert is n't climbing down .", "sentence_good": "robert n't climbing down .", "sentence_bad": "robert n't wearing ."}
+{"original": "lisa approached .", "sentence_good": "lisa approached .", "sentence_bad": "lisa concealed ."}
+{"original": "heather climbs up .", "sentence_good": "heather climbs up .", "sentence_bad": "heather cured ."}
+{"original": "bethany 's grandfathers climb up .", "sentence_good": "bethany grandfathers climb up .", "sentence_bad": "bethany grandfathers admired ."}
+{"original": "most fathers of allison descend .", "sentence_good": "most fathers allison descend .", "sentence_bad": "most fathers allison admire ."}
+{"original": "carolyn 's contractors were exploring .", "sentence_good": "carolyn contractors exploring .", "sentence_bad": "carolyn contractors finding ."}
+{"original": "those girls have n't climbed down .", "sentence_good": "girls n't climbed down .", "sentence_bad": "girls n't resembled ."}
+{"original": "phillip has remembered .", "sentence_good": "phillip remembered .", "sentence_bad": "phillip cured ."}
+{"original": "elizabeth 's contractors might buy .", "sentence_good": "elizabeth contractors buy .", "sentence_bad": "elizabeth contractors admire ."}
+{"original": "those students ' sisters have visited .", "sentence_good": "students ' sisters visited .", "sentence_bad": "students ' sisters concealed ."}
+{"original": "jacqueline is n't approaching .", "sentence_good": "jacqueline n't approaching .", "sentence_bad": "jacqueline n't admiring ."}
+{"original": "mary had left .", "sentence_good": "mary left .", "sentence_bad": "mary referenced ."}
+{"original": "wayne sees .", "sentence_good": "wayne sees .", "sentence_bad": "wayne respected ."}
+{"original": "these ladies descend .", "sentence_good": "ladies descend .", "sentence_bad": "ladies fired ."}
+{"original": "mary 's colleague attacks .", "sentence_good": "mary colleague attacks .", "sentence_bad": "mary colleague finds ."}
+{"original": "the teenager was n't approaching .", "sentence_good": "teenager n't approaching .", "sentence_bad": "teenager n't concealing ."}
+{"original": "most teenagers have n't climbed down .", "sentence_good": "most teenagers n't climbed down .", "sentence_bad": "most teenagers n't disliked ."}
+{"original": "many schools forget .", "sentence_good": "many schools forget .", "sentence_bad": "many schools scared ."}
+{"original": "liam exits .", "sentence_good": "liam exits .", "sentence_bad": "liam admires ."}
+{"original": "robert might climb down .", "sentence_good": "robert climb down .", "sentence_bad": "robert conceal ."}
+{"original": "mark 's nieces tour .", "sentence_good": "mark nieces tour .", "sentence_bad": "mark nieces admire ."}
+{"original": "marla 's handymen could watch .", "sentence_good": "marla handymen watch .", "sentence_bad": "marla handymen fire ."}
+{"original": "the patient had helped .", "sentence_good": "patient helped .", "sentence_bad": "patient disliked ."}
+{"original": "deanna 's ex-boyfriends did exit .", "sentence_good": "deanna ex-boyfriends exit .", "sentence_bad": "deanna ex-boyfriends conceal ."}
+{"original": "the cashiers are n't exiting .", "sentence_good": "cashiers n't exiting .", "sentence_bad": "cashiers n't revealing ."}
+{"original": "robert visited .", "sentence_good": "robert visited .", "sentence_bad": "robert revealed ."}
+{"original": "melanie explored .", "sentence_good": "melanie explored .", "sentence_bad": "melanie scared ."}
+{"original": "noah 's contractors did n't watch .", "sentence_good": "noah contractors n't watch .", "sentence_bad": "noah contractors n't cure ."}
+{"original": "christopher has climbed down .", "sentence_good": "christopher climbed down .", "sentence_bad": "christopher lifted ."}
+{"original": "most waiters had n't seen .", "sentence_good": "most waiters n't seen .", "sentence_bad": "most waiters n't fired ."}
+{"original": "every guy can explore .", "sentence_good": "guy explore .", "sentence_bad": "guy scare ."}
+{"original": "the girls were n't leaving .", "sentence_good": "girls n't leaving .", "sentence_bad": "girls n't referencing ."}
+{"original": "tammy had n't climbed down .", "sentence_good": "tammy n't climbed down .", "sentence_bad": "tammy n't resembled ."}
+{"original": "ella exits .", "sentence_good": "ella exits .", "sentence_bad": "ella concealed ."}
+{"original": "dan will remember .", "sentence_good": "dan remember .", "sentence_bad": "dan scare ."}
+{"original": "sonia will observe .", "sentence_good": "sonia observe .", "sentence_bad": "sonia resemble ."}
+{"original": "tammy passed .", "sentence_good": "tammy passed .", "sentence_bad": "tammy respected ."}
+{"original": "becca has toured .", "sentence_good": "becca toured .", "sentence_bad": "becca found ."}
+{"original": "some guys were n't ascending .", "sentence_good": "some guys n't ascending .", "sentence_bad": "some guys n't curing ."}
+{"original": "christine passed .", "sentence_good": "christine passed .", "sentence_bad": "christine resembled ."}
+{"original": "friends of alicia observe .", "sentence_good": "friends alicia observe .", "sentence_bad": "friends alicia conceal ."}
+{"original": "the clintons visit .", "sentence_good": "clintons visit .", "sentence_bad": "clintons lifted ."}
+{"original": "lawrence remembers .", "sentence_good": "lawrence remembers .", "sentence_bad": "lawrence concealed ."}
+{"original": "margaret can love .", "sentence_good": "margaret love .", "sentence_bad": "margaret wear ."}
+{"original": "grandsons of samuel clean .", "sentence_good": "grandsons samuel clean .", "sentence_bad": "grandsons samuel fire ."}
+{"original": "samantha climbed up .", "sentence_good": "samantha climbed up .", "sentence_bad": "samantha examines ."}
+{"original": "omar has n't helped .", "sentence_good": "omar n't helped .", "sentence_bad": "omar n't fired ."}
+{"original": "lisa 's grandfathers help .", "sentence_good": "lisa grandfathers help .", "sentence_bad": "lisa grandfathers lift ."}
+{"original": "these guys bought .", "sentence_good": "guys bought .", "sentence_bad": "guys concealed ."}
+{"original": "brenda 's electricians see .", "sentence_good": "brenda electricians see .", "sentence_bad": "brenda electricians dislike ."}
+{"original": "dana 's mentees remember .", "sentence_good": "dana mentees remember .", "sentence_bad": "dana mentees cure ."}
+{"original": "the doctor 's niece attacks .", "sentence_good": "doctor niece attacks .", "sentence_bad": "doctor niece reveals ."}
+{"original": "monet cleans .", "sentence_good": "monet cleans .", "sentence_bad": "monet scared ."}
+{"original": "a lot of guys ' supervisor knew .", "sentence_good": "lot guys ' supervisor knew .", "sentence_bad": "lot guys ' supervisor liked ."}
+{"original": "colleen 's granddaughters should n't investigate .", "sentence_good": "colleen granddaughters n't investigate .", "sentence_bad": "colleen granddaughters n't wear ."}
+{"original": "monet climbed down .", "sentence_good": "monet climbed down .", "sentence_bad": "monet reveals ."}
+{"original": "those girls were n't observing .", "sentence_good": "girls n't observing .", "sentence_bad": "girls n't scaring ."}
+{"original": "sarah had attacked .", "sentence_good": "sarah attacked .", "sentence_bad": "sarah examined ."}
+{"original": "debra watched .", "sentence_good": "debra watched .", "sentence_bad": "debra revealed ."}
+{"original": "rose was n't exploring .", "sentence_good": "rose n't exploring .", "sentence_bad": "rose n't concealing ."}
+{"original": "judy will watch .", "sentence_good": "judy watch .", "sentence_bad": "judy reveal ."}
+{"original": "most women love .", "sentence_good": "most women love .", "sentence_bad": "most women find ."}
+{"original": "the organization knows .", "sentence_good": "organization knows .", "sentence_bad": "organization admires ."}
+{"original": "paul had sold .", "sentence_good": "paul sold .", "sentence_bad": "paul fired ."}
+{"original": "grandmothers of christopher are n't visiting .", "sentence_good": "grandmothers christopher n't visiting .", "sentence_bad": "grandmothers christopher n't concealing ."}
+{"original": "bruce 's podiatrists were n't descending .", "sentence_good": "bruce podiatrists n't descending .", "sentence_bad": "bruce podiatrists n't scaring ."}
+{"original": "sonia 's mother had passed .", "sentence_good": "sonia mother passed .", "sentence_bad": "sonia mother respected ."}
+{"original": "william observes .", "sentence_good": "william observes .", "sentence_bad": "william concealed ."}
+{"original": "kirsten leaves .", "sentence_good": "kirsten leaves .", "sentence_bad": "kirsten concealed ."}
+{"original": "tonya does n't sell .", "sentence_good": "tonya n't sell .", "sentence_bad": "tonya n't reference ."}
+{"original": "joseph 's classmates know .", "sentence_good": "joseph classmates know .", "sentence_bad": "joseph classmates resembled ."}
+{"original": "brad had passed .", "sentence_good": "brad passed .", "sentence_bad": "brad lifted ."}
+{"original": "jason toured .", "sentence_good": "jason toured .", "sentence_bad": "jason concealed ."}
+{"original": "valerie forgot .", "sentence_good": "valerie forgot .", "sentence_bad": "valerie wears ."}
+{"original": "the borgias have exited .", "sentence_good": "borgias exited .", "sentence_bad": "borgias fired ."}
+{"original": "natalie forgot .", "sentence_good": "natalie forgot .", "sentence_bad": "natalie concealed ."}
+{"original": "carol has n't exited .", "sentence_good": "carol n't exited .", "sentence_bad": "carol n't disliked ."}
+{"original": "paula knew .", "sentence_good": "paula knew .", "sentence_bad": "paula lifts ."}
+{"original": "liam can clean .", "sentence_good": "liam clean .", "sentence_bad": "liam lift ."}
+{"original": "mary is approaching .", "sentence_good": "mary approaching .", "sentence_bad": "mary finding ."}
+{"original": "those senators tour .", "sentence_good": "senators tour .", "sentence_bad": "senators lift ."}
+{"original": "kristin 's son cleans .", "sentence_good": "kristin son cleans .", "sentence_bad": "kristin son respected ."}
+{"original": "steven 's podiatrists pass .", "sentence_good": "steven podiatrists pass .", "sentence_bad": "steven podiatrists disliked ."}
+{"original": "susan 's nieces were n't climbing up .", "sentence_good": "susan nieces n't climbing up .", "sentence_bad": "susan nieces n't lifting ."}
+{"original": "some girls ascend .", "sentence_good": "some girls ascend .", "sentence_bad": "some girls scared ."}
+{"original": "irene could n't buy .", "sentence_good": "irene n't buy .", "sentence_bad": "irene n't scare ."}
+{"original": "linda climbed down .", "sentence_good": "linda climbed down .", "sentence_bad": "linda finds ."}
+{"original": "dawn 's dermatologists can explore .", "sentence_good": "dawn dermatologists explore .", "sentence_bad": "dawn dermatologists lift ."}
+{"original": "kirsten might visit .", "sentence_good": "kirsten visit .", "sentence_bad": "kirsten find ."}
+{"original": "angela was n't selling .", "sentence_good": "angela n't selling .", "sentence_bad": "angela n't finding ."}
+{"original": "deanna had explored .", "sentence_good": "deanna explored .", "sentence_bad": "deanna revealed ."}
+{"original": "those boys observe .", "sentence_good": "boys observe .", "sentence_bad": "boys cured ."}
+{"original": "eric attacked .", "sentence_good": "eric attacked .", "sentence_bad": "eric finds ."}
+{"original": "maria cleans .", "sentence_good": "maria cleans .", "sentence_bad": "maria conceals ."}
+{"original": "janice visits .", "sentence_good": "janice visits .", "sentence_bad": "janice examined ."}
+{"original": "this driver investigates .", "sentence_good": "driver investigates .", "sentence_bad": "driver conceals ."}
+{"original": "janice 's piano teacher explores .", "sentence_good": "janice piano teacher explores .", "sentence_bad": "janice piano teacher scared ."}
+{"original": "some woman is n't selling .", "sentence_good": "some woman n't selling .", "sentence_bad": "some woman n't wearing ."}
+{"original": "christine 's mentees watched .", "sentence_good": "christine mentees watched .", "sentence_bad": "christine mentees reference ."}
+{"original": "that patient 's supervisors remember .", "sentence_good": "patient supervisors remember .", "sentence_bad": "patient supervisors cured ."}
+{"original": "becca 's partners clean .", "sentence_good": "becca partners clean .", "sentence_bad": "becca partners find ."}
+{"original": "this man does see .", "sentence_good": "man see .", "sentence_bad": "man admire ."}
+{"original": "laura 's partners sell .", "sentence_good": "laura partners sell .", "sentence_bad": "laura partners respected ."}
+{"original": "james has n't left .", "sentence_good": "james n't left .", "sentence_bad": "james n't disliked ."}
+{"original": "every mother of melinda ascends .", "sentence_good": "mother melinda ascends .", "sentence_bad": "mother melinda likes ."}
+{"original": "the cats descend .", "sentence_good": "cats descend .", "sentence_bad": "cats found ."}
+{"original": "samuel was n't climbing down .", "sentence_good": "samuel n't climbing down .", "sentence_bad": "samuel n't curing ."}
+{"original": "russell approaches .", "sentence_good": "russell approaches .", "sentence_bad": "russell revealed ."}
+{"original": "every pedestrian buys .", "sentence_good": "pedestrian buys .", "sentence_bad": "pedestrian likes ."}
+{"original": "janet had n't explored .", "sentence_good": "janet n't explored .", "sentence_bad": "janet n't disliked ."}
+{"original": "that patient exited .", "sentence_good": "patient exited .", "sentence_bad": "patient lifted ."}
+{"original": "bradley approaches .", "sentence_good": "bradley approaches .", "sentence_bad": "bradley fired ."}
+{"original": "aaron had n't approached .", "sentence_good": "aaron n't approached .", "sentence_bad": "aaron n't admired ."}
+{"original": "alexander would help .", "sentence_good": "alexander help .", "sentence_bad": "alexander admire ."}
+{"original": "debra could n't know .", "sentence_good": "debra n't know .", "sentence_bad": "debra n't cure ."}
+{"original": "keith sold .", "sentence_good": "keith sold .", "sentence_bad": "keith dislikes ."}
+{"original": "michael 's dermatologists left .", "sentence_good": "michael dermatologists left .", "sentence_bad": "michael dermatologists admired ."}
+{"original": "gary is approaching .", "sentence_good": "gary approaching .", "sentence_bad": "gary concealing ."}
+{"original": "allison has observed .", "sentence_good": "allison observed .", "sentence_bad": "allison scared ."}
+{"original": "rachelle sees .", "sentence_good": "rachelle sees .", "sentence_bad": "rachelle wears ."}
+{"original": "martin 's granddaughter can attack .", "sentence_good": "martin granddaughter attack .", "sentence_bad": "martin granddaughter resemble ."}
+{"original": "beverly ca n't watch .", "sentence_good": "beverly n't watch .", "sentence_bad": "beverly n't fire ."}
+{"original": "some boy would n't know .", "sentence_good": "some boy n't know .", "sentence_bad": "some boy n't dislike ."}
+{"original": "eva forgets .", "sentence_good": "eva forgets .", "sentence_bad": "eva found ."}
+{"original": "a guest is cleaning .", "sentence_good": "guest cleaning .", "sentence_bad": "guest concealing ."}
+{"original": "some nephew of christine does leave .", "sentence_good": "some nephew christine leave .", "sentence_bad": "some nephew christine reference ."}
+{"original": "sonia 's father approaches .", "sentence_good": "sonia father approaches .", "sentence_bad": "sonia father cures ."}
+{"original": "most daughters of todd attack .", "sentence_good": "most daughters todd attack .", "sentence_bad": "most daughters todd wore ."}
+{"original": "the waitress remembers .", "sentence_good": "waitress remembers .", "sentence_bad": "waitress admired ."}
+{"original": "stephanie did n't approach .", "sentence_good": "stephanie n't approach .", "sentence_bad": "stephanie n't lift ."}
+{"original": "allison 's cousin had n't attacked .", "sentence_good": "allison cousin n't attacked .", "sentence_bad": "allison cousin n't respected ."}
+{"original": "melissa is n't exploring .", "sentence_good": "melissa n't exploring .", "sentence_bad": "melissa n't firing ."}
+{"original": "some daughter of ronald wo n't sell .", "sentence_good": "some daughter ronald wo n't sell .", "sentence_bad": "some daughter ronald wo n't admire ."}
+{"original": "tanya had climbed up .", "sentence_good": "tanya climbed up .", "sentence_bad": "tanya disliked ."}
+{"original": "bethany explores .", "sentence_good": "bethany explores .", "sentence_bad": "bethany conceals ."}
+{"original": "dan had passed .", "sentence_good": "dan passed .", "sentence_bad": "dan resembled ."}
+{"original": "benjamin had explored .", "sentence_good": "benjamin explored .", "sentence_bad": "benjamin concealed ."}
+{"original": "maria ascends .", "sentence_good": "maria ascends .", "sentence_bad": "maria conceals ."}
+{"original": "monica investigated .", "sentence_good": "monica investigated .", "sentence_bad": "monica referenced ."}
+{"original": "some cashiers clean .", "sentence_good": "some cashiers clean .", "sentence_bad": "some cashiers concealed ."}
+{"original": "the cashier had approached .", "sentence_good": "cashier approached .", "sentence_bad": "cashier revealed ."}
+{"original": "martha 's wife approaches .", "sentence_good": "martha wife approaches .", "sentence_bad": "martha wife wears ."}
+{"original": "galileo 's colleague loved .", "sentence_good": "galileo colleague loved .", "sentence_bad": "galileo colleague concealed ."}
+{"original": "george has helped .", "sentence_good": "george helped .", "sentence_bad": "george fired ."}
+{"original": "don na would n't exit .", "sentence_good": "don na n't exit .", "sentence_bad": "don na n't cure ."}
+{"original": "those customers attacked .", "sentence_good": "customers attacked .", "sentence_bad": "customers respected ."}
+{"original": "marcus would n't ascend .", "sentence_good": "marcus n't ascend .", "sentence_bad": "marcus n't cure ."}
+{"original": "cats had n't climbed up .", "sentence_good": "cats n't climbed up .", "sentence_bad": "cats n't found ."}
+{"original": "john is n't leaving .", "sentence_good": "john n't leaving .", "sentence_bad": "john n't lifting ."}
+{"original": "bruce 's senator did n't climb up .", "sentence_good": "bruce senator n't climb up .", "sentence_bad": "bruce senator n't reference ."}
+{"original": "roger 's piano teacher loves .", "sentence_good": "roger piano teacher loves .", "sentence_bad": "roger piano teacher wears ."}
+{"original": "meredith had ascended .", "sentence_good": "meredith ascended .", "sentence_bad": "meredith examined ."}
+{"original": "the impressionists investigate .", "sentence_good": "impressionists investigate .", "sentence_bad": "impressionists wear ."}
+{"original": "gregory has n't seen .", "sentence_good": "gregory n't seen .", "sentence_bad": "gregory n't concealed ."}
+{"original": "paula is n't observing .", "sentence_good": "paula n't observing .", "sentence_bad": "paula n't scaring ."}
+{"original": "gary 's mother saw .", "sentence_good": "gary mother saw .", "sentence_bad": "gary mother scares ."}
+{"original": "the actors leave .", "sentence_good": "actors leave .", "sentence_bad": "actors lifted ."}
+{"original": "aaron was climbing up .", "sentence_good": "aaron climbing up .", "sentence_bad": "aaron referencing ."}
+{"original": "sara 's colleagues love .", "sentence_good": "sara colleagues love .", "sentence_bad": "sara colleagues resemble ."}
+{"original": "dancers clean .", "sentence_good": "dancers clean .", "sentence_bad": "dancers liked ."}
+{"original": "erin remembers .", "sentence_good": "erin remembers .", "sentence_bad": "erin likes ."}
+{"original": "michelle has remembered .", "sentence_good": "michelle remembered .", "sentence_bad": "michelle fired ."}
+{"original": "some girl passed .", "sentence_good": "some girl passed .", "sentence_bad": "some girl cures ."}
+{"original": "kevin had n't exited .", "sentence_good": "kevin n't exited .", "sentence_bad": "kevin n't respected ."}
+{"original": "all waiters had toured .", "sentence_good": "waiters toured .", "sentence_bad": "waiters resembled ."}
+{"original": "omar sells .", "sentence_good": "omar sells .", "sentence_bad": "omar conceals ."}

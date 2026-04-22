@@ -1,0 +1,797 @@
+{"original": "patricia had changed .", "sentence_good": "patricia will changed .", "sentence_bad": "patricia will forgotten ."}
+{"original": "a lot of closets could fling open .", "sentence_good": "the lot at closets will fling open .", "sentence_bad": "the lot at closets will buy ."}
+{"original": "all pants loosen .", "sentence_good": "the pants loosen .", "sentence_bad": "the pants brought ."}
+{"original": "many glasses are n't warping .", "sentence_good": "many glasses will n't warping .", "sentence_bad": "many glasses will n't messing up ."}
+{"original": "a screen was fading .", "sentence_good": "the screen will fading .", "sentence_bad": "the screen will cleaning ."}
+{"original": "every mountain sells .", "sentence_good": "the mountain sells .", "sentence_bad": "the mountain climbs down ."}
+{"original": "all rivers ca n't melt .", "sentence_good": "the rivers will n't melt .", "sentence_bad": "the rivers will n't reveal ."}
+{"original": "that skirt is n't unfolding .", "sentence_good": "the skirt will n't unfolding .", "sentence_bad": "the skirt will n't cleaning ."}
+{"original": "that shawl shrank .", "sentence_good": "the shawl shrank .", "sentence_bad": "the shawl reveals ."}
+{"original": "those bananas are ripening .", "sentence_good": "the bananas will ripening .", "sentence_bad": "the bananas will cleaning ."}
+{"original": "a lot of chairs shattered .", "sentence_good": "the lot at chairs shattered .", "sentence_bad": "the lot at chairs found ."}
+{"original": "clyde 's oncologists were n't reuniting .", "sentence_good": "clyde will oncologists will n't reuniting .", "sentence_bad": "clyde will oncologists will n't boring ."}
+{"original": "the sock is n't flattening .", "sentence_good": "the sock will n't flattening .", "sentence_bad": "the sock will n't wearing ."}
+{"original": "rivers vaporized .", "sentence_good": "rivers vaporized .", "sentence_bad": "rivers pass ."}
+{"original": "boys were n't assembling .", "sentence_good": "boys will n't assembling .", "sentence_bad": "boys will n't leaving ."}
+{"original": "many carriages slow .", "sentence_good": "many carriages slow .", "sentence_bad": "many carriages admire ."}
+{"original": "a lot of bananas baked .", "sentence_good": "the lot at bananas baked .", "sentence_bad": "the lot at bananas brought ."}
+{"original": "dennis did n't sit down .", "sentence_good": "dennis will n't sit down .", "sentence_bad": "dennis will n't kiss ."}
+{"original": "the bicycle was n't slowing .", "sentence_good": "the bicycle will n't slowing .", "sentence_bad": "the bicycle will n't revealing ."}
+{"original": "ella 's grandfathers hurt .", "sentence_good": "ella will grandfathers hurt .", "sentence_bad": "ella will grandfathers reference ."}
+{"original": "that sweater twirls .", "sentence_good": "the sweater twirls .", "sentence_bad": "the sweater took ."}
+{"original": "a hat folds .", "sentence_good": "the hat folds .", "sentence_bad": "the hat saw ."}
+{"original": "a bicycle stopped .", "sentence_good": "the bicycle stopped .", "sentence_bad": "the bicycle liked ."}
+{"original": "all scarves fold .", "sentence_good": "the scarves fold .", "sentence_bad": "the scarves admired ."}
+{"original": "many gloves twirl .", "sentence_good": "many gloves twirl .", "sentence_bad": "many gloves revealed ."}
+{"original": "some river vaporizes .", "sentence_good": "some river vaporizes .", "sentence_bad": "some river cleaned ."}
+{"original": "every father of randolf hides .", "sentence_good": "the father at randolf hides .", "sentence_bad": "the father at randolf aggravated ."}
+{"original": "this truck slowed .", "sentence_good": "the truck slowed .", "sentence_bad": "the truck cleans ."}
+{"original": "some windows have flung open .", "sentence_good": "some windows will flung open .", "sentence_bad": "some windows will seen ."}
+{"original": "a coat had n't shrunk .", "sentence_good": "the coat will n't shrunk .", "sentence_bad": "the coat will n't worn ."}
+{"original": "danielle 's supervisor worries .", "sentence_good": "danielle will supervisor worries .", "sentence_bad": "danielle will supervisor astounded ."}
+{"original": "the sock soaked .", "sentence_good": "the sock soaked .", "sentence_bad": "the sock cleaned ."}
+{"original": "every candle dims .", "sentence_good": "the candle dims .", "sentence_bad": "the candle lifted ."}
+{"original": "the cashier 's bosses worried .", "sentence_good": "the cashier will bosses worried .", "sentence_bad": "the cashier will bosses aggravated ."}
+{"original": "a jacket shrank .", "sentence_good": "the jacket shrank .", "sentence_bad": "the jacket cleaned ."}
+{"original": "adam is n't healing .", "sentence_good": "adam will n't healing .", "sentence_bad": "adam will n't concealing ."}
+{"original": "that vase could n't chip .", "sentence_good": "the vase will n't chip .", "sentence_bad": "the vase will n't buy ."}
+{"original": "most coats did n't tighten .", "sentence_good": "most coats will n't tighten .", "sentence_bad": "most coats will n't reveal ."}
+{"original": "those nephews of alan marry .", "sentence_good": "the nephews at alan marry .", "sentence_bad": "the nephews at alan disturbed ."}
+{"original": "that bicycle turned .", "sentence_good": "the bicycle turned .", "sentence_bad": "the bicycle brought ."}
+{"original": "these legislatures do n't benefit .", "sentence_good": "the legislatures will n't benefit .", "sentence_bad": "the legislatures will n't irritate ."}
+{"original": "all windows closed .", "sentence_good": "the windows closed .", "sentence_bad": "the windows saw ."}
+{"original": "some plane crashed .", "sentence_good": "some plane crashed .", "sentence_bad": "some plane lifted ."}
+{"original": "the glasses are breaking .", "sentence_good": "the glasses will breaking .", "sentence_bad": "the glasses will taking ."}
+{"original": "all candles darken .", "sentence_good": "the candles darken .", "sentence_bad": "the candles admired ."}
+{"original": "some lamp was n't dimming .", "sentence_good": "some lamp will n't dimming .", "sentence_bad": "some lamp will n't lifting ."}
+{"original": "most cucumbers ripened .", "sentence_good": "most cucumbers ripened .", "sentence_bad": "most cucumbers bought ."}
+{"original": "adam had n't hidden .", "sentence_good": "adam will n't hidden .", "sentence_bad": "adam will n't astounded ."}
+{"original": "some skirt could n't soak .", "sentence_good": "some skirt will n't soak .", "sentence_bad": "some skirt will n't reveal ."}
+{"original": "some skirts shrank .", "sentence_good": "some skirts shrank .", "sentence_bad": "some skirts liked ."}
+{"original": "kenneth 's best friends reunited .", "sentence_good": "kenneth will best friends reunited .", "sentence_bad": "kenneth will best friends dislike ."}
+{"original": "a lot of apples had blackened .", "sentence_good": "the lot at apples will blackened .", "sentence_bad": "the lot at apples will concealed ."}
+{"original": "some books about the great lakes sell .", "sentence_good": "some books at the great lakes sell .", "sentence_bad": "some books at the great lakes bought ."}
+{"original": "all trucks can crash .", "sentence_good": "the trucks will crash .", "sentence_bad": "the trucks will admire ."}
+{"original": "those eggplants grow .", "sentence_good": "the eggplants grow .", "sentence_bad": "the eggplants brought ."}
+{"original": "a lot of eyes have shut .", "sentence_good": "the lot at eyes will shut .", "sentence_bad": "the lot at eyes will found ."}
+{"original": "patrick would wash .", "sentence_good": "patrick will wash .", "sentence_bad": "patrick will fire ."}
+{"original": "that unicycle accelerated .", "sentence_good": "the unicycle accelerated .", "sentence_bad": "the unicycle liked ."}
+{"original": "carlos is n't waking up .", "sentence_good": "carlos will n't waking up .", "sentence_bad": "carlos will n't hiring ."}
+{"original": "this casserole was n't burning .", "sentence_good": "the casserole will n't burning .", "sentence_bad": "the casserole will n't revealing ."}
+{"original": "most coats stretch .", "sentence_good": "most coats stretch .", "sentence_bad": "most coats clean ."}
+{"original": "spinach was blackening .", "sentence_good": "spinach will blackening .", "sentence_bad": "spinach will cleaning ."}
+{"original": "some screen had n't faded .", "sentence_good": "some screen will n't faded .", "sentence_bad": "some screen will n't concealed ."}
+{"original": "that banana has ripened .", "sentence_good": "the banana will ripened .", "sentence_bad": "the banana will bought ."}
+{"original": "those icicles vaporize .", "sentence_good": "the icicles vaporize .", "sentence_bad": "the icicles revealed ."}
+{"original": "this lamp has dimmed .", "sentence_good": "the lamp will dimmed .", "sentence_bad": "the lamp will found ."}
+{"original": "a lot of wheelbarrows should stop .", "sentence_good": "the lot at wheelbarrows will stop .", "sentence_bad": "the lot at wheelbarrows will bring ."}
+{"original": "mouths have n't closed .", "sentence_good": "mouths will n't closed .", "sentence_bad": "mouths will n't bought ."}
+{"original": "every truck accelerates .", "sentence_good": "the truck accelerates .", "sentence_bad": "the truck admired ."}
+{"original": "skateboards are crashing .", "sentence_good": "skateboards will crashing .", "sentence_bad": "skateboards will concealing ."}
+{"original": "some museums benefit .", "sentence_good": "some museums benefit .", "sentence_bad": "some museums dislike ."}
+{"original": "the box shut .", "sentence_good": "the box shut .", "sentence_bad": "the box reveals ."}
+{"original": "most gloves crumpled .", "sentence_good": "most gloves crumpled .", "sentence_bad": "most gloves conceal ."}
+{"original": "books sold .", "sentence_good": "books sold .", "sentence_bad": "books brought ."}
+{"original": "some gloves tightened .", "sentence_good": "some gloves tightened .", "sentence_bad": "some gloves admire ."}
+{"original": "that beef did n't char .", "sentence_good": "the beef will n't char .", "sentence_bad": "the beef will n't buy ."}
+{"original": "karla sits down .", "sentence_good": "karla sits down .", "sentence_bad": "karla discussed ."}
+{"original": "the cucumbers could n't char .", "sentence_good": "the cucumbers will n't char .", "sentence_bad": "the cucumbers will n't lift ."}
+{"original": "what evaporated .", "sentence_good": "what evaporated .", "sentence_bad": "what ascended ."}
+{"original": "bikes turn .", "sentence_good": "bikes turn .", "sentence_bad": "bikes reveal ."}
+{"original": "some dress is twisting .", "sentence_good": "some dress will twisting .", "sentence_bad": "some dress will finding ."}
+{"original": "those teachers were n't assembling .", "sentence_good": "the teachers will n't assembling .", "sentence_bad": "the teachers will n't approaching ."}
+{"original": "many rivers vaporize .", "sentence_good": "many rivers vaporize .", "sentence_bad": "many rivers respected ."}
+{"original": "these nephews of claire move .", "sentence_good": "the nephews at claire move .", "sentence_bad": "the nephews at claire discuss ."}
+{"original": "kimberley has changed .", "sentence_good": "kimberley will changed .", "sentence_bad": "kimberley will bothered ."}
+{"original": "a cup broke .", "sentence_good": "the cup broke .", "sentence_bad": "the cup reveals ."}
+{"original": "michelle has n't trained .", "sentence_good": "michelle will n't trained .", "sentence_bad": "michelle will n't observed ."}
+{"original": "monet does n't hide .", "sentence_good": "monet will n't hide .", "sentence_bad": "monet will n't aggravate ."}
+{"original": "the pork bakes .", "sentence_good": "the pork bakes .", "sentence_bad": "the pork finds ."}
+{"original": "this mushroom baked .", "sentence_good": "the mushroom baked .", "sentence_bad": "the mushroom bought ."}
+{"original": "this skirt had n't warped .", "sentence_good": "the skirt will n't warped .", "sentence_bad": "the skirt will n't messed up ."}
+{"original": "that blouse has n't shrunk .", "sentence_good": "the blouse will n't shrunk .", "sentence_bad": "the blouse will n't lifted ."}
+{"original": "some socks shrink .", "sentence_good": "some socks shrink .", "sentence_bad": "some socks revealed ."}
+{"original": "peppers blacken .", "sentence_good": "peppers blacken .", "sentence_bad": "peppers found ."}
+{"original": "shoes flattened .", "sentence_good": "shoes flattened .", "sentence_bad": "shoes wear ."}
+{"original": "the cars had n't slowed .", "sentence_good": "the cars will n't slowed .", "sentence_bad": "the cars will n't found ."}
+{"original": "every teacher stands up .", "sentence_good": "the teacher stands up .", "sentence_bad": "the teacher alarms ."}
+{"original": "people worry .", "sentence_good": "people worry .", "sentence_bad": "people hated ."}
+{"original": "some teachers ' husband has stood up .", "sentence_good": "some teachers ' husband will stood up .", "sentence_bad": "some teachers ' husband will approached ."}
+{"original": "some scarves crumple .", "sentence_good": "some scarves crumple .", "sentence_bad": "some scarves bought ."}
+{"original": "shirts have frayed .", "sentence_good": "shirts will frayed .", "sentence_bad": "shirts will cleaned ."}
+{"original": "the clintons ' podiatrist hid .", "sentence_good": "the clintons ' podiatrist hid .", "sentence_bad": "the clintons ' podiatrist hugs ."}
+{"original": "the lady could n't worry .", "sentence_good": "the lady will n't worry .", "sentence_bad": "the lady will n't love ."}
+{"original": "emily 's bosses benefited .", "sentence_good": "emily will bosses benefited .", "sentence_bad": "emily will bosses hugged ."}
+{"original": "diana was moving .", "sentence_good": "diana will moving .", "sentence_bad": "diana will upsetting ."}
+{"original": "all sons of laurie assemble .", "sentence_good": "the sons at laurie assemble .", "sentence_bad": "the sons at laurie irritated ."}
+{"original": "that skateboard was n't steering .", "sentence_good": "the skateboard will n't steering .", "sentence_bad": "the skateboard will n't concealing ."}
+{"original": "the screens break .", "sentence_good": "the screens break .", "sentence_bad": "the screens found ."}
+{"original": "every gate had n't shut .", "sentence_good": "the gate will n't shut .", "sentence_bad": "the gate will n't lifted ."}
+{"original": "every skateboard ca n't maneuver .", "sentence_good": "the skateboard will n't maneuver .", "sentence_bad": "the skateboard will n't fix ."}
+{"original": "many blouses wo n't shrink .", "sentence_good": "many blouses wo n't shrink .", "sentence_bad": "many blouses wo n't admire ."}
+{"original": "every hat twisted .", "sentence_good": "the hat twisted .", "sentence_bad": "the hat liked ."}
+{"original": "the water was n't vaporizing .", "sentence_good": "the water will n't vaporizing .", "sentence_bad": "the water will n't revealing ."}
+{"original": "craig stretches .", "sentence_good": "craig stretches .", "sentence_bad": "craig disliked ."}
+{"original": "this mouth did close .", "sentence_good": "the mouth will close .", "sentence_bad": "the mouth will conceal ."}
+{"original": "these cars were crashing .", "sentence_good": "the cars will crashing .", "sentence_bad": "the cars will bringing ."}
+{"original": "the computer broke .", "sentence_good": "the computer broke .", "sentence_bad": "the computer concealed ."}
+{"original": "julia healed .", "sentence_good": "julia healed .", "sentence_bad": "julia reveals ."}
+{"original": "some foot did n't crack .", "sentence_good": "some foot will n't crack .", "sentence_bad": "some foot will n't conceal ."}
+{"original": "denise stretched .", "sentence_good": "denise stretched .", "sentence_bad": "denise finds ."}
+{"original": "bethany had hurt .", "sentence_good": "bethany will hurt .", "sentence_bad": "bethany will scared ."}
+{"original": "all grandfathers of homer change .", "sentence_good": "the grandfathers at homer change .", "sentence_bad": "the grandfathers at homer liked ."}
+{"original": "linda hid away .", "sentence_good": "linda hid away .", "sentence_bad": "linda scared ."}
+{"original": "nina 's senators have worried .", "sentence_good": "nina will senators will worried .", "sentence_bad": "nina will senators will approached ."}
+{"original": "some chicken had baked .", "sentence_good": "some chicken will baked .", "sentence_bad": "some chicken will brought ."}
+{"original": "a lot of glaciers did melt .", "sentence_good": "the lot at glaciers will melt .", "sentence_bad": "the lot at glaciers will discuss ."}
+{"original": "every screen brightens .", "sentence_good": "the screen brightens .", "sentence_bad": "the screen bought ."}
+{"original": "this ice cream will evaporate .", "sentence_good": "the ice cream will evaporate .", "sentence_bad": "the ice cream will clean ."}
+{"original": "thomas washed .", "sentence_good": "thomas washed .", "sentence_bad": "thomas investigated ."}
+{"original": "melinda is n't sitting down .", "sentence_good": "melinda will n't sitting down .", "sentence_bad": "melinda will n't admiring ."}
+{"original": "laura hides .", "sentence_good": "laura hides .", "sentence_bad": "laura stunned ."}
+{"original": "a lot of planes turned .", "sentence_good": "the lot at planes turned .", "sentence_bad": "the lot at planes cleaned ."}
+{"original": "some bike was n't slowing .", "sentence_good": "some bike will n't slowing .", "sentence_bad": "some bike will n't revealing ."}
+{"original": "winston churchill was n't hiding .", "sentence_good": "winston churchill will n't hiding .", "sentence_bad": "winston churchill will n't irritating ."}
+{"original": "some shawls warp .", "sentence_good": "some shawls warp .", "sentence_bad": "some shawls brought ."}
+{"original": "a casserole does blacken .", "sentence_good": "the casserole will blacken .", "sentence_bad": "the casserole will reveal ."}
+{"original": "some banana was growing .", "sentence_good": "some banana will growing .", "sentence_bad": "some banana will buying ."}
+{"original": "the mirrors have shattered .", "sentence_good": "the mirrors will shattered .", "sentence_bad": "the mirrors will cleaned ."}
+{"original": "some lakes melt .", "sentence_good": "some lakes melt .", "sentence_bad": "some lakes lift ."}
+{"original": "the river condensed .", "sentence_good": "the river condensed .", "sentence_bad": "the river explored ."}
+{"original": "all glaciers have n't evaporated .", "sentence_good": "the glaciers will n't evaporated .", "sentence_bad": "the glaciers will n't criticized ."}
+{"original": "hats were n't loosening .", "sentence_good": "hats will n't loosening .", "sentence_bad": "hats will n't finding ."}
+{"original": "unicycles accelerated .", "sentence_good": "unicycles accelerated .", "sentence_bad": "unicycles clean ."}
+{"original": "catherine does heal .", "sentence_good": "catherine will heal .", "sentence_bad": "catherine will bore ."}
+{"original": "that newspaper article sells .", "sentence_good": "the newspaper article sells .", "sentence_bad": "the newspaper article brought ."}
+{"original": "this window had opened .", "sentence_good": "the window will opened .", "sentence_bad": "the window will found ."}
+{"original": "all screens can dim .", "sentence_good": "the screens will dim .", "sentence_bad": "the screens will find ."}
+{"original": "every lamp has dimmed .", "sentence_good": "the lamp will dimmed .", "sentence_bad": "the lamp will taken ."}
+{"original": "those glasses might tighten .", "sentence_good": "the glasses will tighten .", "sentence_bad": "the glasses will clean ."}
+{"original": "alice 's plumbers assembled .", "sentence_good": "alice will plumbers assembled .", "sentence_bad": "alice will plumbers investigate ."}
+{"original": "wayne 's fathers assembled .", "sentence_good": "wayne will fathers assembled .", "sentence_bad": "wayne will fathers dislike ."}
+{"original": "the plane breaks .", "sentence_good": "the plane breaks .", "sentence_bad": "the plane cleans ."}
+{"original": "stephen changed .", "sentence_good": "stephen changed .", "sentence_bad": "stephen annoys ."}
+{"original": "some ice froze .", "sentence_good": "some ice froze .", "sentence_bad": "some ice finds ."}
+{"original": "the ice evaporates .", "sentence_good": "the ice evaporates .", "sentence_bad": "the ice buys ."}
+{"original": "most trucks stopped .", "sentence_good": "most trucks stopped .", "sentence_bad": "most trucks lifted ."}
+{"original": "this door is shutting .", "sentence_good": "the door will shutting .", "sentence_bad": "the door will lifting ."}
+{"original": "a dress is wrinkling .", "sentence_good": "the dress will wrinkling .", "sentence_bad": "the dress will revealing ."}
+{"original": "dia na moves .", "sentence_good": "dia na moves .", "sentence_bad": "dia na embarrasses ."}
+{"original": "most dresses dry .", "sentence_good": "most dresses dry .", "sentence_bad": "most dresses wear ."}
+{"original": "these feet have cracked .", "sentence_good": "the feet will cracked .", "sentence_bad": "the feet will bought ."}
+{"original": "this glacier condensed .", "sentence_good": "the glacier condensed .", "sentence_bad": "the glacier explored ."}
+{"original": "that spotlight dims .", "sentence_good": "the spotlight dims .", "sentence_bad": "the spotlight bought ."}
+{"original": "a lot of hats shrank .", "sentence_good": "the lot at hats shrank .", "sentence_bad": "the lot at hats found ."}
+{"original": "maria 's teacher trains .", "sentence_good": "maria will teacher trains .", "sentence_bad": "maria will teacher discussed ."}
+{"original": "that person 's contractors are n't sitting down .", "sentence_good": "the person will contractors will n't sitting down .", "sentence_bad": "the person will contractors will n't concealing ."}
+{"original": "every banana grows .", "sentence_good": "the banana grows .", "sentence_bad": "the banana finds ."}
+{"original": "some fish burns .", "sentence_good": "some fish burns .", "sentence_bad": "some fish cleaned ."}
+{"original": "those drivers hide .", "sentence_good": "the drivers hide .", "sentence_bad": "the drivers appreciate ."}
+{"original": "those carriages were maneuvering .", "sentence_good": "the carriages will maneuvering .", "sentence_bad": "the carriages will bringing ."}
+{"original": "those eggplants burned .", "sentence_good": "the eggplants burned .", "sentence_bad": "the eggplants revealed ."}
+{"original": "rivers are n't evaporating .", "sentence_good": "rivers will n't evaporating .", "sentence_bad": "rivers will n't exploring ."}
+{"original": "this pork wo n't scorch .", "sentence_good": "the pork wo n't scorch .", "sentence_bad": "the pork wo n't admire ."}
+{"original": "a convertible accelerates .", "sentence_good": "the convertible accelerates .", "sentence_bad": "the convertible finds ."}
+{"original": "water is hiding .", "sentence_good": "water will hiding .", "sentence_bad": "water will finding ."}
+{"original": "that glove was shrinking .", "sentence_good": "the glove will shrinking .", "sentence_bad": "the glove will revealing ."}
+{"original": "sharon 's podiatrist hides .", "sentence_good": "sharon will podiatrist hides .", "sentence_bad": "sharon will podiatrist sees ."}
+{"original": "some shoes had n't tightened .", "sentence_good": "some shoes will n't tightened .", "sentence_bad": "some shoes will n't cleaned ."}
+{"original": "brian 's dentist trains .", "sentence_good": "brian will dentist trains .", "sentence_bad": "brian will dentist forgets ."}
+{"original": "those apples grew .", "sentence_good": "the apples grew .", "sentence_bad": "the apples found ."}
+{"original": "some dresses shrink .", "sentence_good": "some dresses shrink .", "sentence_bad": "some dresses see ."}
+{"original": "a lot of peppers are n't baking .", "sentence_good": "the lot at peppers will n't baking .", "sentence_bad": "the lot at peppers will n't buying ."}
+{"original": "most glaciers have n't frozen .", "sentence_good": "most glaciers will n't frozen .", "sentence_bad": "most glaciers will n't exited ."}
+{"original": "a hat is shrinking .", "sentence_good": "the hat will shrinking .", "sentence_bad": "the hat will bringing ."}
+{"original": "a plane had chipped .", "sentence_good": "the plane will chipped .", "sentence_bad": "the plane will concealed ."}
+{"original": "a jacket soaks .", "sentence_good": "the jacket soaks .", "sentence_bad": "the jacket admired ."}
+{"original": "bradley stretched .", "sentence_good": "bradley stretched .", "sentence_bad": "bradley conceals ."}
+{"original": "these nephews of julie had n't hidden .", "sentence_good": "the nephews at julie will n't hidden .", "sentence_bad": "the nephews at julie will n't astounded ."}
+{"original": "every grandmother of elaine is standing up .", "sentence_good": "the grandmother at elaine will standing up .", "sentence_bad": "the grandmother at elaine will observing ."}
+{"original": "richard 's nephew hurt .", "sentence_good": "richard will nephew hurt .", "sentence_bad": "richard will nephew disturbed ."}
+{"original": "many bicycles can drop .", "sentence_good": "many bicycles will drop .", "sentence_bad": "many bicycles will find ."}
+{"original": "beef could scorch .", "sentence_good": "beef will scorch .", "sentence_bad": "beef will conceal ."}
+{"original": "the convertible slows .", "sentence_good": "the convertible slows .", "sentence_bad": "the convertible reveals ."}
+{"original": "that eggplant is n't selling .", "sentence_good": "the eggplant will n't selling .", "sentence_bad": "the eggplant will n't lifting ."}
+{"original": "blouses were n't shrinking .", "sentence_good": "blouses will n't shrinking .", "sentence_bad": "blouses will n't cleaning ."}
+{"original": "all men have benefited .", "sentence_good": "the men will benefited .", "sentence_bad": "the men will investigated ."}
+{"original": "many teeth were n't cracking .", "sentence_good": "many teeth will n't cracking .", "sentence_bad": "many teeth will n't messing up ."}
+{"original": "a projector will hide .", "sentence_good": "the projector will hide .", "sentence_bad": "the projector will find ."}
+{"original": "apples blackened .", "sentence_good": "apples blackened .", "sentence_bad": "apples lift ."}
+{"original": "what twirled .", "sentence_good": "what twirled .", "sentence_bad": "what scans ."}
+{"original": "this ice vaporized .", "sentence_good": "the ice vaporized .", "sentence_bad": "the ice admires ."}
+{"original": "a lot of wheelbarrows rolled .", "sentence_good": "the lot at wheelbarrows rolled .", "sentence_bad": "the lot at wheelbarrows fixed ."}
+{"original": "those sweaters had n't warped .", "sentence_good": "the sweaters will n't warped .", "sentence_bad": "the sweaters will n't admired ."}
+{"original": "many hats had dried .", "sentence_good": "many hats will dried .", "sentence_bad": "many hats will seen ."}
+{"original": "a blouse shrinks .", "sentence_good": "the blouse shrinks .", "sentence_bad": "the blouse liked ."}
+{"original": "the shoes shrink .", "sentence_good": "the shoes shrink .", "sentence_bad": "the shoes cleaned ."}
+{"original": "some light has dimmed .", "sentence_good": "some light will dimmed .", "sentence_bad": "some light will lifted ."}
+{"original": "many gloves were n't loosening .", "sentence_good": "many gloves will n't loosening .", "sentence_bad": "many gloves will n't admiring ."}
+{"original": "this unicycle has n't broken .", "sentence_good": "the unicycle will n't broken .", "sentence_bad": "the unicycle will n't revealed ."}
+{"original": "a lot of dresses had soaked .", "sentence_good": "the lot at dresses will soaked .", "sentence_bad": "the lot at dresses will revealed ."}
+{"original": "claire 's tutors have n't stood up .", "sentence_good": "claire will tutors will n't stood up .", "sentence_bad": "claire will tutors will n't scared ."}
+{"original": "these bicycles roll .", "sentence_good": "the bicycles roll .", "sentence_bad": "the bicycles lift ."}
+{"original": "kathleen 's piano teacher heals .", "sentence_good": "kathleen will piano teacher heals .", "sentence_bad": "kathleen will piano teacher liked ."}
+{"original": "the wheelbarrows have n't rolled .", "sentence_good": "the wheelbarrows will n't rolled .", "sentence_bad": "the wheelbarrows will n't bought ."}
+{"original": "those bananas scorch .", "sentence_good": "the bananas scorch .", "sentence_bad": "the bananas saw ."}
+{"original": "most icicles melt .", "sentence_good": "most icicles melt .", "sentence_bad": "most icicles reveal ."}
+{"original": "those bikes crashed .", "sentence_good": "the bikes crashed .", "sentence_bad": "the bikes buy ."}
+{"original": "the lakes froze .", "sentence_good": "the lakes froze .", "sentence_bad": "the lakes toured ."}
+{"original": "that ice cream condenses .", "sentence_good": "the ice cream condenses .", "sentence_bad": "the ice cream admired ."}
+{"original": "these planes accelerate .", "sentence_good": "the planes accelerate .", "sentence_bad": "the planes lift ."}
+{"original": "that projector brightens .", "sentence_good": "the projector brightens .", "sentence_bad": "the projector cleaned ."}
+{"original": "raymond worries .", "sentence_good": "raymond worries .", "sentence_bad": "raymond irritates ."}
+{"original": "every apple grew .", "sentence_good": "the apple grew .", "sentence_bad": "the apple lifts ."}
+{"original": "that pasta blackens .", "sentence_good": "the pasta blackens .", "sentence_bad": "the pasta bought ."}
+{"original": "some glasses shrink .", "sentence_good": "some glasses shrink .", "sentence_bad": "some glasses wear ."}
+{"original": "a lot of socks have n't wrinkled .", "sentence_good": "the lot at socks will n't wrinkled .", "sentence_bad": "the lot at socks will n't found ."}
+{"original": "cucumbers were blackening .", "sentence_good": "cucumbers will blackening .", "sentence_bad": "cucumbers will taking ."}
+{"original": "many scarves soaked .", "sentence_good": "many scarves soaked .", "sentence_bad": "many scarves found ."}
+{"original": "a door is n't opening .", "sentence_good": "the door will n't opening .", "sentence_bad": "the door will n't taking ."}
+{"original": "a shirt has n't soaked .", "sentence_good": "the shirt will n't soaked .", "sentence_bad": "the shirt will n't messed up ."}
+{"original": "the sock shrinks .", "sentence_good": "the sock shrinks .", "sentence_bad": "the sock wore ."}
+{"original": "the lutherans ' supervisors stand up .", "sentence_good": "the lutherans ' supervisors stand up .", "sentence_bad": "the lutherans ' supervisors found ."}
+{"original": "that sock warps .", "sentence_good": "the sock warps .", "sentence_bad": "the sock admires ."}
+{"original": "that ice freezes .", "sentence_good": "the ice freezes .", "sentence_bad": "the ice revealed ."}
+{"original": "many wheelbarrows were n't chipping .", "sentence_good": "many wheelbarrows will n't chipping .", "sentence_bad": "many wheelbarrows will n't bringing ."}
+{"original": "that skirt wo n't dry .", "sentence_good": "the skirt wo n't dry .", "sentence_bad": "the skirt wo n't bring ."}
+{"original": "the skateboard crashes .", "sentence_good": "the skateboard crashes .", "sentence_bad": "the skateboard sees ."}
+{"original": "what is shrinking .", "sentence_good": "what will shrinking .", "sentence_bad": "what will ascending ."}
+{"original": "many daughters of paul have married .", "sentence_good": "many daughters at paul will married .", "sentence_bad": "many daughters at paul will bothered ."}
+{"original": "most socks shrink .", "sentence_good": "most socks shrink .", "sentence_bad": "most socks reveal ."}
+{"original": "some skateboards can maneuver .", "sentence_good": "some skateboards will maneuver .", "sentence_bad": "some skateboards will lift ."}
+{"original": "donna 's dentist wo n't heal .", "sentence_good": "don na will dentist wo n't heal .", "sentence_bad": "don na will dentist wo n't dislike ."}
+{"original": "this dress had loosened .", "sentence_good": "the dress will loosened .", "sentence_bad": "the dress will messed up ."}
+{"original": "most drivers will worry .", "sentence_good": "most drivers will worry .", "sentence_bad": "most drivers will scare ."}
+{"original": "holly has washed .", "sentence_good": "holly will washed .", "sentence_bad": "holly will referenced ."}
+{"original": "every lamp fades .", "sentence_good": "the lamp fades .", "sentence_bad": "the lamp likes ."}
+{"original": "sheila was n't moving .", "sentence_good": "sheila will n't moving .", "sentence_bad": "sheila will n't irritating ."}
+{"original": "that fish does n't hide .", "sentence_good": "the fish will n't hide .", "sentence_bad": "the fish will n't conceal ."}
+{"original": "all doors had opened .", "sentence_good": "the doors will opened .", "sentence_bad": "the doors will bought ."}
+{"original": "heather 's nephews had worried .", "sentence_good": "heather will nephews will worried .", "sentence_bad": "heather will nephews will bored ."}
+{"original": "most cucumbers blacken .", "sentence_good": "most cucumbers blacken .", "sentence_bad": "most cucumbers clean ."}
+{"original": "some convertible has n't cracked .", "sentence_good": "some convertible will n't cracked .", "sentence_bad": "some convertible will n't lifted ."}
+{"original": "all skateboards accelerate .", "sentence_good": "the skateboards accelerate .", "sentence_bad": "the skateboards conceal ."}
+{"original": "that plane chips .", "sentence_good": "the plane chips .", "sentence_bad": "the plane fixed ."}
+{"original": "the coats tighten .", "sentence_good": "the coats tighten .", "sentence_bad": "the coats lift ."}
+{"original": "most sweaters are unfolding .", "sentence_good": "most sweaters will unfolding .", "sentence_bad": "most sweaters will cleaning ."}
+{"original": "those wheelbarrows did n't steer .", "sentence_good": "the wheelbarrows will n't steer .", "sentence_bad": "the wheelbarrows will n't bring ."}
+{"original": "the blouses loosen .", "sentence_good": "the blouses loosen .", "sentence_bad": "the blouses cleaned ."}
+{"original": "the blouse loosens .", "sentence_good": "the blouse loosens .", "sentence_bad": "the blouse finds ."}
+{"original": "all shawls flattened .", "sentence_good": "the shawls flattened .", "sentence_bad": "the shawls took ."}
+{"original": "the peppers burn .", "sentence_good": "the peppers burn .", "sentence_bad": "the peppers took ."}
+{"original": "many carriages turn .", "sentence_good": "many carriages turn .", "sentence_bad": "many carriages fix ."}
+{"original": "that cilantro is n't burning .", "sentence_good": "the cilantro will n't burning .", "sentence_bad": "the cilantro will n't taking ."}
+{"original": "a lot of jackets should n't wrinkle .", "sentence_good": "the lot at jackets will n't wrinkle .", "sentence_bad": "the lot at jackets will n't find ."}
+{"original": "martha 's cousins marry .", "sentence_good": "martha will cousins marry .", "sentence_bad": "martha will cousins saw ."}
+{"original": "derek could n't worry .", "sentence_good": "derek will n't worry .", "sentence_bad": "derek will n't disturb ."}
+{"original": "sheila 's associates have married .", "sentence_good": "sheila will associates will married .", "sentence_bad": "sheila will associates will confused ."}
+{"original": "this truck has n't turned .", "sentence_good": "the truck will n't turned .", "sentence_bad": "the truck will n't bought ."}
+{"original": "that fish burns .", "sentence_good": "the fish burns .", "sentence_bad": "the fish reveals ."}
+{"original": "these girls ' cousin was n't washing .", "sentence_good": "the girls ' cousin will n't washing .", "sentence_bad": "the girls ' cousin will n't confusing ."}
+{"original": "many pies burn .", "sentence_good": "many pies burn .", "sentence_bad": "many pies admired ."}
+{"original": "this carriage has stopped .", "sentence_good": "the carriage will stopped .", "sentence_bad": "the carriage will found ."}
+{"original": "these coats were n't shrinking .", "sentence_good": "the coats will n't shrinking .", "sentence_bad": "the coats will n't revealing ."}
+{"original": "this shirt unfolds .", "sentence_good": "the shirt unfolds .", "sentence_bad": "the shirt sees ."}
+{"original": "the carriages were turning .", "sentence_good": "the carriages will turning .", "sentence_bad": "the carriages will admiring ."}
+{"original": "this rice burns .", "sentence_good": "the rice burns .", "sentence_bad": "the rice lifted ."}
+{"original": "the convertible was n't crashing .", "sentence_good": "the convertible will n't crashing .", "sentence_bad": "the convertible will n't fixing ."}
+{"original": "these computers had n't broken .", "sentence_good": "the computers will n't broken .", "sentence_bad": "the computers will n't brought ."}
+{"original": "some broccoli scorches .", "sentence_good": "some broccoli scorches .", "sentence_bad": "some broccoli reveals ."}
+{"original": "that broccoli did n't grow .", "sentence_good": "the broccoli will n't grow .", "sentence_bad": "the broccoli will n't see ."}
+{"original": "the bike rolls .", "sentence_good": "the bike rolls .", "sentence_bad": "the bike finds ."}
+{"original": "every wheelbarrow had n't broken .", "sentence_good": "the wheelbarrow will n't broken .", "sentence_bad": "the wheelbarrow will n't bought ."}
+{"original": "wheelbarrows roll .", "sentence_good": "wheelbarrows roll .", "sentence_bad": "wheelbarrows revealed ."}
+{"original": "these bicycles had steered .", "sentence_good": "the bicycles will steered .", "sentence_bad": "the bicycles will bought ."}
+{"original": "these shoes have n't shrunk .", "sentence_good": "the shoes will n't shrunk .", "sentence_bad": "the shoes will n't bought ."}
+{"original": "some cake had burned .", "sentence_good": "some cake will burned .", "sentence_bad": "some cake will admired ."}
+{"original": "every cucumber has ripened .", "sentence_good": "the cucumber will ripened .", "sentence_bad": "the cucumber will concealed ."}
+{"original": "every pie ca n't burn .", "sentence_good": "the pie will n't burn .", "sentence_bad": "the pie will n't find ."}
+{"original": "sandra was training .", "sentence_good": "sandra will training .", "sentence_bad": "sandra will curing ."}
+{"original": "what is n't twisting .", "sentence_good": "what will n't twisting .", "sentence_bad": "what will n't ascending ."}
+{"original": "these rivers vaporize .", "sentence_good": "the rivers vaporize .", "sentence_bad": "the rivers clean ."}
+{"original": "tanya had n't hurt .", "sentence_good": "tanya will n't hurt .", "sentence_bad": "tanya will n't disliked ."}
+{"original": "that jacket does tighten .", "sentence_good": "the jacket will tighten .", "sentence_bad": "the jacket will conceal ."}
+{"original": "many hats soaked .", "sentence_good": "many hats soaked .", "sentence_bad": "many hats conceal ."}
+{"original": "some bikes would crash .", "sentence_good": "some bikes will crash .", "sentence_bad": "some bikes will bring ."}
+{"original": "most trucks rolled .", "sentence_good": "most trucks rolled .", "sentence_bad": "most trucks liked ."}
+{"original": "this carriage has n't rolled .", "sentence_good": "the carriage will n't rolled .", "sentence_bad": "the carriage will n't bought ."}
+{"original": "matt 's friend changes .", "sentence_good": "matt will friend changes .", "sentence_bad": "matt will friend loves ."}
+{"original": "tonya sat down .", "sentence_good": "tonya sat down .", "sentence_bad": "tonya observes ."}
+{"original": "what was evaporating .", "sentence_good": "what will evaporating .", "sentence_bad": "what will exiting ."}
+{"original": "every student trains .", "sentence_good": "the student trains .", "sentence_bad": "the student appreciates ."}
+{"original": "edward 's nieces ca n't worry .", "sentence_good": "edward will nieces will n't worry .", "sentence_bad": "edward will nieces will n't find ."}
+{"original": "these blouses are wrinkling .", "sentence_good": "the blouses will wrinkling .", "sentence_bad": "the blouses will revealing ."}
+{"original": "many socks had twisted .", "sentence_good": "many socks will twisted .", "sentence_bad": "many socks will seen ."}
+{"original": "janet 's ex-wives assemble .", "sentence_good": "janet will ex-wives assemble .", "sentence_bad": "janet will ex-wives upset ."}
+{"original": "most ladies sit down .", "sentence_good": "most ladies sit down .", "sentence_bad": "most ladies approach ."}
+{"original": "every popsicle was freezing .", "sentence_good": "the popsicle will freezing .", "sentence_bad": "the popsicle will cleaning ."}
+{"original": "some glaciers vaporize .", "sentence_good": "some glaciers vaporize .", "sentence_bad": "some glaciers insult ."}
+{"original": "the glacier would melt .", "sentence_good": "the glacier will melt .", "sentence_bad": "the glacier will find ."}
+{"original": "a lamp fades .", "sentence_good": "the lamp fades .", "sentence_bad": "the lamp admires ."}
+{"original": "a box is flinging open .", "sentence_good": "the box will flinging open .", "sentence_bad": "the box will taking ."}
+{"original": "this icicle was n't condensing .", "sentence_good": "the icicle will n't condensing .", "sentence_bad": "the icicle will n't taking ."}
+{"original": "sisters of erin are n't benefiting .", "sentence_good": "sisters at erin will n't benefiting .", "sentence_bad": "sisters at erin will n't admiring ."}
+{"original": "some dress dries .", "sentence_good": "some dress dries .", "sentence_bad": "some dress messed up ."}
+{"original": "those pants have n't folded .", "sentence_good": "the pants will n't folded .", "sentence_bad": "the pants will n't taken ."}
+{"original": "offspring wake up .", "sentence_good": "offspring wake up .", "sentence_bad": "offspring visit ."}
+{"original": "some nieces of every teenager did n't marry .", "sentence_good": "some nieces at the teenager will n't marry .", "sentence_bad": "some nieces at the teenager will n't kiss ."}
+{"original": "unicycles did steer .", "sentence_good": "unicycles will steer .", "sentence_bad": "unicycles will reveal ."}
+{"original": "some candles would n't dim .", "sentence_good": "some candles will n't dim .", "sentence_bad": "some candles will n't find ."}
+{"original": "elizabeth 's best friend hurt .", "sentence_good": "elizabeth will best friend hurt .", "sentence_bad": "elizabeth will best friend examines ."}
+{"original": "some organization had worried .", "sentence_good": "some organization will worried .", "sentence_bad": "some organization will irritated ."}
+{"original": "raymond washes .", "sentence_good": "raymond washes .", "sentence_bad": "raymond annoys ."}
+{"original": "some gloves were n't warping .", "sentence_good": "some gloves will n't warping .", "sentence_bad": "some gloves will n't buying ."}
+{"original": "some vases have n't dropped .", "sentence_good": "some vases will n't dropped .", "sentence_bad": "some vases will n't cleaned ."}
+{"original": "some bicycle breaks .", "sentence_good": "some bicycle breaks .", "sentence_bad": "some bicycle admires ."}
+{"original": "every couch chipped .", "sentence_good": "the couch chipped .", "sentence_bad": "the couch fixed ."}
+{"original": "this alumnus ca n't train .", "sentence_good": "the alumnus will n't train .", "sentence_bad": "the alumnus will n't disturb ."}
+{"original": "this ice cream was vaporizing .", "sentence_good": "the ice cream will vaporizing .", "sentence_bad": "the ice cream will lifting ."}
+{"original": "brenda wakes up .", "sentence_good": "brenda wakes up .", "sentence_bad": "brenda admires ."}
+{"original": "a door is shutting .", "sentence_good": "the door will shutting .", "sentence_bad": "the door will taking ."}
+{"original": "that closet closes .", "sentence_good": "the closet closes .", "sentence_bad": "the closet criticized ."}
+{"original": "all skirts fold .", "sentence_good": "the skirts fold .", "sentence_bad": "the skirts lifted ."}
+{"original": "a jacket is n't twisting .", "sentence_good": "the jacket will n't twisting .", "sentence_bad": "the jacket will n't concealing ."}
+{"original": "russell was training .", "sentence_good": "russell will training .", "sentence_bad": "russell will insulting ."}
+{"original": "the coat is loosening .", "sentence_good": "the coat will loosening .", "sentence_bad": "the coat will taking ."}
+{"original": "every wheelbarrow could n't shatter .", "sentence_good": "the wheelbarrow will n't shatter .", "sentence_bad": "the wheelbarrow will n't find ."}
+{"original": "this box was n't opening .", "sentence_good": "the box will n't opening .", "sentence_bad": "the box will n't taking ."}
+{"original": "that glove should crumple .", "sentence_good": "the glove will crumple .", "sentence_bad": "the glove will admire ."}
+{"original": "some icicle wo n't condense .", "sentence_good": "some icicle wo n't condense .", "sentence_bad": "some icicle wo n't buy ."}
+{"original": "planes would steer .", "sentence_good": "planes will steer .", "sentence_bad": "planes will lift ."}
+{"original": "most unicycles turn .", "sentence_good": "most unicycles turn .", "sentence_bad": "most unicycles lift ."}
+{"original": "every unicycle does n't roll .", "sentence_good": "the unicycle will n't roll .", "sentence_bad": "the unicycle will n't lift ."}
+{"original": "those mouths open .", "sentence_good": "the mouths open .", "sentence_bad": "the mouths clean ."}
+{"original": "the eggplant baked .", "sentence_good": "the eggplant baked .", "sentence_bad": "the eggplant saw ."}
+{"original": "james heals .", "sentence_good": "james heals .", "sentence_bad": "james appreciated ."}
+{"original": "this niece of florence had stretched .", "sentence_good": "the niece at florence will stretched .", "sentence_bad": "the niece at florence will criticized ."}
+{"original": "some blouse unfolded .", "sentence_good": "some blouse unfolded .", "sentence_bad": "some blouse cleans ."}
+{"original": "those teeth might shatter .", "sentence_good": "the teeth will shatter .", "sentence_bad": "the teeth will clean ."}
+{"original": "every muffin burned .", "sentence_good": "the muffin burned .", "sentence_bad": "the muffin admires ."}
+{"original": "feet drop .", "sentence_good": "feet drop .", "sentence_bad": "feet find ."}
+{"original": "a banana had n't baked .", "sentence_good": "the banana will n't baked .", "sentence_bad": "the banana will n't cleaned ."}
+{"original": "those teeth drop .", "sentence_good": "the teeth drop .", "sentence_bad": "the teeth cleaned ."}
+{"original": "some tomatoes do burn .", "sentence_good": "some tomatoes will burn .", "sentence_bad": "some tomatoes will bring ."}
+{"original": "that truck might slow .", "sentence_good": "the truck will slow .", "sentence_bad": "the truck will take ."}
+{"original": "that lamp was n't darkening .", "sentence_good": "the lamp will n't darkening .", "sentence_bad": "the lamp will n't buying ."}
+{"original": "all carriages steer .", "sentence_good": "the carriages steer .", "sentence_bad": "the carriages saw ."}
+{"original": "every pie has n't blackened .", "sentence_good": "the pie will n't blackened .", "sentence_bad": "the pie will n't admired ."}
+{"original": "that sock could unfold .", "sentence_good": "the sock will unfold .", "sentence_bad": "the sock will admire ."}
+{"original": "many guests are n't sitting down .", "sentence_good": "many guests will n't sitting down .", "sentence_bad": "many guests will n't disturbing ."}
+{"original": "some ice cream is n't melting .", "sentence_good": "some ice cream will n't melting .", "sentence_bad": "some ice cream will n't concealing ."}
+{"original": "a skirt was folding .", "sentence_good": "the skirt will folding .", "sentence_bad": "the skirt will admiring ."}
+{"original": "all universities are benefiting .", "sentence_good": "the universities will benefiting .", "sentence_bad": "the universities will bothering ."}
+{"original": "a friend of rhonda is healing .", "sentence_good": "the friend at rhonda will healing .", "sentence_bad": "the friend at rhonda will scanning ."}
+{"original": "these spotlights will dim .", "sentence_good": "the spotlights will dim .", "sentence_bad": "the spotlights will find ."}
+{"original": "this skirt shrinks .", "sentence_good": "the skirt shrinks .", "sentence_bad": "the skirt cleaned ."}
+{"original": "some bicycle was n't shattering .", "sentence_good": "some bicycle will n't shattering .", "sentence_bad": "some bicycle will n't bringing ."}
+{"original": "those socks have twirled .", "sentence_good": "the socks will twirled .", "sentence_bad": "the socks will cleaned ."}
+{"original": "many lights sell .", "sentence_good": "many lights sell .", "sentence_bad": "many lights buy ."}
+{"original": "the sweater stretches .", "sentence_good": "the sweater stretches .", "sentence_bad": "the sweater concealed ."}
+{"original": "a patient 's lawyer is n't changing .", "sentence_good": "the patient will lawyer will n't changing .", "sentence_bad": "the patient will lawyer will n't hiring ."}
+{"original": "the blouse did shrink .", "sentence_good": "the blouse will shrink .", "sentence_bad": "the blouse will see ."}
+{"original": "some blouse frays .", "sentence_good": "some blouse frays .", "sentence_bad": "some blouse wore ."}
+{"original": "the chairs broke .", "sentence_good": "the chairs broke .", "sentence_bad": "the chairs liked ."}
+{"original": "some hat dried .", "sentence_good": "some hat dried .", "sentence_bad": "some hat lifts ."}
+{"original": "the pork was n't baking .", "sentence_good": "the pork will n't baking .", "sentence_bad": "the pork will n't lifting ."}
+{"original": "most eyes shut .", "sentence_good": "most eyes shut .", "sentence_bad": "most eyes found ."}
+{"original": "blouses stretched .", "sentence_good": "blouses stretched .", "sentence_bad": "blouses saw ."}
+{"original": "an eye opened .", "sentence_good": "the eye opened .", "sentence_bad": "the eye lifts ."}
+{"original": "laurie 's associates wake up .", "sentence_good": "laurie will associates wake up .", "sentence_bad": "laurie will associates fire ."}
+{"original": "skirts do n't loosen .", "sentence_good": "skirts will n't loosen .", "sentence_bad": "skirts will n't conceal ."}
+{"original": "most carriages crash .", "sentence_good": "most carriages crash .", "sentence_bad": "most carriages brought ."}
+{"original": "some mouths opened .", "sentence_good": "some mouths opened .", "sentence_bad": "some mouths buy ."}
+{"original": "the couches chipped .", "sentence_good": "the couches chipped .", "sentence_bad": "the couches fixed ."}
+{"original": "planes break .", "sentence_good": "planes break .", "sentence_bad": "planes see ."}
+{"original": "matt changed .", "sentence_good": "matt changed .", "sentence_bad": "matt investigated ."}
+{"original": "gloves shrink .", "sentence_good": "gloves shrink .", "sentence_bad": "gloves clean ."}
+{"original": "the box is n't flinging open .", "sentence_good": "the box will n't flinging open .", "sentence_bad": "the box will n't bringing ."}
+{"original": "most shirts would twist .", "sentence_good": "most shirts will twist .", "sentence_bad": "most shirts will find ."}
+{"original": "most lights fade .", "sentence_good": "most lights fade .", "sentence_bad": "most lights clean ."}
+{"original": "that water is n't condensing .", "sentence_good": "the water will n't condensing .", "sentence_bad": "the water will n't buying ."}
+{"original": "the glasses wo n't twist .", "sentence_good": "the glasses wo n't twist .", "sentence_bad": "the glasses wo n't wear ."}
+{"original": "this couch chipped .", "sentence_good": "the couch chipped .", "sentence_bad": "the couch took ."}
+{"original": "carlos hides .", "sentence_good": "carlos hides .", "sentence_bad": "carlos hugged ."}
+{"original": "every light was darkening .", "sentence_good": "the light will darkening .", "sentence_bad": "the light will concealing ."}
+{"original": "every man could n't hide away .", "sentence_good": "the man will n't hide away .", "sentence_bad": "the man will n't irritate ."}
+{"original": "what freezes .", "sentence_good": "what freezes .", "sentence_bad": "what visited ."}
+{"original": "those windows flung open .", "sentence_good": "the windows flung open .", "sentence_bad": "the windows see ."}
+{"original": "most guys worry .", "sentence_good": "most guys worry .", "sentence_bad": "most guys disturb ."}
+{"original": "some mushrooms might ripen .", "sentence_good": "some mushrooms will ripen .", "sentence_bad": "some mushrooms will buy ."}
+{"original": "those rivers melt .", "sentence_good": "the rivers melt .", "sentence_bad": "the rivers brought ."}
+{"original": "these convertibles should n't chip .", "sentence_good": "the convertibles will n't chip .", "sentence_bad": "the convertibles will n't buy ."}
+{"original": "that cat does sell .", "sentence_good": "the cat will sell .", "sentence_bad": "the cat will reveal ."}
+{"original": "these boys ' piano teacher heals .", "sentence_good": "the boys ' piano teacher heals .", "sentence_bad": "the boys ' piano teacher astounds ."}
+{"original": "the unicycle had n't steered .", "sentence_good": "the unicycle will n't steered .", "sentence_bad": "the unicycle will n't brought ."}
+{"original": "those committees had benefited .", "sentence_good": "the committees will benefited .", "sentence_bad": "the committees will astounded ."}
+{"original": "the broccoli was n't blackening .", "sentence_good": "the broccoli will n't blackening .", "sentence_bad": "the broccoli will n't finding ."}
+{"original": "coats are n't crumpling .", "sentence_good": "coats will n't crumpling .", "sentence_bad": "coats will n't revealing ."}
+{"original": "most bicycles slow .", "sentence_good": "most bicycles slow .", "sentence_bad": "most bicycles saw ."}
+{"original": "these glasses tightened .", "sentence_good": "the glasses tightened .", "sentence_bad": "the glasses see ."}
+{"original": "some mirror has n't cracked .", "sentence_good": "some mirror will n't cracked .", "sentence_bad": "some mirror will n't fixed ."}
+{"original": "a shawl had loosened .", "sentence_good": "the shawl will loosened .", "sentence_bad": "the shawl will concealed ."}
+{"original": "this cilantro blackened .", "sentence_good": "the cilantro blackened .", "sentence_bad": "the cilantro reveals ."}
+{"original": "all brothers of stephen reunite .", "sentence_good": "the brothers at stephen reunite .", "sentence_bad": "the brothers at stephen irritated ."}
+{"original": "every child hides .", "sentence_good": "the child hides .", "sentence_bad": "the child respected ."}
+{"original": "these icicles melt .", "sentence_good": "the icicles melt .", "sentence_bad": "the icicles took ."}
+{"original": "the blouses shrank .", "sentence_good": "the blouses shrank .", "sentence_bad": "the blouses bought ."}
+{"original": "most hats had twirled .", "sentence_good": "most hats will twirled .", "sentence_bad": "most hats will found ."}
+{"original": "most fish sell .", "sentence_good": "most fish sell .", "sentence_bad": "most fish saw ."}
+{"original": "the mouths do open .", "sentence_good": "the mouths will open .", "sentence_bad": "the mouths will bring ."}
+{"original": "that truck broke .", "sentence_good": "the truck broke .", "sentence_bad": "the truck likes ."}
+{"original": "this unicycle would steer .", "sentence_good": "the unicycle will steer .", "sentence_bad": "the unicycle will take ."}
+{"original": "some mouth has flung open .", "sentence_good": "some mouth will flung open .", "sentence_bad": "some mouth will found ."}
+{"original": "these committees could reunite .", "sentence_good": "the committees will reunite .", "sentence_bad": "the committees will investigate ."}
+{"original": "amy stood up .", "sentence_good": "amy stood up .", "sentence_bad": "amy discusses ."}
+{"original": "that dish cracks .", "sentence_good": "the dish cracks .", "sentence_bad": "the dish revealed ."}
+{"original": "planes have broken .", "sentence_good": "planes will broken .", "sentence_bad": "planes will admired ."}
+{"original": "all guests have n't sat down .", "sentence_good": "the guests will n't sat down .", "sentence_bad": "the guests will n't kissed ."}
+{"original": "those wheelbarrows ca n't stop .", "sentence_good": "the wheelbarrows will n't stop .", "sentence_bad": "the wheelbarrows will n't buy ."}
+{"original": "a lot of cakes charred .", "sentence_good": "the lot at cakes charred .", "sentence_bad": "the lot at cakes admired ."}
+{"original": "every mouth was hiding .", "sentence_good": "the mouth will hiding .", "sentence_bad": "the mouth will taking ."}
+{"original": "a lot of men have n't hidden .", "sentence_good": "the lot at men will n't hidden .", "sentence_bad": "the lot at men will n't concealed ."}
+{"original": "some car had n't accelerated .", "sentence_good": "some car will n't accelerated .", "sentence_bad": "some car will n't fixed ."}
+{"original": "stephen 's hairdresser hid .", "sentence_good": "stephen will hairdresser hid .", "sentence_bad": "stephen will hairdresser shocks ."}
+{"original": "a lot of cups cracked .", "sentence_good": "the lot at cups cracked .", "sentence_bad": "the lot at cups admire ."}
+{"original": "this truck was accelerating .", "sentence_good": "the truck will accelerating .", "sentence_bad": "the truck will taking ."}
+{"original": "these windows are n't shattering .", "sentence_good": "the windows will n't shattering .", "sentence_bad": "the windows will n't cleaning ."}
+{"original": "this pasta has blackened .", "sentence_good": "the pasta will blackened .", "sentence_bad": "the pasta will revealed ."}
+{"original": "most lakes freeze .", "sentence_good": "most lakes freeze .", "sentence_bad": "most lakes leave ."}
+{"original": "this gate opens .", "sentence_good": "the gate opens .", "sentence_bad": "the gate liked ."}
+{"original": "these shoes had n't wrinkled .", "sentence_good": "the shoes will n't wrinkled .", "sentence_bad": "the shoes will n't bought ."}
+{"original": "angela 's classmates sit down .", "sentence_good": "angela will classmates sit down .", "sentence_bad": "angela will classmates praise ."}
+{"original": "these blouses had n't tightened .", "sentence_good": "the blouses will n't tightened .", "sentence_bad": "the blouses will n't worn ."}
+{"original": "the muffin was n't scorching .", "sentence_good": "the muffin will n't scorching .", "sentence_bad": "the muffin will n't admiring ."}
+{"original": "all closets shut .", "sentence_good": "the closets shut .", "sentence_bad": "the closets conceal ."}
+{"original": "kendra is n't hiding .", "sentence_good": "kendra will n't hiding .", "sentence_bad": "kendra will n't leaving ."}
+{"original": "brian 's handymen are marrying .", "sentence_good": "brian will handymen will marrying .", "sentence_bad": "brian will handymen will visiting ."}
+{"original": "that cart had accelerated .", "sentence_good": "the cart will accelerated .", "sentence_bad": "the cart will seen ."}
+{"original": "bread is n't blackening .", "sentence_good": "bread will n't blackening .", "sentence_bad": "bread will n't admiring ."}
+{"original": "marcus might heal .", "sentence_good": "marcus will heal .", "sentence_bad": "marcus will remember ."}
+{"original": "most lights dim .", "sentence_good": "most lights dim .", "sentence_bad": "most lights reveal ."}
+{"original": "some students sit down .", "sentence_good": "some students sit down .", "sentence_bad": "some students saw ."}
+{"original": "every mushroom is growing .", "sentence_good": "the mushroom will growing .", "sentence_bad": "the mushroom will bringing ."}
+{"original": "dawn 's doctors sit down .", "sentence_good": "dawn will doctors sit down .", "sentence_bad": "dawn will doctors observed ."}
+{"original": "wendy should n't wake up .", "sentence_good": "wendy will n't wake up .", "sentence_bad": "wendy will n't distract ."}
+{"original": "a bike slowed .", "sentence_good": "the bike slowed .", "sentence_bad": "the bike cleans ."}
+{"original": "the cart wo n't break .", "sentence_good": "the cart wo n't break .", "sentence_bad": "the cart wo n't conceal ."}
+{"original": "all pants have n't unfolded .", "sentence_good": "the pants will n't unfolded .", "sentence_bad": "the pants will n't messed up ."}
+{"original": "a lot of casseroles were n't blackening .", "sentence_good": "the lot at casseroles will n't blackening .", "sentence_bad": "the lot at casseroles will n't finding ."}
+{"original": "chicken has n't scorched .", "sentence_good": "chicken will n't scorched .", "sentence_bad": "chicken will n't lifted ."}
+{"original": "a closet flings open .", "sentence_good": "the closet flings open .", "sentence_bad": "the closet cleaned ."}
+{"original": "every box flung open .", "sentence_good": "the box flung open .", "sentence_bad": "the box admires ."}
+{"original": "bradley has changed .", "sentence_good": "bradley will changed .", "sentence_bad": "bradley will concealed ."}
+{"original": "some cilantro grew .", "sentence_good": "some cilantro grew .", "sentence_bad": "some cilantro bought ."}
+{"original": "andrea was n't worrying .", "sentence_good": "andrea will n't worrying .", "sentence_bad": "andrea will n't visiting ."}
+{"original": "skirts were twirling .", "sentence_good": "skirts will twirling .", "sentence_bad": "skirts will wearing ."}
+{"original": "that library worried .", "sentence_good": "the library worried .", "sentence_bad": "the library embarrasses ."}
+{"original": "some screen cracked .", "sentence_good": "some screen cracked .", "sentence_bad": "some screen admires ."}
+{"original": "james 's nieces worried .", "sentence_good": "james will nieces worried .", "sentence_bad": "james will nieces embarrass ."}
+{"original": "some carriage had n't broken .", "sentence_good": "some carriage will n't broken .", "sentence_bad": "some carriage will n't found ."}
+{"original": "that popsicle freezes .", "sentence_good": "the popsicle freezes .", "sentence_bad": "the popsicle saw ."}
+{"original": "this steak scorches .", "sentence_good": "the steak scorches .", "sentence_bad": "the steak took ."}
+{"original": "this sweater crumpled .", "sentence_good": "the sweater crumpled .", "sentence_bad": "the sweater buys ."}
+{"original": "kristen 's brothers reunite .", "sentence_good": "kristen will brothers reunite .", "sentence_bad": "kristen will brothers disgust ."}
+{"original": "most candles dimmed .", "sentence_good": "most candles dimmed .", "sentence_bad": "most candles find ."}
+{"original": "those shawls had tightened .", "sentence_good": "the shawls will tightened .", "sentence_bad": "the shawls will brought ."}
+{"original": "every cake blackens .", "sentence_good": "the cake blackens .", "sentence_bad": "the cake sees ."}
+{"original": "clyde 's ex-wives were n't assembling .", "sentence_good": "clyde will ex-wives will n't assembling .", "sentence_bad": "clyde will ex-wives will n't visiting ."}
+{"original": "a screen dims .", "sentence_good": "the screen dims .", "sentence_bad": "the screen finds ."}
+{"original": "douglas wo n't stretch .", "sentence_good": "douglas wo n't stretch .", "sentence_bad": "douglas wo n't embarrass ."}
+{"original": "some convertible should n't slow .", "sentence_good": "some convertible will n't slow .", "sentence_bad": "some convertible will n't take ."}
+{"original": "carmen trained .", "sentence_good": "carmen trained .", "sentence_bad": "carmen annoys ."}
+{"original": "a lot of hats have frayed .", "sentence_good": "the lot at hats will frayed .", "sentence_bad": "the lot at hats will lifted ."}
+{"original": "they had assembled .", "sentence_good": "they will assembled .", "sentence_bad": "they will annoyed ."}
+{"original": "this rice baked .", "sentence_good": "the rice baked .", "sentence_bad": "the rice took ."}
+{"original": "this wheelbarrow maneuvers .", "sentence_good": "the wheelbarrow maneuvers .", "sentence_bad": "the wheelbarrow took ."}
+{"original": "every shirt was n't unfolding .", "sentence_good": "the shirt will n't unfolding .", "sentence_bad": "the shirt will n't cleaning ."}
+{"original": "some lamp has darkened .", "sentence_good": "some lamp will darkened .", "sentence_bad": "some lamp will found ."}
+{"original": "those candles have n't faded .", "sentence_good": "the candles will n't faded .", "sentence_bad": "the candles will n't revealed ."}
+{"original": "some drawings of that truck sell .", "sentence_good": "some drawings at the truck sell .", "sentence_bad": "some drawings at the truck clean ."}
+{"original": "that plane was accelerating .", "sentence_good": "the plane will accelerating .", "sentence_bad": "the plane will taking ."}
+{"original": "jeffrey should hurt .", "sentence_good": "jeffrey will hurt .", "sentence_bad": "jeffrey will confuse ."}
+{"original": "some waiters were marrying .", "sentence_good": "some waiters will marrying .", "sentence_bad": "some waiters will observing ."}
+{"original": "sara 's partner hid .", "sentence_good": "sara will partner hid .", "sentence_bad": "sara will partner sees ."}
+{"original": "george had n't hidden .", "sentence_good": "george will n't hidden .", "sentence_bad": "george will n't distracted ."}
+{"original": "a lot of glasses wrinkled .", "sentence_good": "the lot at glasses wrinkled .", "sentence_bad": "the lot at glasses lifted ."}
+{"original": "janice has n't trained .", "sentence_good": "janice will n't trained .", "sentence_bad": "janice will n't criticized ."}
+{"original": "many carts were n't slowing .", "sentence_good": "many carts will n't slowing .", "sentence_bad": "many carts will n't concealing ."}
+{"original": "some dress had shrunk .", "sentence_good": "some dress will shrunk .", "sentence_bad": "some dress will cleaned ."}
+{"original": "some pants folded .", "sentence_good": "some pants folded .", "sentence_bad": "some pants admire ."}
+{"original": "that glove unfolds .", "sentence_good": "the glove unfolds .", "sentence_bad": "the glove took ."}
+{"original": "many carts did stop .", "sentence_good": "many carts will stop .", "sentence_bad": "many carts will find ."}
+{"original": "these pies were n't blackening .", "sentence_good": "the pies will n't blackening .", "sentence_bad": "the pies will n't bringing ."}
+{"original": "this skateboard broke .", "sentence_good": "the skateboard broke .", "sentence_bad": "the skateboard cleans ."}
+{"original": "skateboards stopped .", "sentence_good": "skateboards stopped .", "sentence_bad": "skateboards clean ."}
+{"original": "the screen has brightened .", "sentence_good": "the screen will brightened .", "sentence_bad": "the screen will taken ."}
+{"original": "travis would move .", "sentence_good": "travis will move .", "sentence_bad": "travis will forget ."}
+{"original": "stacy had hidden .", "sentence_good": "stacy will hidden .", "sentence_bad": "stacy will disturbed ."}
+{"original": "some shirt warped .", "sentence_good": "some shirt warped .", "sentence_bad": "some shirt concealed ."}
+{"original": "children do n't benefit .", "sentence_good": "children will n't benefit .", "sentence_bad": "children will n't shock ."}
+{"original": "all fathers of carmen worried .", "sentence_good": "the fathers at carmen worried .", "sentence_bad": "the fathers at carmen stun ."}
+{"original": "those actors ' ex-wives hurt .", "sentence_good": "the actors ' ex - wives hurt .", "sentence_bad": "the actors ' ex - wives disturbed ."}
+{"original": "all coats have n't loosened .", "sentence_good": "the coats will n't loosened .", "sentence_bad": "the coats will n't brought ."}
+{"original": "every patient 's mothers ca n't reunite .", "sentence_good": "the patient will mothers will n't reunite .", "sentence_bad": "the patient will mothers will n't observe ."}
+{"original": "those girls marry .", "sentence_good": "the girls marry .", "sentence_bad": "the girls disgust ."}
+{"original": "some cucumbers blackened .", "sentence_good": "some cucumbers blackened .", "sentence_bad": "some cucumbers revealed ."}
+{"original": "most screens darkened .", "sentence_good": "most screens darkened .", "sentence_bad": "most screens lift ."}
+{"original": "the closets were closing .", "sentence_good": "the closets will closing .", "sentence_bad": "the closets will criticizing ."}
+{"original": "those scarves are n't warping .", "sentence_good": "the scarves will n't warping .", "sentence_bad": "the scarves will n't lifting ."}
+{"original": "that convertible breaks .", "sentence_good": "the convertible breaks .", "sentence_bad": "the convertible lifts ."}
+{"original": "these spotlights darkened .", "sentence_good": "the spotlights darkened .", "sentence_bad": "the spotlights concealed ."}
+{"original": "this shawl had shrunk .", "sentence_good": "the shawl will shrunk .", "sentence_bad": "the shawl will worn ."}
+{"original": "the socks had n't shrunk .", "sentence_good": "the socks will n't shrunk .", "sentence_bad": "the socks will n't admired ."}
+{"original": "many cars had maneuvered .", "sentence_good": "many cars will maneuvered .", "sentence_bad": "many cars will fixed ."}
+{"original": "all hats dry .", "sentence_good": "the hats dry .", "sentence_bad": "the hats cleaned ."}
+{"original": "william heals .", "sentence_good": "william heals .", "sentence_bad": "william aggravated ."}
+{"original": "these scarves shrink .", "sentence_good": "the scarves shrink .", "sentence_bad": "the scarves clean ."}
+{"original": "some mouths were flinging open .", "sentence_good": "some mouths will flinging open .", "sentence_bad": "some mouths will taking ."}
+{"original": "clyde sat down .", "sentence_good": "clyde sat down .", "sentence_bad": "clyde confuses ."}
+{"original": "most shoes sell .", "sentence_good": "most shoes sell .", "sentence_bad": "most shoes buy ."}
+{"original": "a window was shutting .", "sentence_good": "the window will shutting .", "sentence_bad": "the window will concealing ."}
+{"original": "dana worries .", "sentence_good": "dana worries .", "sentence_bad": "dana scared ."}
+{"original": "some tomatoes burn .", "sentence_good": "some tomatoes burn .", "sentence_bad": "some tomatoes see ."}
+{"original": "this lake melted .", "sentence_good": "the lake melted .", "sentence_bad": "the lake remembers ."}
+{"original": "this sock flattens .", "sentence_good": "the sock flattens .", "sentence_bad": "the sock cleans ."}
+{"original": "a scarf shrinks .", "sentence_good": "the scarf shrinks .", "sentence_bad": "the scarf finds ."}
+{"original": "the projector dims .", "sentence_good": "the projector dims .", "sentence_bad": "the projector revealed ."}
+{"original": "that company had n't worried .", "sentence_good": "the company will n't worried .", "sentence_bad": "the company will n't astounded ."}
+{"original": "the gate has closed .", "sentence_good": "the gate will closed .", "sentence_bad": "the gate will bought ."}
+{"original": "those cucumbers ripen .", "sentence_good": "the cucumbers ripen .", "sentence_bad": "the cucumbers lift ."}
+{"original": "a mouth does open .", "sentence_good": "the mouth will open .", "sentence_bad": "the mouth will take ."}
+{"original": "most sweaters had n't shrunk .", "sentence_good": "most sweaters will n't shrunk .", "sentence_bad": "most sweaters will n't worn ."}
+{"original": "those convertibles were crashing .", "sentence_good": "the convertibles will crashing .", "sentence_bad": "the convertibles will buying ."}
+{"original": "some shawl unfolds .", "sentence_good": "some shawl unfolds .", "sentence_bad": "some shawl found ."}
+{"original": "some tomato blackens .", "sentence_good": "some tomato blackens .", "sentence_bad": "some tomato cleans ."}
+{"original": "many projectors fade .", "sentence_good": "many projectors fade .", "sentence_bad": "many projectors lift ."}
+{"original": "this banana grows .", "sentence_good": "the banana grows .", "sentence_bad": "the banana bought ."}
+{"original": "beverly 's nephew might hide away .", "sentence_good": "beverly will nephew will hide away .", "sentence_bad": "beverly will nephew will fire ."}
+{"original": "john hurts .", "sentence_good": "john hurts .", "sentence_bad": "john astounded ."}
+{"original": "that customer hurts .", "sentence_good": "the customer hurts .", "sentence_bad": "the customer approaches ."}
+{"original": "most wheelbarrows might steer .", "sentence_good": "most wheelbarrows will steer .", "sentence_bad": "most wheelbarrows will take ."}
+{"original": "sandra stands up .", "sentence_good": "sandra stands up .", "sentence_bad": "sandra disgusts ."}
+{"original": "many peppers ripen .", "sentence_good": "many peppers ripen .", "sentence_bad": "many peppers concealed ."}
+{"original": "some ice cream has n't evaporated .", "sentence_good": "some ice cream will n't evaporated .", "sentence_bad": "some ice cream will n't taken ."}
+{"original": "the candles brightened .", "sentence_good": "the candles brightened .", "sentence_bad": "the candles liked ."}
+{"original": "this river has n't condensed .", "sentence_good": "the river will n't condensed .", "sentence_bad": "the river will n't boycotted ."}
+{"original": "this jacket soaks .", "sentence_good": "the jacket soaks .", "sentence_bad": "the jacket cleans ."}
+{"original": "deborah 's sisters married .", "sentence_good": "deborah will sisters married .", "sentence_bad": "deborah will sisters disgust ."}
+{"original": "that cart is turning .", "sentence_good": "the cart will turning .", "sentence_bad": "the cart will revealing ."}
+{"original": "a plane does slow .", "sentence_good": "the plane will slow .", "sentence_bad": "the plane will clean ."}
+{"original": "all waitresses ' mentors should stretch .", "sentence_good": "the waitresses ' mentors will stretch .", "sentence_bad": "the waitresses ' mentors will reference ."}
+{"original": "the grandmother of travis did stretch .", "sentence_good": "the grandmother at travis will stretch .", "sentence_bad": "the grandmother at travis will embarrass ."}
+{"original": "catherine 's brother hid .", "sentence_good": "catherine will brother hid .", "sentence_bad": "catherine will brother concealed ."}
+{"original": "all pants have n't loosened .", "sentence_good": "the pants will n't loosened .", "sentence_bad": "the pants will n't messed up ."}
+{"original": "this pepper scorched .", "sentence_good": "the pepper scorched .", "sentence_bad": "the pepper lifts ."}
+{"original": "these mothers of ladies have n't woken up .", "sentence_good": "the mothers at ladies will n't woken up .", "sentence_bad": "the mothers at ladies will n't hugged ."}
+{"original": "a lot of tomatoes char .", "sentence_good": "the lot at tomatoes char .", "sentence_bad": "the lot at tomatoes clean ."}
+{"original": "these hats were n't shrinking .", "sentence_good": "the hats will n't shrinking .", "sentence_bad": "the hats will n't taking ."}
+{"original": "this window shuts .", "sentence_good": "the window shuts .", "sentence_bad": "the window finds ."}
+{"original": "some boxes opened .", "sentence_good": "some boxes opened .", "sentence_bad": "some boxes conceal ."}
+{"original": "this light brightened .", "sentence_good": "the light brightened .", "sentence_bad": "the light conceals ."}
+{"original": "water vaporized .", "sentence_good": "water vaporized .", "sentence_bad": "water revealed ."}
+{"original": "a lot of dresses dry .", "sentence_good": "the lot at dresses dry .", "sentence_bad": "the lot at dresses saw ."}
+{"original": "many bikes have steered .", "sentence_good": "many bikes will steered .", "sentence_bad": "many bikes will bought ."}
+{"original": "mark worries .", "sentence_good": "mark worries .", "sentence_bad": "mark praised ."}
+{"original": "tracy 's guests worry .", "sentence_good": "tracy will guests worry .", "sentence_bad": "tracy will guests fired ."}
+{"original": "some spinach is growing .", "sentence_good": "some spinach will growing .", "sentence_bad": "some spinach will buying ."}
+{"original": "what unfolded .", "sentence_good": "what unfolded .", "sentence_bad": "what discussed ."}
+{"original": "beverly had n't stood up .", "sentence_good": "beverly will n't stood up .", "sentence_bad": "beverly will n't approached ."}
+{"original": "alice washes .", "sentence_good": "alice washes .", "sentence_bad": "alice aggravated ."}
+{"original": "those governments reunited .", "sentence_good": "the governments reunited .", "sentence_bad": "the governments bother ."}
+{"original": "a car stopped .", "sentence_good": "the car stopped .", "sentence_bad": "the car concealed ."}
+{"original": "all pies had n't baked .", "sentence_good": "the pies will n't baked .", "sentence_bad": "the pies will n't admired ."}
+{"original": "the mushrooms scorch .", "sentence_good": "the mushrooms scorch .", "sentence_bad": "the mushrooms took ."}
+{"original": "some gate has n't shut .", "sentence_good": "some gate will n't shut .", "sentence_bad": "some gate will n't lifted ."}
+{"original": "some pants twirl .", "sentence_good": "some pants twirl .", "sentence_bad": "some pants wore ."}
+{"original": "a sweater had unfolded .", "sentence_good": "the sweater will unfolded .", "sentence_bad": "the sweater will seen ."}
+{"original": "feet crack .", "sentence_good": "feet crack .", "sentence_bad": "feet lifted ."}
+{"original": "that carriage turns .", "sentence_good": "the carriage turns .", "sentence_bad": "the carriage conceals ."}
+{"original": "unicycles slow .", "sentence_good": "unicycles slow .", "sentence_bad": "unicycles find ."}
+{"original": "the guys are reuniting .", "sentence_good": "the guys will reuniting .", "sentence_bad": "the guys will criticizing ."}
+{"original": "marla 's contractors hide away .", "sentence_good": "marla will contractors hide away .", "sentence_bad": "marla will contractors see ."}
+{"original": "all glasses had dried .", "sentence_good": "the glasses will dried .", "sentence_bad": "the glasses will admired ."}
+{"original": "candles had n't brightened .", "sentence_good": "candles will n't brightened .", "sentence_bad": "candles will n't lifted ."}
+{"original": "a lot of gloves shrink .", "sentence_good": "the lot at gloves shrink .", "sentence_bad": "the lot at gloves liked ."}
+{"original": "these snakes wake up .", "sentence_good": "the snakes wake up .", "sentence_bad": "the snakes admired ."}
+{"original": "every window flung open .", "sentence_good": "the window flung open .", "sentence_bad": "the window lifted ."}
+{"original": "a hat has wrinkled .", "sentence_good": "the hat will wrinkled .", "sentence_bad": "the hat will found ."}
+{"original": "catherine worries .", "sentence_good": "catherine worries .", "sentence_bad": "catherine stuns ."}
+{"original": "allison will wash .", "sentence_good": "allison will wash .", "sentence_bad": "allison will love ."}
+{"original": "every eggplant bakes .", "sentence_good": "the eggplant bakes .", "sentence_bad": "the eggplant saw ."}
+{"original": "dennis should stretch .", "sentence_good": "dennis will stretch .", "sentence_bad": "dennis will reveal ."}
+{"original": "what crumples .", "sentence_good": "what crumples .", "sentence_bad": "what scanned ."}
+{"original": "some men have worried .", "sentence_good": "some men will worried .", "sentence_bad": "some men will referenced ."}
+{"original": "debra hurts .", "sentence_good": "debra hurts .", "sentence_bad": "debra annoyed ."}
+{"original": "water has n't sold .", "sentence_good": "water will n't sold .", "sentence_bad": "water will n't bought ."}
+{"original": "jennifer 's ex-wives have married .", "sentence_good": "jennifer will ex-wives will married .", "sentence_bad": "jennifer will ex-wives will left ."}
+{"original": "most mirrors had n't broken .", "sentence_good": "most mirrors will n't broken .", "sentence_bad": "most mirrors will n't seen ."}
+{"original": "many eggplants ripen .", "sentence_good": "many eggplants ripen .", "sentence_bad": "many eggplants conceal ."}
+{"original": "some spotlights will brighten .", "sentence_good": "some spotlights will brighten .", "sentence_bad": "some spotlights will see ."}
+{"original": "the truck crashes .", "sentence_good": "the truck crashes .", "sentence_bad": "the truck bought ."}
+{"original": "a lot of candles were brightening .", "sentence_good": "the lot at candles will brightening .", "sentence_bad": "the lot at candles will taking ."}
+{"original": "a cart turned .", "sentence_good": "the cart turned .", "sentence_bad": "the cart conceals ."}
+{"original": "shawls are n't fraying .", "sentence_good": "shawls will n't fraying .", "sentence_bad": "shawls will n't finding ."}
+{"original": "coats are n't soaking .", "sentence_good": "coats will n't soaking .", "sentence_bad": "coats will n't wearing ."}
+{"original": "the ice cream was n't melting .", "sentence_good": "the ice cream will n't melting .", "sentence_bad": "the ice cream will n't admiring ."}
+{"original": "a river was n't freezing .", "sentence_good": "the river will n't freezing .", "sentence_bad": "the river will n't visiting ."}
+{"original": "some carriage slows .", "sentence_good": "some carriage slows .", "sentence_bad": "some carriage saw ."}
+{"original": "bikes are turning .", "sentence_good": "bikes will turning .", "sentence_bad": "bikes will admiring ."}
+{"original": "a lamp darkens .", "sentence_good": "the lamp darkens .", "sentence_bad": "the lamp found ."}
+{"original": "this blouse was n't folding .", "sentence_good": "the blouse will n't folding .", "sentence_bad": "the blouse will n't taking ."}
+{"original": "that museum should n't assemble .", "sentence_good": "the museum will n't assemble .", "sentence_bad": "the museum will n't remember ."}
+{"original": "that blouse crumples .", "sentence_good": "the blouse crumples .", "sentence_bad": "the blouse likes ."}
+{"original": "an icicle has evaporated .", "sentence_good": "the icicle will evaporated .", "sentence_bad": "the icicle will taken ."}
+{"original": "some coat folded .", "sentence_good": "some coat folded .", "sentence_bad": "some coat admired ."}
+{"original": "the coat flattens .", "sentence_good": "the coat flattens .", "sentence_bad": "the coat likes ."}
+{"original": "these gloves folded .", "sentence_good": "the gloves folded .", "sentence_bad": "the gloves cleaned ."}
+{"original": "every glacier melts .", "sentence_good": "the glacier melts .", "sentence_bad": "the glacier conceals ."}
+{"original": "every lamp was n't dimming .", "sentence_good": "the lamp will n't dimming .", "sentence_bad": "the lamp will n't concealing ."}
+{"original": "some shoe frays .", "sentence_good": "some shoe frays .", "sentence_bad": "some shoe admires ."}
+{"original": "every scarf shrank .", "sentence_good": "the scarf shrank .", "sentence_bad": "the scarf bought ."}
+{"original": "the eggplants do n't bake .", "sentence_good": "the eggplants will n't bake .", "sentence_bad": "the eggplants will n't buy ."}
+{"original": "gates flung open .", "sentence_good": "gates flung open .", "sentence_bad": "gates clean ."}
+{"original": "every truck rolled .", "sentence_good": "the truck rolled .", "sentence_bad": "the truck cleaned ."}
+{"original": "the cars do maneuver .", "sentence_good": "the cars will maneuver .", "sentence_bad": "the cars will bring ."}
+{"original": "many students reunite .", "sentence_good": "many students reunite .", "sentence_bad": "many students hug ."}
+{"original": "the casserole burns .", "sentence_good": "the casserole burns .", "sentence_bad": "the casserole sees ."}
+{"original": "those girls hurt .", "sentence_good": "the girls hurt .", "sentence_bad": "the girls investigate ."}
+{"original": "andrew 's associates might hide .", "sentence_good": "andrew will associates will hide .", "sentence_bad": "andrew will associates will hate ."}
+{"original": "the skateboard rolls .", "sentence_good": "the skateboard rolls .", "sentence_bad": "the skateboard concealed ."}
+{"original": "that sweater has wrinkled .", "sentence_good": "the sweater will wrinkled .", "sentence_bad": "the sweater will worn ."}
+{"original": "computers have chipped .", "sentence_good": "computers will chipped .", "sentence_bad": "computers will fixed ."}
+{"original": "most trucks wo n't accelerate .", "sentence_good": "most trucks wo n't accelerate .", "sentence_bad": "most trucks wo n't clean ."}
+{"original": "the cups break .", "sentence_good": "the cups break .", "sentence_bad": "the cups cleaned ."}
+{"original": "closets opened .", "sentence_good": "closets opened .", "sentence_bad": "closets concealed ."}
+{"original": "all cups drop .", "sentence_good": "the cups drop .", "sentence_bad": "the cups fixed ."}
+{"original": "ellen could hide away .", "sentence_good": "ellen will hide away .", "sentence_bad": "ellen will see ."}
+{"original": "the borgias had married .", "sentence_good": "the borgias will married .", "sentence_bad": "the borgias will investigated ."}
+{"original": "those dresses ca n't fray .", "sentence_good": "the dresses will n't fray .", "sentence_bad": "the dresses will n't bring ."}
+{"original": "a pie charred .", "sentence_good": "the pie charred .", "sentence_bad": "the pie brought ."}
+{"original": "patricia 's husband washes .", "sentence_good": "patricia will husband washes .", "sentence_bad": "patricia will husband hugged ."}
+{"original": "dan had n't hurt .", "sentence_good": "dan will n't hurt .", "sentence_bad": "dan will n't described ."}
+{"original": "that river freezes .", "sentence_good": "the river freezes .", "sentence_bad": "the river disliked ."}
+{"original": "windows break .", "sentence_good": "windows break .", "sentence_bad": "windows buy ."}
+{"original": "a glacier had n't frozen .", "sentence_good": "the glacier will n't frozen .", "sentence_bad": "the glacier will n't seen ."}
+{"original": "some truck accelerates .", "sentence_good": "some truck accelerates .", "sentence_bad": "some truck took ."}
+{"original": "those bikes accelerate .", "sentence_good": "the bikes accelerate .", "sentence_bad": "the bikes find ."}
+{"original": "a lot of bicycles crack .", "sentence_good": "the lot at bicycles crack .", "sentence_bad": "the lot at bicycles took ."}
+{"original": "lamps fade .", "sentence_good": "lamps fade .", "sentence_bad": "lamps conceal ."}
+{"original": "those bikes turn .", "sentence_good": "the bikes turn .", "sentence_bad": "the bikes admire ."}
+{"original": "most glaciers did evaporate .", "sentence_good": "most glaciers will evaporate .", "sentence_bad": "most glaciers will respect ."}
+{"original": "sweaters warp .", "sentence_good": "sweaters warp .", "sentence_bad": "sweaters see ."}
+{"original": "those eyes closed .", "sentence_good": "the eyes closed .", "sentence_bad": "the eyes revealed ."}
+{"original": "that popsicle ca n't freeze .", "sentence_good": "the popsicle will n't freeze .", "sentence_bad": "the popsicle will n't find ."}
+{"original": "that lamp fades .", "sentence_good": "the lamp fades .", "sentence_bad": "the lamp saw ."}
+{"original": "some muffins bake .", "sentence_good": "some muffins bake .", "sentence_bad": "some muffins find ."}
+{"original": "some tomatoes ripened .", "sentence_good": "some tomatoes ripened .", "sentence_bad": "some tomatoes saw ."}
+{"original": "mary had n't trained .", "sentence_good": "mary will n't trained .", "sentence_bad": "mary will n't embarrassed ."}
+{"original": "the plates are chipping .", "sentence_good": "the plates will chipping .", "sentence_bad": "the plates will messing up ."}
+{"original": "eric was n't hiding .", "sentence_good": "eric will n't hiding .", "sentence_bad": "eric will n't distracting ."}
+{"original": "deborah 's colleagues heal .", "sentence_good": "deborah will colleagues heal .", "sentence_bad": "deborah will colleagues dislike ."}
+{"original": "gina 's students wash .", "sentence_good": "gina will students wash .", "sentence_bad": "gina will students shocked ."}
+{"original": "every jacket shrinks .", "sentence_good": "the jacket shrinks .", "sentence_bad": "the jacket found ."}
+{"original": "many bikes turned .", "sentence_good": "many bikes turned .", "sentence_bad": "many bikes cleaned ."}
+{"original": "eric 's cousins reunited .", "sentence_good": "eric will cousins reunited .", "sentence_bad": "eric will cousins remembered ."}
+{"original": "every glove folds .", "sentence_good": "the glove folds .", "sentence_bad": "the glove liked ."}
+{"original": "those bicycles have n't turned .", "sentence_good": "the bicycles will n't turned .", "sentence_bad": "the bicycles will n't seen ."}
+{"original": "the door closed .", "sentence_good": "the door closed .", "sentence_bad": "the door conceals ."}
+{"original": "this mother of the borgias wakes up .", "sentence_good": "the mother at the borgias wakes up .", "sentence_bad": "the mother at the borgias praised ."}
+{"original": "that cart could slow .", "sentence_good": "the cart will slow .", "sentence_bad": "the cart will find ."}
+{"original": "many coats were n't twisting .", "sentence_good": "many coats will n't twisting .", "sentence_bad": "many coats will n't wearing ."}
+{"original": "nicole hides .", "sentence_good": "nicole hides .", "sentence_bad": "nicole upset ."}
+{"original": "that ice cream had n't evaporated .", "sentence_good": "the ice cream will n't evaporated .", "sentence_bad": "the ice cream will n't admired ."}
+{"original": "every coat shrinks .", "sentence_good": "the coat shrinks .", "sentence_bad": "the coat found ."}
+{"original": "melanie 's grandson has hidden away .", "sentence_good": "melanie will grandson will hidden away .", "sentence_bad": "melanie will grandson will disliked ."}
+{"original": "the windows chip .", "sentence_good": "the windows chip .", "sentence_bad": "the windows admire ."}
+{"original": "the men benefit .", "sentence_good": "the men benefit .", "sentence_bad": "the men kissed ."}
+{"original": "a blouse tightened .", "sentence_good": "the blouse tightened .", "sentence_bad": "the blouse conceals ."}
+{"original": "laurie 's granddaughters benefit .", "sentence_good": "laurie will granddaughters benefit .", "sentence_bad": "laurie will granddaughters bored ."}
+{"original": "a lot of lamps darken .", "sentence_good": "the lot at lamps darken .", "sentence_bad": "the lot at lamps admire ."}
+{"original": "most women assembled .", "sentence_good": "most women assembled .", "sentence_bad": "most women cured ."}
+{"original": "all bikes had n't dropped .", "sentence_good": "the bikes will n't dropped .", "sentence_bad": "the bikes will n't taken ."}
+{"original": "these screens do brighten .", "sentence_good": "the screens will brighten .", "sentence_bad": "the screens will buy ."}
+{"original": "this car rolls .", "sentence_good": "the car rolls .", "sentence_bad": "the car cleans ."}
+{"original": "this spinach was blackening .", "sentence_good": "the spinach will blackening .", "sentence_bad": "the spinach will taking ."}
+{"original": "a truck was accelerating .", "sentence_good": "the truck will accelerating .", "sentence_bad": "the truck will fixing ."}
+{"original": "some cars accelerate .", "sentence_good": "some cars accelerate .", "sentence_bad": "some cars admired ."}
+{"original": "that chair cracks .", "sentence_good": "the chair cracks .", "sentence_bad": "the chair saw ."}
+{"original": "the children were benefiting .", "sentence_good": "the children will benefiting .", "sentence_bad": "the children will hugging ."}
+{"original": "that truck steers .", "sentence_good": "the truck steers .", "sentence_bad": "the truck finds ."}
+{"original": "some steak was n't scorching .", "sentence_good": "some steak will n't scorching .", "sentence_bad": "some steak will n't lifting ."}
+{"original": "these lamps are darkening .", "sentence_good": "the lamps will darkening .", "sentence_bad": "the lamps will cleaning ."}
+{"original": "steven healed .", "sentence_good": "steven healed .", "sentence_bad": "steven left ."}
+{"original": "the shirts would fold .", "sentence_good": "the shirts will fold .", "sentence_bad": "the shirts will find ."}
+{"original": "valerie 's employees could n't wake up .", "sentence_good": "valerie will employees will n't wake up .", "sentence_bad": "valerie will employees will n't love ."}
+{"original": "those scarves did n't dry .", "sentence_good": "the scarves will n't dry .", "sentence_bad": "the scarves will n't conceal ."}
+{"original": "lucille hid .", "sentence_good": "lucille hid .", "sentence_bad": "lucille visits ."}
+{"original": "that sock wrinkles .", "sentence_good": "the sock wrinkles .", "sentence_bad": "the sock found ."}
+{"original": "some rivers had n't melted .", "sentence_good": "some rivers will n't melted .", "sentence_bad": "some rivers will n't exited ."}
+{"original": "this lake should melt .", "sentence_good": "the lake will melt .", "sentence_bad": "the lake will clean ."}
+{"original": "a pepper ripened .", "sentence_good": "the pepper ripened .", "sentence_bad": "the pepper cleans ."}
+{"original": "many carts were n't rolling .", "sentence_good": "many carts will n't rolling .", "sentence_bad": "many carts will n't concealing ."}
+{"original": "a glove loosened .", "sentence_good": "the glove loosened .", "sentence_bad": "the glove conceals ."}
+{"original": "this actress 's teacher heals .", "sentence_good": "the actress will teacher heals .", "sentence_bad": "the actress will teacher hugged ."}
+{"original": "every skateboard had n't cracked .", "sentence_good": "the skateboard will n't cracked .", "sentence_bad": "the skateboard will n't fixed ."}
+{"original": "gerald was standing up .", "sentence_good": "gerald will standing up .", "sentence_bad": "gerald will discussing ."}
+{"original": "the blouse had twisted .", "sentence_good": "the blouse will twisted .", "sentence_bad": "the blouse will admired ."}
+{"original": "this wheelbarrow could maneuver .", "sentence_good": "the wheelbarrow will maneuver .", "sentence_bad": "the wheelbarrow will see ."}
+{"original": "many lights were darkening .", "sentence_good": "many lights will darkening .", "sentence_bad": "many lights will lifting ."}
+{"original": "what had n't folded .", "sentence_good": "what will n't folded .", "sentence_bad": "what will n't descended ."}
+{"original": "that couch broke .", "sentence_good": "the couch broke .", "sentence_bad": "the couch liked ."}
+{"original": "melinda is n't standing up .", "sentence_good": "melinda will n't standing up .", "sentence_bad": "melinda will n't upsetting ."}
+{"original": "these trucks drop .", "sentence_good": "the trucks drop .", "sentence_bad": "the trucks lifted ."}
+{"original": "this unicycle was n't accelerating .", "sentence_good": "the unicycle will n't accelerating .", "sentence_bad": "the unicycle will n't lifting ."}
+{"original": "these lakes are freezing .", "sentence_good": "the lakes will freezing .", "sentence_bad": "the lakes will insulting ."}
+{"original": "that vase shatters .", "sentence_good": "the vase shatters .", "sentence_bad": "the vase reveals ."}
+{"original": "these forks shattered .", "sentence_good": "the forks shattered .", "sentence_bad": "the forks conceal ."}
+{"original": "some carts might drop .", "sentence_good": "some carts will drop .", "sentence_bad": "some carts will conceal ."}
+{"original": "that skirt is flattening .", "sentence_good": "the skirt will flattening .", "sentence_bad": "the skirt will buying ."}
+{"original": "all shawls had n't loosened .", "sentence_good": "the shawls will n't loosened .", "sentence_bad": "the shawls will n't taken ."}
+{"original": "all couches broke .", "sentence_good": "the couches broke .", "sentence_bad": "the couches buy ."}
+{"original": "some hats had dried .", "sentence_good": "some hats will dried .", "sentence_bad": "some hats will taken ."}
+{"original": "mary has n't worried .", "sentence_good": "mary will n't worried .", "sentence_bad": "mary will n't embarrassed ."}
+{"original": "that shoe was soaking .", "sentence_good": "the shoe will soaking .", "sentence_bad": "the shoe will taking ."}
+{"original": "every hat might fray .", "sentence_good": "the hat will fray .", "sentence_bad": "the hat will find ."}
+{"original": "kristen has healed .", "sentence_good": "kristen will healed .", "sentence_bad": "kristen will fired ."}
+{"original": "this rice scorches .", "sentence_good": "the rice scorches .", "sentence_bad": "the rice saw ."}
+{"original": "this lamp brightens .", "sentence_good": "the lamp brightens .", "sentence_bad": "the lamp admired ."}
+{"original": "this ice melts .", "sentence_good": "the ice melts .", "sentence_bad": "the ice cleans ."}
+{"original": "mirrors drop .", "sentence_good": "mirrors drop .", "sentence_bad": "mirrors lift ."}
+{"original": "these bikes ca n't slow .", "sentence_good": "the bikes will n't slow .", "sentence_bad": "the bikes will n't clean ."}
+{"original": "sara can train .", "sentence_good": "sara will train .", "sentence_bad": "sara will hate ."}
+{"original": "a glove shrinks .", "sentence_good": "the glove shrinks .", "sentence_bad": "the glove bought ."}
+{"original": "a lot of cups have n't broken .", "sentence_good": "the lot at cups will n't broken .", "sentence_bad": "the lot at cups will n't admired ."}
+{"original": "that shoe shrank .", "sentence_good": "the shoe shrank .", "sentence_bad": "the shoe found ."}
+{"original": "joseph healed .", "sentence_good": "joseph healed .", "sentence_bad": "joseph embarrassed ."}
+{"original": "the shirts have frayed .", "sentence_good": "the shirts will frayed .", "sentence_bad": "the shirts will admired ."}
+{"original": "deanna 's tutors stretch .", "sentence_good": "deanna will tutors stretch .", "sentence_bad": "deanna will tutors find ."}
+{"original": "some shirt stretched .", "sentence_good": "some shirt stretched .", "sentence_bad": "some shirt messed up ."}
+{"original": "that ice evaporates .", "sentence_good": "the ice evaporates .", "sentence_bad": "the ice likes ."}
+{"original": "every dress unfolds .", "sentence_good": "the dress unfolds .", "sentence_bad": "the dress likes ."}
+{"original": "every skateboard sells .", "sentence_good": "the skateboard sells .", "sentence_bad": "the skateboard bought ."}
+{"original": "charles worries .", "sentence_good": "charles worries .", "sentence_bad": "charles liked ."}
+{"original": "some chicken was baking .", "sentence_good": "some chicken will baking .", "sentence_bad": "some chicken will revealing ."}
+{"original": "a shawl was n't selling .", "sentence_good": "the shawl will n't selling .", "sentence_bad": "the shawl will n't wearing ."}
+{"original": "this hat was flattening .", "sentence_good": "the hat will flattening .", "sentence_bad": "the hat will cleaning ."}
+{"original": "diana 's ex-boyfriends assembled .", "sentence_good": "diana will ex-boyfriends assembled .", "sentence_bad": "diana will ex-boyfriends stun ."}
+{"original": "all tomatoes grew .", "sentence_good": "the tomatoes grew .", "sentence_bad": "the tomatoes admired ."}
+{"original": "some window could n't break .", "sentence_good": "some window will n't break .", "sentence_bad": "some window will n't conceal ."}
+{"original": "marla would n't wash .", "sentence_good": "marla will n't wash .", "sentence_bad": "marla will n't shock ."}
+{"original": "every waiter did n't stand up .", "sentence_good": "the waiter will n't stand up .", "sentence_bad": "the waiter will n't fire ."}
+{"original": "every skirt ca n't tighten .", "sentence_good": "the skirt will n't tighten .", "sentence_bad": "the skirt will n't find ."}
+{"original": "many jackets flatten .", "sentence_good": "many jackets flatten .", "sentence_bad": "many jackets clean ."}
+{"original": "many lakes evaporate .", "sentence_good": "many lakes evaporate .", "sentence_bad": "many lakes reveal ."}
+{"original": "every eggplant is n't baking .", "sentence_good": "the eggplant will n't baking .", "sentence_bad": "the eggplant will n't bringing ."}
+{"original": "some candle has n't faded .", "sentence_good": "some candle will n't faded .", "sentence_bad": "some candle will n't lifted ."}
+{"original": "these jackets stretch .", "sentence_good": "the jackets stretch .", "sentence_bad": "the jackets wore ."}
+{"original": "that spinach wo n't ripen .", "sentence_good": "the spinach wo n't ripen .", "sentence_bad": "the spinach wo n't lift ."}
+{"original": "claire does n't stand up .", "sentence_good": "claire will n't stand up .", "sentence_bad": "claire will n't disgust ."}
+{"original": "a lot of bicycles accelerate .", "sentence_good": "the lot at bicycles accelerate .", "sentence_bad": "the lot at bicycles cleaned ."}
+{"original": "many blouses are soaking .", "sentence_good": "many blouses will soaking .", "sentence_bad": "many blouses will buying ."}
+{"original": "a sock had stretched .", "sentence_good": "the sock will stretched .", "sentence_bad": "the sock will concealed ."}
+{"original": "most daughters of robert had sat down .", "sentence_good": "most daughters at robert will sat down .", "sentence_bad": "most daughters at robert will upset ."}
+{"original": "all sisters of kayla worry .", "sentence_good": "the sisters at kayla worry .", "sentence_bad": "the sisters at kayla upset ."}
+{"original": "george has n't moved .", "sentence_good": "george will n't moved .", "sentence_bad": "george will n't respected ."}
+{"original": "an eye opens .", "sentence_good": "the eye opens .", "sentence_bad": "the eye admires ."}
+{"original": "most glasses would break .", "sentence_good": "most glasses will break .", "sentence_bad": "most glasses will see ."}
+{"original": "broccoli blackens .", "sentence_good": "broccoli blackens .", "sentence_bad": "broccoli admires ."}
+{"original": "those waitresses are hurting .", "sentence_good": "the waitresses will hurting .", "sentence_bad": "the waitresses will describing ."}
+{"original": "that muffin has n't baked .", "sentence_good": "the muffin will n't baked .", "sentence_bad": "the muffin will n't seen ."}
+{"original": "gina 's lawyer hid .", "sentence_good": "gina will lawyer hid .", "sentence_bad": "gina will lawyer hates ."}
+{"original": "some spotlight hides .", "sentence_good": "some spotlight hides .", "sentence_bad": "some spotlight saw ."}
+{"original": "some son of paula worried .", "sentence_good": "some son at paula worried .", "sentence_bad": "some son at paula likes ."}
+{"original": "every river melted .", "sentence_good": "the river melted .", "sentence_bad": "the river likes ."}
+{"original": "stephen 's bosses are n't hiding .", "sentence_good": "stephen will bosses will n't hiding .", "sentence_bad": "stephen will bosses will n't annoying ."}
+{"original": "those wheelbarrows rolled .", "sentence_good": "the wheelbarrows rolled .", "sentence_bad": "the wheelbarrows found ."}
+{"original": "a lot of bikes crash .", "sentence_good": "the lot at bikes crash .", "sentence_bad": "the lot at bikes liked ."}
+{"original": "this plate cracks .", "sentence_good": "the plate cracks .", "sentence_bad": "the plate admired ."}
+{"original": "feet could n't chip .", "sentence_good": "feet will n't chip .", "sentence_bad": "feet will n't clean ."}
+{"original": "jessica had woken up .", "sentence_good": "jessica will woken up .", "sentence_bad": "jessica will kissed ."}
+{"original": "all mushrooms scorch .", "sentence_good": "the mushrooms scorch .", "sentence_bad": "the mushrooms found ."}
+{"original": "some grocery stores had n't sold .", "sentence_good": "some grocery stores will n't sold .", "sentence_bad": "some grocery stores will n't exited ."}
+{"original": "every glove twirled .", "sentence_good": "the glove twirled .", "sentence_bad": "the glove saw ."}
+{"original": "some screens have broken .", "sentence_good": "some screens will broken .", "sentence_bad": "some screens will revealed ."}
+{"original": "that gate opens .", "sentence_good": "the gate opens .", "sentence_bad": "the gate buys ."}
+{"original": "every glove was n't warping .", "sentence_good": "the glove will n't warping .", "sentence_bad": "the glove will n't bringing ."}
+{"original": "guy hides .", "sentence_good": "guy hides .", "sentence_bad": "guy sees ."}
+{"original": "what had n't frozen .", "sentence_good": "what will n't frozen .", "sentence_bad": "what will n't explored ."}

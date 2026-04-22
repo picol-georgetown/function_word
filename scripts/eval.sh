@@ -1,0 +1,32 @@
+#!/bin/bash
+
+python benchmark_eval.py xiulinyang/GPT2_no_function_53 no_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_no_function_42 no_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_no_function_67 no_function_blimp --best_checkpoint
+
+
+python benchmark_eval.py xiulinyang/GPT2_five_function_53 five_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_five_function_42 five_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_five_function_67 five_function_blimp --best_checkpoint
+
+python benchmark_eval.py xiulinyang/GPT2_random_function_53 random_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_random_function_42 random_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_random_function_67 random_function_blimp --best_checkpoint
+
+
+python benchmark_eval.py xiulinyang/GPT2_natural_function_53 natural_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_natural_function_42 natural_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_natural_function_67 natural_function_blimp --best_checkpoint
+
+
+python benchmark_eval.py xiulinyang/GPT2_within_boundary_53 within_boundary_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_within_boundary_42 within_boundary_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_within_boundary_67 within_boundary_blimp --best_checkpoint
+
+python benchmark_eval.py xiulinyang/GPT2_bigram_function_53 bigram_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_bigram_function_42 bigram_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_bigram_function_67 bigram_function_blimp --best_checkpoint
+
+python benchmark_eval.py xiulinyang/GPT2_more_function_53 more_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_more_function_42 more_function_blimp --best_checkpoint
+python benchmark_eval.py xiulinyang/GPT2_more_function_67 more_function_blimp --best_checkpoint

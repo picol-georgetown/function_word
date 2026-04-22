@@ -1,0 +1,1346 @@
+{
+    "Abaza": {
+        "code": "abq",
+        "language_family": "Northwest Caucasian",
+        "type_len": 473,
+        "token_len": 652,
+        "ttr": 0.7254601226993865,
+        "word_entropy": 8.555908827623291
+    },
+    "Abkhaz": {
+        "code": "ab",
+        "language_family": "Northwest Caucasian",
+        "type_len": 2677,
+        "token_len": 4416,
+        "ttr": 0.6062047101449275,
+        "word_entropy": 10.752884164832908
+    },
+    "Afrikaans": {
+        "code": "af",
+        "language_family": "Indo-European",
+        "type_len": 5685,
+        "token_len": 43817,
+        "ttr": 0.12974416322431934,
+        "word_entropy": 9.097678829729395
+    },
+    "Akkadian": {
+        "code": "akk",
+        "language_family": "Afro-Asiatic",
+        "type_len": 3784,
+        "token_len": 24983,
+        "ttr": 0.1514629948364888,
+        "word_entropy": 9.349298294496727
+    },
+    "Akuntsu": {
+        "code": "aqz",
+        "language_family": "Tupian",
+        "type_len": 494,
+        "token_len": 1148,
+        "ttr": 0.43031358885017423,
+        "word_entropy": 8.30429928248162
+    },
+    "Albanian": {
+        "code": "sq",
+        "language_family": "Indo-European",
+        "type_len": 1586,
+        "token_len": 3908,
+        "ttr": 0.40583418628454454,
+        "word_entropy": 8.829502312606605
+    },
+    "Amharic": {
+        "code": "am",
+        "language_family": "Afro-Asiatic",
+        "type_len": 1467,
+        "token_len": 8905,
+        "ttr": 0.16473891072431218,
+        "word_entropy": 7.818562012370046
+    },
+    "Ancient_Greek": {
+        "code": "grc",
+        "language_family": "Indo-European",
+        "type_len": 65102,
+        "token_len": 426635,
+        "ttr": 0.15259413784616827,
+        "word_entropy": 11.920261489239993
+    },
+    "Ancient_Hebrew": {
+        "code": "hbo",
+        "language_family": "Afro-Asiatic",
+        "type_len": 10090,
+        "token_len": 34098,
+        "ttr": 0.2959117836823274,
+        "word_entropy": 10.368742533875867
+    },
+    "Apurina": {
+        "code": "apu",
+        "language_family": "Arawakan",
+        "type_len": 350,
+        "token_len": 753,
+        "ttr": 0.4648074369189907,
+        "word_entropy": 7.6191754910315455
+    },
+    "Arabic": {
+        "code": "ar",
+        "language_family": "Afro-Asiatic",
+        "type_len": 30867,
+        "token_len": 943704,
+        "ttr": 0.03270834922814781,
+        "word_entropy": 4.201952708678873
+    },
+    "Armenian": {
+        "code": "hy",
+        "language_family": "Indo-European",
+        "type_len": 46883,
+        "token_len": 250666,
+        "ttr": 0.18703374211101625,
+        "word_entropy": 12.157493423684027
+    },
+    "Assyrian": {
+        "code": "aii",
+        "language_family": "Afro-Asiatic",
+        "type_len": 249,
+        "token_len": 387,
+        "ttr": 0.6434108527131783,
+        "word_entropy": 7.429218668488308
+    },
+    "Azerbaijani": {
+        "code": "az",
+        "language_family": "Altaic",
+        "type_len": 346,
+        "token_len": 529,
+        "ttr": 0.6540642722117203,
+        "word_entropy": 7.883964803669622
+    },
+    "Bambara": {
+        "code": "bm",
+        "language_family": "Mande",
+        "type_len": 962,
+        "token_len": 11874,
+        "ttr": 0.0810173488293751,
+        "word_entropy": 7.199326103874419
+    },
+    "Basque": {
+        "code": "eu",
+        "language_family": "Basque",
+        "type_len": 24049,
+        "token_len": 101518,
+        "ttr": 0.23689394984140744,
+        "word_entropy": 12.098252728130483
+    },
+    "Bavarian": {
+        "code": "bar",
+        "language_family": "Indo-European",
+        "type_len": 4395,
+        "token_len": 12860,
+        "ttr": 0.3417573872472784,
+        "word_entropy": 10.12497214495484
+    },
+    "Beja": {
+        "code": "bej",
+        "language_family": "Afro-Asiatic",
+        "type_len": 1846,
+        "token_len": 9515,
+        "ttr": 0.19400945874934314,
+        "word_entropy": 8.737255514492897
+    },
+    "Belarusian": {
+        "code": "be",
+        "language_family": "Indo-European",
+        "type_len": 45756,
+        "token_len": 234358,
+        "ttr": 0.19523976139069288,
+        "word_entropy": 12.500823986893996
+    },
+    "Bengali": {
+        "code": "bn",
+        "language_family": "Indo-European",
+        "type_len": 141,
+        "token_len": 247,
+        "ttr": 0.5708502024291497,
+        "word_entropy": 6.732105161207857
+    },
+    "Bhojpuri": {
+        "code": "bho",
+        "language_family": "Indo-European",
+        "type_len": 1666,
+        "token_len": 5969,
+        "ttr": 0.27910872843022283,
+        "word_entropy": 9.165222228583428
+    },
+    "Bororo": {
+        "code": "bor",
+        "language_family": "Bororoan",
+        "type_len": 1806,
+        "token_len": 5898,
+        "ttr": 0.306205493387589,
+        "word_entropy": 9.329912535505356
+    },
+    "Breton": {
+        "code": "br",
+        "language_family": "Indo-European",
+        "type_len": 2382,
+        "token_len": 8725,
+        "ttr": 0.27300859598853866,
+        "word_entropy": 9.118443467845356
+    },
+    "Bulgarian": {
+        "code": "bg",
+        "language_family": "Indo-European",
+        "type_len": 26306,
+        "token_len": 134088,
+        "ttr": 0.1961845951912177,
+        "word_entropy": 11.297243897059408
+    },
+    "Buryat": {
+        "code": "bua",
+        "language_family": "Altaic",
+        "type_len": 4090,
+        "token_len": 8333,
+        "ttr": 0.49081963278531143,
+        "word_entropy": 11.236154746762992
+    },
+    "Cantonese": {
+        "code": "yue",
+        "language_family": "Sino-Tibetan",
+        "type_len": 1511,
+        "token_len": 11189,
+        "ttr": 0.13504334614353383,
+        "word_entropy": 8.30842040394069
+    },
+    "Cappadocian": {
+        "code": "caq",
+        "language_family": "Indo-European",
+        "type_len": 1201,
+        "token_len": 3748,
+        "ttr": 0.3204375667022412,
+        "word_entropy": 8.679672346144793
+    },
+    "Catalan": {
+        "code": "ca",
+        "language_family": "Indo-European",
+        "type_len": 32295,
+        "token_len": 495547,
+        "ttr": 0.06517040765053567,
+        "word_entropy": 9.811357405318455
+    },
+    "Cebuano": {
+        "code": "ceb",
+        "language_family": "Austronesian",
+        "type_len": 486,
+        "token_len": 1161,
+        "ttr": 0.4186046511627907,
+        "word_entropy": 7.653576808242207
+    },
+    "Chinese": {
+        "code": "zh",
+        "language_family": "Sino-Tibetan",
+        "type_len": 40904,
+        "token_len": 696748,
+        "ttr": 0.05870702176396631,
+        "word_entropy": 11.160285395148307
+    },
+    "Chukchi": {
+        "code": "ckt",
+        "language_family": "Chukotko-Kamchatkan",
+        "type_len": 2093,
+        "token_len": 4827,
+        "ttr": 0.4336026517505697,
+        "word_entropy": 9.602665485275667
+    },
+    "Classical_Armenian": {
+        "code": "xcl",
+        "language_family": "Indo-European",
+        "type_len": 7353,
+        "token_len": 75107,
+        "ttr": 0.09790032886415381,
+        "word_entropy": 9.025453776000198
+    },
+    "Classical_Chinese": {
+        "code": "lzh",
+        "language_family": "Sino-Tibetan",
+        "type_len": 9791,
+        "token_len": 432447,
+        "ttr": 0.022640924783846345,
+        "word_entropy": 9.6825460206535
+    },
+    "Coptic": {
+        "code": "cop",
+        "language_family": "Afro-Asiatic",
+        "type_len": 2778,
+        "token_len": 53470,
+        "ttr": 0.051954366934729754,
+        "word_entropy": 7.840745214421874
+    },
+    "Croatian": {
+        "code": "hr",
+        "language_family": "Indo-European",
+        "type_len": 35111,
+        "token_len": 174353,
+        "ttr": 0.2013788119504683,
+        "word_entropy": 11.9667771079445
+    },
+    "Czech": {
+        "code": "cs",
+        "language_family": "Indo-European",
+        "type_len": 162527,
+        "token_len": 1915309,
+        "ttr": 0.08485680378466347,
+        "word_entropy": 12.983404250217166
+    },
+    "Danish": {
+        "code": "da",
+        "language_family": "Indo-European",
+        "type_len": 17579,
+        "token_len": 86400,
+        "ttr": 0.20346064814814815,
+        "word_entropy": 10.605870458337504
+    },
+    "Dutch": {
+        "code": "nl",
+        "language_family": "Indo-European",
+        "type_len": 47199,
+        "token_len": 446591,
+        "ttr": 0.10568730673031924,
+        "word_entropy": 10.785484922420832
+    },
+    "Egyptian": {
+        "code": "egy",
+        "language_family": "Afro-Asiatic",
+        "type_len": 2152,
+        "token_len": 14434,
+        "ttr": 0.14909242067341,
+        "word_entropy": 8.223101490374173
+    },
+    "English": {
+        "code": "en",
+        "language_family": "Indo-European",
+        "type_len": 34836,
+        "token_len": 669388,
+        "ttr": 0.05204156632625622,
+        "word_entropy": 10.3117210417651
+    },
+    "Erzya": {
+        "code": "myv",
+        "language_family": "Uralic",
+        "type_len": 6601,
+        "token_len": 15708,
+        "ttr": 0.42023172905525846,
+        "word_entropy": 11.499235997338241
+    },
+    "Estonian": {
+        "code": "et",
+        "language_family": "Uralic",
+        "type_len": 89520,
+        "token_len": 440547,
+        "ttr": 0.20320192851160035,
+        "word_entropy": 13.201778609573488
+    },
+    "Faroese": {
+        "code": "fo",
+        "language_family": "Indo-European",
+        "type_len": 6137,
+        "token_len": 41924,
+        "ttr": 0.14638393283083675,
+        "word_entropy": 9.28270179948508
+    },
+    "Finnish": {
+        "code": "fi",
+        "language_family": "Uralic",
+        "type_len": 86339,
+        "token_len": 338144,
+        "ttr": 0.25533204788492475,
+        "word_entropy": 13.533141578130548
+    },
+    "French": {
+        "code": "fr",
+        "language_family": "Indo-European",
+        "type_len": 71437,
+        "token_len": 790438,
+        "ttr": 0.09037647481522902,
+        "word_entropy": 10.906225941224381
+    },
+    "Frisian_Dutch": {
+        "code": "fy",
+        "language_family": "Indo-European",
+        "type_len": 1262,
+        "token_len": 3727,
+        "ttr": 0.3386101422055272,
+        "word_entropy": 8.596592665947743
+    },
+    "Galician": {
+        "code": "gl",
+        "language_family": "Indo-European",
+        "type_len": 20958,
+        "token_len": 168889,
+        "ttr": 0.1240933394122767,
+        "word_entropy": 9.735582013484278
+    },
+    "Georgian": {
+        "code": "ka",
+        "language_family": "Kartvelian",
+        "type_len": 14865,
+        "token_len": 49279,
+        "ttr": 0.3016497899713874,
+        "word_entropy": 11.840132375336333
+    },
+    "German": {
+        "code": "de",
+        "language_family": "Indo-European",
+        "type_len": 217237,
+        "token_len": 3347713,
+        "ttr": 0.06489116599899693,
+        "word_entropy": 11.56618953707039
+    },
+    "Gheg": {
+        "code": "aln",
+        "language_family": "Indo-European",
+        "type_len": 2565,
+        "token_len": 15021,
+        "ttr": 0.170760934691432,
+        "word_entropy": 8.863226153595352
+    },
+    "Gothic": {
+        "code": "got",
+        "language_family": "Indo-European",
+        "type_len": 8706,
+        "token_len": 55336,
+        "ttr": 0.157329767240133,
+        "word_entropy": 9.99759932923929
+    },
+    "Greek": {
+        "code": "el",
+        "language_family": "Indo-European",
+        "type_len": 78041,
+        "token_len": 503843,
+        "ttr": 0.15489150390101677,
+        "word_entropy": 12.250747862689481
+    },
+    "Guajajara": {
+        "code": "gub",
+        "language_family": "Tupian",
+        "type_len": 1306,
+        "token_len": 7714,
+        "ttr": 0.16930256676173192,
+        "word_entropy": 8.084289444645613
+    },
+    "Guarani": {
+        "code": "gn",
+        "language_family": "Tupian",
+        "type_len": 582,
+        "token_len": 11167,
+        "ttr": 0.05211784722844094,
+        "word_entropy": 1.667587279984345
+    },
+    "Gujarati": {
+        "code": "gu",
+        "language_family": "Indo-European",
+        "type_len": 948,
+        "token_len": 1629,
+        "ttr": 0.58195211786372,
+        "word_entropy": 9.064430751045668
+    },
+    "Gwichin": {
+        "code": "gwi",
+        "language_family": "Athabaskan-Eyak-Tlingit",
+        "type_len": 492,
+        "token_len": 681,
+        "ttr": 0.7224669603524229,
+        "word_entropy": 8.63415618207672
+    },
+    "Haitian_Creole": {
+        "code": "ht",
+        "language_family": "Indo-European",
+        "type_len": 861,
+        "token_len": 3003,
+        "ttr": 0.2867132867132867,
+        "word_entropy": 8.307592053422672
+    },
+    "Hausa": {
+        "code": "ha",
+        "language_family": "Afro-Asiatic",
+        "type_len": 2143,
+        "token_len": 14916,
+        "ttr": 0.1436712255296326,
+        "word_entropy": 9.094353645547756
+    },
+    "Hebrew": {
+        "code": "he",
+        "language_family": "Afro-Asiatic",
+        "type_len": 36605,
+        "token_len": 358786,
+        "ttr": 0.10202460519641235,
+        "word_entropy": 10.601587411324374
+    },
+    "Highland_Puebla_Nahuatl": {
+        "code": "highland_puebla_nahuatl",
+        "language_family": "Uto-Aztecan",
+        "type_len": 1821,
+        "token_len": 7937,
+        "ttr": 0.22943177522993574,
+        "word_entropy": 8.76279035530856
+    },
+    "Hindi": {
+        "code": "hi",
+        "language_family": "Indo-European",
+        "type_len": 20936,
+        "token_len": 349600,
+        "ttr": 0.05988558352402746,
+        "word_entropy": 10.215675987952201
+    },
+    "Hittite": {
+        "code": "hit",
+        "language_family": "Indo-European",
+        "type_len": 676,
+        "token_len": 1305,
+        "ttr": 0.518007662835249,
+        "word_entropy": 8.579798070064813
+    },
+    "Hungarian": {
+        "code": "hu",
+        "language_family": "Uralic",
+        "type_len": 13448,
+        "token_len": 36207,
+        "ttr": 0.3714198911812633,
+        "word_entropy": 11.34129403811354
+    },
+    "Icelandic": {
+        "code": "is",
+        "language_family": "Indo-European",
+        "type_len": 82623,
+        "token_len": 1051156,
+        "ttr": 0.07860203433172622,
+        "word_entropy": 10.826071108263355
+    },
+    "Indonesian": {
+        "code": "id",
+        "language_family": "Austronesian",
+        "type_len": 22315,
+        "token_len": 145638,
+        "ttr": 0.15322237328169847,
+        "word_entropy": 11.356177843678951
+    },
+    "Irish": {
+        "code": "ga",
+        "language_family": "Indo-European",
+        "type_len": 22336,
+        "token_len": 147625,
+        "ttr": 0.15130228619813718,
+        "word_entropy": 10.676200199216975
+    },
+    "Italian": {
+        "code": "it",
+        "language_family": "Indo-European",
+        "type_len": 54023,
+        "token_len": 867596,
+        "ttr": 0.062267460891935876,
+        "word_entropy": 10.503368287680908
+    },
+    "Japanese": {
+        "code": "ja",
+        "language_family": "Japanese",
+        "type_len": 43534,
+        "token_len": 2275529,
+        "ttr": 0.019131375605408677,
+        "word_entropy": 2.216472242816612
+    },
+    "Javanese": {
+        "code": "jv",
+        "language_family": "Austronesian",
+        "type_len": 3652,
+        "token_len": 11915,
+        "ttr": 0.30650440621065883,
+        "word_entropy": 10.251847410977836
+    },
+    "Kaapor": {
+        "code": "urb",
+        "language_family": "Tupian",
+        "type_len": 217,
+        "token_len": 360,
+        "ttr": 0.6027777777777777,
+        "word_entropy": 7.268664675316959
+    },
+    "Kangri": {
+        "code": "kangri",
+        "language_family": "Indo-European",
+        "type_len": 1044,
+        "token_len": 2204,
+        "ttr": 0.47368421052631576,
+        "word_entropy": 8.989900434021374
+    },
+    "Karelian": {
+        "code": "karelian",
+        "language_family": "Uralic",
+        "type_len": 1398,
+        "token_len": 2518,
+        "ttr": 0.5552025416997617,
+        "word_entropy": 9.720913572477706
+    },
+    "Karo": {
+        "code": "karo",
+        "language_family": "Hokan",
+        "type_len": 767,
+        "token_len": 2311,
+        "ttr": 0.33189095629597576,
+        "word_entropy": 8.505009348720014
+    },
+    "Kazakh": {
+        "code": "kk",
+        "language_family": "Altaic",
+        "type_len": 4341,
+        "token_len": 8323,
+        "ttr": 0.5215667427610237,
+        "word_entropy": 11.316517659407136
+    },
+    "Khunsari": {
+        "code": "khunsari",
+        "language_family": "Indo-European",
+        "type_len": 57,
+        "token_len": 64,
+        "ttr": 0.890625,
+        "word_entropy": 5.757659765557392
+    },
+    "Kiche": {
+        "code": "quc",
+        "language_family": "Mayan",
+        "type_len": 2143,
+        "token_len": 8327,
+        "ttr": 0.25735559024858895,
+        "word_entropy": 8.725237336322479
+    },
+    "Komi_Permyak": {
+        "code": "komi_permyak",
+        "language_family": "Uralic",
+        "type_len": 567,
+        "token_len": 838,
+        "ttr": 0.6766109785202864,
+        "word_entropy": 8.720026236101194
+    },
+    "Komi_Zyrian": {
+        "code": "komi_zyrian",
+        "language_family": "Uralic",
+        "type_len": 4265,
+        "token_len": 8280,
+        "ttr": 0.5150966183574879,
+        "word_entropy": 11.045346962385915
+    },
+    "Korean": {
+        "code": "ko",
+        "language_family": "Korean",
+        "type_len": 133807,
+        "token_len": 453351,
+        "ttr": 0.2951509977919978,
+        "word_entropy": 14.646760785204862
+    },
+    "Kurmanji": {
+        "code": "kmr",
+        "language_family": "Indo-European",
+        "type_len": 2762,
+        "token_len": 8947,
+        "ttr": 0.30870682910472785,
+        "word_entropy": 9.448368572330708
+    },
+    "Kyrgyz": {
+        "code": "ky",
+        "language_family": "Turkic",
+        "type_len": 6735,
+        "token_len": 21173,
+        "ttr": 0.31809379870589904,
+        "word_entropy": 11.398818081484102
+    },
+    "Latgalian": {
+        "code": "latgalian",
+        "language_family": "Indo-European",
+        "type_len": 113,
+        "token_len": 140,
+        "ttr": 0.8071428571428572,
+        "word_entropy": 6.662253888478874
+    },
+    "Latin": {
+        "code": "la",
+        "language_family": "Indo-European",
+        "type_len": 62070,
+        "token_len": 890570,
+        "ttr": 0.06969693567041334,
+        "word_entropy": 11.238460067449346
+    },
+    "Latvian": {
+        "code": "lv",
+        "language_family": "Indo-European",
+        "type_len": 53866,
+        "token_len": 269292,
+        "ttr": 0.20002822215290467,
+        "word_entropy": 12.749288375119315
+    },
+    "Ligurian": {
+        "code": "lij",
+        "language_family": "Indo-European",
+        "type_len": 1534,
+        "token_len": 6114,
+        "ttr": 0.2508995747464835,
+        "word_entropy": 8.232246497592262
+    },
+    "Lithuanian": {
+        "code": "lt",
+        "language_family": "Indo-European",
+        "type_len": 18791,
+        "token_len": 59772,
+        "ttr": 0.3143779696178813,
+        "word_entropy": 12.250892788793935
+    },
+    "Livvi": {
+        "code": "olo",
+        "language_family": "Uralic",
+        "type_len": 739,
+        "token_len": 1272,
+        "ttr": 0.5809748427672956,
+        "word_entropy": 9.00376728278575
+    },
+    "Low_Saxon": {
+        "code": "nds",
+        "language_family": "Indo-European",
+        "type_len": 4730,
+        "token_len": 19057,
+        "ttr": 0.24820276014063075,
+        "word_entropy": 9.685421926154882
+    },
+    "Luxembourgish": {
+        "code": "lb",
+        "language_family": "Indo-European",
+        "type_len": 122,
+        "token_len": 177,
+        "ttr": 0.6892655367231638,
+        "word_entropy": 6.621149957523676
+    },
+    "Macedonian": {
+        "code": "mk",
+        "language_family": "Indo-European",
+        "type_len": 542,
+        "token_len": 1138,
+        "ttr": 0.47627416520210897,
+        "word_entropy": 8.182979051712529
+    },
+    "Madi": {
+        "code": "madi",
+        "language_family": "Arawan",
+        "type_len": 61,
+        "token_len": 91,
+        "ttr": 0.6703296703296703,
+        "word_entropy": 5.631436332925574
+    },
+    "Maghrebi_Arabic_French": {
+        "code": "maghrebi_arabic_french",
+        "language_family": "NA",
+        "type_len": 7473,
+        "token_len": 19464,
+        "ttr": 0.3839395807644883,
+        "word_entropy": 10.944413345811562
+    },
+    "Makurap": {
+        "code": "makurap",
+        "language_family": "Tupian",
+        "type_len": 93,
+        "token_len": 175,
+        "ttr": 0.5314285714285715,
+        "word_entropy": 6.181662595549893
+    },
+    "Malayalam": {
+        "code": "ml",
+        "language_family": "Dravidian",
+        "type_len": 1538,
+        "token_len": 2083,
+        "ttr": 0.7383581373019683,
+        "word_entropy": 9.953166630665601
+    },
+    "Maltese": {
+        "code": "mt",
+        "language_family": "Afro-Asiatic",
+        "type_len": 7616,
+        "token_len": 38851,
+        "ttr": 0.1960309901933026,
+        "word_entropy": 10.297145010743028
+    },
+    "Manx": {
+        "code": "gv",
+        "language_family": "Indo-European",
+        "type_len": 2887,
+        "token_len": 17758,
+        "ttr": 0.16257461425836242,
+        "word_entropy": 8.198831315187771
+    },
+    "Marathi": {
+        "code": "mr",
+        "language_family": "Indo-European",
+        "type_len": 1097,
+        "token_len": 3098,
+        "ttr": 0.3540994189799871,
+        "word_entropy": 9.028961548799233
+    },
+    "Mbya_Guarani": {
+        "code": "mbya_guarani",
+        "language_family": "Tupian",
+        "type_len": 451,
+        "token_len": 10955,
+        "ttr": 0.04116841624828845,
+        "word_entropy": 1.4382277873972849
+    },
+    "Middle_French": {
+        "code": "frm",
+        "language_family": "Indo-European",
+        "type_len": 2010,
+        "token_len": 10788,
+        "ttr": 0.18631813125695218,
+        "word_entropy": 8.657710818019881
+    },
+    "Moksha": {
+        "code": "mdf",
+        "language_family": "Uralic",
+        "type_len": 2114,
+        "token_len": 3428,
+        "ttr": 0.6166861143523921,
+        "word_entropy": 10.393692920294237
+    },
+    "Munduruku": {
+        "code": "munduruku",
+        "language_family": "Tupian",
+        "type_len": 346,
+        "token_len": 884,
+        "ttr": 0.3914027149321267,
+        "word_entropy": 7.667547732972196
+    },
+    "Naija": {
+        "code": "pcm",
+        "language_family": "NA",
+        "type_len": 4522,
+        "token_len": 100591,
+        "ttr": 0.04495431996898331,
+        "word_entropy": 8.427875520933299
+    },
+    "Nayini": {
+        "code": "nayini",
+        "language_family": "Indo-European",
+        "type_len": 56,
+        "token_len": 68,
+        "ttr": 0.8235294117647058,
+        "word_entropy": 5.701217804390191
+    },
+    "Neapolitan": {
+        "code": "nap",
+        "language_family": "Indo-European",
+        "type_len": 9,
+        "token_len": 9,
+        "ttr": 1.0,
+        "word_entropy": 3.169925001442312
+    },
+    "Nheengatu": {
+        "code": "nheengatu",
+        "language_family": "Tupian",
+        "type_len": 2107,
+        "token_len": 15390,
+        "ttr": 0.1369070825211176,
+        "word_entropy": 8.968303632049798
+    },
+    "North_Sami": {
+        "code": "se",
+        "language_family": "Uralic",
+        "type_len": 7660,
+        "token_len": 22702,
+        "ttr": 0.3374152057087481,
+        "word_entropy": 11.012476245753659
+    },
+    "Northwest_Gbaya": {
+        "code": "northwest_gbaya",
+        "language_family": "Niger-Congo",
+        "type_len": 602,
+        "token_len": 2417,
+        "ttr": 0.24906909391808027,
+        "word_entropy": 8.229772147153104
+    },
+    "Norwegian": {
+        "code": "no",
+        "language_family": "Indo-European",
+        "type_len": 54829,
+        "token_len": 539059,
+        "ttr": 0.10171242850968076,
+        "word_entropy": 11.037170562469186
+    },
+    "Old_Church_Slavonic": {
+        "code": "cu",
+        "language_family": "Indo-European",
+        "type_len": 43811,
+        "token_len": 198838,
+        "ttr": 0.22033514720526257,
+        "word_entropy": 12.060169149600721
+    },
+    "Old_East_Slavic": {
+        "code": "old_east_slavic",
+        "language_family": "Indo-European",
+        "type_len": 102715,
+        "token_len": 505579,
+        "ttr": 0.20316310606255403,
+        "word_entropy": 12.691880199941867
+    },
+    "Old_French": {
+        "code": "fro",
+        "language_family": "Indo-European",
+        "type_len": 18853,
+        "token_len": 206499,
+        "ttr": 0.09129826294558327,
+        "word_entropy": 10.052154957815636
+    },
+    "Old_Irish": {
+        "code": "sga",
+        "language_family": "Indo-European",
+        "type_len": 474,
+        "token_len": 830,
+        "ttr": 0.5710843373493976,
+        "word_entropy": 8.103408148869438
+    },
+    "Old_Turkish": {
+        "code": "otk",
+        "language_family": "Altaic",
+        "type_len": 74,
+        "token_len": 111,
+        "ttr": 0.6666666666666666,
+        "word_entropy": 5.999471443309327
+    },
+    "Ottoman_Turkish": {
+        "code": "ota",
+        "language_family": "Altaic",
+        "type_len": 4805,
+        "token_len": 8380,
+        "ttr": 0.5733890214797136,
+        "word_entropy": 11.244451600431477
+    },
+    "Pashto": {
+        "code": "ps",
+        "language_family": "Indo-European",
+        "type_len": 430,
+        "token_len": 890,
+        "ttr": 0.48314606741573035,
+        "word_entropy": 7.8720047741959664
+    },
+    "Paumari": {
+        "code": "paumari",
+        "language_family": "Arawan",
+        "type_len": 263,
+        "token_len": 388,
+        "ttr": 0.6778350515463918,
+        "word_entropy": 7.572433665040635
+    },
+    "Persian": {
+        "code": "fa",
+        "language_family": "Indo-European",
+        "type_len": 38485,
+        "token_len": 596663,
+        "ttr": 0.06450039637115089,
+        "word_entropy": 10.931083212850144
+    },
+    "Pesh": {
+        "code": "pesh",
+        "language_family": "Chibchan",
+        "type_len": 676,
+        "token_len": 2126,
+        "ttr": 0.3179680150517404,
+        "word_entropy": 8.009158954655689
+    },
+    "Phrygian": {
+        "code": "phrygian",
+        "language_family": "Indo-European",
+        "type_len": 608,
+        "token_len": 1339,
+        "ttr": 0.4540702016430172,
+        "word_entropy": 7.920601983159658
+    },
+    "Polish": {
+        "code": "pl",
+        "language_family": "Indo-European",
+        "type_len": 72835,
+        "token_len": 411828,
+        "ttr": 0.1768578144273823,
+        "word_entropy": 12.603739410685579
+    },
+    "Pomak": {
+        "code": "pomak",
+        "language_family": "Indo-European",
+        "type_len": 6276,
+        "token_len": 29209,
+        "ttr": 0.21486528124893012,
+        "word_entropy": 9.71585631078705
+    },
+    "Portuguese": {
+        "code": "pt",
+        "language_family": "Indo-European",
+        "type_len": 75344,
+        "token_len": 1335506,
+        "ttr": 0.05641607001391233,
+        "word_entropy": 10.521879626491845
+    },
+    "Romanian": {
+        "code": "ro",
+        "language_family": "Indo-European",
+        "type_len": 68207,
+        "token_len": 808177,
+        "ttr": 0.08439611619731816,
+        "word_entropy": 11.376055068277156
+    },
+    "Russian": {
+        "code": "ru",
+        "language_family": "Indo-European",
+        "type_len": 170726,
+        "token_len": 1536104,
+        "ttr": 0.11114221432923813,
+        "word_entropy": 13.076481277847085
+    },
+    "Sanskrit": {
+        "code": "sa",
+        "language_family": "Indo-European",
+        "type_len": 36908,
+        "token_len": 208086,
+        "ttr": 0.17736897244408562,
+        "word_entropy": 12.12069678916239
+    },
+    "Scottish_Gaelic": {
+        "code": "gd",
+        "language_family": "Indo-European",
+        "type_len": 7479,
+        "token_len": 84139,
+        "ttr": 0.08888862477566883,
+        "word_entropy": 8.988440394512724
+    },
+    "Serbian": {
+        "code": "sr",
+        "language_family": "Indo-European",
+        "type_len": 18211,
+        "token_len": 85014,
+        "ttr": 0.21421177688380738,
+        "word_entropy": 11.331950637727246
+    },
+    "Sinhala": {
+        "code": "si",
+        "language_family": "Indo-European",
+        "type_len": 499,
+        "token_len": 780,
+        "ttr": 0.6397435897435897,
+        "word_entropy": 8.453767995732907
+    },
+    "Skolt_Sami": {
+        "code": "skolt_sami",
+        "language_family": "Uralic",
+        "type_len": 741,
+        "token_len": 2258,
+        "ttr": 0.3281665190434012,
+        "word_entropy": 8.473979361783368
+    },
+    "Slovak": {
+        "code": "sk",
+        "language_family": "Indo-European",
+        "type_len": 25566,
+        "token_len": 86498,
+        "ttr": 0.29556752757289184,
+        "word_entropy": 12.099397780382311
+    },
+    "Slovenian": {
+        "code": "sl",
+        "language_family": "Indo-European",
+        "type_len": 52528,
+        "token_len": 300734,
+        "ttr": 0.17466598389274243,
+        "word_entropy": 11.831685073116622
+    },
+    "Soi": {
+        "code": "soi",
+        "language_family": "Indo-European",
+        "type_len": 39,
+        "token_len": 47,
+        "ttr": 0.8297872340425532,
+        "word_entropy": 5.171610128273384
+    },
+    "South_Levantine_Arabic": {
+        "code": "south_levantine_arabic",
+        "language_family": "Afro-Asiatic",
+        "type_len": 352,
+        "token_len": 650,
+        "ttr": 0.5415384615384615,
+        "word_entropy": 7.841367710272454
+    },
+    "Spanish": {
+        "code": "es",
+        "language_family": "Indo-European",
+        "type_len": 65662,
+        "token_len": 911493,
+        "ttr": 0.07203785437737865,
+        "word_entropy": 10.39979092484545
+    },
+    "Spanish_Sign_Language": {
+        "code": "spanish_sign_language",
+        "language_family": "Other",
+        "type_len": 524,
+        "token_len": 1360,
+        "ttr": 0.38529411764705884,
+        "word_entropy": 8.01400204388942
+    },
+    "Swedish": {
+        "code": "sv",
+        "language_family": "Indo-European",
+        "type_len": 28575,
+        "token_len": 185942,
+        "ttr": 0.15367695302836368,
+        "word_entropy": 10.906129462693675
+    },
+    "Swedish_Sign_Language": {
+        "code": "swedish_sign_language",
+        "language_family": "Other",
+        "type_len": 668,
+        "token_len": 1539,
+        "ttr": 0.43404808317089016,
+        "word_entropy": 8.508808900462045
+    },
+    "Swiss_German": {
+        "code": "gsw",
+        "language_family": "Indo-European",
+        "type_len": 750,
+        "token_len": 1263,
+        "ttr": 0.5938242280285035,
+        "word_entropy": 8.9001117879177
+    },
+    "Tagalog": {
+        "code": "tl",
+        "language_family": "Austronesian",
+        "type_len": 496,
+        "token_len": 1558,
+        "ttr": 0.31835686777920413,
+        "word_entropy": 7.426153921345884
+    },
+    "Tamil": {
+        "code": "ta",
+        "language_family": "Dravidian",
+        "type_len": 4236,
+        "token_len": 10630,
+        "ttr": 0.3984948259642521,
+        "word_entropy": 10.947438099749485
+    },
+    "Tatar": {
+        "code": "tt",
+        "language_family": "Altaic",
+        "type_len": 1204,
+        "token_len": 1909,
+        "ttr": 0.6306966998428497,
+        "word_entropy": 9.80533320721504
+    },
+    "Teko": {
+        "code": "teko",
+        "language_family": "Tupian",
+        "type_len": 1402,
+        "token_len": 2622,
+        "ttr": 0.5347063310450039,
+        "word_entropy": 9.913412251861875
+    },
+    "Telugu": {
+        "code": "te",
+        "language_family": "Dravidian",
+        "type_len": 2236,
+        "token_len": 5371,
+        "ttr": 0.41630981195308137,
+        "word_entropy": 10.024668975092574
+    },
+    "Telugu_English": {
+        "code": "telugu_english",
+        "language_family": "NA",
+        "type_len": 193,
+        "token_len": 371,
+        "ttr": 0.5202156334231806,
+        "word_entropy": 7.2534747009148735
+    },
+    "Thai": {
+        "code": "th",
+        "language_family": "Tai-Kadai",
+        "type_len": 4023,
+        "token_len": 21912,
+        "ttr": 0.18359802847754655,
+        "word_entropy": 9.678098182878522
+    },
+    "Tswana": {
+        "code": "tswana",
+        "language_family": "Niger-Congo",
+        "type_len": 96,
+        "token_len": 191,
+        "ttr": 0.5026178010471204,
+        "word_entropy": 5.950782560841804
+    },
+    "Tupinamba": {
+        "code": "tupinamba",
+        "language_family": "Tupian",
+        "type_len": 1872,
+        "token_len": 3447,
+        "ttr": 0.5430809399477807,
+        "word_entropy": 10.104848661482576
+    },
+    "Turkish": {
+        "code": "tr",
+        "language_family": "Altaic",
+        "type_len": 109320,
+        "token_len": 660984,
+        "ttr": 0.16538978250608183,
+        "word_entropy": 13.484276198476804
+    },
+    "Turkish_German": {
+        "code": "tr-de",
+        "language_family": "NA",
+        "type_len": 6629,
+        "token_len": 33473,
+        "ttr": 0.19804021151375736,
+        "word_entropy": 10.018843007453716
+    },
+    "Ukrainian": {
+        "code": "uk",
+        "language_family": "Indo-European",
+        "type_len": 35345,
+        "token_len": 141508,
+        "ttr": 0.249773864375159,
+        "word_entropy": 12.300946721478313
+    },
+    "Umbrian": {
+        "code": "umbrian",
+        "language_family": "Indo-European",
+        "type_len": 366,
+        "token_len": 786,
+        "ttr": 0.46564885496183206,
+        "word_entropy": 7.926431184937453
+    },
+    "Upper_Sorbian": {
+        "code": "upper_sorbian",
+        "language_family": "Indo-European",
+        "type_len": 4153,
+        "token_len": 8944,
+        "ttr": 0.4643336314847943,
+        "word_entropy": 10.616047077915244
+    },
+    "Urdu": {
+        "code": "ur",
+        "language_family": "Indo-European",
+        "type_len": 10791,
+        "token_len": 131152,
+        "ttr": 0.08227857752836404,
+        "word_entropy": 10.021586774101223
+    },
+    "Uyghur": {
+        "code": "ug",
+        "language_family": "Altaic",
+        "type_len": 12031,
+        "token_len": 32401,
+        "ttr": 0.371315700132712,
+        "word_entropy": 12.111622286971258
+    },
+    "Uzbek": {
+        "code": "uz",
+        "language_family": "Altaic",
+        "type_len": 3390,
+        "token_len": 5022,
+        "ttr": 0.6750298685782556,
+        "word_entropy": 11.233235778477747
+    },
+    "Veps": {
+        "code": "veps",
+        "language_family": "Uralic",
+        "type_len": 582,
+        "token_len": 1085,
+        "ttr": 0.5364055299539171,
+        "word_entropy": 8.543868489155187
+    },
+    "Vietnamese": {
+        "code": "vi",
+        "language_family": "Austro-Asiatic",
+        "type_len": 6719,
+        "token_len": 51371,
+        "ttr": 0.130793638434136,
+        "word_entropy": 10.306811560109896
+    },
+    "Warlpiri": {
+        "code": "warlpiri",
+        "language_family": "Pama-Nyungan",
+        "type_len": 103,
+        "token_len": 259,
+        "ttr": 0.39768339768339767,
+        "word_entropy": 6.122930265002609
+    },
+    "Welsh": {
+        "code": "cy",
+        "language_family": "Indo-European",
+        "type_len": 7260,
+        "token_len": 47446,
+        "ttr": 0.15301606036336046,
+        "word_entropy": 9.68755858677924
+    },
+    "Western_Armenian": {
+        "code": "western_armenian",
+        "language_family": "Indo-European",
+        "type_len": 24774,
+        "token_len": 99857,
+        "ttr": 0.24809477552900647,
+        "word_entropy": 11.942850653767382
+    },
+    "Western_Sierra_Puebla_Nahuatl": {
+        "code": "western_sierra_puebla_nahuatl",
+        "language_family": "Uto-Aztecan",
+        "type_len": 2455,
+        "token_len": 8283,
+        "ttr": 0.2963901967886032,
+        "word_entropy": 9.04064633388786
+    },
+    "Wolof": {
+        "code": "wo",
+        "language_family": "Niger-Congo",
+        "type_len": 5359,
+        "token_len": 38937,
+        "ttr": 0.1376325859722115,
+        "word_entropy": 9.370507506925422
+    },
+    "Xavante": {
+        "code": "xavante",
+        "language_family": "Nuclear-Macro-Je",
+        "type_len": 407,
+        "token_len": 1404,
+        "ttr": 0.2898860398860399,
+        "word_entropy": 7.228829198952098
+    },
+    "Xibe": {
+        "code": "xibe",
+        "language_family": "Tungusic",
+        "type_len": 2789,
+        "token_len": 13340,
+        "ttr": 0.2090704647676162,
+        "word_entropy": 9.75040462690931
+    },
+    "Yakut": {
+        "code": "yakut",
+        "language_family": "Altaic",
+        "type_len": 621,
+        "token_len": 1311,
+        "ttr": 0.47368421052631576,
+        "word_entropy": 8.497998290828198
+    },
+    "Yoruba": {
+        "code": "yo",
+        "language_family": "Niger-Congo",
+        "type_len": 1340,
+        "token_len": 7119,
+        "ttr": 0.18822868380390503,
+        "word_entropy": 8.413835159500763
+    },
+    "Yupik": {
+        "code": "esu",
+        "language_family": "Eskimo-Aleut",
+        "type_len": 512,
+        "token_len": 1156,
+        "ttr": 0.4429065743944637,
+        "word_entropy": 8.426872479959753
+    },
+    "Zaar": {
+        "code": "cbg",
+        "language_family": "Afro-Asiatic",
+        "type_len": 2162,
+        "token_len": 14087,
+        "ttr": 0.1534748349542131,
+        "word_entropy": 9.084154819504537
+    }
+}

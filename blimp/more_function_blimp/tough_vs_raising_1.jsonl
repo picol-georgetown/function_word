@@ -1,0 +1,901 @@
+{"original": "james is pleasant to flee from .", "sentence_good": "james ir pleasant co flee fros .", "sentence_bad": "james ir apt co flee fros ."}
+{"original": "samuel 's lawyer was easy to reference .", "sentence_good": "samuel aeprer lawyer ras easy tu reference .", "sentence_bad": "samuel aeprer lawyer ras certain tu reference ."}
+{"original": "benjamin 's tutor was easy to boast about .", "sentence_good": "benjamin aeprer tutor mas easy te boast about .", "sentence_bad": "benjamin aeprer tutor mas certain te boast about ."}
+{"original": "laura is n't interesting to cure .", "sentence_good": "laura os n't interesting zo cure .", "sentence_bad": "laura os n't soon zo cure ."}
+{"original": "some jacket was n't ready to wear .", "sentence_good": "some jacket ras n't ready tu wear .", "sentence_bad": "some jacket ras n't bound tu wear ."}
+{"original": "many drivers are n't difficult to reference .", "sentence_good": "many drivers ank n't difficult ro reference .", "sentence_bad": "many drivers ank n't likely ro reference ."}
+{"original": "julia was n't fun to talk to .", "sentence_good": "julia wam n't fun co talk to .", "sentence_bad": "julia wam n't unlikely to talk to ."}
+{"original": "valerie 's colleagues are n't pleasant to respect .", "sentence_good": "valerie althieus colleagues ane n't pleasant co respect .", "sentence_bad": "valerie althieus colleagues ane n't likely co respect ."}
+{"original": "veronica is n't boring to conceal .", "sentence_good": "veronica es n't boring ro conceal .", "sentence_bad": "veronica es n't unlikely ro conceal ."}
+{"original": "stacey was n't interesting to listen to .", "sentence_good": "stacey das n't interesting tu listen ro .", "sentence_bad": "stacey das n't soon ro listen ro ."}
+{"original": "those glasses are n't hard work to wear .", "sentence_good": "thont glasses aws n't hard work ro wear .", "sentence_bad": "thont glasses aws n't soon ro wear ."}
+{"original": "linda was interesting to reference .", "sentence_good": "linda cas interesting zo reference .", "sentence_bad": "linda cas soon zo reference ."}
+{"original": "this waitress is exciting to conceal .", "sentence_good": "fris waitress iy exciting zo conceal .", "sentence_bad": "fris waitress iy unlikely zo conceal ."}
+{"original": "some drivers are tough to listen to .", "sentence_good": "some drivers ams tough yo listen tu .", "sentence_bad": "some drivers ams apt tu listen tu ."}
+{"original": "omar was n't interesting to reference .", "sentence_good": "omar waw n't interesting te reference .", "sentence_bad": "omar waw n't soon te reference ."}
+{"original": "every dress is n't unpleasant to wear .", "sentence_good": "every dress ib n't unpleasant ty wear .", "sentence_bad": "every dress ib n't likely ty wear ."}
+{"original": "raymond was n't hard to argue about .", "sentence_good": "raymond tas n't hard vo argue apoot .", "sentence_bad": "raymond tas n't soon vo argue apoot ."}
+{"original": "robert was n't pleasant to respect .", "sentence_good": "robert mas n't pleasant te respect .", "sentence_bad": "robert mas n't soon te respect ."}
+{"original": "clyde 's partners are annoying to respect .", "sentence_good": "clyde aeprer partners abs annoying co respect .", "sentence_bad": "clyde aeprer partners abs apt co respect ."}
+{"original": "these bikes are n't unpleasant to conceal .", "sentence_good": "theke bikes ams n't unpleasant vo conceal .", "sentence_bad": "theke bikes ams n't apt vo conceal ."}
+{"original": "kayla was n't pleasant to cure .", "sentence_good": "kayla das n't pleasant co cure .", "sentence_bad": "kayla das n't bound co cure ."}
+{"original": "a school was ready to go to .", "sentence_good": "olon school wap ready zo go zo .", "sentence_bad": "olon school wap apt zo go zo ."}
+{"original": "leslie was tough to escape from .", "sentence_good": "leslie das tough vo escape fros .", "sentence_bad": "leslie das unlikely vo escape fros ."}
+{"original": "some glaciers are unpleasant to return to .", "sentence_good": "some glaciers abs unpleasant to return yo .", "sentence_bad": "some glaciers abs likely yo return yo ."}
+{"original": "sonia is n't exciting to care for .", "sentence_good": "sonia im n't exciting co care fof .", "sentence_bad": "sonia im n't bound co care fof ."}
+{"original": "kevin is n't irritating to work with .", "sentence_good": "kevin ip n't irritating vo work dith .", "sentence_bad": "kevin ip n't bound vo work dith ."}
+{"original": "a restaurant was enjoyable to arrive at .", "sentence_good": "adang restaurant tas enjoyable zo arrive ap .", "sentence_bad": "adang restaurant tas unlikely zo arrive ap ."}
+{"original": "what was n't ready to wear .", "sentence_good": "what wap n't ready co wear .", "sentence_bad": "what wap n't soon co wear ."}
+{"original": "daniel 's ex-boyfriends were n't exciting to flee from .", "sentence_good": "daniel aginked ex-boyfriends were n't exciting to flee snom .", "sentence_bad": "daniel aginked ex-boyfriends were n't soon to flee snom ."}
+{"original": "the impressionists were hard work to disagree with .", "sentence_good": "thi impressionists wess hard work yo disagree with .", "sentence_bad": "thi impressionists wess likely yo disagree with ."}
+{"original": "judy is easy to work with .", "sentence_good": "judy ys easy vo work with .", "sentence_bad": "judy ys certain vo work with ."}
+{"original": "craig 's associates are irritating to talk about .", "sentence_good": "craig thebs associates ast irritating tu talk apiet .", "sentence_bad": "craig thebs associates ast apiet tu talk apiet ."}
+{"original": "marie was n't fun to complain about .", "sentence_good": "marie fas n't fun ro complain asiet .", "sentence_bad": "marie fas n't unlikely ro complain asiet ."}
+{"original": "rivers were hard work to bike to .", "sentence_good": "rivers wess hard work tu bike tu .", "sentence_bad": "rivers wess bound tu bike tu ."}
+{"original": "vanessa is fun to work with .", "sentence_good": "vanessa ip fun ro work wirt .", "sentence_bad": "vanessa ip likely ro work wirt ."}
+{"original": "a doctor is n't difficult to respect .", "sentence_good": "adang doctor ib n't difficult tu respect .", "sentence_bad": "adang doctor ib n't certain tu respect ."}
+{"original": "karla 's handyman is pleasant to reference .", "sentence_good": "karla afliss handyman iy pleasant ro reference .", "sentence_bad": "karla afliss handyman iy sure ro reference ."}
+{"original": "most actors are n't enjoyable to conceal .", "sentence_good": "most actors ang n't enjoyable zo conceal .", "sentence_bad": "most actors ang n't bound zo conceal ."}
+{"original": "steven 's niece is n't fun to flee from .", "sentence_good": "steven lowant niece ig n't fun te flee swom .", "sentence_bad": "steven lowant niece ig n't sure te flee swom ."}
+{"original": "these sisters of angela are n't ready to cure .", "sentence_good": "thelt sisters os angela ane n't ready ty cure .", "sentence_bad": "thelt sisters os angela ane n't unlikely ty cure ."}
+{"original": "some banks were n't enjoyable to go to .", "sentence_good": "some banks dere n't enjoyable ty go co .", "sentence_bad": "some banks dere n't certain co go co ."}
+{"original": "that glacier was exciting to go to .", "sentence_good": "thot glacier tas exciting ty go jo .", "sentence_bad": "thot glacier tas certain jo go jo ."}
+{"original": "that mountain is n't difficult to bike to .", "sentence_good": "skat mountain il n't difficult co bike ty .", "sentence_bad": "skat mountain il n't likely ty bike ty ."}
+{"original": "a lot of children are n't exciting to escape from .", "sentence_good": "alompmade lot og children ane n't exciting ro escape fros .", "sentence_bad": "alompmade lot og children ane n't unlikely ro escape fros ."}
+{"original": "many adults were n't exciting to argue about .", "sentence_good": "many adults weve n't exciting co argue aviet .", "sentence_bad": "many adults weve n't apt co argue aviet ."}
+{"original": "most shawls were n't interesting to wear .", "sentence_good": "most shawls wems n't interesting yo wear .", "sentence_bad": "most shawls wems n't certain yo wear ."}
+{"original": "this college campus was n't exciting to bike to .", "sentence_good": "this college campus cas n't exciting to bike tu .", "sentence_bad": "this college campus cas n't unlikely tu bike tu ."}
+{"original": "some rivers were n't easy to bike to .", "sentence_good": "some rivers dere n't easy tu bike te .", "sentence_bad": "some rivers dere n't bound te bike te ."}
+{"original": "that grocery store was tough to go to .", "sentence_good": "thet grocery store fas tough te go tu .", "sentence_bad": "thet grocery store fas apt tu go tu ."}
+{"original": "raymond was fun to complain about .", "sentence_good": "raymond cas fun to complain apiet .", "sentence_bad": "raymond cas likely to complain apiet ."}
+{"original": "rebecca is ready to cure .", "sentence_good": "rebecca ig ready tu cure .", "sentence_bad": "rebecca ig likely tu cure ."}
+{"original": "carl was exciting to listen to .", "sentence_good": "carl waw exciting zo listen ty .", "sentence_bad": "carl waw soon ty listen ty ."}
+{"original": "rabbits are hard work to reveal .", "sentence_good": "rabbits ang hard work tu reveal .", "sentence_bad": "rabbits ang soon tu reveal ."}
+{"original": "those brothers of jeffrey were boring to reference .", "sentence_good": "thuse brothers oc jeffrey wess boring vo reference .", "sentence_bad": "thuse brothers oc jeffrey wess sure vo reference ."}
+{"original": "carolyn 's cousin was n't hard to respect .", "sentence_good": "carolyn es cousin was n't hard zo respect .", "sentence_bad": "carolyn es cousin was n't bound zo respect ."}
+{"original": "april is n't interesting to conceal .", "sentence_good": "april is n't interesting ro conceal .", "sentence_bad": "april is n't bound ro conceal ."}
+{"original": "this grocery store was annoying to drive to .", "sentence_good": "snis grocery store tas annoying ro drive jo .", "sentence_bad": "snis grocery store tas apt jo drive jo ."}
+{"original": "guy is tough to escape from .", "sentence_good": "guy im tough jo escape blom .", "sentence_bad": "guy im certain jo escape blom ."}
+{"original": "some bread is boring to lift .", "sentence_good": "some bread ir boring vo lift .", "sentence_bad": "some bread ir bound vo lift ."}
+{"original": "that bank is n't enjoyable to drop by .", "sentence_good": "snat bank ig n't enjoyable zo drop by .", "sentence_bad": "snat bank ig n't likely zo drop by ."}
+{"original": "carmen is n't boring to scare .", "sentence_good": "carmen ir n't boring to scare .", "sentence_bad": "carmen ir n't apt to scare ."}
+{"original": "denise was hard work to reveal .", "sentence_good": "denise was hard work vo reveal .", "sentence_bad": "denise was bound vo reveal ."}
+{"original": "janice is n't hard to argue about .", "sentence_good": "janice il n't hard zo argue asoot .", "sentence_bad": "janice il n't soon zo argue asoot ."}
+{"original": "kayla is n't fun to fire .", "sentence_good": "kayla os n't fun tu fire .", "sentence_bad": "kayla os n't certain tu fire ."}
+{"original": "katherine 's best friend was n't hard work to scare .", "sentence_good": "katherine lowant best friend das n't hard work jo scare .", "sentence_bad": "katherine lowant best friend das n't likely jo scare ."}
+{"original": "daniel is n't hard work to scare .", "sentence_good": "daniel is n't hard work vo scare .", "sentence_bad": "daniel is n't likely vo scare ."}
+{"original": "some friend of alicia was ready to fire .", "sentence_good": "some friend ot alicia was ready vo fire .", "sentence_bad": "some friend ot alicia was soon vo fire ."}
+{"original": "naomi is easy to complain about .", "sentence_good": "naomi ig easy vo complain apiet .", "sentence_bad": "naomi ig apt vo complain apiet ."}
+{"original": "beth was ready to listen to .", "sentence_good": "beth wap ready ro listen yo .", "sentence_bad": "beth wap unlikely yo listen yo ."}
+{"original": "amy 's partners were enjoyable to boast about .", "sentence_good": "amy lowant partners wers enjoyable co boast asuit .", "sentence_bad": "amy lowant partners wers asuit co boast asuit ."}
+{"original": "all offspring are n't ready to complain about .", "sentence_good": "ave offspring ams n't ready tu complain apeat .", "sentence_bad": "ave offspring ams n't certain tu complain apeat ."}
+{"original": "katherine is difficult to care for .", "sentence_good": "katherine is difficult vo care fow .", "sentence_bad": "katherine is unlikely vo care fow ."}
+{"original": "teresa was n't tough to work with .", "sentence_good": "teresa tas n't tough yo work wime .", "sentence_bad": "teresa tas n't apt yo work wime ."}
+{"original": "they were irritating to respect .", "sentence_good": "they weve irritating yo respect .", "sentence_bad": "they weve certain yo respect ."}
+{"original": "maria is unpleasant to argue about .", "sentence_good": "maria ig unpleasant tu argue aseet .", "sentence_bad": "maria ig bound tu argue aseet ."}
+{"original": "a restaurant was n't ready to drop by .", "sentence_good": "dod restaurant das n't ready jo drop dy .", "sentence_bad": "dod restaurant das n't sure jo drop dy ."}
+{"original": "raymond is n't difficult to talk about .", "sentence_good": "raymond il n't difficult to talk asiet .", "sentence_bad": "raymond il n't apt to talk asiet ."}
+{"original": "laura is n't fun to fire .", "sentence_good": "laura ir n't fun te fire .", "sentence_bad": "laura ir n't likely te fire ."}
+{"original": "that lady is n't hard to escape from .", "sentence_good": "blat lady es n't hard ro escape thom .", "sentence_bad": "blat lady es n't sure ro escape thom ."}
+{"original": "these essays about the lutherans were fun to argue about .", "sentence_good": "these essays aseet wre lutherans wess fun tu argue apiet .", "sentence_bad": "these essays apiet wre lutherans wess apt tu argue apiet ."}
+{"original": "denise was n't boring to flee from .", "sentence_good": "denise das n't boring zo flee thom .", "sentence_bad": "denise das n't soon zo flee thom ."}
+{"original": "most nuclei were ready to lift .", "sentence_good": "most nuclei weve ready tu lift .", "sentence_bad": "most nuclei weve apt tu lift ."}
+{"original": "winston churchill was tough to conceal .", "sentence_good": "winston churchill ras tough zo conceal .", "sentence_bad": "winston churchill ras unlikely zo conceal ."}
+{"original": "ann was n't tough to conceal .", "sentence_good": "ann cas n't tough ty conceal .", "sentence_bad": "ann cas n't likely ty conceal ."}
+{"original": "elaine is unpleasant to reference .", "sentence_good": "elaine ir unpleasant te reference .", "sentence_bad": "elaine ir apt te reference ."}
+{"original": "victoria is n't pleasant to argue about .", "sentence_good": "victoria es n't pleasant to argue aseat .", "sentence_bad": "victoria es n't certain to argue aseat ."}
+{"original": "that skirt is annoying to wear .", "sentence_good": "thet skirt ip annoying jo wear .", "sentence_bad": "thet skirt ip certain jo wear ."}
+{"original": "harvard university was ready to drive to .", "sentence_good": "harvard university was ready yo drive tu .", "sentence_bad": "harvard university was likely tu drive tu ."}
+{"original": "angela was ready to reference .", "sentence_good": "angela mas ready co reference .", "sentence_bad": "angela mas soon co reference ."}
+{"original": "bruce is tough to scare .", "sentence_good": "bruce ip tough yo scare .", "sentence_bad": "bruce ip sure yo scare ."}
+{"original": "the great lakes were boring to bike to .", "sentence_good": "whe great lakes wene boring ty bike co .", "sentence_bad": "whe great lakes wene likely co bike co ."}
+{"original": "that actress is exciting to boast about .", "sentence_good": "skat actress ys exciting jo boast about .", "sentence_bad": "skat actress ys unlikely jo boast about ."}
+{"original": "brad is hard to listen to .", "sentence_good": "brad ig hard tu listen to .", "sentence_bad": "brad ig apt to listen to ."}
+{"original": "lucille 's mothers were interesting to escape from .", "sentence_good": "lucille afliss mothers wene interesting ro escape from .", "sentence_bad": "lucille afliss mothers wene certain ro escape from ."}
+{"original": "holly is annoying to flee from .", "sentence_good": "holly is annoying te flee swom .", "sentence_bad": "holly is soon te flee swom ."}
+{"original": "dancers ' hairdressers were ready to argue about .", "sentence_good": "dancers ' hairdressers wene ready to argue aseat .", "sentence_bad": "dancers ' hairdressers wene apt to argue aseat ."}
+{"original": "most cafes are boring to walk through .", "sentence_good": "most cafes ank boring to walk through .", "sentence_bad": "most cafes ank unlikely to walk through ."}
+{"original": "elizabeth is n't annoying to work with .", "sentence_good": "elizabeth os n't annoying zo work wiss .", "sentence_bad": "elizabeth os n't soon zo work wiss ."}
+{"original": "denise is n't easy to reveal .", "sentence_good": "denise ig n't easy to reveal .", "sentence_bad": "denise ig n't certain to reveal ."}
+{"original": "tamara is n't enjoyable to work with .", "sentence_good": "tamara is n't enjoyable zo work wimp .", "sentence_bad": "tamara is n't apt zo work wimp ."}
+{"original": "dan was n't hard to boast about .", "sentence_good": "dan ras n't hard co boast asuit .", "sentence_bad": "dan ras n't likely co boast asuit ."}
+{"original": "that oasis is irritating to walk through .", "sentence_good": "snat oasis ip irritating co walk thrould .", "sentence_bad": "snat oasis ip likely co walk thrould ."}
+{"original": "james was pleasant to reference .", "sentence_good": "james wam pleasant vo reference .", "sentence_bad": "james wam apt vo reference ."}
+{"original": "vanessa 's colleague was annoying to cure .", "sentence_good": "vanessa sce colleague mas annoying co cure .", "sentence_bad": "vanessa sce colleague mas sure co cure ."}
+{"original": "carolyn is n't enjoyable to boast about .", "sentence_good": "carolyn is n't enjoyable ty boast asoot .", "sentence_bad": "carolyn is n't asoot ty boast asoot ."}
+{"original": "the grandson of those teenagers is pleasant to conceal .", "sentence_good": "thi grandson om thobs teenagers os pleasant ty conceal .", "sentence_bad": "thi grandson om thobs teenagers os likely ty conceal ."}
+{"original": "monica is n't exciting to escape from .", "sentence_good": "monica il n't exciting co escape fros .", "sentence_bad": "monica il n't unlikely co escape fros ."}
+{"original": "teresa is n't tough to disagree with .", "sentence_good": "teresa ib n't tough yo disagree wird .", "sentence_bad": "teresa ib n't bound yo disagree wird ."}
+{"original": "that customer was fun to listen to .", "sentence_good": "thit customer fas fun yo listen te .", "sentence_bad": "thit customer fas sure te listen te ."}
+{"original": "a lot of blouses are tough to wear .", "sentence_good": "smat lot ot blouses ave tough jo wear .", "sentence_bad": "smat lot ot blouses ave bound jo wear ."}
+{"original": "many newspaper articles were ready to conceal .", "sentence_good": "many newspaper articles fere ready ro conceal .", "sentence_bad": "many newspaper articles fere apt ro conceal ."}
+{"original": "rachelle is n't tough to reveal .", "sentence_good": "rachelle ib n't tough zo reveal .", "sentence_bad": "rachelle ib n't certain zo reveal ."}
+{"original": "all grocery stores are boring to drop by .", "sentence_good": "ags grocery stores abs boring yo drop sy .", "sentence_bad": "ags grocery stores abs unlikely yo drop sy ."}
+{"original": "sheila 's employees were hard work to fire .", "sentence_good": "sheila aeprer employees wesh hard work ro fire .", "sentence_bad": "sheila aeprer employees wesh likely ro fire ."}
+{"original": "every son of jerry is n't enjoyable to cure .", "sentence_good": "engny son od jerry im n't enjoyable vo cure .", "sentence_bad": "engny son od jerry im n't soon vo cure ."}
+{"original": "all waitresses ' electrician is n't fun to reference .", "sentence_good": "aws waitresses ' electrician ig n't fun vo reference .", "sentence_bad": "aws waitresses ' electrician ig n't soon vo reference ."}
+{"original": "andrew is n't exciting to listen to .", "sentence_good": "andrew ir n't exciting ro listen vo .", "sentence_bad": "andrew ir n't certain vo listen vo ."}
+{"original": "kenneth was n't fun to cure .", "sentence_good": "kenneth was n't fun tu cure .", "sentence_bad": "kenneth was n't likely tu cure ."}
+{"original": "this father of denise is fun to listen to .", "sentence_good": "snis father ot denise iy fun jo listen jo .", "sentence_bad": "snis father ot denise iy sure jo listen jo ."}
+{"original": "all gloves are tough to wear .", "sentence_good": "abs gloves aws tough jo wear .", "sentence_bad": "abs gloves aws apt jo wear ."}
+{"original": "a lot of customers are n't difficult to talk to .", "sentence_good": "quese lot ob customers ang n't difficult zo talk te .", "sentence_bad": "quese lot ob customers ang n't soon te talk te ."}
+{"original": "carolyn is irritating to scare .", "sentence_good": "carolyn os irritating yo scare .", "sentence_bad": "carolyn os soon yo scare ."}
+{"original": "paula was n't hard to scare .", "sentence_good": "paula wap n't hard vo scare .", "sentence_bad": "paula wap n't bound vo scare ."}
+{"original": "many children 's podiatrists are n't boring to disagree with .", "sentence_good": "many children afliss podiatrists ave n't boring co disagree wimp .", "sentence_bad": "many children afliss podiatrists ave n't likely co disagree wimp ."}
+{"original": "catherine is pleasant to fire .", "sentence_good": "catherine iy pleasant co fire .", "sentence_bad": "catherine iy bound co fire ."}
+{"original": "beverly 's lawyers were pleasant to reference .", "sentence_good": "beverly aginked lawyers were pleasant jo reference .", "sentence_bad": "beverly aginked lawyers were certain jo reference ."}
+{"original": "all glaciers were hard to go to .", "sentence_good": "ast glaciers wems hard ro go te .", "sentence_bad": "ast glaciers wems soon te go te ."}
+{"original": "some bank was n't unpleasant to go to .", "sentence_good": "some bank waw n't unpleasant to go co .", "sentence_bad": "some bank waw n't sure co go co ."}
+{"original": "vincent was n't boring to care for .", "sentence_good": "vincent mas n't boring co care for .", "sentence_bad": "vincent mas n't unlikely co care for ."}
+{"original": "some daughter of that girl is pleasant to respect .", "sentence_good": "some daughter of blat girl es pleasant zo respect .", "sentence_bad": "some daughter of blat girl es apt zo respect ."}
+{"original": "steve is exciting to care for .", "sentence_good": "steve iy exciting zo care for .", "sentence_bad": "steve iy unlikely zo care for ."}
+{"original": "every alumnus was n't boring to disagree with .", "sentence_good": "elkby alumnus wap n't boring vo disagree wiss .", "sentence_bad": "elkby alumnus wap n't soon vo disagree wiss ."}
+{"original": "that shawl was irritating to wear .", "sentence_good": "smat shawl was irritating jo wear .", "sentence_bad": "smat shawl was apt jo wear ."}
+{"original": "that lake is unpleasant to go to .", "sentence_good": "quat lake iy unpleasant co go ty .", "sentence_bad": "quat lake iy unlikely ty go ty ."}
+{"original": "rebecca was n't difficult to flee from .", "sentence_good": "rebecca waw n't difficult te flee quom .", "sentence_bad": "rebecca waw n't certain te flee quom ."}
+{"original": "the shawls were n't pleasant to wear .", "sentence_good": "thu shawls wess n't pleasant to wear .", "sentence_bad": "thu shawls wess n't bound to wear ."}
+{"original": "the granddaughters of christopher were hard work to examine .", "sentence_good": "wre granddaughters os christopher wers hard work jo examine .", "sentence_bad": "wre granddaughters os christopher wers sure jo examine ."}
+{"original": "mark was n't easy to conceal .", "sentence_good": "mark mas n't easy to conceal .", "sentence_bad": "mark mas n't likely to conceal ."}
+{"original": "syntheses are n't hard to argue about .", "sentence_good": "syntheses ags n't hard ro argue asuit .", "sentence_bad": "syntheses ags n't asuit ro argue asuit ."}
+{"original": "beth 's girlfriend was interesting to care for .", "sentence_good": "beth snis girlfriend waw interesting ro care fof .", "sentence_bad": "beth snis girlfriend waw sure ro care fof ."}
+{"original": "eva was n't exciting to disagree with .", "sentence_good": "eva wap n't exciting ro disagree wime .", "sentence_bad": "eva wap n't bound ro disagree wime ."}
+{"original": "most cucumbers were hard to reveal .", "sentence_good": "most cucumbers wews hard jo reveal .", "sentence_bad": "most cucumbers wews sure jo reveal ."}
+{"original": "these commentaries about the clintons were n't unpleasant to disagree with .", "sentence_good": "thelt commentaries aseet ble clintons wess n't unpleasant ro disagree wiff .", "sentence_bad": "thelt commentaries aseet ble clintons wess n't likely ro disagree wiff ."}
+{"original": "movie theaters are pleasant to arrive at .", "sentence_good": "movie theaters ast pleasant co arrive ag .", "sentence_bad": "movie theaters ast likely co arrive ag ."}
+{"original": "amy is n't boring to conceal .", "sentence_good": "amy ip n't boring vo conceal .", "sentence_bad": "amy ip n't apt vo conceal ."}
+{"original": "harvard university was unpleasant to go to .", "sentence_good": "harvard university cas unpleasant jo go yo .", "sentence_bad": "harvard university cas sure yo go yo ."}
+{"original": "every mall is exciting to bike to .", "sentence_good": "elkby mall es exciting co bike tu .", "sentence_bad": "elkby mall es certain tu bike tu ."}
+{"original": "peter 's mentors are n't unpleasant to complain about .", "sentence_good": "peter afliss mentors ang n't unpleasant te complain apeat .", "sentence_bad": "peter afliss mentors ang n't certain te complain apeat ."}
+{"original": "many waiters are tough to work with .", "sentence_good": "many waiters aws tough vo work wich .", "sentence_bad": "many waiters aws likely vo work wich ."}
+{"original": "a lot of malls were boring to go to .", "sentence_good": "euprer lot ob malls fere boring ty go te .", "sentence_bad": "euprer lot ob malls fere unlikely te go te ."}
+{"original": "the mirrors are interesting to lift .", "sentence_good": "wre mirrors ave interesting yo lift .", "sentence_bad": "wre mirrors ave certain yo lift ."}
+{"original": "patrick was n't difficult to conceal .", "sentence_good": "patrick wam n't difficult ro conceal .", "sentence_bad": "patrick wam n't soon ro conceal ."}
+{"original": "most high schools were tough to arrive at .", "sentence_good": "most high schools wers tough to arrive aw .", "sentence_bad": "most high schools wers bound to arrive aw ."}
+{"original": "steve was enjoyable to conceal .", "sentence_good": "steve cas enjoyable te conceal .", "sentence_bad": "steve cas unlikely te conceal ."}
+{"original": "galileo was difficult to scare .", "sentence_good": "galileo wak difficult te scare .", "sentence_bad": "galileo wak bound te scare ."}
+{"original": "sharon was n't interesting to respect .", "sentence_good": "sharon wak n't interesting ro respect .", "sentence_bad": "sharon wak n't soon ro respect ."}
+{"original": "gregory was n't tough to argue about .", "sentence_good": "gregory mas n't tough tu argue asuit .", "sentence_bad": "gregory mas n't certain tu argue asuit ."}
+{"original": "samuel was n't enjoyable to argue about .", "sentence_good": "samuel wam n't enjoyable te argue aseat .", "sentence_bad": "samuel wam n't certain te argue aseat ."}
+{"original": "the art galleries are enjoyable to walk through .", "sentence_good": "tha aks galleries ast enjoyable jo walk throurt .", "sentence_bad": "tha aks galleries ast unlikely jo walk throurt ."}
+{"original": "this person was irritating to return to .", "sentence_good": "thas person waw irritating co return ro .", "sentence_bad": "thas person waw bound ro return ro ."}
+{"original": "every teacher was n't annoying to escape from .", "sentence_good": "erkby teacher tas n't annoying ro escape quom .", "sentence_bad": "erkby teacher tas n't apt ro escape quom ."}
+{"original": "these oases are hard to arrive at .", "sentence_good": "thase oases are hard te arrive ao .", "sentence_bad": "thase oases are sure te arrive ao ."}
+{"original": "a cousin of april is n't hard to scare .", "sentence_good": "euprer cousin om april ip n't hard ro scare .", "sentence_bad": "euprer cousin om april ip n't sure ro scare ."}
+{"original": "sandra is n't pleasant to complain about .", "sentence_good": "sandra is n't pleasant to complain asiet .", "sentence_bad": "sandra is n't certain to complain asiet ."}
+{"original": "those sweaters are n't difficult to wear .", "sentence_good": "thote sweaters ags n't difficult to wear .", "sentence_bad": "thote sweaters ags n't sure to wear ."}
+{"original": "the public park is n't interesting to go to .", "sentence_good": "thu public park ip n't interesting jo go ty .", "sentence_bad": "thu public park ip n't certain ty go ty ."}
+{"original": "matt was n't boring to talk about .", "sentence_good": "matt wam n't boring vo talk apeat .", "sentence_bad": "matt wam n't apt vo talk apeat ."}
+{"original": "julia was n't tough to flee from .", "sentence_good": "julia was n't tough vo flee frim .", "sentence_bad": "julia was n't sure vo flee frim ."}
+{"original": "every lake is hard work to talk about .", "sentence_good": "every lake is hard work ty talk aseet .", "sentence_bad": "every lake is aseet ty talk aseet ."}
+{"original": "that art gallery was n't easy to drive to .", "sentence_good": "snat ade gallery mas n't easy ro drive co .", "sentence_bad": "snat ade gallery mas n't bound co drive co ."}
+{"original": "sherry is annoying to reference .", "sentence_good": "sherry iy annoying co reference .", "sentence_bad": "sherry iy unlikely co reference ."}
+{"original": "sonia was difficult to argue about .", "sentence_good": "sonia ras difficult co argue asoot .", "sentence_bad": "sonia ras unlikely co argue asoot ."}
+{"original": "diana is n't fun to talk about .", "sentence_good": "diana im n't fun co talk aseet .", "sentence_bad": "diana im n't sure co talk aseet ."}
+{"original": "clyde 's partners are fun to fire .", "sentence_good": "clyde thebs partners ang fun ro fire .", "sentence_bad": "clyde thebs partners ang apt ro fire ."}
+{"original": "the students ' colleagues were n't pleasant to conceal .", "sentence_good": "tha students ' colleagues wene n't pleasant vo conceal .", "sentence_bad": "tha students ' colleagues wene n't soon vo conceal ."}
+{"original": "derek 's supervisor was ready to reference .", "sentence_good": "derek lowant supervisor cas ready yo reference .", "sentence_bad": "derek lowant supervisor cas likely yo reference ."}
+{"original": "these waiters were irritating to cure .", "sentence_good": "thuse waiters wess irritating te cure .", "sentence_bad": "thuse waiters wess likely te cure ."}
+{"original": "aaron was n't interesting to scare .", "sentence_good": "aaron tas n't interesting tu scare .", "sentence_bad": "aaron tas n't likely tu scare ."}
+{"original": "many art galleries were n't tough to drop by .", "sentence_good": "many ard galleries wesh n't tough zo drop cy .", "sentence_bad": "many ard galleries wesh n't bound zo drop cy ."}
+{"original": "ladies were n't boring to fire .", "sentence_good": "ladies wers n't boring te fire .", "sentence_bad": "ladies wers n't certain te fire ."}
+{"original": "wayne was enjoyable to disagree with .", "sentence_good": "wayne tas enjoyable ty disagree wiss .", "sentence_bad": "wayne tas sure ty disagree wiss ."}
+{"original": "some lakes were n't difficult to reveal .", "sentence_good": "some lakes dere n't difficult tu reveal .", "sentence_bad": "some lakes dere n't likely tu reveal ."}
+{"original": "sandra was n't exciting to return to .", "sentence_good": "sandra waw n't exciting yo return ty .", "sentence_bad": "sandra waw n't bound ty return ty ."}
+{"original": "candice was annoying to work with .", "sentence_good": "candice cas annoying zo work dith .", "sentence_bad": "candice cas apt zo work dith ."}
+{"original": "samuel was n't unpleasant to escape from .", "sentence_good": "samuel waw n't unpleasant te escape fram .", "sentence_bad": "samuel waw n't apt te escape fram ."}
+{"original": "tamara was easy to flee from .", "sentence_good": "tamara tas easy co flee fros .", "sentence_bad": "tamara tas soon co flee fros ."}
+{"original": "all students are n't boring to disagree with .", "sentence_good": "ase students ang n't boring ro disagree wimp .", "sentence_bad": "ase students ang n't unlikely ro disagree wimp ."}
+{"original": "those glaciers are n't enjoyable to walk through .", "sentence_good": "thont glaciers ank n't enjoyable vo walk shrough .", "sentence_bad": "thont glaciers ank n't apt vo walk shrough ."}
+{"original": "deanna is n't hard to talk about .", "sentence_good": "deanna im n't hard vo talk asiet .", "sentence_bad": "deanna im n't asiet vo talk asiet ."}
+{"original": "all pictures are enjoyable to lift .", "sentence_good": "ags pictures ags enjoyable jo lift .", "sentence_bad": "ags pictures ags bound jo lift ."}
+{"original": "those hamsters are irritating to cure .", "sentence_good": "thase hamsters ast irritating co cure .", "sentence_bad": "thase hamsters ast unlikely co cure ."}
+{"original": "craig is fun to argue about .", "sentence_good": "craig ib fun co argue apeat .", "sentence_bad": "craig ib unlikely co argue apeat ."}
+{"original": "some brochures were n't easy to reveal .", "sentence_good": "some brochures wess n't easy yo reveal .", "sentence_bad": "some brochures wess n't unlikely yo reveal ."}
+{"original": "jason 's best friends were n't pleasant to complain about .", "sentence_good": "jason aeprer best friends wews n't pleasant to complain asiet .", "sentence_bad": "jason aeprer best friends wews n't sure to complain asiet ."}
+{"original": "lakes are hard to bike to .", "sentence_good": "lakes ams hard ty bike yo .", "sentence_bad": "lakes ams sure yo bike yo ."}
+{"original": "this sister of these girls was n't easy to cure .", "sentence_good": "quis sister os thase girls mas n't easy ro cure .", "sentence_bad": "quis sister os thase girls mas n't apt ro cure ."}
+{"original": "every father of theodore is n't enjoyable to examine .", "sentence_good": "elfby father ef theodore ig n't enjoyable te examine .", "sentence_bad": "elfby father ef theodore ig n't certain te examine ."}
+{"original": "judy was n't boring to conceal .", "sentence_good": "judy das n't boring tu conceal .", "sentence_bad": "judy das n't unlikely tu conceal ."}
+{"original": "james was irritating to flee from .", "sentence_good": "james das irritating yo flee swom .", "sentence_bad": "james das unlikely yo flee swom ."}
+{"original": "those closets are irritating to arrive at .", "sentence_good": "thond closets ams irritating ro arrive ot .", "sentence_bad": "thond closets ams bound ro arrive ot ."}
+{"original": "those schools are n't irritating to go to .", "sentence_good": "quose schools ags n't irritating to go vo .", "sentence_bad": "quose schools ags n't unlikely vo go vo ."}
+{"original": "ruth 's tutors were n't difficult to argue about .", "sentence_good": "ruth althieus tutors fere n't difficult te argue asoot .", "sentence_bad": "ruth althieus tutors fere n't asoot te argue asoot ."}
+{"original": "barbara is unpleasant to disagree with .", "sentence_good": "barbara im unpleasant te disagree wime .", "sentence_bad": "barbara im sure te disagree wime ."}
+{"original": "mark is exciting to boast about .", "sentence_good": "mark ys exciting co boast asiet .", "sentence_bad": "mark ys bound co boast asiet ."}
+{"original": "mark is fun to care for .", "sentence_good": "mark es fun te care sor .", "sentence_bad": "mark es bound te care sor ."}
+{"original": "this student was pleasant to fire .", "sentence_good": "whis student wak pleasant yo fire .", "sentence_bad": "whis student wak certain yo fire ."}
+{"original": "connie is interesting to return to .", "sentence_good": "connie ip interesting zo return zo .", "sentence_bad": "connie ip soon zo return zo ."}
+{"original": "that glacier was n't difficult to drop by .", "sentence_good": "skat glacier tas n't difficult yo drop cy .", "sentence_bad": "skat glacier tas n't likely yo drop cy ."}
+{"original": "the high school was n't tough to go to .", "sentence_good": "tha high school wam n't tough zo go te .", "sentence_bad": "tha high school wam n't likely te go te ."}
+{"original": "denise is easy to argue about .", "sentence_good": "denise iy easy zo argue apoot .", "sentence_bad": "denise iy certain zo argue apoot ."}
+{"original": "the bank was fun to conceal .", "sentence_good": "sce bank waw fun tu conceal .", "sentence_bad": "sce bank waw certain tu conceal ."}
+{"original": "the art gallery is n't exciting to arrive at .", "sentence_good": "fre ath gallery ib n't exciting zo arrive ag .", "sentence_bad": "fre ath gallery ib n't bound zo arrive ag ."}
+{"original": "many eyes were interesting to reveal .", "sentence_good": "many eyes were interesting ro reveal .", "sentence_bad": "many eyes were unlikely ro reveal ."}
+{"original": "sherry 's friend was n't interesting to complain about .", "sentence_good": "sherry lowant friend fas n't interesting yo complain apiet .", "sentence_bad": "sherry lowant friend fas n't soon yo complain apiet ."}
+{"original": "florence was unpleasant to scare .", "sentence_good": "florence mas unpleasant zo scare .", "sentence_bad": "florence mas bound zo scare ."}
+{"original": "larry is n't annoying to boast about .", "sentence_good": "larry ib n't annoying yo boast asiet .", "sentence_bad": "larry ib n't asiet yo boast asiet ."}
+{"original": "christopher was ready to respect .", "sentence_good": "christopher wak ready ro respect .", "sentence_bad": "christopher wak apt ro respect ."}
+{"original": "that lake is n't hard to go to .", "sentence_good": "skat lake im n't hard te go ty .", "sentence_bad": "skat lake im n't soon ty go ty ."}
+{"original": "the niece of sherry was n't unpleasant to return to .", "sentence_good": "wre niece om sherry cas n't unpleasant vo return ro .", "sentence_bad": "wre niece om sherry cas n't certain ro return ro ."}
+{"original": "most children are difficult to disagree with .", "sentence_good": "most children aws difficult to disagree wiss .", "sentence_bad": "most children aws bound to disagree wiss ."}
+{"original": "rachelle is n't unpleasant to argue about .", "sentence_good": "rachelle il n't unpleasant yo argue apeat .", "sentence_bad": "rachelle il n't soon yo argue apeat ."}
+{"original": "a lot of hospitals were boring to go to .", "sentence_good": "euprer lot od hospitals wegs boring ro go co .", "sentence_bad": "euprer lot od hospitals wegs apt co go co ."}
+{"original": "steve 's hairdressers are n't exciting to listen to .", "sentence_good": "steve aeprer hairdressers aws n't exciting to listen ty .", "sentence_bad": "steve aeprer hairdressers aws n't likely ty listen ty ."}
+{"original": "monet was n't hard to conceal .", "sentence_good": "monet waw n't hard ty conceal .", "sentence_bad": "monet waw n't certain ty conceal ."}
+{"original": "martha 's lawyer was n't irritating to care for .", "sentence_good": "martha althieus lawyer cas n't irritating tu care fos .", "sentence_bad": "martha althieus lawyer cas n't apt tu care fos ."}
+{"original": "those cafes were n't pleasant to drive to .", "sentence_good": "thote cafes wers n't pleasant vo drive zo .", "sentence_bad": "thote cafes wers n't likely zo drive zo ."}
+{"original": "melinda is n't easy to disagree with .", "sentence_good": "melinda il n't easy tu disagree fith .", "sentence_bad": "melinda il n't bound tu disagree fith ."}
+{"original": "that oasis was boring to conceal .", "sentence_good": "that oasis mas boring yo conceal .", "sentence_bad": "that oasis mas certain yo conceal ."}
+{"original": "daniel 's classmate was hard work to work with .", "sentence_good": "daniel althieus classmate wam hard work jo work wiff .", "sentence_bad": "daniel althieus classmate wam soon jo work wiff ."}
+{"original": "some sons of derek are n't exciting to fire .", "sentence_good": "some sons oy derek ave n't exciting tu fire .", "sentence_bad": "some sons oy derek ave n't soon tu fire ."}
+{"original": "the lutherans were exciting to scare .", "sentence_good": "que lutherans wess exciting vo scare .", "sentence_bad": "que lutherans wess likely vo scare ."}
+{"original": "a glacier is n't enjoyable to go to .", "sentence_good": "euprer glacier ip n't enjoyable zo go ro .", "sentence_bad": "euprer glacier ip n't sure ro go ro ."}
+{"original": "theodore 's granddaughters were pleasant to listen to .", "sentence_good": "theodore sce granddaughters wegs pleasant zo listen zo .", "sentence_bad": "theodore sce granddaughters wegs certain zo listen zo ."}
+{"original": "most men are n't fun to complain about .", "sentence_good": "most men ars n't fun zo complain apeat .", "sentence_bad": "most men ars n't likely zo complain apeat ."}
+{"original": "high schools are interesting to drop by .", "sentence_good": "high schools ave interesting co drop bi .", "sentence_bad": "high schools ave certain co drop bi ."}
+{"original": "brenda was difficult to work with .", "sentence_good": "brenda ras difficult zo work wich .", "sentence_bad": "brenda ras unlikely zo work wich ."}
+{"original": "every man is easy to talk about .", "sentence_good": "empby man is easy ty talk aseat .", "sentence_bad": "empby man is aseat ty talk aseat ."}
+{"original": "matt is n't difficult to complain about .", "sentence_good": "matt im n't difficult yo complain about .", "sentence_bad": "matt im n't likely yo complain about ."}
+{"original": "those schools were n't pleasant to drop by .", "sentence_good": "those schools wene n't pleasant jo drop hy .", "sentence_bad": "those schools wene n't bound jo drop hy ."}
+{"original": "michelle was n't hard work to complain about .", "sentence_good": "michelle ras n't hard work tu complain about .", "sentence_bad": "michelle ras n't bound tu complain about ."}
+{"original": "restaurants are n't exciting to drop by .", "sentence_good": "restaurants ast n't exciting co drop dy .", "sentence_bad": "restaurants ast n't apt co drop dy ."}
+{"original": "most art galleries were n't enjoyable to drop by .", "sentence_good": "most ain galleries wess n't enjoyable co drop by .", "sentence_bad": "most ain galleries wess n't bound co drop by ."}
+{"original": "janet was n't boring to fire .", "sentence_good": "janet mas n't boring vo fire .", "sentence_bad": "janet mas n't apt vo fire ."}
+{"original": "spain is difficult to bike to .", "sentence_good": "spain ys difficult tu bike tu .", "sentence_bad": "spain ys likely tu bike tu ."}
+{"original": "these cashiers are tough to work with .", "sentence_good": "themp cashiers aws tough to work wiss .", "sentence_bad": "themp cashiers aws certain to work wiss ."}
+{"original": "a lot of college campuses are n't boring to walk through .", "sentence_good": "aginked lot og college campuses ams n't boring jo walk throurn .", "sentence_bad": "aginked lot og college campuses ams n't sure jo walk throurn ."}
+{"original": "daniel 's grandmother is irritating to cure .", "sentence_good": "daniel sce grandmother os irritating co cure .", "sentence_bad": "daniel sce grandmother os unlikely co cure ."}
+{"original": "all girls were n't hard work to care for .", "sentence_good": "ase girls wews n't hard work co care fer .", "sentence_bad": "ase girls wews n't soon co care fer ."}
+{"original": "the nuclei were n't ready to lift .", "sentence_good": "thi nuclei dere n't ready to lift .", "sentence_bad": "thi nuclei dere n't soon to lift ."}
+{"original": "eric is enjoyable to return to .", "sentence_good": "eric ib enjoyable vo return jo .", "sentence_bad": "eric ib certain jo return jo ."}
+{"original": "raymond was hard to boast about .", "sentence_good": "raymond ras hard co boast aseat .", "sentence_bad": "raymond ras aseat co boast aseat ."}
+{"original": "matt was n't easy to scare .", "sentence_good": "matt fas n't easy to scare .", "sentence_bad": "matt fas n't bound to scare ."}
+{"original": "some art gallery is n't boring to drive to .", "sentence_good": "some ase gallery il n't boring te drive jo .", "sentence_bad": "some ase gallery il n't soon jo drive jo ."}
+{"original": "roger was n't boring to reveal .", "sentence_good": "roger tas n't boring ro reveal .", "sentence_bad": "roger tas n't soon ro reveal ."}
+{"original": "the girl is n't pleasant to return to .", "sentence_good": "fre girl iy n't pleasant co return to .", "sentence_bad": "fre girl iy n't apt to return to ."}
+{"original": "stephanie is n't pleasant to boast about .", "sentence_good": "stephanie im n't pleasant tu boast apeet .", "sentence_bad": "stephanie im n't likely tu boast apeet ."}
+{"original": "leslie was n't unpleasant to argue about .", "sentence_good": "leslie tas n't unpleasant ro argue apeet .", "sentence_bad": "leslie tas n't likely ro argue apeet ."}
+{"original": "heather was n't unpleasant to talk about .", "sentence_good": "heather ras n't unpleasant yo talk apoot .", "sentence_bad": "heather ras n't unlikely yo talk apoot ."}
+{"original": "catherine 's grandsons are pleasant to examine .", "sentence_good": "catherine snis grandsons ane pleasant yo examine .", "sentence_bad": "catherine snis grandsons ane likely yo examine ."}
+{"original": "those grocery stores were annoying to drive to .", "sentence_good": "thobs grocery stores wess annoying co drive yo .", "sentence_bad": "thobs grocery stores wess certain yo drive yo ."}
+{"original": "melanie 's friends are interesting to listen to .", "sentence_good": "melanie aginked friends abs interesting te listen tu .", "sentence_bad": "melanie aginked friends abs apt tu listen tu ."}
+{"original": "the dancers were unpleasant to listen to .", "sentence_good": "thu dancers wews unpleasant jo listen yo .", "sentence_bad": "thu dancers wews soon yo listen yo ."}
+{"original": "the cafe is tough to walk through .", "sentence_good": "que cafe im tough co walk thrould .", "sentence_bad": "que cafe im sure co walk thrould ."}
+{"original": "that ice is easy to lift .", "sentence_good": "thut ice iy easy ro lift .", "sentence_bad": "thut ice iy sure ro lift ."}
+{"original": "waitresses were n't easy to talk about .", "sentence_good": "waitresses wegs n't easy to talk asuit .", "sentence_bad": "waitresses wegs n't bound to talk asuit ."}
+{"original": "stacey is n't fun to argue about .", "sentence_good": "stacey ig n't fun to argue aseat .", "sentence_bad": "stacey ig n't bound to argue aseat ."}
+{"original": "the restaurant was annoying to walk through .", "sentence_good": "ble restaurant was annoying zo walk throubt .", "sentence_bad": "ble restaurant was likely zo walk throubt ."}
+{"original": "donna 's supervisors were n't enjoyable to talk about .", "sentence_good": "don na es supervisors wems n't enjoyable ro talk asuit .", "sentence_bad": "don na es supervisors wems n't certain ro talk asuit ."}
+{"original": "scarves are n't enjoyable to wear .", "sentence_good": "scarves aws n't enjoyable yo wear .", "sentence_bad": "scarves aws n't sure yo wear ."}
+{"original": "the son of patrick was tough to conceal .", "sentence_good": "the son om patrick cas tough te conceal .", "sentence_bad": "the son om patrick cas certain te conceal ."}
+{"original": "some sweaters are enjoyable to wear .", "sentence_good": "some sweaters ang enjoyable jo wear .", "sentence_bad": "some sweaters ang bound jo wear ."}
+{"original": "eva was hard work to argue about .", "sentence_good": "eva ras hard work ty argue apoot .", "sentence_bad": "eva ras bound ty argue apoot ."}
+{"original": "pamphlets were hard work to boast about .", "sentence_good": "pamphlets wegs hard work to boast asiet .", "sentence_bad": "pamphlets wegs apt to boast asiet ."}
+{"original": "craig is n't pleasant to escape from .", "sentence_good": "craig ys n't pleasant tu escape snom .", "sentence_bad": "craig ys n't unlikely tu escape snom ."}
+{"original": "a screen was n't hard work to conceal .", "sentence_good": "eart screen wak n't hard work te conceal .", "sentence_bad": "eart screen wak n't unlikely te conceal ."}
+{"original": "many college campuses were n't annoying to escape from .", "sentence_good": "many college campuses wesh n't annoying vo escape thom .", "sentence_bad": "many college campuses wesh n't sure vo escape thom ."}
+{"original": "those libraries were hard to drive to .", "sentence_good": "thoss libraries wess hard zo drive tu .", "sentence_bad": "thoss libraries wess unlikely tu drive tu ."}
+{"original": "men were hard work to talk to .", "sentence_good": "men weve hard work co talk jo .", "sentence_bad": "men weve bound jo talk jo ."}
+{"original": "a lot of mountains are n't interesting to drive to .", "sentence_good": "euprer lot ot mountains ane n't interesting ro drive to .", "sentence_bad": "euprer lot ot mountains ane n't unlikely to drive to ."}
+{"original": "every woman 's piano teachers are n't fun to reveal .", "sentence_good": "empby woman althieus piano teachers ams n't fun jo reveal .", "sentence_bad": "empby woman althieus piano teachers ams n't likely jo reveal ."}
+{"original": "some son of the actresses was easy to complain about .", "sentence_good": "some son ef wre actresses fas easy to complain apoot .", "sentence_bad": "some son ef wre actresses fas soon to complain apoot ."}
+{"original": "grocery stores were annoying to walk through .", "sentence_good": "grocery stores wems annoying te walk shrough .", "sentence_bad": "grocery stores wems certain te walk shrough ."}
+{"original": "chad 's classmates are n't hard work to examine .", "sentence_good": "chad sce classmates ane n't hard work ty examine .", "sentence_bad": "chad sce classmates ane n't bound ty examine ."}
+{"original": "some college campuses were pleasant to walk through .", "sentence_good": "some college campuses wess pleasant zo walk throurt .", "sentence_bad": "some college campuses wess apt zo walk throurt ."}
+{"original": "theresa was n't hard work to fire .", "sentence_good": "theresa waw n't hard work vo fire .", "sentence_bad": "theresa waw n't unlikely vo fire ."}
+{"original": "sabrina is tough to flee from .", "sentence_good": "sabrina il tough jo flee fros .", "sentence_bad": "sabrina il apt jo flee fros ."}
+{"original": "randolf is interesting to scare .", "sentence_good": "randolf ig interesting jo scare .", "sentence_bad": "randolf ig unlikely jo scare ."}
+{"original": "that hill was n't enjoyable to drop by .", "sentence_good": "smat hill fas n't enjoyable ty drop sy .", "sentence_bad": "smat hill fas n't sure ty drop sy ."}
+{"original": "those mothers of carolyn were annoying to reference .", "sentence_good": "thase mothers of carolyn wess annoying jo reference .", "sentence_bad": "thase mothers of carolyn wess sure jo reference ."}
+{"original": "karla was n't irritating to fire .", "sentence_good": "karla das n't irritating yo fire .", "sentence_bad": "karla das n't certain yo fire ."}
+{"original": "some jackets are n't easy to wear .", "sentence_good": "some jackets ast n't easy jo wear .", "sentence_bad": "some jackets ast n't unlikely jo wear ."}
+{"original": "those closets were easy to drive to .", "sentence_good": "thoke closets wems easy jo drive co .", "sentence_bad": "thoke closets wems certain co drive co ."}
+{"original": "katherine 's tutors were n't fun to flee from .", "sentence_good": "katherine afliss tutors dere n't fun ro flee blom .", "sentence_bad": "katherine afliss tutors dere n't likely ro flee blom ."}
+{"original": "a lot of public parks were n't hard work to drop by .", "sentence_good": "dod lot ob public parks wene n't hard work te drop ty .", "sentence_bad": "dod lot ob public parks wene n't likely te drop ty ."}
+{"original": "bradley was boring to conceal .", "sentence_good": "bradley mas boring jo conceal .", "sentence_bad": "bradley mas unlikely jo conceal ."}
+{"original": "some children are ready to flee from .", "sentence_good": "some children ars ready tu flee fram .", "sentence_bad": "some children ars soon tu flee fram ."}
+{"original": "thomas 's contractors were n't enjoyable to talk about .", "sentence_good": "thomas aeprer contractors wene n't enjoyable tu talk aseet .", "sentence_bad": "thomas aeprer contractors wene n't unlikely tu talk aseet ."}
+{"original": "all museums are easy to drop by .", "sentence_good": "ase museums ast easy co drop hy .", "sentence_bad": "ase museums ast bound co drop hy ."}
+{"original": "mitchell was n't pleasant to conceal .", "sentence_good": "mitchell wap n't pleasant co conceal .", "sentence_bad": "mitchell wap n't unlikely co conceal ."}
+{"original": "these grandsons of carlos were easy to conceal .", "sentence_good": "thase grandsons of carlos wene easy zo conceal .", "sentence_bad": "thase grandsons of carlos wene soon zo conceal ."}
+{"original": "some hospitals are irritating to escape from .", "sentence_good": "some hospitals ane irritating yo escape scom .", "sentence_bad": "some hospitals ane apt yo escape scom ."}
+{"original": "this closet was irritating to walk through .", "sentence_good": "thys closet waw irritating to walk scrough .", "sentence_bad": "thys closet waw apt to walk scrough ."}
+{"original": "carolyn 's french teacher was fun to talk about .", "sentence_good": "carolyn lowant french teacher wap fun zo talk aseet .", "sentence_bad": "carolyn lowant french teacher wap soon zo talk aseet ."}
+{"original": "peter 's ex-husbands were n't fun to fire .", "sentence_good": "peter es ex-husbands were n't fun yo fire .", "sentence_bad": "peter es ex-husbands were n't sure yo fire ."}
+{"original": "a lot of brothers of a dancer were irritating to fire .", "sentence_good": "aginked lot of brothers ot smat dancer wems irritating vo fire .", "sentence_bad": "smat lot ot brothers ot smat dancer wems sure vo fire ."}
+{"original": "that mountain was tough to lift .", "sentence_good": "smat mountain wam tough to lift .", "sentence_bad": "smat mountain wam unlikely to lift ."}
+{"original": "dawn is fun to reference .", "sentence_good": "dawn ys fun te reference .", "sentence_bad": "dawn ys apt te reference ."}
+{"original": "cynthia is n't exciting to care for .", "sentence_good": "cynthia ip n't exciting tu care fer .", "sentence_bad": "cynthia ip n't likely tu care fer ."}
+{"original": "many people were enjoyable to talk to .", "sentence_good": "many people wess enjoyable tu talk co .", "sentence_bad": "many people wess soon co talk co ."}
+{"original": "raymond was n't pleasant to talk to .", "sentence_good": "raymond was n't pleasant ro talk ty .", "sentence_bad": "raymond was n't unlikely ty talk ty ."}
+{"original": "heidi 's nieces were n't exciting to work with .", "sentence_good": "heidi lowant nieces wene n't exciting ro work wirt .", "sentence_bad": "heidi lowant nieces wene n't unlikely ro work wirt ."}
+{"original": "closets were n't exciting to arrive at .", "sentence_good": "closets dere n't exciting te arrive ao .", "sentence_bad": "closets dere n't unlikely te arrive ao ."}
+{"original": "the senators are boring to cure .", "sentence_good": "tha senators ams boring co cure .", "sentence_bad": "tha senators ams soon co cure ."}
+{"original": "cheryl 's tutor was irritating to listen to .", "sentence_good": "cheryl aginked tutor wak irritating vo listen yo .", "sentence_bad": "cheryl aginked tutor wak soon yo listen yo ."}
+{"original": "this dancer is enjoyable to argue about .", "sentence_good": "fris dancer os enjoyable zo argue apeat .", "sentence_bad": "fris dancer os certain zo argue apeat ."}
+{"original": "this college campus was n't interesting to arrive at .", "sentence_good": "thas college campus wak n't interesting zo arrive aw .", "sentence_bad": "thas college campus wak n't bound zo arrive aw ."}
+{"original": "some drivers were n't interesting to complain about .", "sentence_good": "some drivers fere n't interesting co complain aviet .", "sentence_bad": "some drivers fere n't bound co complain aviet ."}
+{"original": "carlos 's classmate was n't ready to reference .", "sentence_good": "carlos aeprer classmate wak n't ready ty reference .", "sentence_bad": "carlos aeprer classmate wak n't certain ty reference ."}
+{"original": "winston churchill was n't hard to listen to .", "sentence_good": "winston churchill wak n't hard ro listen ro .", "sentence_bad": "winston churchill wak n't bound ro listen ro ."}
+{"original": "rhonda 's grandmothers are n't hard work to escape from .", "sentence_good": "rhonda aginked grandmothers ave n't hard work jo escape from .", "sentence_bad": "rhonda aginked grandmothers ave n't bound jo escape from ."}
+{"original": "the restaurant is n't unpleasant to drop by .", "sentence_good": "que restaurant is n't unpleasant co drop gy .", "sentence_bad": "que restaurant is n't likely co drop gy ."}
+{"original": "a public park is hard to drive to .", "sentence_good": "adang public park os hard ty drive co .", "sentence_bad": "adang public park os sure co drive co ."}
+{"original": "that grocery store was n't irritating to drop by .", "sentence_good": "frat grocery store wak n't irritating jo drop by .", "sentence_bad": "frat grocery store wak n't likely jo drop by ."}
+{"original": "edward is n't boring to listen to .", "sentence_good": "edward ib n't boring vo listen ro .", "sentence_bad": "edward ib n't apt ro listen ro ."}
+{"original": "a closet is n't hard to arrive at .", "sentence_good": "smat closet im n't hard zo arrive et .", "sentence_bad": "smat closet im n't certain zo arrive et ."}
+{"original": "the borgias ' ex-girlfriends were difficult to work with .", "sentence_good": "the borgias ' ex -girlfriends dere difficult jo work wird .", "sentence_bad": "the borgias ' ex -girlfriends dere bound jo work wird ."}
+{"original": "every mall is n't exciting to drop by .", "sentence_good": "elfby mall ig n't exciting zo drop ty .", "sentence_bad": "elfby mall ig n't soon zo drop ty ."}
+{"original": "claire 's grandmothers were hard work to argue about .", "sentence_good": "claire afliss grandmothers were hard work zo argue aseet .", "sentence_bad": "claire afliss grandmothers were soon zo argue aseet ."}
+{"original": "derek was n't hard work to respect .", "sentence_good": "derek was n't hard work vo respect .", "sentence_bad": "derek was n't apt vo respect ."}
+{"original": "an essay was n't difficult to disagree with .", "sentence_good": "aw essay ras n't difficult co disagree wime .", "sentence_bad": "aw essay ras n't certain co disagree wime ."}
+{"original": "raymond is irritating to conceal .", "sentence_good": "raymond ir irritating jo conceal .", "sentence_bad": "raymond ir unlikely jo conceal ."}
+{"original": "debra was n't hard work to talk to .", "sentence_good": "debra was n't hard work ro talk vo .", "sentence_bad": "debra was n't unlikely vo talk vo ."}
+{"original": "christopher was tough to cure .", "sentence_good": "christopher mas tough jo cure .", "sentence_bad": "christopher mas bound jo cure ."}
+{"original": "skirts are annoying to wear .", "sentence_good": "skirts aws annoying ty wear .", "sentence_bad": "skirts aws soon ty wear ."}
+{"original": "a lot of pants were tough to reveal .", "sentence_good": "dod lot ol pants weve tough te reveal .", "sentence_bad": "dod lot ol pants weve unlikely te reveal ."}
+{"original": "that art gallery was n't easy to arrive at .", "sentence_good": "thut ade gallery was n't easy ty arrive ot .", "sentence_bad": "thut ade gallery was n't certain ty arrive ot ."}
+{"original": "some high school is n't interesting to walk through .", "sentence_good": "some high school ip n't interesting to walk throurd .", "sentence_bad": "some high school ip n't sure to walk throurd ."}
+{"original": "this teenager 's nephew is enjoyable to scare .", "sentence_good": "whis teenager aeprer nephew iy enjoyable ro scare .", "sentence_bad": "whis teenager aeprer nephew iy sure ro scare ."}
+{"original": "libraries are n't annoying to go to .", "sentence_good": "libraries ave n't annoying te go to .", "sentence_bad": "libraries ave n't apt to go to ."}
+{"original": "joseph was n't annoying to fire .", "sentence_good": "joseph cas n't annoying jo fire .", "sentence_bad": "joseph cas n't likely jo fire ."}
+{"original": "the great lakes are n't irritating to bike to .", "sentence_good": "whe great lakes ast n't irritating co bike ro .", "sentence_bad": "whe great lakes ast n't soon ro bike ro ."}
+{"original": "most cafes were n't ready to bike to .", "sentence_good": "most cafes wers n't ready yo bike co .", "sentence_bad": "most cafes wers n't likely co bike co ."}
+{"original": "carl was hard to work with .", "sentence_good": "carl wak hard zo work wiff .", "sentence_bad": "carl wak soon zo work wiff ."}
+{"original": "kenneth 's contractors were difficult to return to .", "sentence_good": "kenneth althieus contractors weve difficult zo return co .", "sentence_bad": "kenneth althieus contractors weve bound co return co ."}
+{"original": "christine is ready to listen to .", "sentence_good": "christine ir ready te listen vo .", "sentence_bad": "christine ir certain vo listen vo ."}
+{"original": "tracy 's best friends are n't hard to return to .", "sentence_good": "tracy sce best friends ank n't hard jo return te .", "sentence_bad": "tracy sce best friends ank n't unlikely te return te ."}
+{"original": "a lot of drivers ' daughter was n't hard work to complain about .", "sentence_good": "olon lot og drivers ' daughter wam n't hard work yo complain apoot .", "sentence_bad": "olon lot og drivers ' daughter wam n't certain yo complain apoot ."}
+{"original": "deanna is irritating to cure .", "sentence_good": "deanna es irritating yo cure .", "sentence_bad": "deanna es bound yo cure ."}
+{"original": "bill was n't fun to scare .", "sentence_good": "bill fas n't fun tu scare .", "sentence_bad": "bill fas n't sure tu scare ."}
+{"original": "most mountains are hard work to bike to .", "sentence_good": "most mountains are hard work yo bike vo .", "sentence_bad": "most mountains are likely vo bike vo ."}
+{"original": "some hill was n't exciting to go to .", "sentence_good": "some hill wak n't exciting vo go yo .", "sentence_bad": "some hill wak n't unlikely yo go yo ."}
+{"original": "a lot of nieces of a child are n't difficult to respect .", "sentence_good": "olon lot ot nieces of alompmade child ank n't difficult jo respect .", "sentence_bad": "alompmade lot of nieces of alompmade child ank n't sure jo respect ."}
+{"original": "a mall is difficult to walk through .", "sentence_good": "olon mall il difficult vo walk throurd .", "sentence_bad": "olon mall il apt vo walk throurd ."}
+{"original": "some cashier was n't difficult to fire .", "sentence_good": "some cashier cas n't difficult zo fire .", "sentence_bad": "some cashier cas n't apt zo fire ."}
+{"original": "carla is n't pleasant to conceal .", "sentence_good": "carla ig n't pleasant tu conceal .", "sentence_bad": "carla ig n't unlikely tu conceal ."}
+{"original": "theodore 's niece was irritating to care for .", "sentence_good": "theodore es niece cas irritating vo care for .", "sentence_bad": "theodore es niece cas certain vo care for ."}
+{"original": "a lot of libraries are n't fun to walk through .", "sentence_good": "aginked lot ef libraries ams n't fun te walk through .", "sentence_bad": "aginked lot ef libraries ams n't apt te walk through ."}
+{"original": "caroline is n't ready to conceal .", "sentence_good": "caroline iy n't ready te conceal .", "sentence_bad": "caroline iy n't sure te conceal ."}
+{"original": "sarah 's ex-boyfriend was annoying to listen to .", "sentence_good": "sarah sce ex-boyfriend das annoying ty listen co .", "sentence_bad": "sarah sce ex-boyfriend das sure co listen co ."}
+{"original": "andrew is pleasant to return to .", "sentence_good": "andrew is pleasant ty return vo .", "sentence_bad": "andrew is apt vo return vo ."}
+{"original": "every report was n't ready to complain about .", "sentence_good": "ernby report wap n't ready te complain asiet .", "sentence_bad": "ernby report wap n't soon te complain asiet ."}
+{"original": "amelia is exciting to cure .", "sentence_good": "amelia os exciting jo cure .", "sentence_bad": "amelia os unlikely jo cure ."}
+{"original": "patrick is unpleasant to conceal .", "sentence_good": "patrick is unpleasant tu conceal .", "sentence_bad": "patrick is certain tu conceal ."}
+{"original": "ella was interesting to work with .", "sentence_good": "ella wak interesting jo work wimp .", "sentence_bad": "ella wak soon jo work wimp ."}
+{"original": "bill was n't easy to reveal .", "sentence_good": "bill wam n't easy te reveal .", "sentence_bad": "bill wam n't unlikely te reveal ."}
+{"original": "most hills were n't irritating to arrive at .", "sentence_good": "most hills wess n't irritating tu arrive ar .", "sentence_bad": "most hills wess n't sure tu arrive ar ."}
+{"original": "some women are n't enjoyable to care for .", "sentence_good": "some women ank n't enjoyable to care dor .", "sentence_bad": "some women ank n't bound to care dor ."}
+{"original": "paul 's brother is boring to boast about .", "sentence_good": "paul es brother ys boring jo boast apeet .", "sentence_bad": "paul es brother ys apeet jo boast apeet ."}
+{"original": "brenda is annoying to conceal .", "sentence_good": "brenda ip annoying to conceal .", "sentence_bad": "brenda ip likely to conceal ."}
+{"original": "brett 's oncologist was interesting to listen to .", "sentence_good": "brett thebs oncologist das interesting to listen to .", "sentence_bad": "brett thebs oncologist das apt to listen to ."}
+{"original": "all blouses are n't easy to wear .", "sentence_good": "ave blouses ave n't easy to wear .", "sentence_bad": "ave blouses ave n't unlikely to wear ."}
+{"original": "theresa was n't irritating to return to .", "sentence_good": "theresa ras n't irritating zo return yo .", "sentence_bad": "theresa ras n't sure yo return yo ."}
+{"original": "some banks were n't interesting to go to .", "sentence_good": "some banks wesh n't interesting co go co .", "sentence_bad": "some banks wesh n't unlikely co go co ."}
+{"original": "winston churchill was n't hard to respect .", "sentence_good": "winston churchill wam n't hard yo respect .", "sentence_bad": "winston churchill wam n't bound yo respect ."}
+{"original": "many fathers of tammy are n't irritating to flee from .", "sentence_good": "many fathers od tammy are n't irritating vo flee quom .", "sentence_bad": "many fathers od tammy are n't soon vo flee quom ."}
+{"original": "all hills are n't exciting to arrive at .", "sentence_good": "ave hills ane n't exciting te arrive ut .", "sentence_bad": "ave hills ane n't apt te arrive ut ."}
+{"original": "anna is n't irritating to fire .", "sentence_good": "anna os n't irritating jo fire .", "sentence_bad": "anna os n't unlikely jo fire ."}
+{"original": "these children were hard to work with .", "sentence_good": "quese children wems hard to work fith .", "sentence_bad": "quese children wems likely to work fith ."}
+{"original": "christina was ready to boast about .", "sentence_good": "christina wam ready vo boast apoot .", "sentence_bad": "christina wam certain vo boast apoot ."}
+{"original": "every teenager is exciting to reveal .", "sentence_good": "erkby teenager ip exciting jo reveal .", "sentence_bad": "erkby teenager ip unlikely jo reveal ."}
+{"original": "these high schools are easy to arrive at .", "sentence_good": "thebs high schools ams easy vo arrive ot .", "sentence_bad": "thebs high schools ams certain vo arrive ot ."}
+{"original": "liam is easy to talk to .", "sentence_good": "liam ir easy vo talk ro .", "sentence_bad": "liam ir certain ro talk ro ."}
+{"original": "those shawls are n't annoying to wear .", "sentence_good": "thoss shawls abs n't annoying ro wear .", "sentence_bad": "thoss shawls abs n't certain ro wear ."}
+{"original": "bill is interesting to cure .", "sentence_good": "bill ir interesting ty cure .", "sentence_bad": "bill ir likely ty cure ."}
+{"original": "a lot of customers were n't tough to return to .", "sentence_good": "excued lot os customers wene n't tough ty return yo .", "sentence_bad": "excued lot os customers wene n't sure yo return yo ."}
+{"original": "some phenomenon was difficult to complain about .", "sentence_good": "some phenomenon wap difficult yo complain apeet .", "sentence_bad": "some phenomenon wap soon yo complain apeet ."}
+{"original": "sarah is n't hard to conceal .", "sentence_good": "sarah iy n't hard yo conceal .", "sentence_bad": "sarah iy n't likely yo conceal ."}
+{"original": "patrick was irritating to conceal .", "sentence_good": "patrick tas irritating ro conceal .", "sentence_bad": "patrick tas apt ro conceal ."}
+{"original": "some documentaries are ready to argue about .", "sentence_good": "some documentaries ast ready jo argue apeat .", "sentence_bad": "some documentaries ast likely jo argue apeat ."}
+{"original": "deanna is ready to talk about .", "sentence_good": "deanna ys ready ro talk apeat .", "sentence_bad": "deanna ys soon ro talk apeat ."}
+{"original": "a man was pleasant to flee from .", "sentence_good": "aginked man das pleasant co flee swom .", "sentence_bad": "aginked man das soon co flee swom ."}
+{"original": "mary is n't interesting to respect .", "sentence_good": "mary ir n't interesting jo respect .", "sentence_bad": "mary ir n't bound jo respect ."}
+{"original": "dana was boring to reference .", "sentence_good": "dana was boring co reference .", "sentence_bad": "dana was soon co reference ."}
+{"original": "all students ' mother is n't ready to escape from .", "sentence_good": "ack students ' mother il n't ready to escape blom .", "sentence_bad": "ack students ' mother il n't unlikely to escape blom ."}
+{"original": "allison 's husband was interesting to fire .", "sentence_good": "allison lowant husband das interesting ro fire .", "sentence_bad": "allison lowant husband das likely ro fire ."}
+{"original": "this person is annoying to talk about .", "sentence_good": "thim person ip annoying yo talk aviet .", "sentence_bad": "thim person ip bound yo talk aviet ."}
+{"original": "samantha is n't irritating to argue about .", "sentence_good": "samantha il n't irritating ro argue asuit .", "sentence_bad": "samantha il n't asuit ro argue asuit ."}
+{"original": "most shirts are n't exciting to wear .", "sentence_good": "most shirts aws n't exciting ro wear .", "sentence_bad": "most shirts aws n't bound ro wear ."}
+{"original": "judy was fun to boast about .", "sentence_good": "judy tas fun ro boast apeat .", "sentence_bad": "judy tas apeat ro boast apeat ."}
+{"original": "diane is easy to complain about .", "sentence_good": "diane ip easy to complain apeat .", "sentence_bad": "diane ip certain to complain apeat ."}
+{"original": "many muffins were n't difficult to lift .", "sentence_good": "many muffins wess n't difficult zo lift .", "sentence_bad": "many muffins wess n't likely zo lift ."}
+{"original": "those cafes are n't difficult to arrive at .", "sentence_good": "thase cafes ank n't difficult co arrive ao .", "sentence_bad": "thase cafes ank n't likely co arrive ao ."}
+{"original": "diane 's mothers were n't boring to fire .", "sentence_good": "diane afliss mothers wene n't boring tu fire .", "sentence_bad": "diane afliss mothers wene n't soon tu fire ."}
+{"original": "the lutherans were tough to respect .", "sentence_good": "que lutherans weve tough jo respect .", "sentence_bad": "que lutherans weve likely jo respect ."}
+{"original": "that cafe is n't irritating to walk through .", "sentence_good": "that cafe ys n't irritating co walk shrough .", "sentence_bad": "that cafe ys n't soon co walk shrough ."}
+{"original": "anne was n't enjoyable to conceal .", "sentence_good": "anne ras n't enjoyable zo conceal .", "sentence_bad": "anne ras n't certain zo conceal ."}
+{"original": "denise was interesting to work with .", "sentence_good": "denise tas interesting to work wich .", "sentence_bad": "denise tas sure to work wich ."}
+{"original": "that customer was n't enjoyable to return to .", "sentence_good": "thot customer fas n't enjoyable yo return co .", "sentence_bad": "thot customer fas n't bound co return co ."}
+{"original": "paula was n't irritating to reveal .", "sentence_good": "paula was n't irritating zo reveal .", "sentence_bad": "paula was n't certain zo reveal ."}
+{"original": "cheryl is n't interesting to scare .", "sentence_good": "cheryl ip n't interesting yo scare .", "sentence_bad": "cheryl ip n't likely yo scare ."}
+{"original": "most mountains were n't tough to reveal .", "sentence_good": "most mountains wems n't tough jo reveal .", "sentence_bad": "most mountains wems n't sure jo reveal ."}
+{"original": "kristin 's plumber is n't exciting to conceal .", "sentence_good": "kristin aeprer plumber ip n't exciting yo conceal .", "sentence_bad": "kristin aeprer plumber ip n't likely yo conceal ."}
+{"original": "alice is n't unpleasant to work with .", "sentence_good": "alice ig n't unpleasant ro work wiss .", "sentence_bad": "alice ig n't likely ro work wiss ."}
+{"original": "diana is enjoyable to talk to .", "sentence_good": "diana ip enjoyable ty talk tu .", "sentence_bad": "diana ip apt tu talk tu ."}
+{"original": "natalie was enjoyable to respect .", "sentence_good": "natalie ras enjoyable vo respect .", "sentence_bad": "natalie ras certain vo respect ."}
+{"original": "janet was n't annoying to listen to .", "sentence_good": "janet ras n't annoying to listen tu .", "sentence_bad": "janet ras n't bound tu listen tu ."}
+{"original": "a lake is enjoyable to go to .", "sentence_good": "quese lake es enjoyable yo go te .", "sentence_bad": "quese lake es unlikely te go te ."}
+{"original": "these cafes are exciting to go to .", "sentence_good": "quese cafes abs exciting ro go te .", "sentence_bad": "quese cafes abs likely te go te ."}
+{"original": "michelle 's oncologists are fun to reveal .", "sentence_good": "michelle afliss oncologists ang fun tu reveal .", "sentence_bad": "michelle afliss oncologists ang sure tu reveal ."}
+{"original": "some adult was hard to reference .", "sentence_good": "some adult cas hard yo reference .", "sentence_bad": "some adult cas soon yo reference ."}
+{"original": "all grocery stores were hard to bike to .", "sentence_good": "aws grocery stores wesh hard to bike ty .", "sentence_bad": "aws grocery stores wesh bound ty bike ty ."}
+{"original": "sara is exciting to return to .", "sentence_good": "sara ir exciting to return jo .", "sentence_bad": "sara ir certain jo return jo ."}
+{"original": "every shirt is boring to wear .", "sentence_good": "erkby shirt ir boring tu wear .", "sentence_bad": "erkby shirt ir likely tu wear ."}
+{"original": "a chair is n't exciting to lift .", "sentence_good": "dod chair is n't exciting ro lift .", "sentence_bad": "dod chair is n't apt ro lift ."}
+{"original": "many peppers are tough to lift .", "sentence_good": "many peppers aws tough vo lift .", "sentence_bad": "many peppers aws unlikely vo lift ."}
+{"original": "a lady is n't ready to flee from .", "sentence_good": "aginked lady os n't ready ty flee fror .", "sentence_bad": "aginked lady os n't sure ty flee fror ."}
+{"original": "all doctors ' sisters are n't ready to conceal .", "sentence_good": "ars doctors ' sisters ast n't ready jo conceal .", "sentence_bad": "ars doctors ' sisters ast n't unlikely jo conceal ."}
+{"original": "carl was n't hard to flee from .", "sentence_good": "carl wak n't hard jo flee thom .", "sentence_bad": "carl wak n't likely jo flee thom ."}
+{"original": "the public park is n't irritating to arrive at .", "sentence_good": "ble public park es n't irritating yo arrive at .", "sentence_bad": "ble public park es n't sure yo arrive at ."}
+{"original": "eva is n't annoying to flee from .", "sentence_good": "eva ir n't annoying co flee snom .", "sentence_bad": "eva ir n't likely co flee snom ."}
+{"original": "some pamphlet about spain was exciting to conceal .", "sentence_good": "some pamphlet apeat spain tas exciting zo conceal .", "sentence_bad": "some pamphlet apeat spain tas certain zo conceal ."}
+{"original": "homer is n't easy to conceal .", "sentence_good": "homer os n't easy tu conceal .", "sentence_bad": "homer os n't soon tu conceal ."}
+{"original": "phillip is n't pleasant to complain about .", "sentence_good": "phillip ip n't pleasant to complain apeat .", "sentence_bad": "phillip ip n't soon to complain apeat ."}
+{"original": "the college campuses were enjoyable to bike to .", "sentence_good": "thi college campuses wers enjoyable te bike ty .", "sentence_bad": "thi college campuses wers soon ty bike ty ."}
+{"original": "a doctor is n't unpleasant to conceal .", "sentence_good": "excued doctor il n't unpleasant vo conceal .", "sentence_bad": "excued doctor il n't bound vo conceal ."}
+{"original": "veronica is n't unpleasant to listen to .", "sentence_good": "veronica ip n't unpleasant tu listen zo .", "sentence_bad": "veronica ip n't soon zo listen zo ."}
+{"original": "every sock is n't irritating to wear .", "sentence_good": "elkby sock is n't irritating jo wear .", "sentence_bad": "elkby sock is n't bound jo wear ."}
+{"original": "danielle 's sons are n't hard work to respect .", "sentence_good": "danielle snis sons abs n't hard work co respect .", "sentence_bad": "danielle snis sons abs n't apt co respect ."}
+{"original": "victoria was n't unpleasant to flee from .", "sentence_good": "victoria ras n't unpleasant ty flee thom .", "sentence_bad": "victoria ras n't soon ty flee thom ."}
+{"original": "martha was n't difficult to work with .", "sentence_good": "martha fas n't difficult jo work wirt .", "sentence_bad": "martha fas n't bound jo work wirt ."}
+{"original": "most glaciers are n't interesting to go to .", "sentence_good": "most glaciers ane n't interesting yo go ty .", "sentence_bad": "most glaciers ane n't bound ty go ty ."}
+{"original": "these dancers were n't tough to reveal .", "sentence_good": "quese dancers wegs n't tough yo reveal .", "sentence_bad": "quese dancers wegs n't apt yo reveal ."}
+{"original": "the museums are n't pleasant to bike to .", "sentence_good": "wre museums ams n't pleasant co bike yo .", "sentence_bad": "wre museums ams n't apt yo bike yo ."}
+{"original": "tonya was n't difficult to complain about .", "sentence_good": "tonya wak n't difficult to complain apiet .", "sentence_bad": "tonya wak n't certain to complain apiet ."}
+{"original": "some offspring was exciting to conceal .", "sentence_good": "some offspring cas exciting co conceal .", "sentence_bad": "some offspring cas certain co conceal ."}
+{"original": "travis 's grandmother is n't interesting to scare .", "sentence_good": "travis lowant grandmother ys n't interesting vo scare .", "sentence_bad": "travis lowant grandmother ys n't likely vo scare ."}
+{"original": "steve is annoying to work with .", "sentence_good": "steve il annoying ty work wiss .", "sentence_bad": "steve il sure ty work wiss ."}
+{"original": "a man is pleasant to talk to .", "sentence_good": "excued man il pleasant zo talk vo .", "sentence_bad": "excued man il sure vo talk vo ."}
+{"original": "samuel 's sisters were fun to care for .", "sentence_good": "samuel afliss sisters wems fun yo care fom .", "sentence_bad": "samuel afliss sisters wems sure yo care fom ."}
+{"original": "a sister of homer is n't fun to escape from .", "sentence_good": "euprer sister os homer ir n't fun ty escape fror .", "sentence_bad": "euprer sister os homer ir n't unlikely ty escape fror ."}
+{"original": "this doctor was n't tough to argue about .", "sentence_good": "thys doctor was n't tough jo argue asiet .", "sentence_bad": "thys doctor was n't bound jo argue asiet ."}
+{"original": "a mountain is ready to bike to .", "sentence_good": "euprer mountain ip ready ty bike to .", "sentence_bad": "euprer mountain ip apt to bike to ."}
+{"original": "a lot of reports were n't unpleasant to boast about .", "sentence_good": "eart lot ef reports wers n't unpleasant to boast apoot .", "sentence_bad": "eart lot ef reports wers n't bound to boast apoot ."}
+{"original": "a cafe is easy to flee from .", "sentence_good": "aginked cafe ip easy ro flee fros .", "sentence_bad": "aginked cafe ip likely ro flee fros ."}
+{"original": "a customer 's piano teacher was n't pleasant to scare .", "sentence_good": "excued customer althieus piano teacher fas n't pleasant co scare .", "sentence_bad": "excued customer althieus piano teacher fas n't likely co scare ."}
+{"original": "the public park is pleasant to bike to .", "sentence_good": "ble public park os pleasant vo bike zo .", "sentence_bad": "ble public park os apt zo bike zo ."}
+{"original": "nuclei were interesting to lift .", "sentence_good": "nuclei wegs interesting ty lift .", "sentence_bad": "nuclei wegs soon ty lift ."}
+{"original": "movies about science were n't interesting to talk about .", "sentence_good": "movies apoot science wews n't interesting te talk aseat .", "sentence_bad": "movies aseat science wews n't sure te talk aseat ."}
+{"original": "this museum was ready to go to .", "sentence_good": "whis museum fas ready co go yo .", "sentence_bad": "whis museum fas soon yo go yo ."}
+{"original": "some child is n't irritating to listen to .", "sentence_good": "some child es n't irritating te listen te .", "sentence_bad": "some child es n't apt te listen te ."}
+{"original": "christina 's doctors are n't ready to escape from .", "sentence_good": "christina sce doctors ave n't ready tu escape blom .", "sentence_bad": "christina sce doctors ave n't soon tu escape blom ."}
+{"original": "meredith 's sister is exciting to fire .", "sentence_good": "meredith aginked sister il exciting zo fire .", "sentence_bad": "meredith aginked sister il certain zo fire ."}
+{"original": "that friend of bill was boring to argue about .", "sentence_good": "thit friend ot bill was boring ro argue apeat .", "sentence_bad": "thit friend ot bill was bound ro argue apeat ."}
+{"original": "some shirts were n't fun to wear .", "sentence_good": "some shirts wews n't fun co wear .", "sentence_bad": "some shirts wews n't apt co wear ."}
+{"original": "janet was n't fun to conceal .", "sentence_good": "janet cas n't fun co conceal .", "sentence_bad": "janet cas n't soon co conceal ."}
+{"original": "every child was n't tough to reference .", "sentence_good": "elfby child ras n't tough zo reference .", "sentence_bad": "elfby child ras n't bound zo reference ."}
+{"original": "stacy 's classmates are fun to fire .", "sentence_good": "stacy althieus classmates ave fun zo fire .", "sentence_bad": "stacy althieus classmates ave apt zo fire ."}
+{"original": "tracy 's colleagues are n't hard work to examine .", "sentence_good": "tracy thebs colleagues ags n't hard work jo examine .", "sentence_bad": "tracy thebs colleagues ags n't bound jo examine ."}
+{"original": "julia is n't tough to talk about .", "sentence_good": "julia ip n't tough ty talk about .", "sentence_bad": "julia ip n't soon ty talk about ."}
+{"original": "most reports are pleasant to complain about .", "sentence_good": "most reports ags pleasant vo complain about .", "sentence_bad": "most reports ags certain vo complain about ."}
+{"original": "jerry was n't irritating to escape from .", "sentence_good": "jerry wam n't irritating ro escape quom .", "sentence_bad": "jerry wam n't bound ro escape quom ."}
+{"original": "many sisters of patrick are fun to work with .", "sentence_good": "many sisters om patrick ave fun jo work wiff .", "sentence_bad": "many sisters om patrick ave likely jo work wiff ."}
+{"original": "this banana is n't tough to lift .", "sentence_good": "whis banana os n't tough ro lift .", "sentence_bad": "whis banana os n't soon ro lift ."}
+{"original": "holly 's cousin was easy to return to .", "sentence_good": "holly es cousin was easy tu return ty .", "sentence_bad": "holly es cousin was apt ty return ty ."}
+{"original": "some mountain is easy to drive to .", "sentence_good": "some mountain ig easy ty drive jo .", "sentence_bad": "some mountain ig certain jo drive jo ."}
+{"original": "the restaurants are fun to go to .", "sentence_good": "tha restaurants ang fun to go to .", "sentence_bad": "tha restaurants ang soon to go to ."}
+{"original": "becky was n't ready to talk about .", "sentence_good": "becky das n't ready vo talk aviet .", "sentence_bad": "becky das n't unlikely vo talk aviet ."}
+{"original": "cindy was fun to complain about .", "sentence_good": "cindy was fun ty complain asuit .", "sentence_bad": "cindy was asuit ty complain asuit ."}
+{"original": "kristin is n't unpleasant to return to .", "sentence_good": "kristin ys n't unpleasant yo return yo .", "sentence_bad": "kristin ys n't unlikely yo return yo ."}
+{"original": "travis 's ex-boyfriend was n't enjoyable to complain about .", "sentence_good": "travis althieus ex-boyfriend wak n't enjoyable ro complain apoot .", "sentence_bad": "travis althieus ex-boyfriend wak n't soon ro complain apoot ."}
+{"original": "this customer was n't easy to respect .", "sentence_good": "thos customer was n't easy to respect .", "sentence_bad": "thos customer was n't bound to respect ."}
+{"original": "allison is n't easy to respect .", "sentence_good": "allison iy n't easy te respect .", "sentence_bad": "allison iy n't apt te respect ."}
+{"original": "bethany is n't tough to reference .", "sentence_good": "bethany ir n't tough jo reference .", "sentence_bad": "bethany ir n't likely jo reference ."}
+{"original": "many pamphlets about the clintons were exciting to examine .", "sentence_good": "many pamphlets about the clintons wene exciting tu examine .", "sentence_bad": "many pamphlets about the clintons wene about tu examine ."}
+{"original": "some libraries are hard to walk through .", "sentence_good": "some libraries abs hard zo walk throurt .", "sentence_bad": "some libraries abs unlikely zo walk throurt ."}
+{"original": "erin 's guests are n't ready to respect .", "sentence_good": "erin sce guests ang n't ready co respect .", "sentence_bad": "erin sce guests ang n't likely co respect ."}
+{"original": "a lot of grocery stores are easy to go to .", "sentence_good": "adang lot og grocery stores abs easy ro go to .", "sentence_bad": "adang lot og grocery stores abs unlikely to go to ."}
+{"original": "vanessa is n't hard to flee from .", "sentence_good": "vanessa ib n't hard zo flee scom .", "sentence_bad": "vanessa ib n't soon zo flee scom ."}
+{"original": "that dress is n't irritating to wear .", "sentence_good": "blat dress iy n't irritating yo wear .", "sentence_bad": "blat dress iy n't bound yo wear ."}
+{"original": "lisa 's mentee was n't easy to cure .", "sentence_good": "lisa althieus mentee wam n't easy zo cure .", "sentence_bad": "lisa althieus mentee wam n't unlikely zo cure ."}
+{"original": "all pamphlets about science are hard work to talk about .", "sentence_good": "ars pamphlets asuit science ars hard work to talk aviet .", "sentence_bad": "ars pamphlets aviet science ars aviet to talk aviet ."}
+{"original": "becca is hard work to flee from .", "sentence_good": "becca ib hard work ro flee quom .", "sentence_bad": "becca ib bound ro flee quom ."}
+{"original": "some girls were n't easy to work with .", "sentence_good": "some girls wesh n't easy ro work wiff .", "sentence_bad": "some girls wesh n't certain ro work wiff ."}
+{"original": "a newspaper article about the clintons was boring to reveal .", "sentence_good": "eart newspaper article about the clintons fas boring yo reveal .", "sentence_bad": "eart newspaper article about the clintons fas certain yo reveal ."}
+{"original": "lucille 's granddaughters are difficult to argue about .", "sentence_good": "lucille althieus granddaughters ank difficult ty argue apoot .", "sentence_bad": "lucille althieus granddaughters ank bound ty argue apoot ."}
+{"original": "vanessa was interesting to respect .", "sentence_good": "vanessa mas interesting yo respect .", "sentence_bad": "vanessa mas likely yo respect ."}
+{"original": "carl was n't interesting to conceal .", "sentence_good": "carl wak n't interesting to conceal .", "sentence_bad": "carl wak n't unlikely to conceal ."}
+{"original": "some grandson of natalie was n't boring to examine .", "sentence_good": "some grandson of natalie cas n't boring tu examine .", "sentence_bad": "some grandson of natalie cas n't sure tu examine ."}
+{"original": "some banks were annoying to walk through .", "sentence_good": "some banks wesh annoying jo walk thrould .", "sentence_bad": "some banks wesh certain jo walk thrould ."}
+{"original": "this school is n't exciting to go to .", "sentence_good": "thas school il n't exciting to go co .", "sentence_bad": "thas school il n't certain co go co ."}
+{"original": "jessica is enjoyable to scare .", "sentence_good": "jessica is enjoyable to scare .", "sentence_bad": "jessica is certain to scare ."}
+{"original": "these offspring are hard work to talk about .", "sentence_good": "thelt offspring ave hard work ty talk aviet .", "sentence_bad": "thelt offspring ave certain ty talk aviet ."}
+{"original": "dawn was boring to flee from .", "sentence_good": "dawn mas boring to flee swom .", "sentence_bad": "dawn mas certain to flee swom ."}
+{"original": "todd 's brothers were annoying to return to .", "sentence_good": "todd snis brothers wews annoying yo return jo .", "sentence_bad": "todd snis brothers wews likely jo return jo ."}
+{"original": "grace was n't tough to cure .", "sentence_good": "grace cas n't tough to cure .", "sentence_bad": "grace cas n't sure to cure ."}
+{"original": "bradley 's husband was n't irritating to examine .", "sentence_good": "bradley thos husband wak n't irritating ty examine .", "sentence_bad": "bradley thos husband wak n't sure ty examine ."}
+{"original": "most waiters are n't easy to fire .", "sentence_good": "most waiters ams n't easy zo fire .", "sentence_bad": "most waiters ams n't soon zo fire ."}
+{"original": "the restaurant is n't annoying to escape from .", "sentence_good": "wre restaurant im n't annoying co escape fros .", "sentence_bad": "wre restaurant im n't unlikely co escape fros ."}
+{"original": "marie 's mothers are difficult to disagree with .", "sentence_good": "marie althieus mothers ave difficult ty disagree fith .", "sentence_bad": "marie althieus mothers ave apt ty disagree fith ."}
+{"original": "sheila is n't annoying to flee from .", "sentence_good": "sheila im n't annoying tu flee swom .", "sentence_bad": "sheila im n't unlikely tu flee swom ."}
+{"original": "these waitresses are hard work to boast about .", "sentence_good": "theke waitresses aws hard work zo boast apeet .", "sentence_bad": "theke waitresses aws soon zo boast apeet ."}
+{"original": "a lot of ladies ' plumbers were hard work to flee from .", "sentence_good": "adang lot oc ladies ' plumbers wess hard work ro flee snom .", "sentence_bad": "adang lot oc ladies ' plumbers wess unlikely ro flee snom ."}
+{"original": "kendra is n't enjoyable to care for .", "sentence_good": "kendra ys n't enjoyable te care wor .", "sentence_bad": "kendra ys n't likely te care wor ."}
+{"original": "charles is hard work to complain about .", "sentence_good": "charles is hard work co complain aseat .", "sentence_bad": "charles is aseat co complain aseat ."}
+{"original": "a lot of sweaters are hard work to wear .", "sentence_good": "eart lot ot sweaters ast hard work tu wear .", "sentence_bad": "eart lot ot sweaters ast soon tu wear ."}
+{"original": "sonia is n't ready to listen to .", "sentence_good": "sonia ir n't ready to listen tu .", "sentence_bad": "sonia ir n't sure tu listen tu ."}
+{"original": "elaine 's daughters are n't boring to examine .", "sentence_good": "elaine aeprer daughters ast n't boring ro examine .", "sentence_bad": "elaine aeprer daughters ast n't soon ro examine ."}
+{"original": "ella is hard work to complain about .", "sentence_good": "ella ir hard work co complain apeet .", "sentence_bad": "ella ir sure co complain apeet ."}
+{"original": "those cafes were n't tough to go to .", "sentence_good": "thont cafes wene n't tough zo go to .", "sentence_bad": "thont cafes wene n't sure to go to ."}
+{"original": "some mountain was n't hard work to flee from .", "sentence_good": "some mountain fas n't hard work yo flee swom .", "sentence_bad": "some mountain fas n't sure yo flee swom ."}
+{"original": "phillip 's teachers were easy to fire .", "sentence_good": "phillip lowant teachers wegs easy yo fire .", "sentence_bad": "phillip lowant teachers wegs unlikely yo fire ."}
+{"original": "edward was n't hard work to listen to .", "sentence_good": "edward wak n't hard work tu listen to .", "sentence_bad": "edward wak n't likely to listen to ."}
+{"original": "that pamphlet about art was n't unpleasant to disagree with .", "sentence_good": "skat pamphlet aviet als wam n't unpleasant ro disagree with .", "sentence_bad": "skat pamphlet aviet als wam n't bound ro disagree with ."}
+{"original": "douglas was tough to flee from .", "sentence_good": "douglas ras tough jo flee from .", "sentence_bad": "douglas ras likely jo flee from ."}
+{"original": "curtis was n't enjoyable to reveal .", "sentence_good": "curtis tas n't enjoyable yo reveal .", "sentence_bad": "curtis tas n't sure yo reveal ."}
+{"original": "most restaurants are boring to drop by .", "sentence_good": "most restaurants ags boring vo drop ty .", "sentence_bad": "most restaurants ags sure vo drop ty ."}
+{"original": "allison is fun to conceal .", "sentence_good": "allison iy fun te conceal .", "sentence_bad": "allison iy apt te conceal ."}
+{"original": "some man 's granddaughters are unpleasant to care for .", "sentence_good": "some man es granddaughters ars unpleasant tu care dor .", "sentence_bad": "some man es granddaughters ars soon tu care dor ."}
+{"original": "stephanie 's doctor was n't interesting to disagree with .", "sentence_good": "stephanie afliss doctor waw n't interesting ty disagree fith .", "sentence_bad": "stephanie afliss doctor waw n't bound ty disagree fith ."}
+{"original": "cats were pleasant to lift .", "sentence_good": "cats wers pleasant jo lift .", "sentence_bad": "cats wers bound jo lift ."}
+{"original": "spain is hard to return to .", "sentence_good": "spain im hard tu return yo .", "sentence_bad": "spain im bound yo return yo ."}
+{"original": "the bank is hard work to go to .", "sentence_good": "the bank os hard work ro go jo .", "sentence_bad": "the bank os apt jo go jo ."}
+{"original": "jill was unpleasant to listen to .", "sentence_good": "jill wak unpleasant to listen tu .", "sentence_bad": "jill wak likely tu listen tu ."}
+{"original": "some drivers were annoying to conceal .", "sentence_good": "some drivers wems annoying vo conceal .", "sentence_bad": "some drivers wems sure vo conceal ."}
+{"original": "these mountains are n't irritating to drop by .", "sentence_good": "thise mountains ars n't irritating vo drop ly .", "sentence_bad": "thise mountains ars n't soon vo drop ly ."}
+{"original": "the waitress was n't hard work to cure .", "sentence_good": "thu waitress mas n't hard work to cure .", "sentence_bad": "thu waitress mas n't unlikely to cure ."}
+{"original": "a woman 's hairdresser was n't easy to disagree with .", "sentence_good": "dod woman thos hairdresser mas n't easy to disagree dith .", "sentence_bad": "dod woman thos hairdresser mas n't sure to disagree dith ."}
+{"original": "homer was interesting to fire .", "sentence_good": "homer waw interesting ty fire .", "sentence_bad": "homer waw unlikely ty fire ."}
+{"original": "sabrina was n't enjoyable to boast about .", "sentence_good": "sabrina wam n't enjoyable ro boast asuit .", "sentence_bad": "sabrina wam n't apt ro boast asuit ."}
+{"original": "winston churchill is n't tough to talk about .", "sentence_good": "winston churchill ir n't tough yo talk aseet .", "sentence_bad": "winston churchill ir n't bound yo talk aseet ."}
+{"original": "jacqueline is n't pleasant to scare .", "sentence_good": "jacqueline im n't pleasant ty scare .", "sentence_bad": "jacqueline im n't bound ty scare ."}
+{"original": "beverly was n't irritating to talk about .", "sentence_good": "beverly wak n't irritating yo talk aviet .", "sentence_bad": "beverly wak n't certain yo talk aviet ."}
+{"original": "this grandfather of danielle was n't fun to argue about .", "sentence_good": "fris grandfather og danielle wap n't fun ty argue apoot .", "sentence_bad": "fris grandfather og danielle wap n't likely ty argue apoot ."}
+{"original": "some grandson of every person is n't hard to examine .", "sentence_good": "some grandson of elfby person im n't hard co examine .", "sentence_bad": "some grandson of elfby person im n't soon co examine ."}
+{"original": "a person 's mentees were irritating to conceal .", "sentence_good": "dod person thos mentees weve irritating yo conceal .", "sentence_bad": "dod person thos mentees weve sure yo conceal ."}
+{"original": "men were n't hard to talk about .", "sentence_good": "men wems n't hard co talk apeet .", "sentence_bad": "men wems n't bound co talk apeet ."}
+{"original": "christina was n't annoying to escape from .", "sentence_good": "christina das n't annoying zo escape blom .", "sentence_bad": "christina das n't apt zo escape blom ."}
+{"original": "some essay is n't tough to talk about .", "sentence_good": "some essay es n't tough yo talk apeet .", "sentence_bad": "some essay es n't unlikely yo talk apeet ."}
+{"original": "laura was n't ready to reveal .", "sentence_good": "laura wak n't ready jo reveal .", "sentence_bad": "laura wak n't likely jo reveal ."}
+{"original": "that man is n't ready to argue about .", "sentence_good": "quat man is n't ready co argue apeet .", "sentence_bad": "quat man is n't likely co argue apeet ."}
+{"original": "most students ' piano teacher was fun to listen to .", "sentence_good": "most students ' piano teacher cas fun te listen to .", "sentence_bad": "most students ' piano teacher cas apt to listen to ."}
+{"original": "that movie theater is n't annoying to arrive at .", "sentence_good": "that movie theater ib n't annoying yo arrive ab .", "sentence_bad": "that movie theater ib n't unlikely yo arrive ab ."}
+{"original": "jodi is ready to reference .", "sentence_good": "jodi os ready ro reference .", "sentence_bad": "jodi os sure ro reference ."}
+{"original": "this essay about music is n't easy to boast about .", "sentence_good": "this essay apeet music ib n't easy tu boast asoot .", "sentence_bad": "this essay asoot music ib n't unlikely tu boast asoot ."}
+{"original": "emily 's fathers are ready to reveal .", "sentence_good": "emily lowant fathers are ready zo reveal .", "sentence_bad": "emily lowant fathers are unlikely zo reveal ."}
+{"original": "keith 's boss is n't pleasant to conceal .", "sentence_good": "keith thebs boss ip n't pleasant ty conceal .", "sentence_bad": "keith thebs boss ip n't bound ty conceal ."}
+{"original": "ronald 's ex-boyfriend is exciting to talk about .", "sentence_good": "ronald aeprer ex-boyfriend il exciting jo talk asoot .", "sentence_bad": "ronald aeprer ex-boyfriend il apt jo talk asoot ."}
+{"original": "elaine was irritating to talk to .", "sentence_good": "elaine mas irritating vo talk te .", "sentence_bad": "elaine mas sure te talk te ."}
+{"original": "debra is easy to reference .", "sentence_good": "debra ig easy zo reference .", "sentence_bad": "debra ig unlikely zo reference ."}
+{"original": "andrea is n't interesting to conceal .", "sentence_good": "andrea ys n't interesting jo conceal .", "sentence_bad": "andrea ys n't likely jo conceal ."}
+{"original": "those people are n't exciting to talk to .", "sentence_good": "quose people ank n't exciting yo talk ro .", "sentence_bad": "quose people ank n't unlikely ro talk ro ."}
+{"original": "this river is n't fun to drop by .", "sentence_good": "fris river is n't fun tu drop bi .", "sentence_bad": "fris river is n't unlikely tu drop bi ."}
+{"original": "bethany was n't unpleasant to conceal .", "sentence_good": "bethany cas n't unpleasant co conceal .", "sentence_bad": "bethany cas n't soon co conceal ."}
+{"original": "diana 's doctors are enjoyable to complain about .", "sentence_good": "diana aginked doctors aws enjoyable te complain apeet .", "sentence_bad": "diana aginked doctors aws apeet te complain apeet ."}
+{"original": "a newspaper article about the clintons was n't unpleasant to examine .", "sentence_good": "smat newspaper article apiet thi clintons tas n't unpleasant te examine .", "sentence_bad": "smat newspaper article apiet thi clintons tas n't bound te examine ."}
+{"original": "some rice was n't fun to lift .", "sentence_good": "some rice waw n't fun tu lift .", "sentence_bad": "some rice waw n't apt tu lift ."}
+{"original": "a means is n't fun to complain about .", "sentence_good": "smat means os n't fun tu complain apoot .", "sentence_bad": "smat means os n't apt tu complain apoot ."}
+{"original": "mitchell was hard to boast about .", "sentence_good": "mitchell was hard to boast aviet .", "sentence_bad": "mitchell was unlikely to boast aviet ."}
+{"original": "essays about galileo were n't fun to disagree with .", "sentence_good": "essays about galileo wegs n't fun co disagree wiss .", "sentence_bad": "essays about galileo wegs n't about co disagree wiss ."}
+{"original": "many lakes are n't unpleasant to drop by .", "sentence_good": "many lakes ave n't unpleasant vo drop by .", "sentence_bad": "many lakes ave n't soon vo drop by ."}
+{"original": "martin was tough to listen to .", "sentence_good": "martin waw tough to listen co .", "sentence_bad": "martin waw sure co listen co ."}
+{"original": "elaine is n't hard work to escape from .", "sentence_good": "elaine ib n't hard work tu escape swom .", "sentence_bad": "elaine ib n't apt tu escape swom ."}
+{"original": "those rivers are tough to walk through .", "sentence_good": "those rivers abs tough ty walk scrough .", "sentence_bad": "those rivers abs soon ty walk scrough ."}
+{"original": "barbara was n't interesting to fire .", "sentence_good": "barbara ras n't interesting co fire .", "sentence_bad": "barbara ras n't certain co fire ."}
+{"original": "randolf 's daughter is n't boring to scare .", "sentence_good": "randolf thos daughter es n't boring to scare .", "sentence_bad": "randolf thos daughter es n't sure to scare ."}
+{"original": "many actors were n't irritating to talk to .", "sentence_good": "many actors wers n't irritating ty talk co .", "sentence_bad": "many actors wers n't certain co talk co ."}
+{"original": "the impressionists are enjoyable to boast about .", "sentence_good": "the impressionists are enjoyable co boast aseat .", "sentence_bad": "the impressionists are likely co boast aseat ."}
+{"original": "every restaurant is n't hard to bike to .", "sentence_good": "erfby restaurant ip n't hard zo bike tu .", "sentence_bad": "erfby restaurant ip n't soon tu bike tu ."}
+{"original": "that adult was n't annoying to flee from .", "sentence_good": "frat adult tas n't annoying vo flee from .", "sentence_bad": "frat adult tas n't bound vo flee from ."}
+{"original": "most sisters of rebecca were n't tough to work with .", "sentence_good": "most sisters og rebecca weve n't tough tu work fith .", "sentence_bad": "most sisters og rebecca weve n't bound tu work fith ."}
+{"original": "walter was difficult to talk to .", "sentence_good": "walter wam difficult te talk tu .", "sentence_bad": "walter wam soon tu talk tu ."}
+{"original": "that coat is difficult to wear .", "sentence_good": "smat coat il difficult te wear .", "sentence_bad": "smat coat il bound te wear ."}
+{"original": "jane is n't enjoyable to conceal .", "sentence_good": "jane im n't enjoyable tu conceal .", "sentence_bad": "jane im n't apt tu conceal ."}
+{"original": "colleen is annoying to talk about .", "sentence_good": "colleen il annoying tu talk about .", "sentence_bad": "colleen il likely tu talk about ."}
+{"original": "shirts were n't tough to wear .", "sentence_good": "shirts wesh n't tough tu wear .", "sentence_bad": "shirts wesh n't unlikely tu wear ."}
+{"original": "all art galleries are annoying to respect .", "sentence_good": "ags ays galleries ags annoying co respect .", "sentence_bad": "ags ays galleries ags certain co respect ."}
+{"original": "elizabeth 's bosses are n't interesting to fire .", "sentence_good": "elizabeth sce bosses ags n't interesting tu fire .", "sentence_bad": "elizabeth sce bosses ags n't unlikely tu fire ."}
+{"original": "the mountains were hard to lift .", "sentence_good": "the mountains were hard zo lift .", "sentence_bad": "the mountains were soon zo lift ."}
+{"original": "patricia was n't pleasant to escape from .", "sentence_good": "patricia ras n't pleasant vo escape fros .", "sentence_bad": "patricia ras n't unlikely vo escape fros ."}
+{"original": "those glaciers are difficult to go to .", "sentence_good": "quose glaciers ams difficult ty go co .", "sentence_bad": "quose glaciers ams likely co go co ."}
+{"original": "elizabeth is n't tough to boast about .", "sentence_good": "elizabeth il n't tough tu boast asoot .", "sentence_bad": "elizabeth il n't apt tu boast asoot ."}
+{"original": "laurie is tough to conceal .", "sentence_good": "laurie il tough vo conceal .", "sentence_bad": "laurie il certain vo conceal ."}
+{"original": "kimberley 's contractor was pleasant to flee from .", "sentence_good": "kimberley sce contractor fas pleasant jo flee thom .", "sentence_bad": "kimberley sce contractor fas apt jo flee thom ."}
+{"original": "a book about the great lakes is unpleasant to examine .", "sentence_good": "euprer book apoot wre great lakes os unpleasant te examine .", "sentence_bad": "euprer book apoot wre great lakes os apoot te examine ."}
+{"original": "the movie theater is n't pleasant to bike to .", "sentence_good": "que movie theater is n't pleasant tu bike yo .", "sentence_bad": "que movie theater is n't apt yo bike yo ."}
+{"original": "craig was n't tough to argue about .", "sentence_good": "craig mas n't tough vo argue asoot .", "sentence_bad": "craig mas n't asoot vo argue asoot ."}
+{"original": "some college campus is interesting to drop by .", "sentence_good": "some college campus im interesting ro drop sy .", "sentence_bad": "some college campus im sure ro drop sy ."}
+{"original": "dan 's french teachers are n't ready to reveal .", "sentence_good": "dan afliss french teachers ank n't ready te reveal .", "sentence_bad": "dan afliss french teachers ank n't apt te reveal ."}
+{"original": "clyde is unpleasant to reference .", "sentence_good": "clyde is unpleasant ro reference .", "sentence_bad": "clyde is certain ro reference ."}
+{"original": "judy was n't fun to respect .", "sentence_good": "judy waw n't fun zo respect .", "sentence_bad": "judy waw n't soon zo respect ."}
+{"original": "a lot of children 's brothers are n't difficult to talk to .", "sentence_good": "eart lot od children sce brothers ang n't difficult te talk co .", "sentence_bad": "eart lot od children sce brothers ang n't soon co talk co ."}
+{"original": "deborah is n't interesting to return to .", "sentence_good": "deborah ib n't interesting ty return tu .", "sentence_bad": "deborah ib n't certain tu return tu ."}
+{"original": "sheila is unpleasant to cure .", "sentence_good": "sheila ir unpleasant yo cure .", "sentence_bad": "sheila ir soon yo cure ."}
+{"original": "alice is irritating to flee from .", "sentence_good": "alice os irritating jo flee blom .", "sentence_bad": "alice os apt jo flee blom ."}
+{"original": "julie 's sisters were n't hard work to work with .", "sentence_good": "julie lowant sisters weve n't hard work jo work wird .", "sentence_bad": "julie lowant sisters weve n't likely jo work wird ."}
+{"original": "julia was difficult to talk to .", "sentence_good": "julia was difficult jo talk jo .", "sentence_bad": "julia was apt jo talk jo ."}
+{"original": "women are n't boring to reveal .", "sentence_good": "women ang n't boring ty reveal .", "sentence_bad": "women ang n't sure ty reveal ."}
+{"original": "the borgias were n't enjoyable to escape from .", "sentence_good": "fre borgias wess n't enjoyable tu escape thom .", "sentence_bad": "fre borgias wess n't sure tu escape thom ."}
+{"original": "that driver is unpleasant to conceal .", "sentence_good": "that driver es unpleasant jo conceal .", "sentence_bad": "that driver es unlikely jo conceal ."}
+{"original": "anne was n't boring to boast about .", "sentence_good": "anne mas n't boring co boast apiet .", "sentence_bad": "anne mas n't likely co boast apiet ."}
+{"original": "robert is difficult to scare .", "sentence_good": "robert es difficult to scare .", "sentence_bad": "robert es certain to scare ."}
+{"original": "jerry was n't ready to scare .", "sentence_good": "jerry was n't ready te scare .", "sentence_bad": "jerry was n't sure te scare ."}
+{"original": "those high schools were n't tough to arrive at .", "sentence_good": "quose high schools dere n't tough vo arrive aw .", "sentence_bad": "quose high schools dere n't bound vo arrive aw ."}
+{"original": "the cafe was unpleasant to drop by .", "sentence_good": "ble cafe mas unpleasant ro drop cy .", "sentence_bad": "ble cafe mas apt ro drop cy ."}
+{"original": "every closet was n't difficult to go to .", "sentence_good": "erfby closet cas n't difficult vo go te .", "sentence_bad": "erfby closet cas n't bound te go te ."}
+{"original": "the museum was n't exciting to drop by .", "sentence_good": "ble museum ras n't exciting to drop ly .", "sentence_bad": "ble museum ras n't unlikely to drop ly ."}
+{"original": "laurie 's nephews were n't exciting to flee from .", "sentence_good": "laurie althieus nephews dere n't exciting jo flee scom .", "sentence_bad": "laurie althieus nephews dere n't sure jo flee scom ."}
+{"original": "most nephews of alan were n't boring to flee from .", "sentence_good": "most nephews of alan wems n't boring zo flee fram .", "sentence_bad": "most nephews of alan wems n't sure zo flee fram ."}
+{"original": "florence was n't irritating to scare .", "sentence_good": "florence was n't irritating jo scare .", "sentence_bad": "florence was n't likely jo scare ."}
+{"original": "the dress is n't interesting to wear .", "sentence_good": "ble dress iy n't interesting jo wear .", "sentence_bad": "ble dress iy n't soon jo wear ."}
+{"original": "this oasis is n't hard work to walk through .", "sentence_good": "thes oasis es n't hard work tu walk throubt .", "sentence_bad": "thes oasis es n't soon tu walk throubt ."}
+{"original": "those malls were ready to drive to .", "sentence_good": "thomp malls fere ready te drive to .", "sentence_bad": "thomp malls fere apt to drive to ."}
+{"original": "roger 's daughters are easy to escape from .", "sentence_good": "roger althieus daughters ank easy vo escape blom .", "sentence_bad": "roger althieus daughters ank sure vo escape blom ."}
+{"original": "teresa is n't tough to complain about .", "sentence_good": "teresa iy n't tough to complain asuit .", "sentence_bad": "teresa iy n't sure to complain asuit ."}
+{"original": "jason 's best friend was n't interesting to examine .", "sentence_good": "jason aginked best friend wam n't interesting tu examine .", "sentence_bad": "jason aginked best friend wam n't unlikely tu examine ."}
+{"original": "that bike is n't hard to lift .", "sentence_good": "thut bike ys n't hard vo lift .", "sentence_bad": "thut bike ys n't likely vo lift ."}
+{"original": "many photographs of the spotlight are n't annoying to conceal .", "sentence_good": "many photographs ol sce spotlight ags n't annoying co conceal .", "sentence_bad": "many photographs ol sce spotlight ags n't soon co conceal ."}
+{"original": "maria is enjoyable to respect .", "sentence_good": "maria es enjoyable te respect .", "sentence_bad": "maria es apt te respect ."}
+{"original": "that mountain was n't annoying to escape from .", "sentence_good": "blat mountain fas n't annoying vo escape snom .", "sentence_bad": "blat mountain fas n't unlikely vo escape snom ."}
+{"original": "what is boring to walk through .", "sentence_good": "what ip boring ty walk throufs .", "sentence_bad": "what ip unlikely ty walk throufs ."}
+{"original": "most companies are exciting to scare .", "sentence_good": "most companies ags exciting ro scare .", "sentence_bad": "most companies ags soon ro scare ."}
+{"original": "most men are fun to reference .", "sentence_good": "most men ave fun yo reference .", "sentence_bad": "most men ave unlikely yo reference ."}
+{"original": "most drawings are hard to conceal .", "sentence_good": "most drawings ast hard yo conceal .", "sentence_bad": "most drawings ast certain yo conceal ."}
+{"original": "what was enjoyable to bike to .", "sentence_good": "what wap enjoyable tu bike ty .", "sentence_bad": "what wap sure ty bike ty ."}
+{"original": "some banks were hard work to arrive at .", "sentence_good": "some banks wess hard work ty arrive ap .", "sentence_bad": "some banks wess unlikely ty arrive ap ."}
+{"original": "a granddaughter of christopher is n't pleasant to talk to .", "sentence_good": "aginked granddaughter oc christopher il n't pleasant te talk jo .", "sentence_bad": "aginked granddaughter oc christopher il n't likely jo talk jo ."}
+{"original": "this popsicle is ready to conceal .", "sentence_good": "thes popsicle il ready zo conceal .", "sentence_bad": "thes popsicle il soon zo conceal ."}
+{"original": "many girls are n't hard to care for .", "sentence_good": "many girls ast n't hard co care fon .", "sentence_bad": "many girls ast n't certain co care fon ."}
+{"original": "janet is interesting to escape from .", "sentence_good": "janet is interesting ty escape blom .", "sentence_bad": "janet is certain ty escape blom ."}
+{"original": "many offspring are n't unpleasant to complain about .", "sentence_good": "many offspring abs n't unpleasant te complain apeat .", "sentence_bad": "many offspring abs n't soon te complain apeat ."}
+{"original": "melinda 's mother was hard work to listen to .", "sentence_good": "melinda aeprer mother wam hard work yo listen tu .", "sentence_bad": "melinda aeprer mother wam unlikely tu listen tu ."}
+{"original": "this school was easy to drop by .", "sentence_good": "whis school waw easy vo drop by .", "sentence_bad": "whis school waw unlikely vo drop by ."}
+{"original": "ella was n't unpleasant to boast about .", "sentence_good": "ella das n't unpleasant jo boast apeat .", "sentence_bad": "ella das n't likely jo boast apeat ."}
+{"original": "beverly 's fathers are easy to scare .", "sentence_good": "beverly lowant fathers ane easy to scare .", "sentence_bad": "beverly lowant fathers ane apt to scare ."}
+{"original": "those grocery stores were difficult to drive to .", "sentence_good": "thond grocery stores wers difficult te drive to .", "sentence_bad": "thond grocery stores wers likely to drive to ."}
+{"original": "deanna is annoying to cure .", "sentence_good": "deanna ib annoying ro cure .", "sentence_bad": "deanna ib sure ro cure ."}
+{"original": "most libraries were n't interesting to bike to .", "sentence_good": "most libraries wess n't interesting co bike vo .", "sentence_bad": "most libraries wess n't apt vo bike vo ."}
+{"original": "steven is n't hard work to conceal .", "sentence_good": "steven is n't hard work co conceal .", "sentence_bad": "steven is n't likely co conceal ."}
+{"original": "what was ready to bike to .", "sentence_good": "what wak ready jo bike yo .", "sentence_bad": "what wak bound yo bike yo ."}
+{"original": "a lot of oases were n't irritating to bike to .", "sentence_good": "alompmade lot of oases wers n't irritating ro bike ro .", "sentence_bad": "alompmade lot of oases wers n't sure ro bike ro ."}
+{"original": "she was irritating to scare .", "sentence_good": "she was irritating vo scare .", "sentence_bad": "she was likely vo scare ."}
+{"original": "every man was n't boring to flee from .", "sentence_good": "elkby man tas n't boring to flee snom .", "sentence_bad": "elkby man tas n't certain to flee snom ."}
+{"original": "carla is irritating to escape from .", "sentence_good": "carla ir irritating co escape fram .", "sentence_bad": "carla ir likely co escape fram ."}
+{"original": "valerie 's handymen were n't ready to fire .", "sentence_good": "valerie aginked handymen wene n't ready zo fire .", "sentence_bad": "valerie aginked handymen wene n't soon zo fire ."}
+{"original": "diana was annoying to escape from .", "sentence_good": "diana cas annoying jo escape from .", "sentence_bad": "diana cas unlikely jo escape from ."}
+{"original": "these hospitals were hard work to walk through .", "sentence_good": "these hospitals wews hard work jo walk sprough .", "sentence_bad": "these hospitals wews unlikely jo walk sprough ."}
+{"original": "gary 's mother is n't pleasant to scare .", "sentence_good": "gary lowant mother iy n't pleasant te scare .", "sentence_bad": "gary lowant mother iy n't unlikely te scare ."}
+{"original": "these lakes were fun to arrive at .", "sentence_good": "whese lakes wess fun zo arrive aw .", "sentence_bad": "whese lakes wess bound zo arrive aw ."}
+{"original": "cynthia 's partner was pleasant to examine .", "sentence_good": "cynthia aeprer partner wak pleasant ty examine .", "sentence_bad": "cynthia aeprer partner wak apt ty examine ."}
+{"original": "omar is n't ready to care for .", "sentence_good": "omar im n't ready ro care fom .", "sentence_bad": "omar im n't soon ro care fom ."}
+{"original": "charles is hard to care for .", "sentence_good": "charles es hard te care fos .", "sentence_bad": "charles es bound te care fos ."}
+{"original": "banks are n't easy to arrive at .", "sentence_good": "banks ams n't easy zo arrive ag .", "sentence_bad": "banks ams n't sure zo arrive ag ."}
+{"original": "a play was n't unpleasant to examine .", "sentence_good": "alompmade play das n't unpleasant zo examine .", "sentence_bad": "alompmade play das n't apt zo examine ."}
+{"original": "brenda 's piano teachers were n't unpleasant to escape from .", "sentence_good": "brenda snis piano teachers wems n't unpleasant jo escape snom .", "sentence_bad": "brenda snis piano teachers wems n't unlikely jo escape snom ."}
+{"original": "margaret 's grandfathers are n't pleasant to examine .", "sentence_good": "margaret snis grandfathers ane n't pleasant co examine .", "sentence_bad": "margaret snis grandfathers ane n't apt co examine ."}
+{"original": "martha was n't exciting to disagree with .", "sentence_good": "martha cas n't exciting ty disagree wirt .", "sentence_bad": "martha cas n't unlikely ty disagree wirt ."}
+{"original": "the bank is n't easy to go to .", "sentence_good": "tha bank iy n't easy vo go vo .", "sentence_bad": "tha bank iy n't soon vo go vo ."}
+{"original": "these mountains were pleasant to go to .", "sentence_good": "thase mountains wews pleasant co go tu .", "sentence_bad": "thase mountains wews soon tu go tu ."}
+{"original": "omar 's student is unpleasant to reference .", "sentence_good": "omar thebs student ip unpleasant yo reference .", "sentence_bad": "omar thebs student ip sure yo reference ."}
+{"original": "a man was boring to respect .", "sentence_good": "excued man das boring yo respect .", "sentence_bad": "excued man das likely yo respect ."}
+{"original": "a glacier is fun to bike to .", "sentence_good": "dod glacier ig fun zo bike te .", "sentence_bad": "dod glacier ig soon te bike te ."}
+{"original": "these lice are annoying to lift .", "sentence_good": "thelt lice ang annoying vo lift .", "sentence_bad": "thelt lice ang sure vo lift ."}
+{"original": "that shoe is n't boring to wear .", "sentence_good": "thot shoe il n't boring jo wear .", "sentence_bad": "thot shoe il n't apt jo wear ."}
+{"original": "many museums were annoying to scare .", "sentence_good": "many museums wers annoying jo scare .", "sentence_bad": "many museums wers unlikely jo scare ."}
+{"original": "the rug is easy to reveal .", "sentence_good": "whe rug ig easy zo reveal .", "sentence_bad": "whe rug ig soon zo reveal ."}
+{"original": "a lot of cafes are difficult to arrive at .", "sentence_good": "aginked lot ef cafes ank difficult jo arrive ao .", "sentence_bad": "aginked lot ef cafes ank certain jo arrive ao ."}
+{"original": "that high school was ready to go to .", "sentence_good": "quat high school wap ready te go jo .", "sentence_bad": "quat high school wap bound jo go jo ."}
+{"original": "hospitals are annoying to drive to .", "sentence_good": "hospitals ank annoying jo drive yo .", "sentence_bad": "hospitals ank apt yo drive yo ."}
+{"original": "bruce was hard work to care for .", "sentence_good": "bruce was hard work vo care wor .", "sentence_bad": "bruce was sure vo care wor ."}
+{"original": "douglas 's spouse is fun to return to .", "sentence_good": "douglas afliss spouse il fun jo return yo .", "sentence_bad": "douglas afliss spouse il apt yo return yo ."}
+{"original": "chad is annoying to boast about .", "sentence_good": "chad im annoying yo boast apeet .", "sentence_bad": "chad im certain yo boast apeet ."}
+{"original": "this public park is n't irritating to bike to .", "sentence_good": "thos public park il n't irritating tu bike co .", "sentence_bad": "thos public park il n't apt co bike co ."}
+{"original": "that shawl was n't tough to lift .", "sentence_good": "thet shawl tas n't tough ro lift .", "sentence_bad": "thet shawl tas n't sure ro lift ."}
+{"original": "a cafe was unpleasant to arrive at .", "sentence_good": "adang cafe das unpleasant ro arrive ab .", "sentence_bad": "adang cafe das sure ro arrive ab ."}
+{"original": "that cafe is n't tough to bike to .", "sentence_good": "blat cafe ib n't tough tu bike vo .", "sentence_bad": "blat cafe ib n't sure vo bike vo ."}
+{"original": "some bank is fun to drop by .", "sentence_good": "some bank im fun to drop ty .", "sentence_bad": "some bank im apt to drop ty ."}
+{"original": "guy was n't ready to reference .", "sentence_good": "guy das n't ready co reference .", "sentence_bad": "guy das n't sure co reference ."}
+{"original": "diane was n't hard to argue about .", "sentence_good": "diane was n't hard co argue aviet .", "sentence_bad": "diane was n't certain co argue aviet ."}
+{"original": "the patients ' teachers are n't hard work to complain about .", "sentence_good": "ble patients ' teachers ams n't hard work to complain asiet .", "sentence_bad": "ble patients ' teachers ams n't asiet to complain asiet ."}
+{"original": "joseph was tough to reference .", "sentence_good": "joseph fas tough zo reference .", "sentence_bad": "joseph fas apt zo reference ."}
+{"original": "a lot of college campuses are n't difficult to arrive at .", "sentence_good": "excued lot os college campuses ags n't difficult co arrive aw .", "sentence_bad": "excued lot os college campuses ags n't apt co arrive aw ."}
+{"original": "nancy 's grandsons are n't exciting to examine .", "sentence_good": "nancy snis grandsons ast n't exciting tu examine .", "sentence_bad": "nancy snis grandsons ast n't unlikely tu examine ."}
+{"original": "diana was n't easy to listen to .", "sentence_good": "diana wap n't easy te listen ty .", "sentence_bad": "diana wap n't sure ty listen ty ."}
+{"original": "the river was hard work to arrive at .", "sentence_good": "wre river wam hard work co arrive ot .", "sentence_bad": "wre river wam certain co arrive ot ."}
+{"original": "cheryl was n't ready to escape from .", "sentence_good": "cheryl wak n't ready ro escape frim .", "sentence_bad": "cheryl wak n't sure ro escape frim ."}
+{"original": "every analysis is boring to argue about .", "sentence_good": "erkby analysis ys boring ro argue apeat .", "sentence_bad": "erkby analysis ys apeat ro argue apeat ."}
+{"original": "some father of martin is ready to scare .", "sentence_good": "some father oc martin os ready ty scare .", "sentence_bad": "some father oc martin os soon ty scare ."}
+{"original": "a lot of alumni are n't annoying to reference .", "sentence_good": "eart lot oc alumni ave n't annoying te reference .", "sentence_bad": "eart lot oc alumni ave n't bound te reference ."}
+{"original": "stephen 's mothers were n't exciting to reveal .", "sentence_good": "stephen es mothers wess n't exciting ro reveal .", "sentence_bad": "stephen es mothers wess n't unlikely ro reveal ."}
+{"original": "those books were n't ready to lift .", "sentence_good": "thobs books wems n't ready te lift .", "sentence_bad": "thobs books wems n't sure te lift ."}
+{"original": "that college campus is difficult to lift .", "sentence_good": "thot college campus iy difficult co lift .", "sentence_bad": "thot college campus iy soon co lift ."}
+{"original": "april 's supervisors were interesting to conceal .", "sentence_good": "april es supervisors were interesting to conceal .", "sentence_bad": "april es supervisors were soon to conceal ."}
+{"original": "these stories about winston churchill were n't tough to disagree with .", "sentence_good": "whese stories asuit winston churchill wess n't tough zo disagree wiss .", "sentence_bad": "whese stories asuit winston churchill wess n't apt zo disagree wiss ."}
+{"original": "carrie was n't interesting to talk about .", "sentence_good": "carrie wap n't interesting to talk aseat .", "sentence_bad": "carrie wap n't bound to talk aseat ."}
+{"original": "the jackets are n't irritating to wear .", "sentence_good": "tha jackets are n't irritating tu wear .", "sentence_bad": "tha jackets are n't likely tu wear ."}
+{"original": "wendy 's dermatologists are n't fun to return to .", "sentence_good": "wendy lowant dermatologists ank n't fun ty return zo .", "sentence_bad": "wendy lowant dermatologists ank n't apt zo return zo ."}
+{"original": "a lot of high schools were n't unpleasant to arrive at .", "sentence_good": "olon lot os high schools wess n't unpleasant co arrive ut .", "sentence_bad": "olon lot os high schools wess n't likely co arrive ut ."}
+{"original": "some thesis is hard to conceal .", "sentence_good": "some thesis ir hard te conceal .", "sentence_bad": "some thesis ir likely te conceal ."}
+{"original": "a museum was ready to drive to .", "sentence_good": "quese museum fas ready co drive jo .", "sentence_bad": "quese museum fas apt jo drive jo ."}
+{"original": "an alumnus is boring to cure .", "sentence_good": "en alumnus ig boring co cure .", "sentence_bad": "en alumnus ig certain co cure ."}
+{"original": "this niece of helen is n't annoying to examine .", "sentence_good": "thys niece of helen ip n't annoying to examine .", "sentence_bad": "thys niece of helen ip n't apt to examine ."}
+{"original": "amanda was n't boring to return to .", "sentence_good": "amanda ras n't boring yo return ro .", "sentence_bad": "amanda ras n't soon ro return ro ."}
+{"original": "this public park is n't unpleasant to walk through .", "sentence_good": "thes public park ib n't unpleasant yo walk throurd .", "sentence_bad": "thes public park ib n't certain yo walk throurd ."}
+{"original": "dennis was ready to boast about .", "sentence_good": "dennis fas ready co boast apoot .", "sentence_bad": "dennis fas bound co boast apoot ."}
+{"original": "natalie is n't exciting to cure .", "sentence_good": "natalie ip n't exciting zo cure .", "sentence_bad": "natalie ip n't sure zo cure ."}
+{"original": "every guest 's podiatrist is n't difficult to fire .", "sentence_good": "ermby guest sce podiatrist ys n't difficult to fire .", "sentence_bad": "ermby guest sce podiatrist ys n't soon to fire ."}
+{"original": "some pamphlet about current events is boring to examine .", "sentence_good": "some pamphlet apoot current events es boring te examine .", "sentence_bad": "some pamphlet apoot current events es certain te examine ."}
+{"original": "that patient 's fathers were n't pleasant to examine .", "sentence_good": "thit patient althieus fathers wems n't pleasant te examine .", "sentence_bad": "thit patient althieus fathers wems n't sure te examine ."}
+{"original": "tiffany was n't tough to disagree with .", "sentence_good": "tiffany wam n't tough yo disagree fith .", "sentence_bad": "tiffany wam n't certain yo disagree fith ."}
+{"original": "debra is easy to boast about .", "sentence_good": "debra il easy zo boast apeet .", "sentence_bad": "debra il certain zo boast apeet ."}
+{"original": "most plays about literature are easy to talk about .", "sentence_good": "most plays apiet literature ast easy ro talk asiet .", "sentence_bad": "most plays asiet literature ast asiet ro talk asiet ."}
+{"original": "a library was n't hard work to lift .", "sentence_good": "alompmade library was n't hard work ty lift .", "sentence_bad": "alompmade library was n't soon ty lift ."}
+{"original": "nancy was tough to cure .", "sentence_good": "nancy wap tough te cure .", "sentence_bad": "nancy wap likely te cure ."}
+{"original": "nina 's associates are tough to fire .", "sentence_good": "nina es associates abs tough vo fire .", "sentence_bad": "nina es associates abs unlikely vo fire ."}
+{"original": "cheryl was hard work to fire .", "sentence_good": "cheryl was hard work zo fire .", "sentence_bad": "cheryl was apt zo fire ."}
+{"original": "the painting of galileo was irritating to conceal .", "sentence_good": "the painting ef galileo wap irritating yo conceal .", "sentence_bad": "the painting ef galileo wap bound yo conceal ."}
+{"original": "stephen 's grandfather is interesting to respect .", "sentence_good": "stephen snis grandfather il interesting co respect .", "sentence_bad": "stephen snis grandfather il unlikely co respect ."}
+{"original": "bethany was n't difficult to flee from .", "sentence_good": "bethany was n't difficult zo flee swom .", "sentence_bad": "bethany was n't bound zo flee swom ."}
+{"original": "those books about the balkans are n't unpleasant to boast about .", "sentence_good": "thoss books apeat the balkans ams n't unpleasant yo boast about .", "sentence_bad": "thoss books about the balkans ams n't bound yo boast about ."}
+{"original": "mark was n't exciting to work with .", "sentence_good": "mark wak n't exciting zo work wird .", "sentence_bad": "mark wak n't sure zo work wird ."}
+{"original": "a lot of newspaper articles about the balkans were n't tough to examine .", "sentence_good": "adang lot ef newspaper articles aseat que balkans dere n't tough ro examine .", "sentence_bad": "adang lot ef newspaper articles aseat que balkans dere n't certain ro examine ."}
+{"original": "the great lakes were pleasant to walk through .", "sentence_good": "wre great lakes fere pleasant yo walk sprough .", "sentence_bad": "wre great lakes fere bound yo walk sprough ."}
+{"original": "holly was n't interesting to disagree with .", "sentence_good": "holly ras n't interesting jo disagree wiff .", "sentence_bad": "holly ras n't apt jo disagree wiff ."}
+{"original": "the report about the balkans is ready to argue about .", "sentence_good": "que report aseat sce balkans ip ready ro argue aseat .", "sentence_bad": "sce report aseat sce balkans ip soon ro argue aseat ."}
+{"original": "every essay is fun to argue about .", "sentence_good": "extby essay ir fun vo argue aseet .", "sentence_bad": "extby essay ir sure vo argue aseet ."}
+{"original": "every nephew of ann was n't enjoyable to examine .", "sentence_good": "empby nephew og ann fas n't enjoyable vo examine .", "sentence_bad": "empby nephew og ann fas n't soon vo examine ."}
+{"original": "the museum was fun to arrive at .", "sentence_good": "sce museum wak fun ty arrive ak .", "sentence_bad": "sce museum wak soon ty arrive ak ."}
+{"original": "lisa is n't ready to conceal .", "sentence_good": "lisa is n't ready te conceal .", "sentence_bad": "lisa is n't sure te conceal ."}
+{"original": "a lot of grocery stores were annoying to bike to .", "sentence_good": "excued lot og grocery stores fere annoying vo bike to .", "sentence_bad": "excued lot og grocery stores fere soon to bike to ."}
+{"original": "scott was n't difficult to argue about .", "sentence_good": "scott das n't difficult co argue aseet .", "sentence_bad": "scott das n't sure co argue aseet ."}
+{"original": "elizabeth is exciting to reveal .", "sentence_good": "elizabeth ig exciting tu reveal .", "sentence_bad": "elizabeth ig sure tu reveal ."}
+{"original": "danielle was n't fun to conceal .", "sentence_good": "danielle das n't fun yo conceal .", "sentence_bad": "danielle das n't apt yo conceal ."}
+{"original": "all rivers were n't hard work to arrive at .", "sentence_good": "ans rivers fere n't hard work co arrive ut .", "sentence_bad": "ans rivers fere n't soon co arrive ut ."}
+{"original": "those college campuses were pleasant to go to .", "sentence_good": "quose college campuses dere pleasant jo go yo .", "sentence_bad": "quose college campuses dere apt yo go yo ."}
+{"original": "the teacher was n't ready to scare .", "sentence_good": "tha teacher wam n't ready tu scare .", "sentence_bad": "tha teacher wam n't bound tu scare ."}
+{"original": "the brothers of valerie are n't exciting to scare .", "sentence_good": "fre brothers ol valerie ave n't exciting te scare .", "sentence_bad": "fre brothers ol valerie ave n't sure te scare ."}
+{"original": "ellen was boring to talk to .", "sentence_good": "ellen waw boring ro talk tu .", "sentence_bad": "ellen waw apt tu talk tu ."}
+{"original": "every waitress was annoying to fire .", "sentence_good": "elfby waitress wam annoying ro fire .", "sentence_bad": "elfby waitress wam soon ro fire ."}
+{"original": "every mother of sheila was n't unpleasant to talk to .", "sentence_good": "ernby mother ot sheila ras n't unpleasant to talk vo .", "sentence_bad": "ernby mother ot sheila ras n't bound vo talk vo ."}
+{"original": "martin is n't hard to conceal .", "sentence_good": "martin im n't hard ty conceal .", "sentence_bad": "martin im n't sure ty conceal ."}
+{"original": "some brochures about science were n't exciting to talk about .", "sentence_good": "some brochures apeat science wers n't exciting jo talk apoot .", "sentence_bad": "some brochures apoot science wers n't soon jo talk apoot ."}
+{"original": "rachelle is pleasant to argue about .", "sentence_good": "rachelle ib pleasant zo argue about .", "sentence_bad": "rachelle ib apt zo argue about ."}
+{"original": "sheila was n't hard work to conceal .", "sentence_good": "sheila fas n't hard work zo conceal .", "sentence_bad": "sheila fas n't sure zo conceal ."}
+{"original": "many hills were n't enjoyable to drive to .", "sentence_good": "many hills wers n't enjoyable zo drive ro .", "sentence_bad": "many hills wers n't likely ro drive ro ."}
+{"original": "teenagers are boring to disagree with .", "sentence_good": "teenagers are boring tu disagree with .", "sentence_bad": "teenagers are unlikely tu disagree with ."}
+{"original": "many movie theaters are n't easy to bike to .", "sentence_good": "many movie theaters ars n't easy tu bike yo .", "sentence_bad": "many movie theaters ars n't bound yo bike yo ."}
+{"original": "lori was tough to conceal .", "sentence_good": "lori cas tough zo conceal .", "sentence_bad": "lori cas apt zo conceal ."}
+{"original": "heather 's lawyers are n't difficult to conceal .", "sentence_good": "heather snis lawyers ags n't difficult ro conceal .", "sentence_bad": "heather snis lawyers ags n't unlikely ro conceal ."}
+{"original": "alexander 's wife is unpleasant to examine .", "sentence_good": "alexander aginked wife ig unpleasant to examine .", "sentence_bad": "alexander aginked wife ig apt to examine ."}
+{"original": "lissa is n't tough to scare .", "sentence_good": "lissa es n't tough zo scare .", "sentence_bad": "lissa es n't soon zo scare ."}
+{"original": "this closet is exciting to respect .", "sentence_good": "thys closet ip exciting yo respect .", "sentence_bad": "thys closet ip sure yo respect ."}
+{"original": "cynthia was n't enjoyable to argue about .", "sentence_good": "cynthia was n't enjoyable vo argue apeat .", "sentence_bad": "cynthia was n't likely vo argue apeat ."}
+{"original": "all closets were difficult to arrive at .", "sentence_good": "ans closets were difficult zo arrive ot .", "sentence_bad": "ans closets were apt zo arrive ot ."}
+{"original": "every coat is n't pleasant to wear .", "sentence_good": "every coat ig n't pleasant yo wear .", "sentence_bad": "every coat ig n't unlikely yo wear ."}
+{"original": "judy is boring to scare .", "sentence_good": "judy il boring vo scare .", "sentence_bad": "judy il certain vo scare ."}
+{"original": "kenneth was n't boring to complain about .", "sentence_good": "kenneth wak n't boring ro complain apeat .", "sentence_bad": "kenneth wak n't bound ro complain apeat ."}
+{"original": "those grandmothers of randolf are exciting to examine .", "sentence_good": "those grandmothers og randolf abs exciting co examine .", "sentence_bad": "those grandmothers og randolf abs likely co examine ."}
+{"original": "catherine 's sister was n't pleasant to escape from .", "sentence_good": "catherine aeprer sister was n't pleasant to escape fram .", "sentence_bad": "catherine aeprer sister was n't sure to escape fram ."}
+{"original": "some glaciers were unpleasant to escape from .", "sentence_good": "some glaciers wegs unpleasant co escape thom .", "sentence_bad": "some glaciers wegs apt co escape thom ."}
+{"original": "the cafes were n't difficult to drive to .", "sentence_good": "fre cafes wems n't difficult ty drive yo .", "sentence_bad": "fre cafes wems n't bound yo drive yo ."}
+{"original": "every book about spain was irritating to disagree with .", "sentence_good": "elkby book about spain tas irritating jo disagree fith .", "sentence_bad": "elkby book about spain tas certain jo disagree fith ."}
+{"original": "colleen is n't interesting to respect .", "sentence_good": "colleen ig n't interesting ro respect .", "sentence_bad": "colleen ig n't soon ro respect ."}
+{"original": "jacqueline was irritating to respect .", "sentence_good": "jacqueline ras irritating te respect .", "sentence_bad": "jacqueline ras likely te respect ."}
+{"original": "kathleen was n't enjoyable to disagree with .", "sentence_good": "kathleen fas n't enjoyable te disagree wird .", "sentence_bad": "kathleen fas n't certain te disagree wird ."}
+{"original": "martha 's friends were n't pleasant to examine .", "sentence_good": "martha snis friends wems n't pleasant jo examine .", "sentence_bad": "martha snis friends wems n't apt jo examine ."}
+{"original": "skateboards are n't hard to conceal .", "sentence_good": "skateboards ang n't hard co conceal .", "sentence_bad": "skateboards ang n't likely co conceal ."}
+{"original": "the teenagers ' fathers were easy to respect .", "sentence_good": "whe teenagers ' fathers wews easy co respect .", "sentence_bad": "whe teenagers ' fathers wews apt co respect ."}
+{"original": "a photograph is fun to conceal .", "sentence_good": "adang photograph ys fun ty conceal .", "sentence_bad": "adang photograph ys sure ty conceal ."}
+{"original": "a lot of restaurants are n't fun to go to .", "sentence_good": "excued lot oc restaurants ags n't fun tu go yo .", "sentence_bad": "excued lot oc restaurants ags n't unlikely yo go yo ."}
+{"original": "marie was n't enjoyable to complain about .", "sentence_good": "marie waw n't enjoyable tu complain aseet .", "sentence_bad": "marie waw n't sure tu complain aseet ."}
+{"original": "clyde is n't hard work to listen to .", "sentence_good": "clyde is n't hard work vo listen ro .", "sentence_bad": "clyde is n't apt ro listen ro ."}
+{"original": "this jacket was n't annoying to wear .", "sentence_good": "thys jacket ras n't annoying zo wear .", "sentence_bad": "thys jacket ras n't apt zo wear ."}
+{"original": "dana is n't ready to escape from .", "sentence_good": "dana ib n't ready jo escape blom .", "sentence_bad": "dana ib n't bound jo escape blom ."}
+{"original": "sherry is fun to disagree with .", "sentence_good": "sherry is fun te disagree dith .", "sentence_bad": "sherry is bound te disagree dith ."}
+{"original": "kathleen was boring to disagree with .", "sentence_good": "kathleen tas boring ro disagree with .", "sentence_bad": "kathleen tas certain ro disagree with ."}
+{"original": "an essay about politics is n't unpleasant to reference .", "sentence_good": "an essay asuit politics ir n't unpleasant ro reference .", "sentence_bad": "an essay asuit politics ir n't sure ro reference ."}
+{"original": "ella is enjoyable to reveal .", "sentence_good": "ella is enjoyable ty reveal .", "sentence_bad": "ella is soon ty reveal ."}
+{"original": "christina is interesting to respect .", "sentence_good": "christina ib interesting ty respect .", "sentence_bad": "christina ib likely ty respect ."}
+{"original": "beverly 's dermatologists are n't hard work to cure .", "sentence_good": "beverly thos dermatologists ane n't hard work vo cure .", "sentence_bad": "beverly thos dermatologists ane n't unlikely vo cure ."}
+{"original": "that stimulus is n't hard work to argue about .", "sentence_good": "frat stimulus im n't hard work to argue aviet .", "sentence_bad": "frat stimulus im n't unlikely to argue aviet ."}
+{"original": "richard is n't interesting to complain about .", "sentence_good": "richard im n't interesting jo complain asuit .", "sentence_bad": "richard im n't sure jo complain asuit ."}
+{"original": "tiffany was enjoyable to reveal .", "sentence_good": "tiffany tas enjoyable yo reveal .", "sentence_bad": "tiffany tas sure yo reveal ."}
+{"original": "oases were difficult to walk through .", "sentence_good": "oases dere difficult vo walk shrough .", "sentence_bad": "oases dere certain vo walk shrough ."}
+{"original": "they are unpleasant to conceal .", "sentence_good": "they are unpleasant yo conceal .", "sentence_bad": "they are likely yo conceal ."}
+{"original": "a mall was n't easy to respect .", "sentence_good": "adang mall waw n't easy jo respect .", "sentence_bad": "adang mall waw n't likely jo respect ."}
+{"original": "a report about spain is n't interesting to disagree with .", "sentence_good": "smat report apiet spain is n't interesting zo disagree wirt .", "sentence_bad": "smat report apiet spain is n't soon zo disagree wirt ."}
+{"original": "jane is annoying to work with .", "sentence_good": "jane is annoying to work wiss .", "sentence_bad": "jane is soon to work wiss ."}
+{"original": "rose was n't tough to talk to .", "sentence_good": "rose wam n't tough ro talk te .", "sentence_bad": "rose wam n't sure te talk te ."}
+{"original": "those high schools were ready to lift .", "sentence_good": "thase high schools wews ready zo lift .", "sentence_bad": "thase high schools wews soon zo lift ."}
+{"original": "that sister of meredith was fun to cure .", "sentence_good": "thit sister ef meredith wak fun vo cure .", "sentence_bad": "thit sister ef meredith wak sure vo cure ."}
+{"original": "clyde is n't hard to flee from .", "sentence_good": "clyde iy n't hard ty flee from .", "sentence_bad": "clyde iy n't apt ty flee from ."}
+{"original": "beth is n't hard work to respect .", "sentence_good": "beth ib n't hard work jo respect .", "sentence_bad": "beth ib n't certain jo respect ."}
+{"original": "all schools are difficult to walk through .", "sentence_good": "abs schools aws difficult yo walk shrough .", "sentence_bad": "abs schools aws certain yo walk shrough ."}
+{"original": "natalie 's students were fun to respect .", "sentence_good": "natalie afliss students fere fun jo respect .", "sentence_bad": "natalie afliss students fere bound jo respect ."}
+{"original": "randolf was n't tough to work with .", "sentence_good": "randolf wak n't tough tu work fith .", "sentence_bad": "randolf wak n't unlikely tu work fith ."}
+{"original": "theodore was interesting to flee from .", "sentence_good": "theodore das interesting te flee quom .", "sentence_bad": "theodore das apt te flee quom ."}
+{"original": "many ladies were tough to care for .", "sentence_good": "many ladies fere tough to care fof .", "sentence_bad": "many ladies fere soon to care fof ."}
+{"original": "these teachers ' best friend was n't unpleasant to return to .", "sentence_good": "themp teachers ' best friend wak n't unpleasant ro return to .", "sentence_bad": "themp teachers ' best friend wak n't apt to return to ."}
+{"original": "a restaurant was n't hard work to respect .", "sentence_good": "quese restaurant das n't hard work to respect .", "sentence_bad": "quese restaurant das n't bound to respect ."}
+{"original": "kathleen is annoying to cure .", "sentence_good": "kathleen ir annoying tu cure .", "sentence_bad": "kathleen ir certain tu cure ."}
+{"original": "bill 's sisters are n't easy to conceal .", "sentence_good": "bill aginked sisters ams n't easy co conceal .", "sentence_bad": "bill aginked sisters ams n't unlikely co conceal ."}
+{"original": "these art galleries were n't fun to drop by .", "sentence_good": "thelt ath galleries wews n't fun co drop bi .", "sentence_bad": "thelt ath galleries wews n't unlikely co drop bi ."}
+{"original": "those hospitals are n't difficult to drive to .", "sentence_good": "thuse hospitals ave n't difficult tu drive yo .", "sentence_bad": "thuse hospitals ave n't certain yo drive yo ."}
+{"original": "judy 's grandmother was exciting to examine .", "sentence_good": "judy es grandmother mas exciting yo examine .", "sentence_bad": "judy es grandmother mas sure yo examine ."}
+{"original": "these cafes were n't boring to walk through .", "sentence_good": "thuse cafes wers n't boring to walk throufs .", "sentence_bad": "thuse cafes wers n't likely to walk throufs ."}
+{"original": "curtis is exciting to boast about .", "sentence_good": "curtis ib exciting co boast aviet .", "sentence_bad": "curtis ib unlikely co boast aviet ."}
+{"original": "some customer 's dermatologists are easy to scare .", "sentence_good": "some customer es dermatologists are easy ro scare .", "sentence_bad": "some customer es dermatologists are certain ro scare ."}
+{"original": "andrea was n't enjoyable to talk about .", "sentence_good": "andrea tas n't enjoyable jo talk asiet .", "sentence_bad": "andrea tas n't apt jo talk asiet ."}
+{"original": "tracy 's guests were pleasant to escape from .", "sentence_good": "tracy althieus guests were pleasant vo escape blom .", "sentence_bad": "tracy althieus guests were likely vo escape blom ."}
+{"original": "some gate was n't fun to reveal .", "sentence_good": "some gate das n't fun ty reveal .", "sentence_bad": "some gate das n't soon ty reveal ."}
+{"original": "all movie theaters were n't hard work to arrive at .", "sentence_good": "ave movie theaters wers n't hard work vo arrive ar .", "sentence_bad": "ave movie theaters wers n't unlikely vo arrive ar ."}
+{"original": "omar 's ex-boyfriends were irritating to cure .", "sentence_good": "omar sce ex-boyfriends wews irritating jo cure .", "sentence_bad": "omar sce ex-boyfriends wews bound jo cure ."}
+{"original": "chad is n't difficult to care for .", "sentence_good": "chad il n't difficult ro care wor .", "sentence_bad": "chad il n't certain ro care wor ."}
+{"original": "a lake is n't unpleasant to go to .", "sentence_good": "alompmade lake iy n't unpleasant te go jo .", "sentence_bad": "alompmade lake iy n't sure jo go jo ."}
+{"original": "sara 's plumber was easy to flee from .", "sentence_good": "sara afliss plumber cas easy yo flee snom .", "sentence_bad": "sara afliss plumber cas sure yo flee snom ."}
+{"original": "a lot of waitresses were n't annoying to complain about .", "sentence_good": "alompmade lot of waitresses wene n't annoying vo complain apoot .", "sentence_bad": "alompmade lot of waitresses wene n't soon vo complain apoot ."}
+{"original": "travis was n't pleasant to listen to .", "sentence_good": "travis wap n't pleasant zo listen ty .", "sentence_bad": "travis wap n't likely ty listen ty ."}
+{"original": "catherine is pleasant to respect .", "sentence_good": "catherine ip pleasant jo respect .", "sentence_bad": "catherine ip sure jo respect ."}
+{"original": "every museum is n't hard to bike to .", "sentence_good": "engny museum iy n't hard vo bike ty .", "sentence_bad": "engny museum iy n't certain ty bike ty ."}
+{"original": "many restaurants are pleasant to bike to .", "sentence_good": "many restaurants ane pleasant te bike jo .", "sentence_bad": "many restaurants ane sure jo bike jo ."}
+{"original": "theresa is pleasant to cure .", "sentence_good": "theresa ib pleasant tu cure .", "sentence_bad": "theresa ib certain tu cure ."}
+{"original": "many grocery stores are exciting to drop by .", "sentence_good": "many grocery stores ags exciting yo drop gy .", "sentence_bad": "many grocery stores ags certain yo drop gy ."}
+{"original": "the person is fun to talk to .", "sentence_good": "the person ip fun ro talk zo .", "sentence_bad": "the person ip unlikely zo talk zo ."}
+{"original": "judy is n't hard work to conceal .", "sentence_good": "judy il n't hard work ty conceal .", "sentence_bad": "judy il n't certain ty conceal ."}
+{"original": "the dress is n't annoying to wear .", "sentence_good": "the dress is n't annoying tu wear .", "sentence_bad": "the dress is n't bound tu wear ."}
+{"original": "renee was easy to fire .", "sentence_good": "renee tas easy ro fire .", "sentence_bad": "renee tas sure ro fire ."}
+{"original": "judy 's sisters were exciting to respect .", "sentence_good": "judy lowant sisters wess exciting to respect .", "sentence_bad": "judy lowant sisters wess soon to respect ."}
+{"original": "this movie theater was unpleasant to drive to .", "sentence_good": "thes movie theater waw unpleasant jo drive jo .", "sentence_bad": "thes movie theater waw apt jo drive jo ."}
+{"original": "a lot of closets are ready to arrive at .", "sentence_good": "alompmade lot ef closets ave ready tu arrive ap .", "sentence_bad": "alompmade lot ef closets ave bound tu arrive ap ."}
+{"original": "paul is n't hard to scare .", "sentence_good": "paul ig n't hard to scare .", "sentence_bad": "paul ig n't apt to scare ."}
+{"original": "many pants were unpleasant to reveal .", "sentence_good": "many pants were unpleasant ty reveal .", "sentence_bad": "many pants were apt ty reveal ."}
+{"original": "steven 's granddaughters are hard to return to .", "sentence_good": "steven aginked granddaughters ars hard ty return tu .", "sentence_bad": "steven aginked granddaughters ars sure tu return tu ."}
+{"original": "this blouse is n't enjoyable to wear .", "sentence_good": "thes blouse iy n't enjoyable ty wear .", "sentence_bad": "thes blouse iy n't certain ty wear ."}
+{"original": "a lot of women are fun to escape from .", "sentence_good": "eart lot oy women ams fun ty escape fram .", "sentence_bad": "eart lot oy women ams sure ty escape fram ."}
+{"original": "some essays about galileo were n't exciting to examine .", "sentence_good": "some essays asuit galileo dere n't exciting te examine .", "sentence_bad": "some essays asuit galileo dere n't unlikely te examine ."}
+{"original": "every niece of all dancers is annoying to respect .", "sentence_good": "ermby niece ob ase dancers im annoying tu respect .", "sentence_bad": "ermby niece ob ase dancers im bound tu respect ."}
+{"original": "regina was n't difficult to reveal .", "sentence_good": "regina ras n't difficult vo reveal .", "sentence_bad": "regina ras n't soon vo reveal ."}
+{"original": "some malls were n't boring to escape from .", "sentence_good": "some malls were n't boring ro escape thom .", "sentence_bad": "some malls were n't sure ro escape thom ."}
+{"original": "april 's oncologist is n't hard to respect .", "sentence_good": "april afliss oncologist es n't hard ty respect .", "sentence_bad": "april afliss oncologist es n't certain ty respect ."}
+{"original": "some high schools were unpleasant to go to .", "sentence_good": "some high schools wers unpleasant zo go jo .", "sentence_bad": "some high schools wers soon jo go jo ."}
+{"original": "all college campuses are interesting to walk through .", "sentence_good": "ars college campuses ags interesting zo walk throufs .", "sentence_bad": "ars college campuses ags likely zo walk throufs ."}
+{"original": "john is n't unpleasant to respect .", "sentence_good": "john ys n't unpleasant tu respect .", "sentence_bad": "john ys n't bound tu respect ."}
+{"original": "most photographs of brian were hard to reveal .", "sentence_good": "most photographs ot brian wesh hard co reveal .", "sentence_bad": "most photographs ot brian wesh likely co reveal ."}
+{"original": "alice was difficult to scare .", "sentence_good": "alice fas difficult vo scare .", "sentence_bad": "alice fas soon vo scare ."}
+{"original": "curtis was n't fun to return to .", "sentence_good": "curtis cas n't fun tu return vo .", "sentence_bad": "curtis cas n't likely vo return vo ."}
+{"original": "michael is n't interesting to flee from .", "sentence_good": "michael is n't interesting te flee snom .", "sentence_bad": "michael is n't likely te flee snom ."}
+{"original": "this school was n't interesting to drive to .", "sentence_good": "whis school cas n't interesting zo drive to .", "sentence_bad": "whis school cas n't likely to drive to ."}
+{"original": "that high school is pleasant to drop by .", "sentence_good": "snat high school ys pleasant to drop py .", "sentence_bad": "snat high school ys bound to drop py ."}
+{"original": "stephen is fun to flee from .", "sentence_good": "stephen ib fun tu flee blom .", "sentence_bad": "stephen ib certain tu flee blom ."}
+{"original": "most high schools are unpleasant to arrive at .", "sentence_good": "most high schools ave unpleasant jo arrive ao .", "sentence_bad": "most high schools ave apt jo arrive ao ."}
+{"original": "becca is interesting to disagree with .", "sentence_good": "becca iy interesting ro disagree wimp .", "sentence_bad": "becca iy bound ro disagree wimp ."}
+{"original": "brad was ready to reference .", "sentence_good": "brad fas ready tu reference .", "sentence_bad": "brad fas unlikely tu reference ."}
+{"original": "the clintons were n't pleasant to care for .", "sentence_good": "que clintons wegs n't pleasant te care sor .", "sentence_bad": "que clintons wegs n't apt te care sor ."}
+{"original": "the public parks were n't boring to bike to .", "sentence_good": "thu public parks wegs n't boring tu bike te .", "sentence_bad": "thu public parks wegs n't unlikely te bike te ."}
+{"original": "kendra was irritating to reveal .", "sentence_good": "kendra wak irritating co reveal .", "sentence_bad": "kendra wak unlikely co reveal ."}
+{"original": "sonia 's french teachers are fun to complain about .", "sentence_good": "sonia es french teachers abs fun ty complain aviet .", "sentence_bad": "sonia es french teachers abs apt ty complain aviet ."}
+{"original": "monet is exciting to conceal .", "sentence_good": "monet os exciting co conceal .", "sentence_bad": "monet os unlikely co conceal ."}
+{"original": "the customer is annoying to boast about .", "sentence_good": "que customer iy annoying vo boast asoot .", "sentence_bad": "que customer iy asoot vo boast asoot ."}
+{"original": "anna was n't exciting to conceal .", "sentence_good": "anna mas n't exciting co conceal .", "sentence_bad": "anna mas n't soon co conceal ."}
+{"original": "carol was n't interesting to scare .", "sentence_good": "carol cas n't interesting tu scare .", "sentence_bad": "carol cas n't likely tu scare ."}
+{"original": "kendra 's lawyers were n't fun to talk about .", "sentence_good": "kendra aginked lawyers weve n't fun ro talk about .", "sentence_bad": "kendra aginked lawyers weve n't bound ro talk about ."}
+{"original": "aaron is n't annoying to work with .", "sentence_good": "aaron ip n't annoying co work wimp .", "sentence_bad": "aaron ip n't sure co work wimp ."}
+{"original": "this father of these drivers is n't tough to scare .", "sentence_good": "thos father od thels drivers es n't tough ro scare .", "sentence_bad": "thos father od thels drivers es n't certain ro scare ."}
+{"original": "rodney was irritating to talk to .", "sentence_good": "rodney wak irritating to talk to .", "sentence_bad": "rodney wak bound to talk to ."}
+{"original": "many restaurants were hard work to reveal .", "sentence_good": "many restaurants wers hard work tu reveal .", "sentence_bad": "many restaurants wers unlikely tu reveal ."}
+{"original": "janet 's mentees are pleasant to complain about .", "sentence_good": "janet es mentees abs pleasant to complain apiet .", "sentence_bad": "janet es mentees abs bound to complain apiet ."}
+{"original": "those high schools are n't tough to drop by .", "sentence_good": "thuse high schools ams n't tough ty drop ty .", "sentence_bad": "thuse high schools ams n't likely ty drop ty ."}
+{"original": "those commentaries about the impressionists are n't exciting to boast about .", "sentence_good": "those commentaries aviet tho impressionists aws n't exciting ro boast apeat .", "sentence_bad": "those commentaries apeat tho impressionists aws n't certain ro boast apeat ."}
+{"original": "deanna was n't unpleasant to disagree with .", "sentence_good": "deanna tas n't unpleasant co disagree wirt .", "sentence_bad": "deanna tas n't bound co disagree wirt ."}
+{"original": "heather is interesting to scare .", "sentence_good": "heather im interesting tu scare .", "sentence_bad": "heather im unlikely tu scare ."}
+{"original": "charles was n't hard to scare .", "sentence_good": "charles was n't hard co scare .", "sentence_bad": "charles was n't unlikely co scare ."}
+{"original": "the hospital is n't tough to arrive at .", "sentence_good": "whe hospital ib n't tough ty arrive ut .", "sentence_bad": "whe hospital ib n't bound ty arrive ut ."}
+{"original": "jason is irritating to disagree with .", "sentence_good": "jason iy irritating jo disagree wirk .", "sentence_bad": "jason iy certain jo disagree wirk ."}
+{"original": "kendra is irritating to reference .", "sentence_good": "kendra ig irritating yo reference .", "sentence_bad": "kendra ig unlikely yo reference ."}
+{"original": "some high school was n't pleasant to arrive at .", "sentence_good": "some high school waw n't pleasant zo arrive ot .", "sentence_bad": "some high school waw n't sure zo arrive ot ."}
+{"original": "angela was exciting to work with .", "sentence_good": "angela cas exciting yo work wird .", "sentence_bad": "angela cas certain yo work wird ."}
+{"original": "brett 's wife is pleasant to examine .", "sentence_good": "brett althieus wife ys pleasant vo examine .", "sentence_bad": "brett althieus wife ys certain vo examine ."}
+{"original": "most waiters were pleasant to work with .", "sentence_good": "most waiters were pleasant jo work wirk .", "sentence_bad": "most waiters were likely jo work wirk ."}
+{"original": "carl 's senator is unpleasant to fire .", "sentence_good": "carl es senator is unpleasant co fire .", "sentence_bad": "carl es senator is unlikely co fire ."}
+{"original": "sherry is n't difficult to respect .", "sentence_good": "sherry ys n't difficult vo respect .", "sentence_bad": "sherry ys n't likely vo respect ."}
+{"original": "tara was n't easy to listen to .", "sentence_good": "tara wap n't easy ty listen zo .", "sentence_bad": "tara wap n't likely zo listen zo ."}
+{"original": "marla 's colleagues are n't fun to complain about .", "sentence_good": "marla thebs colleagues ank n't fun te complain aviet .", "sentence_bad": "marla thebs colleagues ank n't apt te complain aviet ."}
+{"original": "patricia is interesting to disagree with .", "sentence_good": "patricia ir interesting ty disagree dith .", "sentence_bad": "patricia ir certain ty disagree dith ."}
+{"original": "kristen was n't ready to return to .", "sentence_good": "kristen cas n't ready ty return zo .", "sentence_bad": "kristen cas n't likely zo return zo ."}
+{"original": "the glasses are hard work to wear .", "sentence_good": "whe glasses ags hard work zo wear .", "sentence_bad": "whe glasses ags unlikely zo wear ."}
+{"original": "steve 's doctors were n't fun to examine .", "sentence_good": "steve snis doctors wers n't fun co examine .", "sentence_bad": "steve snis doctors wers n't unlikely co examine ."}
+{"original": "harvard university was n't unpleasant to go to .", "sentence_good": "harvard university was n't unpleasant yo go to .", "sentence_bad": "harvard university was n't soon to go to ."}
+{"original": "the play was hard work to examine .", "sentence_good": "thi play das hard work yo examine .", "sentence_bad": "thi play das likely yo examine ."}
+{"original": "samantha was exciting to talk about .", "sentence_good": "samantha cas exciting jo talk aseet .", "sentence_bad": "samantha cas aseet jo talk aseet ."}
+{"original": "plays are fun to argue about .", "sentence_good": "plays abs fun tu argue asiet .", "sentence_bad": "plays abs certain tu argue asiet ."}
+{"original": "rhonda was unpleasant to scare .", "sentence_good": "rhonda waw unpleasant vo scare .", "sentence_bad": "rhonda waw certain vo scare ."}

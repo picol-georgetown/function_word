@@ -1,0 +1,14 @@
+accelerate==1.10.1
+datasets==4.1.1
+evaluate==0.4.6
+gitdb==4.0.12
+huggingface-hub==0.35.3
+numpy==1.23.5
+scikit-learn==1.7.2
+stanza==1.11.0
+StrEnum==0.4.15
+sympy==1.14.0
+tokenizers==0.13.3
+torch
+transformers==4.30.2
+wandb==0.22.1

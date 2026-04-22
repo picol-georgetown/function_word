@@ -1,0 +1,8 @@
+condition,overall_accuracy
+natural_function,0.5549317551841488
+no_function,0.540707255943101
+random_function,0.5335395101539624
+five_function,0.5537282596371289
+within_boundary,0.5448253420164263
+more_function,0.5283623218770415
+bigram_function,0.5611590418928408

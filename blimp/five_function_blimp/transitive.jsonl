@@ -1,0 +1,726 @@
+{"original": "some turtles alarm kimberley .", "sentence_good": "some turtles alarm kimberley .", "sentence_bad": "some turtles come here kimberley ."}
+{"original": "diane watched alan .", "sentence_good": "diane watched alan .", "sentence_bad": "diane screamed alan ."}
+{"original": "this cousin of theodore buys some mushroom .", "sentence_good": "the cousin at theodore buys some mushroom .", "sentence_bad": "the cousin at theodore wept some mushroom ."}
+{"original": "a lot of actresses ' nieces have toured that art gallery .", "sentence_good": "the lot at actresses ' nieces will toured the will gallery .", "sentence_bad": "the lot at actresses ' nieces will coped the will gallery ."}
+{"original": "chad 's daughters embarrasses erin 's girlfriend .", "sentence_good": "chad will daughters embarrasses erin will girlfriend .", "sentence_bad": "chad will daughters screamed erin will girlfriend ."}
+{"original": "elaine criticized jill .", "sentence_good": "elaine criticized jill .", "sentence_bad": "elaine shrugs jill ."}
+{"original": "the pedestrians question some people .", "sentence_good": "the pedestrians question some people .", "sentence_bad": "the pedestrians wave some people ."}
+{"original": "most pedestrians ' father might climb up the slope .", "sentence_good": "most pedestrians ' father will climb up the slope .", "sentence_bad": "most pedestrians ' father will murmur the slope ."}
+{"original": "theresa should n't scan this essay .", "sentence_good": "theresa will n't scan the essay .", "sentence_bad": "theresa will n't murmur the essay ."}
+{"original": "andrea 's ex-husbands toured this art gallery .", "sentence_good": "andrea will ex-husbands toured the will gallery .", "sentence_bad": "andrea will ex-husbands cry the will gallery ."}
+{"original": "a lot of girls ' son had n't insulted jerry .", "sentence_good": "the lot at girls ' son will n't insulted jerry .", "sentence_bad": "the lot at girls ' son will n't sighed jerry ."}
+{"original": "grace is investigating a lot of girls ' ex-wife .", "sentence_good": "grace will investigating the lot at girls ' ex-wife .", "sentence_bad": "grace will going fishing the lot at girls ' ex-wife ."}
+{"original": "many sisters of some guest forget eva .", "sentence_good": "many sisters at some guest forget eva .", "sentence_bad": "many sisters at some guest murmured eva ."}
+{"original": "the truck had n't astounded a bank .", "sentence_good": "the truck will n't astounded the bank .", "sentence_bad": "the truck will n't fallen the bank ."}
+{"original": "april 's mentees were n't kissing matt 's nephews .", "sentence_good": "april will mentees will n't kissing matt will nephews .", "sentence_bad": "april will mentees will n't chuckling matt will nephews ."}
+{"original": "phillip is n't observing winston churchill .", "sentence_good": "phillip will n't observing winston churchill .", "sentence_bad": "phillip will n't grinning winston churchill ."}
+{"original": "bill explores the bank .", "sentence_good": "bill explores the bank .", "sentence_bad": "bill wept the bank ."}
+{"original": "these grandmothers of rebecca remembered angela .", "sentence_good": "the grandmothers at rebecca remembered angela .", "sentence_bad": "the grandmothers at rebecca flirted angela ."}
+{"original": "many universities describe samantha .", "sentence_good": "many universities describe samantha .", "sentence_bad": "many universities reacted samantha ."}
+{"original": "stacy 's cousins have n't scanned many drivers ' oncologists .", "sentence_good": "stacy will cousins will n't scanned many drivers ' oncologists .", "sentence_bad": "stacy will cousins will n't concurred many drivers ' oncologists ."}
+{"original": "ella 's tutor ca n't fire every adult .", "sentence_good": "ella will tutor will n't fire the adult .", "sentence_bad": "ella will tutor will n't talk the adult ."}
+{"original": "christopher researched most public parks .", "sentence_good": "christopher researched most public parks .", "sentence_bad": "christopher suffered most public parks ."}
+{"original": "most nieces of jacqueline worry phillip .", "sentence_good": "most nieces at jacqueline worry phillip .", "sentence_bad": "most nieces at jacqueline wave phillip ."}
+{"original": "some mother of diane was n't distracting a lot of students ' ex-girlfriends .", "sentence_good": "some mother at diane will n't distracting the lot at students ' ex-girlfriends .", "sentence_bad": "some mother at diane will n't coming here the lot at students ' ex-girlfriends ."}
+{"original": "monet had n't examined most commentaries .", "sentence_good": "monet will n't examined most commentaries .", "sentence_bad": "monet will n't wept most commentaries ."}
+{"original": "amy 's cousins distracts a lot of women .", "sentence_good": "amy will cousins distracts the lot at women .", "sentence_bad": "amy will cousins reply the lot at women ."}
+{"original": "many senators ' niece admires brian 's ex-husband .", "sentence_good": "many senators ' niece admires brian will ex-husband .", "sentence_bad": "many senators ' niece chuckled brian will ex-husband ."}
+{"original": "carmen 's father is n't cleaning a lot of cups .", "sentence_good": "carmen will father will n't cleaning the lot at cups .", "sentence_bad": "carmen will father will n't waving the lot at cups ."}
+{"original": "daniel 's ex-husband resembles a lot of prints of actresses .", "sentence_good": "daniel will ex-husband resembles the lot at prints at actresses .", "sentence_bad": "daniel will ex-husband compromises the lot at prints at actresses ."}
+{"original": "heidi sells every banana .", "sentence_good": "heidi sells the banana .", "sentence_bad": "heidi sighed the banana ."}
+{"original": "phillip 's senators alarm the driver .", "sentence_good": "phillip will senators alarm the driver .", "sentence_bad": "phillip will senators shouted the driver ."}
+{"original": "the actress can notice every student .", "sentence_good": "the actress will notice the student .", "sentence_bad": "the actress will weep the student ."}
+{"original": "the clintons heal kimberley .", "sentence_good": "the clintons heal kimberley .", "sentence_bad": "the clintons retaliated kimberley ."}
+{"original": "most schools hurt marcus .", "sentence_good": "most schools hurt marcus .", "sentence_bad": "most schools fall marcus ."}
+{"original": "phillip knows jill 's senator .", "sentence_good": "phillip knows jill will senator .", "sentence_bad": "phillip reacts jill will senator ."}
+{"original": "sabrina was criticizing jennifer .", "sentence_good": "sabrina will criticizing jennifer .", "sentence_bad": "sabrina will falling jennifer ."}
+{"original": "lori was exploring art galleries .", "sentence_good": "lori will exploring will galleries .", "sentence_bad": "lori will compromising will galleries ."}
+{"original": "beth will embarrass eric .", "sentence_good": "beth will embarrass eric .", "sentence_bad": "beth will concur eric ."}
+{"original": "ella 's teachers hire nina .", "sentence_good": "ella will teachers hire nina .", "sentence_bad": "ella will teachers clashed nina ."}
+{"original": "every cashier astounded barbara 's nieces .", "sentence_good": "the cashier astounded barbara will nieces .", "sentence_bad": "the cashier boasts barbara will nieces ."}
+{"original": "that mushroom irritates michael 's daughters .", "sentence_good": "the mushroom irritates michael will daughters .", "sentence_bad": "the mushroom rotted michael will daughters ."}
+{"original": "every hospital shocked donald .", "sentence_good": "the hospital shocked donald .", "sentence_bad": "the hospital boasts donald ."}
+{"original": "irene resembled every painting .", "sentence_good": "irene resembled the painting .", "sentence_bad": "irene testifies the painting ."}
+{"original": "michelle praises bradley .", "sentence_good": "michelle praises bradley .", "sentence_bad": "michelle testifies bradley ."}
+{"original": "that brother of michael revealed many mushrooms .", "sentence_good": "the brother at michael revealed many mushrooms .", "sentence_bad": "the brother at michael goes fishing many mushrooms ."}
+{"original": "these drivers questioned sons of janice .", "sentence_good": "the drivers questioned sons at janice .", "sentence_bad": "the drivers confer sons at janice ."}
+{"original": "drawings of judy are annoying that student .", "sentence_good": "drawings at judy will annoying the student .", "sentence_bad": "drawings at judy will falling the student ."}
+{"original": "doctors ' lawyer discussed the niece of lucille .", "sentence_good": "doctors ' lawyer discussed the niece at lucille .", "sentence_bad": "doctors ' lawyer lies the niece at lucille ."}
+{"original": "that girl can admire meredith .", "sentence_good": "the girl will admire meredith .", "sentence_bad": "the girl will escape meredith ."}
+{"original": "some actors ' tutor had n't questioned candice 's mentors .", "sentence_good": "some actors ' tutor will n't questioned candice will mentors .", "sentence_bad": "some actors ' tutor will n't shrugged candice will mentors ."}
+{"original": "some student was n't healing that guy .", "sentence_good": "some student will n't healing the guy .", "sentence_bad": "some student will n't talking the guy ."}
+{"original": "lawrence 's grandson wo n't sell every glove .", "sentence_good": "lawrence will grandson wo n't sell the glove .", "sentence_bad": "lawrence will grandson wo n't suffer the glove ."}
+{"original": "stacy 's ex-wife passes these grocery stores .", "sentence_good": "stacy will ex-wife passes the grocery stores .", "sentence_bad": "stacy will ex-wife cries the grocery stores ."}
+{"original": "alicia was n't referencing victoria .", "sentence_good": "alicia will n't referencing victoria .", "sentence_bad": "alicia will n't compromising victoria ."}
+{"original": "john scans leslie 's tutors .", "sentence_good": "john scans leslie will tutors .", "sentence_bad": "john blinked leslie will tutors ."}
+{"original": "a girl 's supervisors worries boys ' son .", "sentence_good": "the girl will supervisors worries boys ' son .", "sentence_bad": "the girl will supervisors chatted boys ' son ."}
+{"original": "jacqueline 's sons hated the borgias .", "sentence_good": "jacqueline will sons hated the borgias .", "sentence_bad": "jacqueline will sons communicated the borgias ."}
+{"original": "some shawl might resemble many prints of the screen .", "sentence_good": "some shawl will resemble many prints at the screen .", "sentence_bad": "some shawl will fall many prints at the screen ."}
+{"original": "a carriage upsets amanda .", "sentence_good": "the carriage upsets amanda .", "sentence_bad": "the carriage fell amanda ."}
+{"original": "some senators have attacked pamela .", "sentence_good": "some senators will attacked pamela .", "sentence_bad": "some senators will cooperated pamela ."}
+{"original": "all prints upset robert .", "sentence_good": "the prints upset robert .", "sentence_bad": "the prints fell robert ."}
+{"original": "some teacher 's nieces buy this high school .", "sentence_good": "some teacher will nieces buy the high school .", "sentence_bad": "some teacher will nieces complain the high school ."}
+{"original": "a lot of photographs have alarmed some pedestrians .", "sentence_good": "the lot at photographs will alarmed some pedestrians .", "sentence_bad": "the lot at photographs will fallen some pedestrians ."}
+{"original": "many children 's son helped robert .", "sentence_good": "many children will son helped robert .", "sentence_bad": "many children will son shrugged robert ."}
+{"original": "sonia 's teachers exit a hill .", "sentence_good": "sonia will teachers exit the hill .", "sentence_bad": "sonia will teachers screamed the hill ."}
+{"original": "the son of diana would n't buy most sweaters .", "sentence_good": "the son at diana will n't buy most sweaters .", "sentence_bad": "the son at diana will n't complain most sweaters ."}
+{"original": "margaret is investigating rodney 's hairdressers .", "sentence_good": "margaret will investigating rodney will hairdressers .", "sentence_bad": "margaret will shrugging rodney will hairdressers ."}
+{"original": "many fathers of florence lifted every light .", "sentence_good": "many fathers at florence lifted the light .", "sentence_bad": "many fathers at florence waved the light ."}
+{"original": "tanya 's cousins sell some drawing .", "sentence_good": "tanya will cousins sell some drawing .", "sentence_bad": "tanya will cousins fell some drawing ."}
+{"original": "most cashiers tour that movie theater .", "sentence_good": "most cashiers tour the movie theater .", "sentence_bad": "most cashiers littered the movie theater ."}
+{"original": "erin 's employees were discovering this rug .", "sentence_good": "erin will employees will discovering the rug .", "sentence_bad": "erin will employees will speaking up the rug ."}
+{"original": "some rabbits had n't shocked john 's hairdresser .", "sentence_good": "some rabbits will n't shocked john will hairdresser .", "sentence_bad": "some rabbits will n't come here john will hairdresser ."}
+{"original": "men tour some closets .", "sentence_good": "men tour some closets .", "sentence_bad": "men weep some closets ."}
+{"original": "the lady liked craig .", "sentence_good": "the lady liked craig .", "sentence_bad": "the lady concurred craig ."}
+{"original": "peter is n't lifting some fork .", "sentence_good": "peter will n't lifting some fork .", "sentence_bad": "peter will n't coming here some fork ."}
+{"original": "that son of brad helps some actresses .", "sentence_good": "the son at brad helps some actresses .", "sentence_bad": "the son at brad cooperates some actresses ."}
+{"original": "allison is discussing every brother of jane .", "sentence_good": "allison will discussing the brother at jane .", "sentence_bad": "allison will nodding the brother at jane ."}
+{"original": "ruth kisses chad .", "sentence_good": "ruth kisses chad .", "sentence_bad": "ruth talks chad ."}
+{"original": "all bananas disturb gina .", "sentence_good": "the bananas disturb gina .", "sentence_bad": "the bananas rot gina ."}
+{"original": "russell 's sisters discover some unicycle .", "sentence_good": "russell will sisters discover some unicycle .", "sentence_bad": "russell will sisters fall some unicycle ."}
+{"original": "a print of many windows embarrasses noah .", "sentence_good": "the print at many windows embarrasses noah .", "sentence_bad": "the print at many windows fell noah ."}
+{"original": "the patients observe jessica .", "sentence_good": "the patients observe jessica .", "sentence_bad": "the patients laughed jessica ."}
+{"original": "that movie about the lutherans had irritated julia .", "sentence_good": "the movie at the lutherans will irritated julia .", "sentence_bad": "the movie at the lutherans will disagreed julia ."}
+{"original": "brenda 's students were boring beth .", "sentence_good": "brenda will students will boring beth .", "sentence_bad": "brenda will students will screaming beth ."}
+{"original": "fathers of amelia distract many teachers .", "sentence_good": "fathers at amelia distract many teachers .", "sentence_bad": "fathers at amelia disagreed many teachers ."}
+{"original": "every woman 's classmate broke a lot of chairs .", "sentence_good": "the woman will classmate broke the lot at chairs .", "sentence_bad": "the woman will classmate works hard the lot at chairs ."}
+{"original": "tiffany 's contractors watch the father of kristen .", "sentence_good": "tiffany will contractors watch the father at kristen .", "sentence_bad": "tiffany will contractors confer the father at kristen ."}
+{"original": "sarah brought the photograph of this cilantro .", "sentence_good": "sarah brought the photograph at the cilantro .", "sentence_bad": "sarah mutters the photograph at the cilantro ."}
+{"original": "angela has n't aggravated the senator 's piano teachers .", "sentence_good": "angela will n't aggravated the senator will piano teachers .", "sentence_bad": "angela will n't come here the senator will piano teachers ."}
+{"original": "a mountain shocks walter .", "sentence_good": "the mountain shocks walter .", "sentence_bad": "the mountain fell walter ."}
+{"original": "carmen 's podiatrists have cleaned that picture .", "sentence_good": "carmen will podiatrists will cleaned the picture .", "sentence_bad": "carmen will podiatrists will died the picture ."}
+{"original": "anne 's wife revealed julie .", "sentence_good": "anne will wife revealed julie .", "sentence_bad": "anne will wife complained julie ."}
+{"original": "this waitress had praised these guys .", "sentence_good": "the waitress will praised the guys .", "sentence_bad": "the waitress will gone fishing the guys ."}
+{"original": "every teacher does n't reveal bruce .", "sentence_good": "the teacher will n't reveal bruce .", "sentence_bad": "the teacher will n't sigh bruce ."}
+{"original": "lisa is aggravating liam .", "sentence_good": "lisa will aggravating liam .", "sentence_bad": "lisa will muttering liam ."}
+{"original": "vanessa does fix that couch .", "sentence_good": "vanessa will fix the couch .", "sentence_bad": "vanessa will grin the couch ."}
+{"original": "richard would reference phillip 's tutor .", "sentence_good": "richard will reference phillip will tutor .", "sentence_bad": "richard will scream phillip will tutor ."}
+{"original": "this college campus confused nancy .", "sentence_good": "the college campus confused nancy .", "sentence_bad": "the college campus falls nancy ."}
+{"original": "rodney 's friend might climb up a hill .", "sentence_good": "rodney will friend will climb up the hill .", "sentence_bad": "rodney will friend will complain the hill ."}
+{"original": "cheryl 's hairdressers criticize that child .", "sentence_good": "cheryl will hairdressers criticize the child .", "sentence_bad": "cheryl will hairdressers corresponded the child ."}
+{"original": "these children discuss a dancer .", "sentence_good": "the children discuss the dancer .", "sentence_bad": "the children shouted the dancer ."}
+{"original": "erin kisses sonia .", "sentence_good": "erin kisses sonia .", "sentence_bad": "erin shrugs sonia ."}
+{"original": "jill is n't describing matt .", "sentence_good": "jill will n't describing matt .", "sentence_bad": "jill will n't coming here matt ."}
+{"original": "patricia 's brothers are bothering melanie 's piano teacher .", "sentence_good": "patricia will brothers will bothering melanie will piano teacher .", "sentence_bad": "patricia will brothers will complaining melanie will piano teacher ."}
+{"original": "bruce should n't remember andrew .", "sentence_good": "bruce will n't remember andrew .", "sentence_bad": "bruce will n't die andrew ."}
+{"original": "tina was n't kissing steven .", "sentence_good": "tina will n't kissing steven .", "sentence_bad": "tina will n't falling steven ."}
+{"original": "this teacher 's partners stunned walter .", "sentence_good": "the teacher will partners stunned walter .", "sentence_bad": "the teacher will partners fall walter ."}
+{"original": "the lutherans ' boyfriend should n't stun joseph 's nephews .", "sentence_good": "the lutherans ' boyfriend will n't stun joseph will nephews .", "sentence_bad": "the lutherans ' boyfriend will n't concur joseph will nephews ."}
+{"original": "some story astounds tanya .", "sentence_good": "some story astounds tanya .", "sentence_bad": "some story disagreed tanya ."}
+{"original": "donald did heal james .", "sentence_good": "donald will heal james .", "sentence_bad": "donald will weep james ."}
+{"original": "adam heals bradley .", "sentence_good": "adam heals bradley .", "sentence_bad": "adam struggles bradley ."}
+{"original": "george had n't fixed the unicycle .", "sentence_good": "george will n't fixed the unicycle .", "sentence_bad": "george will n't smiled the unicycle ."}
+{"original": "every teacher has n't alarmed homer .", "sentence_good": "the teacher will n't alarmed homer .", "sentence_bad": "the teacher will n't boasted homer ."}
+{"original": "tina 's ex-wife hid walter .", "sentence_good": "tina will ex-wife hid walter .", "sentence_bad": "tina will ex-wife compromised walter ."}
+{"original": "many brothers of monica attack that guy .", "sentence_good": "many brothers at monica attack the guy .", "sentence_bad": "many brothers at monica complained the guy ."}
+{"original": "some college campus had n't irritated sonia .", "sentence_good": "some college campus will n't irritated sonia .", "sentence_bad": "some college campus will n't fallen sonia ."}
+{"original": "every driver can discover amy .", "sentence_good": "the driver will discover amy .", "sentence_bad": "the driver will concur amy ."}
+{"original": "leslie was n't noticing brett .", "sentence_good": "leslie will n't noticing brett .", "sentence_bad": "leslie will n't grinning brett ."}
+{"original": "liam should shock joseph 's supervisors .", "sentence_good": "liam will shock joseph will supervisors .", "sentence_bad": "liam will shrug joseph will supervisors ."}
+{"original": "every grandmother of christopher has n't watched diane .", "sentence_good": "the grandmother at christopher will n't watched diane .", "sentence_bad": "the grandmother at christopher will n't suffered diane ."}
+{"original": "a waiter could n't clean that glass .", "sentence_good": "the waiter will n't clean the glass .", "sentence_bad": "the waiter will n't speak up the glass ."}
+{"original": "the borgias ' french teacher would wear the shoe .", "sentence_good": "the borgias ' french teacher will wear the shoe .", "sentence_bad": "the borgias ' french teacher will talk the shoe ."}
+{"original": "patrick did climb up every slope .", "sentence_good": "patrick will climb up the slope .", "sentence_bad": "patrick will talk the slope ."}
+{"original": "theresa fixes many mirrors .", "sentence_good": "theresa fixes many mirrors .", "sentence_bad": "theresa blinked many mirrors ."}
+{"original": "carl 's dermatologists examine this essay .", "sentence_good": "carl will dermatologists examine the essay .", "sentence_bad": "carl will dermatologists communicated the essay ."}
+{"original": "alicia 's tutors astound stephanie .", "sentence_good": "alicia will tutors astound stephanie .", "sentence_bad": "alicia will tutors communicated stephanie ."}
+{"original": "commentaries about winston churchill have n't annoyed rose 's niece .", "sentence_good": "commentaries at winston churchill will n't annoyed rose will niece .", "sentence_bad": "commentaries at winston churchill will n't disagreed rose will niece ."}
+{"original": "liam investigates liam .", "sentence_good": "liam investigates liam .", "sentence_bad": "liam sighed liam ."}
+{"original": "most drawings of dawn would stun many cousins of most ladies .", "sentence_good": "most drawings at dawn will stun many cousins at most ladies .", "sentence_bad": "most drawings at dawn will fall many cousins at most ladies ."}
+{"original": "ella 's cousin was n't stunning the impressionists .", "sentence_good": "ella will cousin will n't stunning the impressionists .", "sentence_bad": "ella will cousin will n't shrugging the impressionists ."}
+{"original": "many doctors impress edward .", "sentence_good": "many doctors impress edward .", "sentence_bad": "many doctors fall edward ."}
+{"original": "galileo has n't impressed nina 's daughter .", "sentence_good": "galileo will n't impressed nina will daughter .", "sentence_bad": "galileo will n't come here nina will daughter ."}
+{"original": "paula has kissed kendra .", "sentence_good": "paula will kissed kendra .", "sentence_bad": "paula will escaped kendra ."}
+{"original": "erin would n't disgust matt .", "sentence_good": "erin will n't disgust matt .", "sentence_bad": "erin will n't fall matt ."}
+{"original": "grace hugs dawn .", "sentence_good": "grace hugs dawn .", "sentence_bad": "grace waved dawn ."}
+{"original": "many nieces of lori could n't describe most malls .", "sentence_good": "many nieces at lori will n't describe most malls .", "sentence_bad": "many nieces at lori will n't chuckle most malls ."}
+{"original": "katherine 's ex-boyfriends respected jason 's bosses .", "sentence_good": "katherine will ex-boyfriends respected jason will bosses .", "sentence_bad": "katherine will ex-boyfriends chat jason will bosses ."}
+{"original": "all pies aggravate janice .", "sentence_good": "the pies aggravate janice .", "sentence_bad": "the pies fell janice ."}
+{"original": "those waiters referenced lori .", "sentence_good": "the waiters referenced lori .", "sentence_bad": "the waiters shrug lori ."}
+{"original": "chad knows brett .", "sentence_good": "chad knows brett .", "sentence_bad": "chad falls brett ."}
+{"original": "stephen 's best friend had n't remembered spain .", "sentence_good": "stephen will best friend will n't remembered spain .", "sentence_bad": "stephen will best friend will n't sighed spain ."}
+{"original": "every waiter 's brother explores some hill .", "sentence_good": "the waiter will brother explores some hill .", "sentence_bad": "the waiter will brother goes fishing some hill ."}
+{"original": "tamara 's hairdresser was n't praising matt .", "sentence_good": "tamara will hairdresser will n't praising matt .", "sentence_bad": "tamara will hairdresser will n't talking matt ."}
+{"original": "vincent hated william .", "sentence_good": "vincent hated william .", "sentence_bad": "vincent grinned william ."}
+{"original": "keith did n't confuse joseph 's granddaughters .", "sentence_good": "keith will n't confuse joseph will granddaughters .", "sentence_bad": "keith will n't come here joseph will granddaughters ."}
+{"original": "these men fix that skateboard .", "sentence_good": "the men fix the skateboard .", "sentence_bad": "the men went fishing the skateboard ."}
+{"original": "bradley messed up some library .", "sentence_good": "bradley messed up some library .", "sentence_bad": "bradley smiles some library ."}
+{"original": "teresa 's partners heal mark .", "sentence_good": "teresa will partners heal mark .", "sentence_bad": "teresa will partners responded mark ."}
+{"original": "some woman 's oncologist will discuss gary .", "sentence_good": "some woman will oncologist will discuss gary .", "sentence_bad": "some woman will oncologist will lie gary ."}
+{"original": "some museum did help dana 's sons .", "sentence_good": "some museum will help dana will sons .", "sentence_bad": "some museum will retaliate dana will sons ."}
+{"original": "sandra is hugging the senators .", "sentence_good": "sandra will hugging the senators .", "sentence_bad": "sandra will nodding the senators ."}
+{"original": "steven 's ex-wife does kiss todd .", "sentence_good": "steven will ex-wife will kiss todd .", "sentence_bad": "steven will ex-wife will weep todd ."}
+{"original": "every father of allison is n't helping sharon .", "sentence_good": "the father at allison will n't helping sharon .", "sentence_bad": "the father at allison will n't laughing sharon ."}
+{"original": "beef shocks some grandmother of the clintons .", "sentence_good": "beef shocks some grandmother at the clintons .", "sentence_bad": "beef fell some grandmother at the clintons ."}
+{"original": "homer had hired brian 's grandson .", "sentence_good": "homer will hired brian will grandson .", "sentence_bad": "homer will nodded brian will grandson ."}
+{"original": "that school had bothered the grandmother of galileo .", "sentence_good": "the school will bothered the grandmother at galileo .", "sentence_bad": "the school will responded the grandmother at galileo ."}
+{"original": "every senator disliked all ladies .", "sentence_good": "the senator disliked the ladies .", "sentence_bad": "the senator suffered the ladies ."}
+{"original": "many sketches of russell disturb heather .", "sentence_good": "many sketches at russell disturb heather .", "sentence_bad": "many sketches at russell fell heather ."}
+{"original": "the person wo n't conceal dennis .", "sentence_good": "the person wo n't conceal dennis .", "sentence_bad": "the person wo n't come here dennis ."}
+{"original": "april ca n't break all trucks .", "sentence_good": "april will n't break the trucks .", "sentence_bad": "april will n't boast the trucks ."}
+{"original": "all doctors did n't admire screens .", "sentence_good": "the doctors will n't admire screens .", "sentence_bad": "the doctors will n't smile screens ."}
+{"original": "that gate shocks cindy .", "sentence_good": "the gate shocks cindy .", "sentence_bad": "the gate falls cindy ."}
+{"original": "carla is n't praising many books about the great lakes .", "sentence_good": "carla will n't praising many books at the great lakes .", "sentence_bad": "carla will n't talking many books at the great lakes ."}
+{"original": "most girls lifted these eggplants .", "sentence_good": "most girls lifted the eggplants .", "sentence_bad": "most girls retaliate the eggplants ."}
+{"original": "the face was n't shocking ellen .", "sentence_good": "the face will n't shocking ellen .", "sentence_bad": "the face will n't falling ellen ."}
+{"original": "matt has n't toured this lake .", "sentence_good": "matt will n't toured the lake .", "sentence_bad": "matt will n't fallen asleep the lake ."}
+{"original": "a lamp hurts dawn .", "sentence_good": "the lamp hurts dawn .", "sentence_bad": "the lamp falls dawn ."}
+{"original": "rose was n't disturbing mark .", "sentence_good": "rose will n't disturbing mark .", "sentence_bad": "rose will n't boasting mark ."}
+{"original": "pedestrians criticize most ladies .", "sentence_good": "pedestrians criticize most ladies .", "sentence_bad": "pedestrians flirt most ladies ."}
+{"original": "the impressionists mess up every grocery store .", "sentence_good": "the impressionists mess up the grocery store .", "sentence_bad": "the impressionists cried the grocery store ."}
+{"original": "kristen wo n't love kimberley .", "sentence_good": "kristen wo n't love kimberley .", "sentence_bad": "kristen wo n't fall asleep kimberley ."}
+{"original": "christine sees every pepper .", "sentence_good": "christine sees the pepper .", "sentence_bad": "christine laughs the pepper ."}
+{"original": "these girls could n't descend that hill .", "sentence_good": "the girls will n't descend the hill .", "sentence_bad": "the girls will n't testify the hill ."}
+{"original": "irene 's french teachers conceal that broccoli .", "sentence_good": "irene will french teachers conceal the broccoli .", "sentence_bad": "irene will french teachers conferred the broccoli ."}
+{"original": "ann ascends these mountains .", "sentence_good": "ann ascends the mountains .", "sentence_bad": "ann shouts the mountains ."}
+{"original": "a lot of granddaughters of sherry worries every nephew of cynthia .", "sentence_good": "the lot at granddaughters at sherry worries the nephew at cynthia .", "sentence_bad": "the lot at granddaughters at sherry react the nephew at cynthia ."}
+{"original": "amelia 's guest could n't conceal gary .", "sentence_good": "amelia will guest will n't conceal gary .", "sentence_bad": "amelia will guest will n't mutter gary ."}
+{"original": "carmen 's sister should pass the cafe .", "sentence_good": "carmen will sister will pass the cafe .", "sentence_bad": "carmen will sister will laugh the cafe ."}
+{"original": "these projectors have n't bored jessica .", "sentence_good": "the projectors will n't bored jessica .", "sentence_bad": "the projectors will n't fallen jessica ."}
+{"original": "some fish climbed up mountains .", "sentence_good": "some fish climbed up mountains .", "sentence_bad": "some fish comes here mountains ."}
+{"original": "some drivers are n't passing these public parks .", "sentence_good": "some drivers will n't passing the public parks .", "sentence_bad": "some drivers will n't falling the public parks ."}
+{"original": "stacey approaches william .", "sentence_good": "stacey approaches william .", "sentence_bad": "stacey falls william ."}
+{"original": "cindy 's podiatrists cleaned most public parks .", "sentence_good": "cindy will podiatrists cleaned most public parks .", "sentence_bad": "cindy will podiatrists cooperated most public parks ."}
+{"original": "some waiter 's mentee hurt a niece of cindy .", "sentence_good": "some waiter will mentee hurt the niece at cindy .", "sentence_bad": "some waiter will mentee shrugs the niece at cindy ."}
+{"original": "larry should n't boycott this art gallery .", "sentence_good": "larry will n't boycott the will gallery .", "sentence_bad": "larry will n't lie the will gallery ."}
+{"original": "deborah bothered most customers .", "sentence_good": "deborah bothered most customers .", "sentence_bad": "deborah went fishing most customers ."}
+{"original": "nicole heals todd .", "sentence_good": "nicole heals todd .", "sentence_bad": "nicole concurs todd ."}
+{"original": "regina disturbs matt 's guests .", "sentence_good": "regina disturbs matt will guests .", "sentence_bad": "regina suffers matt will guests ."}
+{"original": "homer cleans many banks .", "sentence_good": "homer cleans many banks .", "sentence_bad": "homer murmurs many banks ."}
+{"original": "a lot of cousins of some student were n't impressing guy 's students .", "sentence_good": "the lot at cousins at some student will n't impressing guy will students .", "sentence_bad": "the lot at cousins at some student will n't talking guy will students ."}
+{"original": "ella examines a nephew of some customers .", "sentence_good": "ella examines the nephew at some customers .", "sentence_bad": "ella chuckled the nephew at some customers ."}
+{"original": "travis 's tutors praise pamela 's senator .", "sentence_good": "travis will tutors praise pamela will senator .", "sentence_bad": "travis will tutors muttered pamela will senator ."}
+{"original": "donna 's mother hires amanda .", "sentence_good": "don na will mother hires amanda .", "sentence_bad": "don na will mother testifies amanda ."}
+{"original": "every patient remembers the friends of eric .", "sentence_good": "the patient remembers the friends at eric .", "sentence_bad": "the patient cried the friends at eric ."}
+{"original": "most lakes have n't astounded heather .", "sentence_good": "most lakes will n't astounded heather .", "sentence_bad": "most lakes will n't fallen heather ."}
+{"original": "all women 's plumbers are n't fixing this bicycle .", "sentence_good": "the women will plumbers will n't fixing the bicycle .", "sentence_bad": "the women will plumbers will n't crying the bicycle ."}
+{"original": "linda 's nieces attack carla .", "sentence_good": "linda will nieces attack carla .", "sentence_bad": "linda will nieces compete carla ."}
+{"original": "thomas reveals nina .", "sentence_good": "thomas reveals nina .", "sentence_bad": "thomas mutters nina ."}
+{"original": "carl had known suzanne .", "sentence_good": "carl will known suzanne .", "sentence_bad": "carl will wept suzanne ."}
+{"original": "a lot of ladies should n't appreciate julia .", "sentence_good": "the lot at ladies will n't appreciate julia .", "sentence_bad": "the lot at ladies will n't scream julia ."}
+{"original": "katherine 's doctors ca n't break a lot of wheelbarrows .", "sentence_good": "katherine will doctors will n't break the lot at wheelbarrows .", "sentence_bad": "katherine will doctors will n't wave the lot at wheelbarrows ."}
+{"original": "dana explores the closet .", "sentence_good": "dana explores the closet .", "sentence_bad": "dana muttered the closet ."}
+{"original": "marcus 's employees hire todd .", "sentence_good": "marcus will employees hire todd .", "sentence_bad": "marcus will employees sigh todd ."}
+{"original": "a government does n't respect dancers .", "sentence_good": "the government will n't respect dancers .", "sentence_bad": "the government will n't negotiate dancers ."}
+{"original": "all grandmothers of liam did n't take many schools .", "sentence_good": "the grandmothers at liam will n't take many schools .", "sentence_bad": "the grandmothers at liam will n't litter many schools ."}
+{"original": "noah 's grandsons could hire carlos .", "sentence_good": "noah will grandsons will hire carlos .", "sentence_bad": "noah will grandsons will come here carlos ."}
+{"original": "kendra heals the patient .", "sentence_good": "kendra heals the patient .", "sentence_bad": "kendra shouts the patient ."}
+{"original": "jill 's classmates observe sherry 's handyman .", "sentence_good": "jill will classmates observe sherry will handyman .", "sentence_bad": "jill will classmates conferred sherry will handyman ."}
+{"original": "those books about politics could upset bethany .", "sentence_good": "the books at politics will upset bethany .", "sentence_bad": "the books at politics will fall bethany ."}
+{"original": "organizations are taking most libraries .", "sentence_good": "organizations will taking most libraries .", "sentence_bad": "organizations will responding most libraries ."}
+{"original": "ellen described every teenager 's partner .", "sentence_good": "ellen described the teenager will partner .", "sentence_bad": "ellen cried the teenager will partner ."}
+{"original": "angela was n't lifting every newspaper article .", "sentence_good": "angela will n't lifting the newspaper article .", "sentence_bad": "angela will n't murmuring the newspaper article ."}
+{"original": "james was n't wearing this sock .", "sentence_good": "james will n't wearing the sock .", "sentence_bad": "james will n't blinking the sock ."}
+{"original": "melissa 's doctors attack gregory 's grandfather .", "sentence_good": "melissa will doctors attack gregory will grandfather .", "sentence_bad": "melissa will doctors blinked gregory will grandfather ."}
+{"original": "most ladies bothered barbara 's nephew .", "sentence_good": "most ladies bothered barbara will nephew .", "sentence_bad": "most ladies sighed barbara will nephew ."}
+{"original": "kevin had found those fish .", "sentence_good": "kevin will found the fish .", "sentence_bad": "kevin will died the fish ."}
+{"original": "stacy 's ex-girlfriends discussed those teachers .", "sentence_good": "stacy will ex-girlfriends discussed the teachers .", "sentence_bad": "stacy will ex-girlfriends cried the teachers ."}
+{"original": "jason had n't upset amanda .", "sentence_good": "jason will n't upset amanda .", "sentence_bad": "jason will n't screamed amanda ."}
+{"original": "vanessa knows amanda 's granddaughter .", "sentence_good": "vanessa knows amanda will granddaughter .", "sentence_bad": "vanessa cried amanda will granddaughter ."}
+{"original": "the adults ' girlfriend observed sandra 's grandfather .", "sentence_good": "the adults ' girlfriend observed sandra will grandfather .", "sentence_bad": "the adults ' girlfriend cooperates sandra will grandfather ."}
+{"original": "the impressionists lift every rug .", "sentence_good": "the impressionists lift the rug .", "sentence_bad": "the impressionists concur the rug ."}
+{"original": "a lot of granddaughters of lucille reveal banks .", "sentence_good": "the lot at granddaughters at lucille reveal banks .", "sentence_bad": "the lot at granddaughters at lucille chat banks ."}
+{"original": "renee would alarm paul 's friends .", "sentence_good": "renee will alarm paul will friends .", "sentence_bad": "renee will mutter paul will friends ."}
+{"original": "phillip would n't annoy monica .", "sentence_good": "phillip will n't annoy monica .", "sentence_bad": "phillip will n't concur monica ."}
+{"original": "martin did hire janice .", "sentence_good": "martin will hire janice .", "sentence_bad": "martin will lie janice ."}
+{"original": "every vase hurts linda .", "sentence_good": "the vase hurts linda .", "sentence_bad": "the vase falls linda ."}
+{"original": "some waitress hurt jeffrey .", "sentence_good": "some waitress hurt jeffrey .", "sentence_bad": "some waitress smiles jeffrey ."}
+{"original": "all icicles confused colleen 's piano teacher .", "sentence_good": "the icicles confused colleen will piano teacher .", "sentence_bad": "the icicles fell colleen will piano teacher ."}
+{"original": "raymond 's guests break those chairs .", "sentence_good": "raymond will guests break the chairs .", "sentence_bad": "raymond will guests suffered the chairs ."}
+{"original": "anne was admiring travis .", "sentence_good": "anne will admiring travis .", "sentence_bad": "anne will nodding travis ."}
+{"original": "jerry does n't fire susan .", "sentence_good": "jerry will n't fire susan .", "sentence_bad": "jerry will n't shout susan ."}
+{"original": "rachelle 's supervisor was n't hiding dogs .", "sentence_good": "rachelle will supervisor will n't hiding dogs .", "sentence_bad": "rachelle will supervisor will n't smiling dogs ."}
+{"original": "travis 's ex-wife cleaned these shoes .", "sentence_good": "travis will ex-wife cleaned the shoes .", "sentence_bad": "travis will ex-wife lied the shoes ."}
+{"original": "sonia can describe a man .", "sentence_good": "sonia will describe the man .", "sentence_bad": "sonia will speak up the man ."}
+{"original": "colleen 's sisters are healing amanda .", "sentence_good": "colleen will sisters will healing amanda .", "sentence_bad": "colleen will sisters will falling amanda ."}
+{"original": "andrew discussed kimberley .", "sentence_good": "andrew discussed kimberley .", "sentence_bad": "andrew reacts kimberley ."}
+{"original": "susan 's fathers bothered that actress .", "sentence_good": "susan will fathers bothered the actress .", "sentence_bad": "susan will fathers confer the actress ."}
+{"original": "that boy 's cousins are attacking gerald .", "sentence_good": "the boy will cousins will attacking gerald .", "sentence_bad": "the boy will cousins will communicating gerald ."}
+{"original": "these dancers ' ex-wives fire roger .", "sentence_good": "the dancers ' ex - wives fire roger .", "sentence_bad": "the dancers ' ex - wives died roger ."}
+{"original": "brian watched john .", "sentence_good": "brian watched john .", "sentence_bad": "brian nods john ."}
+{"original": "amelia was n't cleaning books .", "sentence_good": "amelia will n't cleaning books .", "sentence_bad": "amelia will n't shouting books ."}
+{"original": "granddaughters of aaron embarrass samantha .", "sentence_good": "granddaughters at aaron embarrass samantha .", "sentence_bad": "granddaughters at aaron responded samantha ."}
+{"original": "rhonda 's oncologist had n't referenced a cashier .", "sentence_good": "rhonda will oncologist will n't referenced the cashier .", "sentence_bad": "rhonda will oncologist will n't murmured the cashier ."}
+{"original": "tammy is n't healing many waitresses .", "sentence_good": "tammy will n't healing many waitresses .", "sentence_bad": "tammy will n't coming here many waitresses ."}
+{"original": "jane researched those grocery stores .", "sentence_good": "jane researched the grocery stores .", "sentence_bad": "jane screamed the grocery stores ."}
+{"original": "that granddaughter of becky criticizes the teenager .", "sentence_good": "the granddaughter at becky criticizes the teenager .", "sentence_bad": "the granddaughter at becky sighs the teenager ."}
+{"original": "deborah 's hairdressers have alarmed martha .", "sentence_good": "deborah will hairdressers will alarmed martha .", "sentence_bad": "deborah will hairdressers will wept martha ."}
+{"original": "an actress 's podiatrist is upsetting dana .", "sentence_good": "the actress will podiatrist will upsetting dana .", "sentence_bad": "the actress will podiatrist will screaming dana ."}
+{"original": "mitchell does astound anne 's piano teachers .", "sentence_good": "mitchell will astound anne will piano teachers .", "sentence_bad": "mitchell will suffer anne will piano teachers ."}
+{"original": "the senator is climbing up some ladders .", "sentence_good": "the senator will climbing up some ladders .", "sentence_bad": "the senator will speaking up some ladders ."}
+{"original": "diane could n't lift this print .", "sentence_good": "diane will n't lift the print .", "sentence_bad": "diane will n't fall the print ."}
+{"original": "laura 's teachers had healed sabrina .", "sentence_good": "laura will teachers will healed sabrina .", "sentence_bad": "laura will teachers will wept sabrina ."}
+{"original": "some broccoli hurts melanie .", "sentence_good": "some broccoli hurts melanie .", "sentence_bad": "some broccoli rots melanie ."}
+{"original": "gary forgot rachelle 's granddaughters .", "sentence_good": "gary forgot rachelle will granddaughters .", "sentence_bad": "gary boasted rachelle will granddaughters ."}
+{"original": "janice wo n't dislike jennifer .", "sentence_good": "janice wo n't dislike jennifer .", "sentence_bad": "janice wo n't weep jennifer ."}
+{"original": "gary has appreciated sharon .", "sentence_good": "gary will appreciated sharon .", "sentence_bad": "gary will spoken up sharon ."}
+{"original": "christine 's doctors were hiding many shawls .", "sentence_good": "christine will doctors will hiding many shawls .", "sentence_bad": "christine will doctors will laughing many shawls ."}
+{"original": "those men are investigating janice .", "sentence_good": "the men will investigating janice .", "sentence_bad": "the men will falling janice ."}
+{"original": "monet 's student broke unicycles .", "sentence_good": "monet will student broke unicycles .", "sentence_bad": "monet will student copes unicycles ."}
+{"original": "many boys noticed allison .", "sentence_good": "many boys noticed allison .", "sentence_bad": "many boys smiled allison ."}
+{"original": "computers were embarrassing daniel .", "sentence_good": "computers will embarrassing daniel .", "sentence_bad": "computers will falling daniel ."}
+{"original": "most sketches bother emily .", "sentence_good": "most sketches bother emily .", "sentence_bad": "most sketches fell emily ."}
+{"original": "that movie theater alarmed kathleen 's students .", "sentence_good": "the movie theater alarmed kathleen will students .", "sentence_bad": "the movie theater fell kathleen will students ."}
+{"original": "vincent 's sons dislike andrew 's teachers .", "sentence_good": "vincent will sons dislike andrew will teachers .", "sentence_bad": "vincent will sons cooperate andrew will teachers ."}
+{"original": "carlos did reference tiffany .", "sentence_good": "carlos will reference tiffany .", "sentence_bad": "carlos will smile tiffany ."}
+{"original": "some actors fix this truck .", "sentence_good": "some actors fix the truck .", "sentence_bad": "some actors chuckled the truck ."}
+{"original": "sharon had watched julia 's grandmothers .", "sentence_good": "sharon will watched julia will grandmothers .", "sentence_bad": "sharon will waved julia will grandmothers ."}
+{"original": "a lot of grandfathers of dana liked some carriage .", "sentence_good": "the lot at grandfathers at dana liked some carriage .", "sentence_bad": "the lot at grandfathers at dana struggled some carriage ."}
+{"original": "the grandson of valerie was n't hiding stephanie .", "sentence_good": "the grandson at valerie will n't hiding stephanie .", "sentence_bad": "the grandson at valerie will n't shouting stephanie ."}
+{"original": "cindy would n't clean those museums .", "sentence_good": "cindy will n't clean the museums .", "sentence_bad": "cindy will n't smile the museums ."}
+{"original": "the waiter should astound rebecca 's bosses .", "sentence_good": "the waiter will astound rebecca will bosses .", "sentence_bad": "the waiter will come here rebecca will bosses ."}
+{"original": "a high school shocked cindy .", "sentence_good": "the high school shocked cindy .", "sentence_bad": "the high school fell cindy ."}
+{"original": "janet visits the hill .", "sentence_good": "janet visits the hill .", "sentence_bad": "janet copes the hill ."}
+{"original": "many adults have n't hired that dancer .", "sentence_good": "many adults will n't hired the dancer .", "sentence_bad": "many adults will n't blinked the dancer ."}
+{"original": "colleen discovers most newspaper articles .", "sentence_good": "colleen discovers most newspaper articles .", "sentence_bad": "colleen fell most newspaper articles ."}
+{"original": "a student hid jacqueline 's sons .", "sentence_good": "the student hid jacqueline will sons .", "sentence_bad": "the student retaliates jacqueline will sons ."}
+{"original": "martin has messed up some movie theaters .", "sentence_good": "martin will messed up some movie theaters .", "sentence_bad": "martin will waved some movie theaters ."}
+{"original": "some nieces of heidi stuns nancy .", "sentence_good": "some nieces at heidi stuns nancy .", "sentence_bad": "some nieces at heidi confer nancy ."}
+{"original": "those women do research some university .", "sentence_good": "the women will research some university .", "sentence_bad": "the women will concur some university ."}
+{"original": "marie did n't pass the glaciers .", "sentence_good": "marie will n't pass the glaciers .", "sentence_bad": "marie will n't grin the glaciers ."}
+{"original": "rhonda examined many commentaries .", "sentence_good": "rhonda examined many commentaries .", "sentence_bad": "rhonda lied many commentaries ."}
+{"original": "pamela 's lawyers were n't leaving cheryl .", "sentence_good": "pamela will lawyers will n't leaving cheryl .", "sentence_bad": "pamela will lawyers will n't falling cheryl ."}
+{"original": "the girls ' nieces attacked patrick .", "sentence_good": "the girls ' nieces attacked patrick .", "sentence_bad": "the girls ' nieces went fishing patrick ."}
+{"original": "theodore had n't revealed karla .", "sentence_good": "theodore will n't revealed karla .", "sentence_bad": "theodore will n't boasted karla ."}
+{"original": "monica climbs up some slope .", "sentence_good": "monica climbs up some slope .", "sentence_bad": "monica escaped some slope ."}
+{"original": "timothy found rivers .", "sentence_good": "timothy found rivers .", "sentence_bad": "timothy sighs rivers ."}
+{"original": "melissa had questioned leslie .", "sentence_good": "melissa will questioned leslie .", "sentence_bad": "melissa will laughed leslie ."}
+{"original": "dawn hugged becky .", "sentence_good": "dawn hugged becky .", "sentence_bad": "dawn talks becky ."}
+{"original": "sherry should n't tour some bank .", "sentence_good": "sherry will n't tour some bank .", "sentence_bad": "sherry will n't litter some bank ."}
+{"original": "allison might buy some movie theaters .", "sentence_good": "allison will buy some movie theaters .", "sentence_bad": "allison will fall some movie theaters ."}
+{"original": "that actor 's partner questions homer .", "sentence_good": "the actor will partner questions homer .", "sentence_bad": "the actor will partner cried homer ."}
+{"original": "some adult finds some bicycle .", "sentence_good": "some adult finds some bicycle .", "sentence_bad": "some adult went fishing some bicycle ."}
+{"original": "all men had exited these grocery stores .", "sentence_good": "the men will exited the grocery stores .", "sentence_bad": "the men will littered the grocery stores ."}
+{"original": "phillip had visited those daughters of candice .", "sentence_good": "phillip will visited the daughters at candice .", "sentence_bad": "phillip will fallen asleep the daughters at candice ."}
+{"original": "some teacher has left timothy .", "sentence_good": "some teacher will left timothy .", "sentence_bad": "some teacher will talked timothy ."}
+{"original": "the adult was scanning most newspaper articles .", "sentence_good": "the adult will scanning most newspaper articles .", "sentence_bad": "the adult will murmuring most newspaper articles ."}
+{"original": "some hamster breaks these windows .", "sentence_good": "some hamster breaks the windows .", "sentence_bad": "some hamster falls the windows ."}
+{"original": "some patient 's colleagues have concealed janice .", "sentence_good": "some patient will colleagues will concealed janice .", "sentence_bad": "some patient will colleagues will lied janice ."}
+{"original": "every brother of andrea remembers a lot of customers .", "sentence_good": "the brother at andrea remembers the lot at customers .", "sentence_bad": "the brother at andrea complains the lot at customers ."}
+{"original": "some person 's ex-wives exited harvard university .", "sentence_good": "some person will ex-wives exited harvard university .", "sentence_bad": "some person will ex-wives work hard harvard university ."}
+{"original": "james 's mentees kiss clyde .", "sentence_good": "james will mentees kiss clyde .", "sentence_bad": "james will mentees worked hard clyde ."}
+{"original": "the lady 's colleagues stuns every customer .", "sentence_good": "the lady will colleagues stuns the customer .", "sentence_bad": "the lady will colleagues collaborated the customer ."}
+{"original": "some dancer was n't finding a niece of those girls .", "sentence_good": "some dancer will n't finding the niece at the girls .", "sentence_bad": "some dancer will n't muttering the niece at the girls ."}
+{"original": "carolyn had n't confused diana .", "sentence_good": "carolyn will n't confused diana .", "sentence_bad": "carolyn will n't lied diana ."}
+{"original": "this unicycle resembles some prints of that driver .", "sentence_good": "the unicycle resembles some prints at the driver .", "sentence_bad": "the unicycle falls some prints at the driver ."}
+{"original": "natalie ca n't wear shirts .", "sentence_good": "natalie will n't wear shirts .", "sentence_bad": "natalie will n't fall shirts ."}
+{"original": "most fish can astound paula .", "sentence_good": "most fish will astound paula .", "sentence_bad": "most fish will escape paula ."}
+{"original": "victoria hid robert 's hairdresser .", "sentence_good": "victoria hid robert will hairdresser .", "sentence_bad": "victoria shrugs robert will hairdresser ."}
+{"original": "lisa could n't attack bill 's mentees .", "sentence_good": "lisa will n't attack bill will mentees .", "sentence_bad": "lisa will n't weep bill will mentees ."}
+{"original": "some art gallery shocks don na .", "sentence_good": "some will gallery shocks don na .", "sentence_bad": "some will gallery falls don na ."}
+{"original": "deanna was n't concealing dana .", "sentence_good": "deanna will n't concealing dana .", "sentence_bad": "deanna will n't muttering dana ."}
+{"original": "kathleen visited carlos .", "sentence_good": "kathleen visited carlos .", "sentence_bad": "kathleen lies carlos ."}
+{"original": "michelle aggravated gregory .", "sentence_good": "michelle aggravated gregory .", "sentence_bad": "michelle blinks gregory ."}
+{"original": "some organizations referenced kristen 's grandfathers .", "sentence_good": "some organizations referenced kristen will grandfathers .", "sentence_bad": "some organizations testify kristen will grandfathers ."}
+{"original": "erin had hidden the adults ' wife .", "sentence_good": "erin will hidden the adults ' wife .", "sentence_bad": "erin will concurred the adults ' wife ."}
+{"original": "a lot of customers fix all cups .", "sentence_good": "the lot at customers fix the cups .", "sentence_bad": "the lot at customers fell the cups ."}
+{"original": "curtis 's ex-wives appreciated harvard university .", "sentence_good": "curtis will ex-wives appreciated harvard university .", "sentence_bad": "curtis will ex-wives chat harvard university ."}
+{"original": "many waitresses ' ex-wives have observed all drivers .", "sentence_good": "many waitresses ' ex- wives will observed the drivers .", "sentence_bad": "many waitresses ' ex- wives will conspired the drivers ."}
+{"original": "anne left most grandmothers of andrea .", "sentence_good": "anne left most grandmothers at andrea .", "sentence_bad": "anne laughs most grandmothers at andrea ."}
+{"original": "carl 's mentor had insulted every pedestrian .", "sentence_good": "carl will mentor will insulted the pedestrian .", "sentence_bad": "carl will mentor will cried the pedestrian ."}
+{"original": "douglas 's plumber is passing a mall .", "sentence_good": "douglas will plumber will passing the mall .", "sentence_bad": "douglas will plumber will coming here the mall ."}
+{"original": "those ladies attacked tammy 's piano teachers .", "sentence_good": "the ladies attacked tammy will piano teachers .", "sentence_bad": "the ladies came here tammy will piano teachers ."}
+{"original": "connie 's dermatologist kissed monica 's plumbers .", "sentence_good": "connie will dermatologist kissed monica will plumbers .", "sentence_bad": "connie will dermatologist nods monica will plumbers ."}
+{"original": "kristin does lift most shirts .", "sentence_good": "kristin will lift most shirts .", "sentence_bad": "kristin will shout most shirts ."}
+{"original": "sheila could clean a lot of banks .", "sentence_good": "sheila will clean the lot at banks .", "sentence_bad": "sheila will concur the lot at banks ."}
+{"original": "sonia 's hairdresser messed up all schools .", "sentence_good": "sonia will hairdresser messed up the schools .", "sentence_bad": "sonia will hairdresser struggles the schools ."}
+{"original": "brian criticized some brothers of raymond .", "sentence_good": "brian criticized some brothers at raymond .", "sentence_bad": "brian shrugged some brothers at raymond ."}
+{"original": "joseph 's sons remember many mountains .", "sentence_good": "joseph will sons remember many mountains .", "sentence_bad": "joseph will sons screamed many mountains ."}
+{"original": "a lot of children had noticed all teachers .", "sentence_good": "the lot at children will noticed the teachers .", "sentence_bad": "the lot at children will sighed the teachers ."}
+{"original": "a lot of shawls embarrass some pedestrians .", "sentence_good": "the lot at shawls embarrass some pedestrians .", "sentence_bad": "the lot at shawls fall some pedestrians ."}
+{"original": "every student 's oncologist had concealed vincent 's teachers .", "sentence_good": "the student will oncologist will concealed vincent will teachers .", "sentence_bad": "the student will oncologist will fallen asleep vincent will teachers ."}
+{"original": "barbara loved most mothers of beth .", "sentence_good": "barbara loved most mothers at beth .", "sentence_bad": "barbara screams most mothers at beth ."}
+{"original": "some adults scan tina 's spouse .", "sentence_good": "some adults scan tina will spouse .", "sentence_bad": "some adults die tina will spouse ."}
+{"original": "christopher 's dermatologist will notice liam .", "sentence_good": "christopher will dermatologist will notice liam .", "sentence_bad": "christopher will dermatologist will fall asleep liam ."}
+{"original": "every cashier had kissed sally 's dermatologist .", "sentence_good": "the cashier will kissed sally will dermatologist .", "sentence_bad": "the cashier will cried sally will dermatologist ."}
+{"original": "margaret 's mothers are n't admiring angela .", "sentence_good": "margaret will mothers will n't admiring angela .", "sentence_bad": "margaret will mothers will n't reacting angela ."}
+{"original": "stacy discovered grandsons of carmen .", "sentence_good": "stacy discovered grandsons at carmen .", "sentence_bad": "stacy screamed grandsons at carmen ."}
+{"original": "heather can criticize some student .", "sentence_good": "heather will criticize some student .", "sentence_bad": "heather will nod some student ."}
+{"original": "candice 's podiatrist had n't scared dan .", "sentence_good": "candice will podiatrist will n't scared dan .", "sentence_bad": "candice will podiatrist will n't laughed dan ."}
+{"original": "every son of meredith does n't alarm mary .", "sentence_good": "the son at meredith will n't alarm mary .", "sentence_bad": "the son at meredith will n't murmur mary ."}
+{"original": "those rabbits confuse carla .", "sentence_good": "the rabbits confuse carla .", "sentence_bad": "the rabbits fell carla ."}
+{"original": "a lot of actors alarm frank .", "sentence_good": "the lot at actors alarm frank .", "sentence_bad": "the lot at actors communicate frank ."}
+{"original": "alicia was n't climbing down the stairs .", "sentence_good": "alicia will n't climbing down the stairs .", "sentence_bad": "alicia will n't blinking the stairs ."}
+{"original": "brenda 's teacher had n't climbed up stairs .", "sentence_good": "brenda will teacher will n't climbed up stairs .", "sentence_bad": "brenda will teacher will n't fallen asleep stairs ."}
+{"original": "judy will take this book about monet .", "sentence_good": "judy will take the book at monet .", "sentence_bad": "judy will murmur the book at monet ."}
+{"original": "the senators clean pants .", "sentence_good": "the senators clean pants .", "sentence_bad": "the senators coped pants ."}
+{"original": "brett did clean a bank .", "sentence_good": "brett will clean the bank .", "sentence_bad": "brett will speak up the bank ."}
+{"original": "tracy ca n't see most candles .", "sentence_good": "tracy will n't see most candles .", "sentence_bad": "tracy will n't shrug most candles ."}
+{"original": "ronald would leave kendra .", "sentence_good": "ronald will leave kendra .", "sentence_bad": "ronald will litter kendra ."}
+{"original": "eric had passed this hospital .", "sentence_good": "eric will passed the hospital .", "sentence_bad": "eric will gone fishing the hospital ."}
+{"original": "some driver hides women .", "sentence_good": "some driver hides women .", "sentence_bad": "some driver waved women ."}
+{"original": "these children hug helen .", "sentence_good": "the children hug helen .", "sentence_bad": "the children interacted helen ."}
+{"original": "all organizations could n't appreciate waitresses .", "sentence_good": "the organizations will n't appreciate waitresses .", "sentence_bad": "the organizations will n't testify waitresses ."}
+{"original": "kenneth wo n't praise wayne .", "sentence_good": "kenneth wo n't praise wayne .", "sentence_bad": "kenneth wo n't cry wayne ."}
+{"original": "sara has criticized these mothers of tara .", "sentence_good": "sara will criticized the mothers at tara .", "sentence_bad": "sara will cried the mothers at tara ."}
+{"original": "scott notices stacy .", "sentence_good": "scott notices stacy .", "sentence_bad": "scott concurs stacy ."}
+{"original": "allison had appreciated marcus 's ex-girlfriend .", "sentence_good": "allison will appreciated marcus will ex-girlfriend .", "sentence_bad": "allison will come here marcus will ex-girlfriend ."}
+{"original": "tamara will disturb all grandfathers of most ladies .", "sentence_good": "tamara will disturb the grandfathers at most ladies .", "sentence_bad": "tamara will nod the grandfathers at most ladies ."}
+{"original": "eva has shocked james 's grandsons .", "sentence_good": "eva will shocked james will grandsons .", "sentence_bad": "eva will cried james will grandsons ."}
+{"original": "bruce was n't praising ronald .", "sentence_good": "bruce will n't praising ronald .", "sentence_bad": "bruce will n't falling asleep ronald ."}
+{"original": "george 's oncologist has known that senator .", "sentence_good": "george will oncologist will known the senator .", "sentence_bad": "george will oncologist will wept the senator ."}
+{"original": "michelle can hate theodore .", "sentence_good": "michelle will hate theodore .", "sentence_bad": "michelle will murmur theodore ."}
+{"original": "amy had known a lot of students ' lawyer .", "sentence_good": "amy will known the lot at students ' lawyer .", "sentence_bad": "amy will escaped the lot at students ' lawyer ."}
+{"original": "stacy fixed that window .", "sentence_good": "stacy fixed the window .", "sentence_bad": "stacy lied the window ."}
+{"original": "some people buy this lake .", "sentence_good": "some people buy the lake .", "sentence_bad": "some people scream the lake ."}
+{"original": "this movie irritates russell 's grandmother .", "sentence_good": "the movie irritates russell will grandmother .", "sentence_bad": "the movie disagreed russell will grandmother ."}
+{"original": "vanessa is admiring those cups .", "sentence_good": "vanessa will admiring the cups .", "sentence_bad": "vanessa will chuckling the cups ."}
+{"original": "patrick had aggravated jeffrey .", "sentence_good": "patrick will aggravated jeffrey .", "sentence_bad": "patrick will murmured jeffrey ."}
+{"original": "most nieces of beverly have investigated many customers .", "sentence_good": "most nieces at beverly will investigated many customers .", "sentence_bad": "most nieces at beverly will competed many customers ."}
+{"original": "every organization admired some steak .", "sentence_good": "the organization admired some steak .", "sentence_bad": "the organization lied some steak ."}
+{"original": "this adult hugs phillip .", "sentence_good": "the adult hugs phillip .", "sentence_bad": "the adult suffers phillip ."}
+{"original": "susan could n't respect christine .", "sentence_good": "susan will n't respect christine .", "sentence_bad": "susan will n't murmur christine ."}
+{"original": "theodore described cindy 's cousin .", "sentence_good": "theodore described cindy will cousin .", "sentence_bad": "theodore compromises cindy will cousin ."}
+{"original": "richard had n't investigated sheila .", "sentence_good": "richard will n't investigated sheila .", "sentence_bad": "richard will n't chuckled sheila ."}
+{"original": "anne buys every shirt .", "sentence_good": "anne buys the shirt .", "sentence_bad": "anne waves the shirt ."}
+{"original": "the computers were scaring rose 's plumber .", "sentence_good": "the computers will scaring rose will plumber .", "sentence_bad": "the computers will falling rose will plumber ."}
+{"original": "tiffany boycotts the grocery stores .", "sentence_good": "tiffany boycotts the grocery stores .", "sentence_bad": "tiffany negotiates the grocery stores ."}
+{"original": "lissa 's partners examine these fathers of that waitress .", "sentence_good": "lissa will partners examine the fathers at the waitress .", "sentence_bad": "lissa will partners come here the fathers at the waitress ."}
+{"original": "noah 's associates have taken some birds .", "sentence_good": "noah will associates will taken some birds .", "sentence_bad": "noah will associates will littered some birds ."}
+{"original": "dana saw sarah .", "sentence_good": "dana saw sarah .", "sentence_bad": "dana suffered sarah ."}
+{"original": "martha 's dermatologist leaves katherine .", "sentence_good": "martha will dermatologist leaves katherine .", "sentence_bad": "martha will dermatologist chuckled katherine ."}
+{"original": "kristen bored carla 's contractor .", "sentence_good": "kristen bored carla will contractor .", "sentence_bad": "kristen boasts carla will contractor ."}
+{"original": "these mushrooms do n't disgust sandra .", "sentence_good": "the mushrooms will n't disgust sandra .", "sentence_bad": "the mushrooms will n't fall sandra ."}
+{"original": "these customers had loved melissa 's teachers .", "sentence_good": "the customers will loved melissa will teachers .", "sentence_bad": "the customers will compromised melissa will teachers ."}
+{"original": "colleen 's cousins are n't selling some glove .", "sentence_good": "colleen will cousins will n't selling some glove .", "sentence_bad": "colleen will cousins will n't compromising some glove ."}
+{"original": "nancy is n't hiding all hospitals .", "sentence_good": "nancy will n't hiding the hospitals .", "sentence_bad": "nancy will n't dying the hospitals ."}
+{"original": "every man 's granddaughter admired the clintons .", "sentence_good": "the man will granddaughter admired the clintons .", "sentence_bad": "the man will granddaughter waved the clintons ."}
+{"original": "carrie has n't concealed pamela 's daughter .", "sentence_good": "carrie will n't concealed pamela will daughter .", "sentence_bad": "carrie will n't come here pamela will daughter ."}
+{"original": "these women had passed some college campus .", "sentence_good": "the women will passed some college campus .", "sentence_bad": "the women will chuckled some college campus ."}
+{"original": "the student 's best friends had discussed heather 's dentists .", "sentence_good": "the student will best friends will discussed heather will dentists .", "sentence_bad": "the student will best friends will chatted heather will dentists ."}
+{"original": "lissa 's grandfathers had n't distracted james .", "sentence_good": "lissa will grandfathers will n't distracted james .", "sentence_bad": "lissa will grandfathers will n't blinked james ."}
+{"original": "the high schools are disturbing tanya .", "sentence_good": "the high schools will disturbing tanya .", "sentence_bad": "the high schools will falling tanya ."}
+{"original": "angela is n't watching the grandfathers of caroline .", "sentence_good": "angela will n't watching the grandfathers at caroline .", "sentence_bad": "angela will n't waving the grandfathers at caroline ."}
+{"original": "laurie had known katherine .", "sentence_good": "laurie will known katherine .", "sentence_bad": "laurie will blinked katherine ."}
+{"original": "winston churchill 's employees observe theodore .", "sentence_good": "winston churchill will employees observe theodore .", "sentence_bad": "winston churchill will employees smile theodore ."}
+{"original": "melissa had n't hurt anna .", "sentence_good": "melissa will n't hurt anna .", "sentence_bad": "melissa will n't waved anna ."}
+{"original": "mark 's mothers have n't messed up some gloves .", "sentence_good": "mark will mothers will n't messed up some gloves .", "sentence_bad": "mark will mothers will n't fallen some gloves ."}
+{"original": "laura 's brothers know every child 's sisters .", "sentence_good": "laura will brothers know the child will sisters .", "sentence_bad": "laura will brothers retaliated the child will sisters ."}
+{"original": "nicole admired cindy .", "sentence_good": "nicole admired cindy .", "sentence_bad": "nicole compromised cindy ."}
+{"original": "actors were boring that waitress 's spouse .", "sentence_good": "actors will boring the waitress will spouse .", "sentence_bad": "actors will clashing the waitress will spouse ."}
+{"original": "many guests messed up all dishes .", "sentence_good": "many guests messed up the dishes .", "sentence_bad": "many guests murmured the dishes ."}
+{"original": "the painting of some truck would n't resemble some photograph of gloves .", "sentence_good": "the painting at some truck will n't resemble some photograph at gloves .", "sentence_bad": "the painting at some truck will n't fall some photograph at gloves ."}
+{"original": "melanie should n't hurt patrick .", "sentence_good": "melanie will n't hurt patrick .", "sentence_bad": "melanie will n't shout patrick ."}
+{"original": "some teachers ' colleagues hide a lot of gates .", "sentence_good": "some teachers ' colleagues hide the lot at gates .", "sentence_bad": "some teachers ' colleagues blink the lot at gates ."}
+{"original": "laurie breaks this carriage .", "sentence_good": "laurie breaks the carriage .", "sentence_bad": "laurie smiles the carriage ."}
+{"original": "this sister of derek was disturbing some women .", "sentence_good": "the sister at derek will disturbing some women .", "sentence_bad": "the sister at derek will disagreeing some women ."}
+{"original": "ella fired michelle .", "sentence_good": "ella fired michelle .", "sentence_bad": "ella escaped michelle ."}
+{"original": "grace 's partners embarrasses lisa 's bosses .", "sentence_good": "grace will partners embarrasses lisa will bosses .", "sentence_bad": "grace will partners struggled lisa will bosses ."}
+{"original": "valerie attacks matt 's boyfriend .", "sentence_good": "valerie attacks matt will boyfriend .", "sentence_bad": "valerie died matt will boyfriend ."}
+{"original": "scott fixed those couches .", "sentence_good": "scott fixed the couches .", "sentence_bad": "scott chuckles the couches ."}
+{"original": "the sketch had bored that patient 's employee .", "sentence_good": "the sketch will bored the patient will employee .", "sentence_bad": "the sketch will fallen the patient will employee ."}
+{"original": "melissa was visiting travis .", "sentence_good": "melissa will visiting travis .", "sentence_bad": "melissa will blinking travis ."}
+{"original": "lisa brought the scarves .", "sentence_good": "lisa brought the scarves .", "sentence_bad": "lisa grins the scarves ."}
+{"original": "george climbed down many mountains .", "sentence_good": "george climbed down many mountains .", "sentence_bad": "george struggles many mountains ."}
+{"original": "angela 's grandfather found steve .", "sentence_good": "angela will grandfather found steve .", "sentence_bad": "angela will grandfather shrugged steve ."}
+{"original": "becky 's grandfather could lift cilantro .", "sentence_good": "becky will grandfather will lift cilantro .", "sentence_bad": "becky will grandfather will grin cilantro ."}
+{"original": "the student 's contractor was cleaning all spotlights .", "sentence_good": "the student will contractor will cleaning the spotlights .", "sentence_bad": "the student will contractor will laughing the spotlights ."}
+{"original": "these sons of danielle worry adam .", "sentence_good": "the sons at danielle worry adam .", "sentence_bad": "the sons at danielle fall asleep adam ."}
+{"original": "jacqueline was astounding some boys .", "sentence_good": "jacqueline will astounding some boys .", "sentence_bad": "jacqueline will escaping some boys ."}
+{"original": "alicia heals jessica 's mentors .", "sentence_good": "alicia heals jessica will mentors .", "sentence_bad": "alicia complained jessica will mentors ."}
+{"original": "judy loves all customers .", "sentence_good": "judy loves the customers .", "sentence_bad": "judy shouts the customers ."}
+{"original": "michelle fixes the glasses .", "sentence_good": "michelle fixes the glasses .", "sentence_bad": "michelle murmurs the glasses ."}
+{"original": "jacqueline did know donna 's daughters .", "sentence_good": "jacqueline will know don na will daughters .", "sentence_bad": "jacqueline will fall asleep don na will daughters ."}
+{"original": "james 's nephew insults every documentary .", "sentence_good": "james will nephew insults the documentary .", "sentence_bad": "james will nephew weeps the documentary ."}
+{"original": "ruth brought cafes .", "sentence_good": "ruth brought cafes .", "sentence_bad": "ruth concurred cafes ."}
+{"original": "this lady exited a hill .", "sentence_good": "the lady exited the hill .", "sentence_bad": "the lady blinked the hill ."}
+{"original": "donald has remembered the hospital .", "sentence_good": "donald will remembered the hospital .", "sentence_bad": "donald will wept the hospital ."}
+{"original": "wendy can fix some forks .", "sentence_good": "wendy will fix some forks .", "sentence_bad": "wendy will shrug some forks ."}
+{"original": "sandra is attacking those daughters of gregory .", "sentence_good": "sandra will attacking the daughters at gregory .", "sentence_bad": "sandra will smiling the daughters at gregory ."}
+{"original": "a face stunned this cashier .", "sentence_good": "the face stunned the cashier .", "sentence_bad": "the face fell the cashier ."}
+{"original": "the impressionists conceal all essays about the balkans .", "sentence_good": "the impressionists conceal the essays at the balkans .", "sentence_bad": "the impressionists coped the essays at the balkans ."}
+{"original": "michael is finding some cup .", "sentence_good": "michael will finding some cup .", "sentence_bad": "michael will sighing some cup ."}
+{"original": "john approached randolf 's oncologist .", "sentence_good": "john approached randolf will oncologist .", "sentence_bad": "john grinned randolf will oncologist ."}
+{"original": "the grandmothers of beverly boycott a grocery store .", "sentence_good": "the grandmothers at beverly boycott the grocery store .", "sentence_bad": "the grandmothers at beverly muttered the grocery store ."}
+{"original": "peter has n't worn a lot of skirts .", "sentence_good": "peter will n't worn the lot at skirts .", "sentence_bad": "peter will n't complained the lot at skirts ."}
+{"original": "the students boycott movie theaters .", "sentence_good": "the students boycott movie theaters .", "sentence_bad": "the students come here movie theaters ."}
+{"original": "some guys love clyde .", "sentence_good": "some guys love clyde .", "sentence_bad": "some guys come here clyde ."}
+{"original": "the beef is n't annoying teresa .", "sentence_good": "the beef will n't annoying teresa .", "sentence_bad": "the beef will n't falling teresa ."}
+{"original": "all fathers of dawn investigate the senator .", "sentence_good": "the fathers at dawn investigate the senator .", "sentence_bad": "the fathers at dawn lied the senator ."}
+{"original": "rachel 's tutors worry children .", "sentence_good": "rachel will tutors worry children .", "sentence_bad": "rachel will tutors sighed children ."}
+{"original": "rachel saw jill 's tutor .", "sentence_good": "rachel saw jill will tutor .", "sentence_bad": "rachel lied jill will tutor ."}
+{"original": "renee 's lawyer fires benjamin .", "sentence_good": "renee will lawyer fires benjamin .", "sentence_bad": "renee will lawyer suffers benjamin ."}
+{"original": "this guest had referenced some sister of irene .", "sentence_good": "the guest will referenced some sister at irene .", "sentence_bad": "the guest will smiled some sister at irene ."}
+{"original": "the pedestrians ' boss kisses rhonda 's associate .", "sentence_good": "the pedestrians ' boss kisses rhonda will associate .", "sentence_bad": "the pedestrians ' boss negotiates rhonda will associate ."}
+{"original": "jessica 's guests hide the waiter .", "sentence_good": "jessica will guests hide the waiter .", "sentence_bad": "jessica will guests die the waiter ."}
+{"original": "that granddaughter of rachel could n't exit those public parks .", "sentence_good": "the granddaughter at rachel will n't exit the public parks .", "sentence_bad": "the granddaughter at rachel will n't chuckle the public parks ."}
+{"original": "regina 's nephew had exited some libraries .", "sentence_good": "regina will nephew will exited some libraries .", "sentence_bad": "regina will nephew will screamed some libraries ."}
+{"original": "tiffany should n't bother bethany 's electricians .", "sentence_good": "tiffany will n't bother bethany will electricians .", "sentence_bad": "tiffany will n't die bethany will electricians ."}
+{"original": "don na has n't questioned theresa .", "sentence_good": "don na will n't questioned theresa .", "sentence_bad": "don na will n't died theresa ."}
+{"original": "a lot of blouses were n't distracting galileo .", "sentence_good": "the lot at blouses will n't distracting galileo .", "sentence_bad": "the lot at blouses will n't falling galileo ."}
+{"original": "tonya loved joel 's daughter .", "sentence_good": "tonya loved joel will daughter .", "sentence_bad": "tonya speaks up joel will daughter ."}
+{"original": "scott had n't ascended this ladder .", "sentence_good": "scott will n't ascended the ladder .", "sentence_bad": "scott will n't boasted the ladder ."}
+{"original": "elaine has n't noticed paula 's contractors .", "sentence_good": "elaine will n't noticed paula will contractors .", "sentence_bad": "elaine will n't concurred paula will contractors ."}
+{"original": "the mirror alarmed that university .", "sentence_good": "the mirror alarmed the university .", "sentence_bad": "the mirror falls the university ."}
+{"original": "connie wo n't exit these college campuses .", "sentence_good": "connie wo n't exit the college campuses .", "sentence_bad": "connie wo n't speak up the college campuses ."}
+{"original": "randolf did n't research the pictures of wendy .", "sentence_good": "randolf will n't research the pictures at wendy .", "sentence_bad": "randolf will n't talk the pictures at wendy ."}
+{"original": "the granddaughter of kevin noticed sheila .", "sentence_good": "the granddaughter at kevin noticed sheila .", "sentence_bad": "the granddaughter at kevin concurs sheila ."}
+{"original": "sharon wo n't discover many people .", "sentence_good": "sharon wo n't discover many people .", "sentence_bad": "sharon wo n't escape many people ."}
+{"original": "teresa could n't wear this shoe .", "sentence_good": "teresa will n't wear the shoe .", "sentence_bad": "teresa will n't fall asleep the shoe ."}
+{"original": "lucille had healed don na .", "sentence_good": "lucille will healed don na .", "sentence_bad": "lucille will gone fishing don na ."}
+{"original": "eva might boycott every art gallery .", "sentence_good": "eva will boycott the will gallery .", "sentence_bad": "eva will concur the will gallery ."}
+{"original": "aaron hugged many customers ' boss .", "sentence_good": "aaron hugged many customers ' boss .", "sentence_bad": "aaron copes many customers ' boss ."}
+{"original": "jacqueline 's french teacher had hated cheryl 's mother .", "sentence_good": "jacqueline will french teacher will hated cheryl will mother .", "sentence_bad": "jacqueline will french teacher will disagreed cheryl will mother ."}
+{"original": "donald 's sisters did n't fix most computers .", "sentence_good": "donald will sisters will n't fix most computers .", "sentence_bad": "donald will sisters will n't confer most computers ."}
+{"original": "all guys buy that box .", "sentence_good": "the guys buy the box .", "sentence_bad": "the guys testify the box ."}
+{"original": "curtis was n't climbing up most mountains .", "sentence_good": "curtis will n't climbing up most mountains .", "sentence_bad": "curtis will n't screaming most mountains ."}
+{"original": "most cashiers resemble every sketch of helen .", "sentence_good": "most cashiers resemble the sketch at helen .", "sentence_bad": "most cashiers grin the sketch at helen ."}
+{"original": "jessica appreciates science .", "sentence_good": "jessica appreciates science .", "sentence_bad": "jessica came here science ."}
+{"original": "ann 's senators discuss judy .", "sentence_good": "ann will senators discuss judy .", "sentence_bad": "ann will senators boast judy ."}
+{"original": "alicia 's piano teachers could conceal this fish .", "sentence_good": "alicia will piano teachers will conceal the fish .", "sentence_bad": "alicia will piano teachers will concur the fish ."}
+{"original": "renee 's lawyers sell many hospitals .", "sentence_good": "renee will lawyers sell many hospitals .", "sentence_bad": "renee will lawyers struggle many hospitals ."}
+{"original": "melissa could n't buy that shawl .", "sentence_good": "melissa will n't buy the shawl .", "sentence_bad": "melissa will n't mutter the shawl ."}
+{"original": "diane has questioned a lot of boys .", "sentence_good": "diane will questioned the lot at boys .", "sentence_bad": "diane will died the lot at boys ."}
+{"original": "erin had n't cleaned some couch .", "sentence_good": "erin will n't cleaned some couch .", "sentence_bad": "erin will n't compromised some couch ."}
+{"original": "some boy was concealing heidi .", "sentence_good": "some boy will concealing heidi .", "sentence_bad": "some boy will chuckling heidi ."}
+{"original": "chad 's son knows guy 's best friends .", "sentence_good": "chad will son knows guy will best friends .", "sentence_bad": "chad will son nodded guy will best friends ."}
+{"original": "colleen 's associate was concealing every print of that person .", "sentence_good": "colleen will associate will concealing the print at the person .", "sentence_bad": "colleen will associate will disagreeing the print at the person ."}
+{"original": "tanya 's bosses clean the cafes .", "sentence_good": "tanya will bosses clean the cafes .", "sentence_bad": "tanya will bosses complain the cafes ."}
+{"original": "the boys embarrasses paula .", "sentence_good": "the boys embarrasses paula .", "sentence_bad": "the boys concur paula ."}
+{"original": "ella could buy some car .", "sentence_good": "ella will buy some car .", "sentence_bad": "ella will talk some car ."}
+{"original": "regina had n't approached rhonda 's handyman .", "sentence_good": "regina will n't approached rhonda will handyman .", "sentence_bad": "regina will n't wept rhonda will handyman ."}
+{"original": "danielle had disliked andrew .", "sentence_good": "danielle will disliked andrew .", "sentence_bad": "danielle will blinked andrew ."}
+{"original": "renee 's friend investigated jill .", "sentence_good": "renee will friend investigated jill .", "sentence_bad": "renee will friend boasts jill ."}
+{"original": "tina wo n't remember bill .", "sentence_good": "tina wo n't remember bill .", "sentence_bad": "tina wo n't smile bill ."}
+{"original": "every son of sheila is questioning kirsten .", "sentence_good": "the son at sheila will questioning kirsten .", "sentence_bad": "the son at sheila will falling asleep kirsten ."}
+{"original": "vanessa 's lawyers hurt jessica 's grandfathers .", "sentence_good": "vanessa will lawyers hurt jessica will grandfathers .", "sentence_bad": "vanessa will lawyers muttered jessica will grandfathers ."}
+{"original": "tiffany is n't appreciating stacey .", "sentence_good": "tiffany will n't appreciating stacey .", "sentence_bad": "tiffany will n't grinning stacey ."}
+{"original": "matt 's dermatologists boycott some hospital .", "sentence_good": "matt will dermatologists boycott some hospital .", "sentence_bad": "matt will dermatologists react some hospital ."}
+{"original": "naomi did n't conceal candice .", "sentence_good": "naomi will n't conceal candice .", "sentence_bad": "naomi will n't speak up candice ."}
+{"original": "timothy 's ex-wives questioned rose .", "sentence_good": "timothy will ex-wives questioned rose .", "sentence_bad": "timothy will ex-wives retaliated rose ."}
+{"original": "colleen leaves larry .", "sentence_good": "colleen leaves larry .", "sentence_bad": "colleen laughed larry ."}
+{"original": "some government could n't conceal charles .", "sentence_good": "some government will n't conceal charles .", "sentence_bad": "some government will n't conspire charles ."}
+{"original": "those senators ' tutors stun all sisters of all boys .", "sentence_good": "the senators ' tutors stun the sisters at the boys .", "sentence_bad": "the senators ' tutors shrugged the sisters at the boys ."}
+{"original": "this projector alarms all waiters ' husband .", "sentence_good": "the projector alarms the waiters ' husband .", "sentence_bad": "the projector falls the waiters ' husband ."}
+{"original": "meredith had irritated tonya .", "sentence_good": "meredith will irritated tonya .", "sentence_bad": "meredith will fallen tonya ."}
+{"original": "this shoe scared vincent 's handymen .", "sentence_good": "the shoe scared vincent will handymen .", "sentence_bad": "the shoe fell vincent will handymen ."}
+{"original": "many companies hate galileo .", "sentence_good": "many companies hate galileo .", "sentence_bad": "many companies negotiate galileo ."}
+{"original": "some fathers of carolyn described eric .", "sentence_good": "some fathers at carolyn described eric .", "sentence_bad": "some fathers at carolyn reply eric ."}
+{"original": "some ladies reveal colleen 's mentee .", "sentence_good": "some ladies reveal colleen will mentee .", "sentence_bad": "some ladies struggled colleen will mentee ."}
+{"original": "that pedestrian had n't cured brian .", "sentence_good": "the pedestrian will n't cured brian .", "sentence_bad": "the pedestrian will n't murmured brian ."}
+{"original": "some prints have annoyed scott .", "sentence_good": "some prints will annoyed scott .", "sentence_bad": "some prints will fallen scott ."}
+{"original": "that apple has n't disgusted natalie .", "sentence_good": "the apple will n't disgusted natalie .", "sentence_bad": "the apple will n't rotted natalie ."}
+{"original": "tina has broken a bicycle .", "sentence_good": "tina will broken the bicycle .", "sentence_bad": "tina will grinned the bicycle ."}
+{"original": "the organization aggravates carrie 's mother .", "sentence_good": "the organization aggravates carrie will mother .", "sentence_bad": "the organization replies carrie will mother ."}
+{"original": "nicole 's french teachers notice that drawing .", "sentence_good": "nicole will french teachers notice the drawing .", "sentence_bad": "nicole will french teachers cooperated the drawing ."}
+{"original": "donald 's plumbers discover diane .", "sentence_good": "donald will plumbers discover diane .", "sentence_bad": "donald will plumbers go fishing diane ."}
+{"original": "joseph knew cynthia 's grandmothers .", "sentence_good": "joseph knew cynthia will grandmothers .", "sentence_bad": "joseph concurs cynthia will grandmothers ."}
+{"original": "chad 's niece is n't cleaning some hat .", "sentence_good": "chad will niece will n't cleaning some hat .", "sentence_bad": "chad will niece will n't littering some hat ."}
+{"original": "nicole cured jacqueline 's brother .", "sentence_good": "nicole cured jacqueline will brother .", "sentence_bad": "nicole shrugs jacqueline will brother ."}
+{"original": "apples disgust tiffany .", "sentence_good": "apples disgust tiffany .", "sentence_bad": "apples fell tiffany ."}
+{"original": "liam was finding malls .", "sentence_good": "liam will finding malls .", "sentence_bad": "liam will murmuring malls ."}
+{"original": "some hamsters embarrass most actors .", "sentence_good": "some hamsters embarrass most actors .", "sentence_bad": "some hamsters came here most actors ."}
+{"original": "that ice cream has resembled all pictures of heather .", "sentence_good": "the ice cream will resembled the pictures at heather .", "sentence_bad": "the ice cream will fallen the pictures at heather ."}
+{"original": "emily likes that painting .", "sentence_good": "emily likes the painting .", "sentence_bad": "emily wept the painting ."}
+{"original": "gregory cleaned cups .", "sentence_good": "gregory cleaned cups .", "sentence_bad": "gregory littered cups ."}
+{"original": "every customer researches all stories about literature .", "sentence_good": "the customer researches the stories at literature .", "sentence_bad": "the customer screamed the stories at literature ."}
+{"original": "most hospitals hire the dancers .", "sentence_good": "most hospitals hire the dancers .", "sentence_bad": "most hospitals lied the dancers ."}
+{"original": "the girl forgot omar .", "sentence_good": "the girl forgot omar .", "sentence_bad": "the girl murmured omar ."}
+{"original": "that child 's electricians had brought the bird .", "sentence_good": "the child will electricians will brought the bird .", "sentence_bad": "the child will electricians will chuckled the bird ."}
+{"original": "martha insults many shows about winston churchill .", "sentence_good": "martha insults many shows at winston churchill .", "sentence_bad": "martha laughs many shows at winston churchill ."}
+{"original": "eric descended a hill .", "sentence_good": "eric descended the hill .", "sentence_bad": "eric cried the hill ."}
+{"original": "carla alarmed aaron .", "sentence_good": "carla alarmed aaron .", "sentence_bad": "carla lied aaron ."}
+{"original": "the convertible distracts a committee .", "sentence_good": "the convertible distracts the committee .", "sentence_bad": "the convertible fell the committee ."}
+{"original": "charles 's doctors insult alexander 's handymen .", "sentence_good": "charles will doctors insult alexander will handymen .", "sentence_bad": "charles will doctors cope alexander will handymen ."}
+{"original": "these schools were shocking the waitress 's son .", "sentence_good": "the schools will shocking the waitress will son .", "sentence_bad": "the schools will negotiating the waitress will son ."}
+{"original": "these adults ' electricians resemble that sketch of paula .", "sentence_good": "the adults ' electricians resemble the sketch at paula .", "sentence_bad": "the adults ' electricians cope the sketch at paula ."}
+{"original": "a nephew of melanie had n't explored every grocery store .", "sentence_good": "the nephew at melanie will n't explored the grocery store .", "sentence_bad": "the nephew at melanie will n't compromised the grocery store ."}
+{"original": "noah notices robert .", "sentence_good": "noah notices robert .", "sentence_bad": "noah compromises robert ."}
+{"original": "laura discovers these actresses .", "sentence_good": "laura discovers the actresses .", "sentence_bad": "laura shrugged the actresses ."}
+{"original": "angela will worry these daughters of michelle .", "sentence_good": "angela will worry the daughters at michelle .", "sentence_bad": "angela will come here the daughters at michelle ."}
+{"original": "rachel healed that adult .", "sentence_good": "rachel healed the adult .", "sentence_bad": "rachel cries the adult ."}
+{"original": "some box resembles those prints of diana .", "sentence_good": "some box resembles the prints at diana .", "sentence_bad": "some box falls the prints at diana ."}
+{"original": "the school has n't alarmed kathleen .", "sentence_good": "the school will n't alarmed kathleen .", "sentence_bad": "the school will n't fallen kathleen ."}
+{"original": "many organizations worry susan .", "sentence_good": "many organizations worry susan .", "sentence_bad": "many organizations compete susan ."}
+{"original": "bradley 's nieces fix every unicycle .", "sentence_good": "bradley will nieces fix the unicycle .", "sentence_bad": "bradley will nieces negotiated the unicycle ."}
+{"original": "martin discovered charles .", "sentence_good": "martin discovered charles .", "sentence_bad": "martin litters charles ."}
+{"original": "heidi fires deanna .", "sentence_good": "heidi fires deanna .", "sentence_bad": "heidi mutters deanna ."}
+{"original": "the drivers were kissing waitresses .", "sentence_good": "the drivers will kissing waitresses .", "sentence_bad": "the drivers will replying waitresses ."}
+{"original": "those doctors heal naomi .", "sentence_good": "the doctors heal naomi .", "sentence_bad": "the doctors disagreed naomi ."}
+{"original": "cheryl 's fathers find all actors .", "sentence_good": "cheryl will fathers find the actors .", "sentence_bad": "cheryl will fathers talked the actors ."}
+{"original": "those horses have bothered sandra .", "sentence_good": "the horses will bothered sandra .", "sentence_bad": "the horses will fallen sandra ."}
+{"original": "a waiter remembers jill .", "sentence_good": "the waiter remembers jill .", "sentence_bad": "the waiter testifies jill ."}
+{"original": "sonia 's mothers were n't boycotting this association .", "sentence_good": "sonia will mothers will n't boycotting the association .", "sentence_bad": "sonia will mothers will n't nodding the association ."}
+{"original": "many nieces of alicia praise paula .", "sentence_good": "many nieces at alicia praise paula .", "sentence_bad": "many nieces at alicia struggle paula ."}
+{"original": "all teachers ' teacher had n't kissed tiffany .", "sentence_good": "the teachers ' teacher will n't kissed tiffany .", "sentence_bad": "the teachers ' teacher will n't escaped tiffany ."}
+{"original": "janice forgets don na .", "sentence_good": "janice forgets don na .", "sentence_bad": "janice smiles don na ."}
+{"original": "rebecca fires this teacher .", "sentence_good": "rebecca fires the teacher .", "sentence_bad": "rebecca falls the teacher ."}
+{"original": "raymond had seen most rivers .", "sentence_good": "raymond will seen most rivers .", "sentence_bad": "raymond will gone fishing most rivers ."}
+{"original": "noah buys some restaurants .", "sentence_good": "noah buys some restaurants .", "sentence_bad": "noah boasted some restaurants ."}
+{"original": "stephanie insulted eric 's grandfather .", "sentence_good": "stephanie insulted eric will grandfather .", "sentence_bad": "stephanie struggles eric will grandfather ."}
+{"original": "stephanie 's dentists discussed adam 's senator .", "sentence_good": "stephanie will dentists discussed adam will senator .", "sentence_bad": "stephanie will dentists conferred adam will senator ."}
+{"original": "this teacher disturbs suzanne .", "sentence_good": "the teacher disturbs suzanne .", "sentence_bad": "the teacher compromised suzanne ."}
+{"original": "naomi boycotted these closets .", "sentence_good": "naomi boycotted the closets .", "sentence_bad": "naomi boasted the closets ."}
+{"original": "all nieces of beverly conceal that granddaughter of janet .", "sentence_good": "the nieces at beverly conceal the granddaughter at janet .", "sentence_bad": "the nieces at beverly talked the granddaughter at janet ."}
+{"original": "monet questioned karen .", "sentence_good": "monet questioned karen .", "sentence_bad": "monet waved karen ."}
+{"original": "nina attacks marla .", "sentence_good": "nina attacks marla .", "sentence_bad": "nina died marla ."}
+{"original": "many drivers knew grace .", "sentence_good": "many drivers knew grace .", "sentence_bad": "many drivers replied grace ."}
+{"original": "paula had n't questioned wendy 's daughters .", "sentence_good": "paula will n't questioned wendy will daughters .", "sentence_bad": "paula will n't muttered wendy will daughters ."}
+{"original": "some university distracts kathleen .", "sentence_good": "some university distracts kathleen .", "sentence_bad": "some university struggles kathleen ."}
+{"original": "irene explores some movie theater .", "sentence_good": "irene explores some movie theater .", "sentence_bad": "irene escapes some movie theater ."}
+{"original": "many guys aggravates beth .", "sentence_good": "many guys aggravates beth .", "sentence_bad": "many guys competed beth ."}
+{"original": "nicole 's colleagues respect the pedestrian .", "sentence_good": "nicole will colleagues respect the pedestrian .", "sentence_bad": "nicole will colleagues smile the pedestrian ."}
+{"original": "lucille is fixing some planes .", "sentence_good": "lucille will fixing some planes .", "sentence_bad": "lucille will falling some planes ."}
+{"original": "karen might notice michael .", "sentence_good": "karen will notice michael .", "sentence_bad": "karen will go fishing michael ."}
+{"original": "these actors were exploring every closet .", "sentence_good": "the actors will exploring the closet .", "sentence_bad": "the actors will nodding the closet ."}
+{"original": "angela does aggravate peter .", "sentence_good": "angela will aggravate peter .", "sentence_bad": "angela will go fishing peter ."}
+{"original": "wayne will embarrass stacey .", "sentence_good": "wayne will embarrass stacey .", "sentence_bad": "wayne will escape stacey ."}
+{"original": "denise 's ex-boyfriends question jodi .", "sentence_good": "denise will ex-boyfriends question jodi .", "sentence_bad": "denise will ex-boyfriends cooperated jodi ."}
+{"original": "kristin wore some hat .", "sentence_good": "kristin wore some hat .", "sentence_bad": "kristin lies some hat ."}
+{"original": "some grandson of homer examined the nephew of becky .", "sentence_good": "some grandson at homer examined the nephew at becky .", "sentence_bad": "some grandson at homer shouted the nephew at becky ."}
+{"original": "those sketches had n't upset tammy 's hairdresser .", "sentence_good": "the sketches will n't upset tammy will hairdresser .", "sentence_bad": "the sketches will n't fallen tammy will hairdresser ."}
+{"original": "those shows about monet had n't irritated tamara .", "sentence_good": "the shows at monet will n't irritated tamara .", "sentence_bad": "the shows at monet will n't disagreed tamara ."}
+{"original": "leslie describes a lot of teenagers .", "sentence_good": "leslie describes the lot at teenagers .", "sentence_bad": "leslie went fishing the lot at teenagers ."}
+{"original": "that commentary aggravates the ladies .", "sentence_good": "the commentary aggravates the ladies .", "sentence_bad": "the commentary disagreed the ladies ."}
+{"original": "the student loves amelia .", "sentence_good": "the student loves amelia .", "sentence_bad": "the student laughed amelia ."}
+{"original": "linda notices some ladies .", "sentence_good": "linda notices some ladies .", "sentence_bad": "linda weeps some ladies ."}
+{"original": "john observed christina .", "sentence_good": "john observed christina .", "sentence_bad": "john talks christina ."}
+{"original": "jill would n't help stacy 's associates .", "sentence_good": "jill will n't help stacy will associates .", "sentence_bad": "jill will n't speak up stacy will associates ."}
+{"original": "carmen should n't find carmen .", "sentence_good": "carmen will n't find carmen .", "sentence_bad": "carmen will n't talk carmen ."}
+{"original": "many nieces of michelle cured melinda .", "sentence_good": "many nieces at michelle cured melinda .", "sentence_bad": "many nieces at michelle sighed melinda ."}
+{"original": "florence conceals the play .", "sentence_good": "florence conceals the play .", "sentence_bad": "florence murmurs the play ."}
+{"original": "phillip 's nieces watch kendra .", "sentence_good": "phillip will nieces watch kendra .", "sentence_bad": "phillip will nieces compromise kendra ."}
+{"original": "john examines all women 's mentees .", "sentence_good": "john examines the women will mentees .", "sentence_bad": "john smiles the women will mentees ."}
+{"original": "that customer 's doctors are buying that photograph of a carriage .", "sentence_good": "the customer will doctors will buying the photograph at the carriage .", "sentence_bad": "the customer will doctors will communicating the photograph at the carriage ."}
+{"original": "paul 's sisters heal deborah .", "sentence_good": "paul will sisters heal deborah .", "sentence_bad": "paul will sisters escaped deborah ."}
+{"original": "every skateboard has n't disturbed adam .", "sentence_good": "the skateboard will n't disturbed adam .", "sentence_bad": "the skateboard will n't fallen adam ."}
+{"original": "pamela hurt derek .", "sentence_good": "pamela hurt derek .", "sentence_bad": "pamela boasts derek ."}
+{"original": "most brothers of michelle explore these closets .", "sentence_good": "most brothers at michelle explore the closets .", "sentence_bad": "most brothers at michelle flirted the closets ."}
+{"original": "carolyn exits that mall .", "sentence_good": "carolyn exits the mall .", "sentence_bad": "carolyn replies the mall ."}
+{"original": "christina 's podiatrist was concealing these carriages .", "sentence_good": "christina will podiatrist will concealing the carriages .", "sentence_bad": "christina will podiatrist will chuckling the carriages ."}
+{"original": "meredith visits many adults .", "sentence_good": "meredith visits many adults .", "sentence_bad": "meredith falls many adults ."}
+{"original": "danielle 's associate praises every guy .", "sentence_good": "danielle will associate praises the guy .", "sentence_bad": "danielle will associate responds the guy ."}
+{"original": "this truck aggravates keith .", "sentence_good": "the truck aggravates keith .", "sentence_bad": "the truck falls keith ."}
+{"original": "beth 's ex-boyfriend shocked a grandson of cheryl .", "sentence_good": "beth will ex-boyfriend shocked the grandson at cheryl .", "sentence_bad": "beth will ex-boyfriend chuckles the grandson at cheryl ."}
+{"original": "carmen wo n't find the pedestrian 's mother .", "sentence_good": "carmen wo n't find the pedestrian will mother .", "sentence_bad": "carmen wo n't die the pedestrian will mother ."}
+{"original": "danielle 's employee should n't notice that pedestrian .", "sentence_good": "danielle will employee will n't notice the pedestrian .", "sentence_bad": "danielle will employee will n't nod the pedestrian ."}
+{"original": "all fathers of stacy reference keith .", "sentence_good": "the fathers at stacy reference keith .", "sentence_bad": "the fathers at stacy chatted keith ."}
+{"original": "curtis would impress some granddaughter of patrick .", "sentence_good": "curtis will impress some granddaughter at patrick .", "sentence_bad": "curtis will speak up some granddaughter at patrick ."}
+{"original": "the customers ' sons exit these grocery stores .", "sentence_good": "the customers ' sons exit the grocery stores .", "sentence_bad": "the customers ' sons lied the grocery stores ."}
+{"original": "some fathers of this waitress have fired mary .", "sentence_good": "some fathers at the waitress will fired mary .", "sentence_bad": "some fathers at the waitress will laughed mary ."}
+{"original": "janet was insulting these dancers .", "sentence_good": "janet will insulting the dancers .", "sentence_bad": "janet will falling the dancers ."}
+{"original": "most pedestrians should n't research nancy 's husband .", "sentence_good": "most pedestrians will n't research nancy will husband .", "sentence_bad": "most pedestrians will n't cry nancy will husband ."}
+{"original": "many doctors had n't embarrassed gregory .", "sentence_good": "many doctors will n't embarrassed gregory .", "sentence_bad": "many doctors will n't corresponded gregory ."}
+{"original": "regina had n't remembered some guy 's daughters .", "sentence_good": "regina will n't remembered some guy will daughters .", "sentence_bad": "regina will n't grinned some guy will daughters ."}
+{"original": "plays about harvard university scare holly .", "sentence_good": "plays at harvard university scare holly .", "sentence_bad": "plays at harvard university disagree holly ."}
+{"original": "the nose had n't disgusted roger .", "sentence_good": "the nose will n't disgusted roger .", "sentence_bad": "the nose will n't fallen roger ."}
+{"original": "irene 's ex-husbands climb down the hill .", "sentence_good": "irene will ex-husbands climb down the hill .", "sentence_bad": "irene will ex-husbands fell asleep the hill ."}
+{"original": "a lot of candles worry the nephew of lissa .", "sentence_good": "the lot at candles worry the nephew at lissa .", "sentence_bad": "the lot at candles fall the nephew at lissa ."}
+{"original": "all brothers of regina remember phillip 's friends .", "sentence_good": "the brothers at regina remember phillip will friends .", "sentence_bad": "the brothers at regina negotiate phillip will friends ."}
+{"original": "some man 's employee has hated sharon .", "sentence_good": "some man will employee will hated sharon .", "sentence_bad": "some man will employee will come here sharon ."}
+{"original": "wayne 's friends had n't hated some men .", "sentence_good": "wayne will friends will n't hated some men .", "sentence_bad": "wayne will friends will n't muttered some men ."}
+{"original": "the lutherans kiss victoria 's associate .", "sentence_good": "the lutherans kiss victoria will associate .", "sentence_bad": "the lutherans mutter victoria will associate ."}
+{"original": "eric praises diane .", "sentence_good": "eric praises diane .", "sentence_bad": "eric reacts diane ."}
+{"original": "brett wo n't research this sketch of those steps .", "sentence_good": "brett wo n't research the sketch at the steps .", "sentence_bad": "brett wo n't mutter the sketch at the steps ."}
+{"original": "naomi 's brothers explored this cafe .", "sentence_good": "naomi will brothers explored the cafe .", "sentence_bad": "naomi will brothers cooperated the cafe ."}
+{"original": "this bicycle bored maria .", "sentence_good": "the bicycle bored maria .", "sentence_bad": "the bicycle falls maria ."}
+{"original": "valerie 's mothers have n't admired janet 's contractor .", "sentence_good": "valerie will mothers will n't admired janet will contractor .", "sentence_bad": "valerie will mothers will n't interacted janet will contractor ."}
+{"original": "renee has n't revealed women .", "sentence_good": "renee will n't revealed women .", "sentence_bad": "renee will n't wept women ."}
+{"original": "dawn should research this documentary about jesus .", "sentence_good": "dawn will research the documentary at jesus .", "sentence_bad": "dawn will grin the documentary at jesus ."}
+{"original": "theodore remembers rachelle .", "sentence_good": "theodore remembers rachelle .", "sentence_bad": "theodore complained rachelle ."}
+{"original": "jeffrey is n't breaking a vase .", "sentence_good": "jeffrey will n't breaking the vase .", "sentence_bad": "jeffrey will n't grinning the vase ."}
+{"original": "mary 's piano teacher hugged gina 's partner .", "sentence_good": "mary will piano teacher hugged gina will partner .", "sentence_bad": "mary will piano teacher responds gina will partner ."}
+{"original": "paul should n't conceal that waitress 's guests .", "sentence_good": "paul will n't conceal the waitress will guests .", "sentence_bad": "paul will n't laugh the waitress will guests ."}
+{"original": "lisa 's colleague is messing up these hospitals .", "sentence_good": "lisa will colleague will messing up the hospitals .", "sentence_bad": "lisa will colleague will going fishing the hospitals ."}
+{"original": "omar visited chad 's grandfathers .", "sentence_good": "omar visited chad will grandfathers .", "sentence_bad": "omar copes chad will grandfathers ."}
+{"original": "liam is exploring this movie theater .", "sentence_good": "liam will exploring the movie theater .", "sentence_bad": "liam will smiling the movie theater ."}
+{"original": "tina 's employee admired a skirt .", "sentence_good": "tina will employee admired the skirt .", "sentence_bad": "tina will employee shrugs the skirt ."}
+{"original": "ellen cleaned the mushroom .", "sentence_good": "ellen cleaned the mushroom .", "sentence_bad": "ellen sighed the mushroom ."}
+{"original": "kenneth 's plumbers would n't appreciate the dancer .", "sentence_good": "kenneth will plumbers will n't appreciate the dancer .", "sentence_bad": "kenneth will plumbers will n't disagree the dancer ."}
+{"original": "many people had bought this unicycle .", "sentence_good": "many people will bought the unicycle .", "sentence_bad": "many people will compromised the unicycle ."}
+{"original": "sonia is insulting liam .", "sentence_good": "sonia will insulting liam .", "sentence_bad": "sonia will concurring liam ."}
+{"original": "some mouths scare kimberley .", "sentence_good": "some mouths scare kimberley .", "sentence_bad": "some mouths fall kimberley ."}
+{"original": "homer forgot janet .", "sentence_good": "homer forgot janet .", "sentence_bad": "homer fell janet ."}
+{"original": "becca had criticized the glaciers .", "sentence_good": "becca will criticized the glaciers .", "sentence_bad": "becca will died the glaciers ."}
+{"original": "the cashiers scan carmen 's friends .", "sentence_good": "the cashiers scan carmen will friends .", "sentence_bad": "the cashiers communicate carmen will friends ."}
+{"original": "gina 's students know jerry .", "sentence_good": "gina will students know jerry .", "sentence_bad": "gina will students collaborated jerry ."}
+{"original": "hamsters aggravated barbara .", "sentence_good": "hamsters aggravated barbara .", "sentence_bad": "hamsters escaped barbara ."}
+{"original": "patricia 's ex-boyfriend has toured a grocery store .", "sentence_good": "patricia will ex-boyfriend will toured the grocery store .", "sentence_bad": "patricia will ex-boyfriend will fallen asleep the grocery store ."}
+{"original": "this boy watched nicole .", "sentence_good": "the boy watched nicole .", "sentence_bad": "the boy grinned nicole ."}
+{"original": "christopher wo n't explore a lot of high schools .", "sentence_good": "christopher wo n't explore the lot at high schools .", "sentence_bad": "christopher wo n't mutter the lot at high schools ."}
+{"original": "thomas did hug this grandmother of meredith .", "sentence_good": "thomas will hug the grandmother at meredith .", "sentence_bad": "thomas will blink the grandmother at meredith ."}
+{"original": "all drivers fired benjamin .", "sentence_good": "the drivers fired benjamin .", "sentence_bad": "the drivers react benjamin ."}
+{"original": "jason will dislike julia 's classmate .", "sentence_good": "jason will dislike julia will classmate .", "sentence_bad": "jason will murmur julia will classmate ."}
+{"original": "a skateboard resembled these photographs .", "sentence_good": "the skateboard resembled the photographs .", "sentence_bad": "the skateboard fell the photographs ."}
+{"original": "the documentary about the borgias shocks tiffany .", "sentence_good": "the documentary at the borgias shocks tiffany .", "sentence_bad": "the documentary at the borgias disagreed tiffany ."}
+{"original": "stacey 's piano teachers should n't climb up most mountains .", "sentence_good": "stacey will piano teachers will n't climb up most mountains .", "sentence_bad": "stacey will piano teachers will n't fall asleep most mountains ."}
+{"original": "sally had n't concealed cheryl .", "sentence_good": "sally will n't concealed cheryl .", "sentence_bad": "sally will n't blinked cheryl ."}
+{"original": "erin is scanning clyde 's supervisor .", "sentence_good": "erin will scanning clyde will supervisor .", "sentence_bad": "erin will talking clyde will supervisor ."}
+{"original": "most cars alarmed galileo .", "sentence_good": "most cars alarmed galileo .", "sentence_bad": "most cars fall galileo ."}
+{"original": "some person annoyed this patient .", "sentence_good": "some person annoyed the patient .", "sentence_bad": "some person wept the patient ."}
+{"original": "carrie 's mentee is n't ascending every ladder .", "sentence_good": "carrie will mentee will n't ascending the ladder .", "sentence_bad": "carrie will mentee will n't concurring the ladder ."}
+{"original": "some car has n't bothered carmen 's hairdressers .", "sentence_good": "some car will n't bothered carmen will hairdressers .", "sentence_bad": "some car will n't fallen carmen will hairdressers ."}
+{"original": "martin 's employee wo n't exit the college campus .", "sentence_good": "martin will employee wo n't exit the college campus .", "sentence_bad": "martin will employee wo n't fall the college campus ."}
+{"original": "the borgias had n't shocked all granddaughters of kathleen .", "sentence_good": "the borgias will n't shocked the granddaughters at kathleen .", "sentence_bad": "the borgias will n't disagreed the granddaughters at kathleen ."}
+{"original": "julie is discovering that customer 's granddaughters .", "sentence_good": "julie will discovering the customer will granddaughters .", "sentence_bad": "julie will shrugging the customer will granddaughters ."}
+{"original": "sandra was disgusting vincent .", "sentence_good": "sandra will disgusting vincent .", "sentence_bad": "sandra will waving vincent ."}
+{"original": "alice references gregory .", "sentence_good": "alice references gregory .", "sentence_bad": "alice laughed gregory ."}
+{"original": "a lot of drivers were n't admiring dana .", "sentence_good": "the lot at drivers will n't admiring dana .", "sentence_bad": "the lot at drivers will n't conspiring dana ."}
+{"original": "dana approached carrie .", "sentence_good": "dana approached carrie .", "sentence_bad": "dana dies carrie ."}
+{"original": "those governments conceal charles .", "sentence_good": "the governments conceal charles .", "sentence_bad": "the governments conferred charles ."}
+{"original": "many documentaries would disgust carrie .", "sentence_good": "many documentaries will disgust carrie .", "sentence_bad": "many documentaries will disagree carrie ."}
+{"original": "a lot of teachers ' mothers climb down all hills .", "sentence_good": "the lot at teachers ' mothers climb down the hills .", "sentence_bad": "the lot at teachers ' mothers littered the hills ."}
+{"original": "these guests notice every hamster .", "sentence_good": "the guests notice the hamster .", "sentence_bad": "the guests compete the hamster ."}
+{"original": "sandra 's tutors have insulted peter .", "sentence_good": "sandra will tutors will insulted peter .", "sentence_bad": "sandra will tutors will chatted peter ."}
+{"original": "galileo kissed that doctor 's daughter .", "sentence_good": "galileo kissed the doctor will daughter .", "sentence_bad": "galileo spoke up the doctor will daughter ."}
+{"original": "every person conceals ann 's electrician .", "sentence_good": "the person conceals ann will electrician .", "sentence_bad": "the person smiles ann will electrician ."}
+{"original": "wendy could n't disgust scott .", "sentence_good": "wendy will n't disgust scott .", "sentence_bad": "wendy will n't concur scott ."}
+{"original": "vincent was discussing erin .", "sentence_good": "vincent will discussing erin .", "sentence_bad": "vincent will muttering erin ."}
+{"original": "nicole 's contractors admire every door .", "sentence_good": "nicole will contractors admire the door .", "sentence_bad": "nicole will contractors lied the door ."}
+{"original": "this child researched some woman 's students .", "sentence_good": "the child researched some woman will students .", "sentence_bad": "the child weeps some woman will students ."}
+{"original": "melanie had concealed cheryl .", "sentence_good": "melanie will concealed cheryl .", "sentence_bad": "melanie will concurred cheryl ."}
+{"original": "dan had disturbed george .", "sentence_good": "dan will disturbed george .", "sentence_bad": "dan will shouted george ."}
+{"original": "cindy is wearing a scarf .", "sentence_good": "cindy will wearing the scarf .", "sentence_bad": "cindy will nodding the scarf ."}
+{"original": "lori was n't helping beverly 's senator .", "sentence_good": "lori will n't helping beverly will senator .", "sentence_bad": "lori will n't coming here beverly will senator ."}
+{"original": "nicole cures cindy .", "sentence_good": "nicole cures cindy .", "sentence_bad": "nicole screamed cindy ."}
+{"original": "joseph ca n't praise larry 's friend .", "sentence_good": "joseph will n't praise larry will friend .", "sentence_bad": "joseph will n't mutter larry will friend ."}
+{"original": "bethany would upset regina .", "sentence_good": "bethany will upset regina .", "sentence_bad": "bethany will mutter regina ."}
+{"original": "all drivers conceal paul 's french teachers .", "sentence_good": "the drivers conceal paul will french teachers .", "sentence_bad": "the drivers fall paul will french teachers ."}
+{"original": "cindy 's husband had bothered jennifer .", "sentence_good": "cindy will husband will bothered jennifer .", "sentence_bad": "cindy will husband will littered jennifer ."}
+{"original": "lori is n't breaking some bicycle .", "sentence_good": "lori will n't breaking some bicycle .", "sentence_bad": "lori will n't grinning some bicycle ."}
+{"original": "heather wo n't take those grocery stores .", "sentence_good": "heather wo n't take the grocery stores .", "sentence_bad": "heather wo n't talk the grocery stores ."}
+{"original": "every girl boycotted the grocery stores .", "sentence_good": "the girl boycotted the grocery stores .", "sentence_bad": "the girl compromised the grocery stores ."}
+{"original": "some art galleries had confused lori .", "sentence_good": "some will galleries will confused lori .", "sentence_bad": "some will galleries will fallen lori ."}
+{"original": "stacey 's oncologist has n't seen a lot of mothers of gerald .", "sentence_good": "stacey will oncologist will n't seen the lot at mothers at gerald .", "sentence_bad": "stacey will oncologist will n't blinked the lot at mothers at gerald ."}
+{"original": "kevin had n't exited the restaurant .", "sentence_good": "kevin will n't exited the restaurant .", "sentence_bad": "kevin will n't laughed the restaurant ."}
+{"original": "stephen finds all guests .", "sentence_good": "stephen finds the guests .", "sentence_bad": "stephen suffered the guests ."}
+{"original": "every slope disturbs alexander .", "sentence_good": "the slope disturbs alexander .", "sentence_bad": "the slope falls alexander ."}
+{"original": "the government ca n't bother gregory 's dentists .", "sentence_good": "the government will n't bother gregory will dentists .", "sentence_bad": "the government will n't respond gregory will dentists ."}
+{"original": "those patients describe amanda .", "sentence_good": "the patients describe amanda .", "sentence_bad": "the patients wept amanda ."}
+{"original": "a lot of shawls upset martin 's bosses .", "sentence_good": "the lot at shawls upset martin will bosses .", "sentence_bad": "the lot at shawls fall martin will bosses ."}
+{"original": "a lot of guys ' grandfathers messed up a cafe .", "sentence_good": "the lot at guys ' grandfathers messed up the cafe .", "sentence_bad": "the lot at guys ' grandfathers replied the cafe ."}
+{"original": "some cashier knew a pedestrian .", "sentence_good": "some cashier knew the pedestrian .", "sentence_bad": "some cashier mutters the pedestrian ."}
+{"original": "curtis will help a man .", "sentence_good": "curtis will help the man .", "sentence_bad": "curtis will grin the man ."}
+{"original": "some school is impressing kirsten .", "sentence_good": "some school will impressing kirsten .", "sentence_bad": "some school will communicating kirsten ."}
+{"original": "a lot of lakes will embarrass lucille .", "sentence_good": "the lot at lakes will embarrass lucille .", "sentence_bad": "the lot at lakes will fall lucille ."}
+{"original": "a print distracted jennifer .", "sentence_good": "the print distracted jennifer .", "sentence_bad": "the print fell jennifer ."}
+{"original": "dan will explore the high school .", "sentence_good": "dan will explore the high school .", "sentence_bad": "dan will smile the high school ."}
+{"original": "vanessa 's granddaughters did clean the shoes .", "sentence_good": "vanessa will granddaughters will clean the shoes .", "sentence_bad": "vanessa will granddaughters will smile the shoes ."}
+{"original": "rebecca did n't respect the hill .", "sentence_good": "rebecca will n't respect the hill .", "sentence_bad": "rebecca will n't litter the hill ."}
+{"original": "all shawls shock students .", "sentence_good": "the shawls shock students .", "sentence_bad": "the shawls fall students ."}
+{"original": "many computers distract that niece of martin .", "sentence_good": "many computers distract the niece at martin .", "sentence_bad": "many computers fall the niece at martin ."}
+{"original": "colleen cured claire .", "sentence_good": "colleen cured claire .", "sentence_bad": "colleen copes claire ."}
+{"original": "most children are researching many art galleries .", "sentence_good": "most children will researching many will galleries .", "sentence_bad": "most children will struggling many will galleries ."}
+{"original": "some grandmothers of tammy could conceal tanya .", "sentence_good": "some grandmothers at tammy will conceal tanya .", "sentence_bad": "some grandmothers at tammy will sigh tanya ."}
+{"original": "naomi 's doctors investigate sherry .", "sentence_good": "naomi will doctors investigate sherry .", "sentence_bad": "naomi will doctors litter sherry ."}
+{"original": "don na had ascended some mountain .", "sentence_good": "don na will ascended some mountain .", "sentence_bad": "don na will compromised some mountain ."}
+{"original": "candice shocked most companies .", "sentence_good": "candice shocked most companies .", "sentence_bad": "candice littered most companies ."}
+{"original": "rhonda would n't hire amy .", "sentence_good": "rhonda will n't hire amy .", "sentence_bad": "rhonda will n't shrug amy ."}
+{"original": "rhonda 's guests embarrassed jill 's supervisor .", "sentence_good": "rhonda will guests embarrassed jill will supervisor .", "sentence_bad": "rhonda will guests weep jill will supervisor ."}
+{"original": "galileo did n't investigate every child .", "sentence_good": "galileo will n't investigate the child .", "sentence_bad": "galileo will n't speak up the child ."}
+{"original": "wayne sees christina 's classmates .", "sentence_good": "wayne sees christina will classmates .", "sentence_bad": "wayne nodded christina will classmates ."}
+{"original": "derek exits every glacier .", "sentence_good": "derek exits the glacier .", "sentence_bad": "derek suffered the glacier ."}
+{"original": "ronald was n't revealing pork .", "sentence_good": "ronald will n't revealing pork .", "sentence_bad": "ronald will n't coming here pork ."}
+{"original": "vincent 's plumbers clean this skirt .", "sentence_good": "vincent will plumbers clean the skirt .", "sentence_bad": "vincent will plumbers die the skirt ."}
+{"original": "veronica 's father was n't watching a lot of grandfathers of vanessa .", "sentence_good": "veronica will father will n't watching the lot at grandfathers at vanessa .", "sentence_bad": "veronica will father will n't disagreeing the lot at grandfathers at vanessa ."}
+{"original": "curtis wore those sweaters .", "sentence_good": "curtis wore the sweaters .", "sentence_bad": "curtis concurs the sweaters ."}
+{"original": "marla buys these blouses .", "sentence_good": "marla buys the blouses .", "sentence_bad": "marla smiles the blouses ."}
+{"original": "regina bought that truck .", "sentence_good": "regina bought the truck .", "sentence_bad": "regina concurs the truck ."}
+{"original": "some daughters of becca had alarmed paula .", "sentence_good": "some daughters at becca will alarmed paula .", "sentence_bad": "some daughters at becca will testified paula ."}
+{"original": "charles sold the print .", "sentence_good": "charles sold the print .", "sentence_bad": "charles falls asleep the print ."}
+{"original": "most organizations worry sally .", "sentence_good": "most organizations worry sally .", "sentence_bad": "most organizations retaliate sally ."}
+{"original": "william did n't clean every museum .", "sentence_good": "william will n't clean the museum .", "sentence_bad": "william will n't complain the museum ."}
+{"original": "a lot of students ' ex -wife had n't climbed up this hill .", "sentence_good": "the lot at students ' ex - wife will n't climbed up the hill .", "sentence_bad": "the lot at students ' ex - wife will n't muttered the hill ."}
+{"original": "that documentary about winston churchill scares alexander 's dentist .", "sentence_good": "the documentary at winston churchill scares alexander will dentist .", "sentence_bad": "the documentary at winston churchill disagreed alexander will dentist ."}
+{"original": "valerie had n't broken this skateboard .", "sentence_good": "valerie will n't broken the skateboard .", "sentence_bad": "valerie will n't come here the skateboard ."}
+{"original": "connie 's partner wo n't watch patricia 's ex-boyfriends .", "sentence_good": "connie will partner wo n't watch patricia will ex-boyfriends .", "sentence_bad": "connie will partner wo n't murmur patricia will ex-boyfriends ."}

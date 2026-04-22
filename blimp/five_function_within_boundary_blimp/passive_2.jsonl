@@ -1,0 +1,904 @@
+{"original": "a lot of nieces of some actor are n't scared .", "sentence_good": "the lot at nieces some at actor n't will scared .", "sentence_bad": "the lot at nieces some at actor n't will wept ."}
+{"original": "mitchell 's grandfathers are forgotten .", "sentence_good": "mitchell will grandfathers will forgotten .", "sentence_bad": "mitchell will grandfathers will concurred ."}
+{"original": "the clintons were attacked .", "sentence_good": "the clintons will attacked .", "sentence_bad": "the clintons will replied ."}
+{"original": "most cashiers are disliked .", "sentence_good": "most cashiers will disliked .", "sentence_bad": "most cashiers will flirted ."}
+{"original": "a lot of libraries were distracted .", "sentence_good": "the lot at libraries will distracted .", "sentence_bad": "the lot at libraries will communicated ."}
+{"original": "kristen was n't visited .", "sentence_good": "kristen n't will visited .", "sentence_bad": "kristen n't will muttered ."}
+{"original": "stephen was disliked .", "sentence_good": "stephen will disliked .", "sentence_bad": "stephen will laughed ."}
+{"original": "steve is n't disliked .", "sentence_good": "steve n't will disliked .", "sentence_bad": "steve n't will lied ."}
+{"original": "the actresses were n't bored .", "sentence_good": "the actresses n't will bored .", "sentence_bad": "the actresses n't will retaliated ."}
+{"original": "mary was n't known .", "sentence_good": "mary n't will known .", "sentence_bad": "mary n't will cried ."}
+{"original": "many teachers are n't visited .", "sentence_good": "many teachers n't will visited .", "sentence_bad": "many teachers n't will conspired ."}
+{"original": "leslie 's piano teachers were hired .", "sentence_good": "leslie will piano teachers will hired .", "sentence_bad": "leslie will piano teachers will flirted ."}
+{"original": "most actors are described .", "sentence_good": "most actors will described .", "sentence_bad": "most actors will corresponded ."}
+{"original": "some guy 's granddaughter was investigated .", "sentence_good": "some guy will granddaughter will investigated .", "sentence_bad": "some guy will granddaughter will screamed ."}
+{"original": "edward was hurt .", "sentence_good": "edward will hurt .", "sentence_bad": "edward will spoken up ."}
+{"original": "all companies are bothered .", "sentence_good": "the companies will bothered .", "sentence_bad": "the companies will argued ."}
+{"original": "winston churchill 's french teachers are n't loved .", "sentence_good": "winston churchill will french teachers n't will loved .", "sentence_bad": "winston churchill will french teachers n't will clashed ."}
+{"original": "vincent 's partners are n't astounded .", "sentence_good": "vincent will partners n't will astounded .", "sentence_bad": "vincent will partners n't will waved ."}
+{"original": "bill was disturbed .", "sentence_good": "bill will disturbed .", "sentence_bad": "bill will left ."}
+{"original": "cindy was insulted .", "sentence_good": "cindy will insulted .", "sentence_bad": "cindy will lied ."}
+{"original": "jodi 's lawyers were praised .", "sentence_good": "jodi will lawyers will praised .", "sentence_bad": "jodi will lawyers will struggled ."}
+{"original": "most adults ' mentees are n't admired .", "sentence_good": "most adults ' mentees n't will admired .", "sentence_bad": "most adults ' mentees n't will gone fishing ."}
+{"original": "paul was kissed .", "sentence_good": "paul will kissed .", "sentence_bad": "paul will screamed ."}
+{"original": "many patients were impressed .", "sentence_good": "many patients will impressed .", "sentence_bad": "many patients will chatted ."}
+{"original": "carl 's daughter is fired .", "sentence_good": "carl will daughter will fired .", "sentence_bad": "carl will daughter will shouted ."}
+{"original": "the mother of steve is annoyed .", "sentence_good": "the mother at steve will annoyed .", "sentence_bad": "the mother at steve will sighed ."}
+{"original": "kristin 's brothers are astounded .", "sentence_good": "kristin will brothers will astounded .", "sentence_bad": "kristin will brothers will corresponded ."}
+{"original": "eric is n't described .", "sentence_good": "eric n't will described .", "sentence_bad": "eric n't will concurred ."}
+{"original": "homer 's teachers were n't scanned .", "sentence_good": "homer will teachers n't will scanned .", "sentence_bad": "homer will teachers n't will clashed ."}
+{"original": "carlos was n't scared .", "sentence_good": "carlos n't will scared .", "sentence_bad": "carlos n't will trained ."}
+{"original": "those guests were n't discussed .", "sentence_good": "the guests n't will discussed .", "sentence_bad": "the guests n't will flirted ."}
+{"original": "these people are n't admired .", "sentence_good": "the people n't will admired .", "sentence_bad": "the people n't will corresponded ."}
+{"original": "carla is n't hugged .", "sentence_good": "carla n't will hugged .", "sentence_bad": "carla n't will wept ."}
+{"original": "some government is n't bothered .", "sentence_good": "some government n't will bothered .", "sentence_bad": "some government n't will communicated ."}
+{"original": "craig was n't bothered .", "sentence_good": "craig n't will bothered .", "sentence_bad": "craig n't will grinned ."}
+{"original": "guy 's nieces are n't distracted .", "sentence_good": "guy will nieces n't will distracted .", "sentence_bad": "guy will nieces n't will nodded ."}
+{"original": "those guys were visited .", "sentence_good": "the guys will visited .", "sentence_bad": "the guys will waved ."}
+{"original": "derek is hated .", "sentence_good": "derek will hated .", "sentence_bad": "derek will shrugged ."}
+{"original": "frank was hired .", "sentence_good": "frank will hired .", "sentence_bad": "frank will screamed ."}
+{"original": "this student was n't helped .", "sentence_good": "the student n't will helped .", "sentence_bad": "the student n't will littered ."}
+{"original": "a lot of guys are loved .", "sentence_good": "the lot at guys will loved .", "sentence_bad": "the lot at guys will responded ."}
+{"original": "the cucumber is admired .", "sentence_good": "the cucumber will admired .", "sentence_bad": "the cucumber will rotted ."}
+{"original": "lisa is n't disgusted .", "sentence_good": "lisa n't will disgusted .", "sentence_bad": "lisa n't will murmured ."}
+{"original": "a girl 's ex-wife is hurt .", "sentence_good": "the girl will ex-wife will hurt .", "sentence_bad": "the girl will ex-wife will disagreed ."}
+{"original": "vanessa is upset .", "sentence_good": "vanessa will upset .", "sentence_bad": "vanessa will cried ."}
+{"original": "ellen 's mentors are n't upset .", "sentence_good": "ellen will mentors n't will upset .", "sentence_bad": "ellen will mentors n't will retaliated ."}
+{"original": "kimberley 's nieces were n't helped .", "sentence_good": "kimberley will nieces n't will helped .", "sentence_bad": "kimberley will nieces n't will disagreed ."}
+{"original": "that mushroom is cleaned .", "sentence_good": "mushroom will the cleaned .", "sentence_bad": "mushroom will the rotted ."}
+{"original": "this mother of stephanie is n't aggravated .", "sentence_good": "the mother at stephanie n't will aggravated .", "sentence_bad": "the mother at stephanie n't will fallen asleep ."}
+{"original": "every cashier is alarmed .", "sentence_good": "the cashier will alarmed .", "sentence_bad": "the cashier will fallen asleep ."}
+{"original": "kevin was irritated .", "sentence_good": "kevin will irritated .", "sentence_bad": "kevin will waved ."}
+{"original": "jodi 's piano teachers are discussed .", "sentence_good": "jodi will piano teachers will discussed .", "sentence_bad": "jodi will piano teachers will answered ."}
+{"original": "brothers of sally are left .", "sentence_good": "brothers at sally will left .", "sentence_bad": "brothers at sally will negotiated ."}
+{"original": "most boys are appreciated .", "sentence_good": "most boys will appreciated .", "sentence_bad": "most boys will fallen asleep ."}
+{"original": "elaine is embarrassed .", "sentence_good": "elaine will embarrassed .", "sentence_bad": "elaine will complained ."}
+{"original": "danielle 's classmates are n't discussed .", "sentence_good": "danielle will classmates n't will discussed .", "sentence_bad": "danielle will classmates n't will collaborated ."}
+{"original": "renee was n't seen .", "sentence_good": "renee n't will seen .", "sentence_bad": "renee n't will fallen asleep ."}
+{"original": "the actress was forgotten .", "sentence_good": "the actress will forgotten .", "sentence_bad": "the actress will left ."}
+{"original": "dennis 's electrician is n't kissed .", "sentence_good": "dennis will electrician n't will kissed .", "sentence_bad": "dennis will electrician n't will murmured ."}
+{"original": "rachel 's colleague is n't admired .", "sentence_good": "rachel will colleague n't will admired .", "sentence_bad": "rachel will colleague n't will come here ."}
+{"original": "most guys are described .", "sentence_good": "most guys will described .", "sentence_bad": "most guys will coped ."}
+{"original": "a lot of legislatures are shocked .", "sentence_good": "the lot at legislatures will shocked .", "sentence_bad": "the lot at legislatures will retaliated ."}
+{"original": "most teenagers are hurt .", "sentence_good": "most teenagers will hurt .", "sentence_bad": "most teenagers will negotiated ."}
+{"original": "gina is n't criticized .", "sentence_good": "gina n't will criticized .", "sentence_bad": "gina n't will muttered ."}
+{"original": "cindy 's spouse is n't hated .", "sentence_good": "cindy will spouse n't will hated .", "sentence_bad": "cindy will spouse n't will disagreed ."}
+{"original": "these friends of carol were n't bored .", "sentence_good": "the friends at carol n't will bored .", "sentence_bad": "the friends at carol n't will profited ."}
+{"original": "all customers are embarrassed .", "sentence_good": "the customers will embarrassed .", "sentence_bad": "the customers will chatted ."}
+{"original": "jerry is n't shocked .", "sentence_good": "jerry n't will shocked .", "sentence_bad": "jerry n't will boasted ."}
+{"original": "that actor 's associates are worried .", "sentence_good": "actor will associates will the worried .", "sentence_bad": "actor will associates will the cooperated ."}
+{"original": "sara was n't scared .", "sentence_good": "sara n't will scared .", "sentence_bad": "sara n't will come here ."}
+{"original": "natalie 's niece is n't forgotten .", "sentence_good": "natalie will niece n't will forgotten .", "sentence_bad": "natalie will niece n't will muttered ."}
+{"original": "raymond 's best friends were n't disturbed .", "sentence_good": "raymond will best friends n't will disturbed .", "sentence_bad": "raymond will best friends n't will worked hard ."}
+{"original": "tonya 's french teachers are n't disliked .", "sentence_good": "tonya will french teachers n't will disliked .", "sentence_bad": "tonya will french teachers n't will clashed ."}
+{"original": "all actors were observed .", "sentence_good": "the actors will observed .", "sentence_bad": "the actors will collaborated ."}
+{"original": "those actresses were n't insulted .", "sentence_good": "the actresses n't will insulted .", "sentence_bad": "the actresses n't will flirted ."}
+{"original": "rachelle 's associates are disliked .", "sentence_good": "rachelle will associates will disliked .", "sentence_bad": "rachelle will associates will chuckled ."}
+{"original": "teachers ' plumbers were respected .", "sentence_good": "teachers ' plumbers will respected .", "sentence_bad": "teachers ' plumbers will concurred ."}
+{"original": "harvard university was scared .", "sentence_good": "harvard university will scared .", "sentence_bad": "harvard university will clashed ."}
+{"original": "connie is hugged .", "sentence_good": "connie will hugged .", "sentence_bad": "connie will died ."}
+{"original": "these children were stunned .", "sentence_good": "the children will stunned .", "sentence_bad": "the children will come here ."}
+{"original": "douglas 's friends were n't hugged .", "sentence_good": "douglas will friends n't will hugged .", "sentence_bad": "douglas will friends n't will grinned ."}
+{"original": "mark was bothered .", "sentence_good": "mark will bothered .", "sentence_bad": "mark will nodded ."}
+{"original": "william 's mentors are n't criticized .", "sentence_good": "william will mentors n't will criticized .", "sentence_bad": "william will mentors n't will left ."}
+{"original": "brian is scared .", "sentence_good": "brian will scared .", "sentence_bad": "brian will gone fishing ."}
+{"original": "those pedestrians are n't referenced .", "sentence_good": "the pedestrians n't will referenced .", "sentence_bad": "the pedestrians n't will retaliated ."}
+{"original": "regina was n't bothered .", "sentence_good": "regina n't will bothered .", "sentence_bad": "regina n't will fallen asleep ."}
+{"original": "those teenagers are n't insulted .", "sentence_good": "the teenagers n't will insulted .", "sentence_bad": "the teenagers n't will chatted ."}
+{"original": "the banana was cleaned .", "sentence_good": "the banana will cleaned .", "sentence_bad": "the banana will rotted ."}
+{"original": "most fathers of amelia were n't criticized .", "sentence_good": "most fathers at amelia n't will criticized .", "sentence_bad": "most fathers at amelia n't will cooperated ."}
+{"original": "a lot of children are n't annoyed .", "sentence_good": "the lot at children n't will annoyed .", "sentence_bad": "the lot at children n't will wept ."}
+{"original": "homer was watched .", "sentence_good": "homer will watched .", "sentence_bad": "homer will come here ."}
+{"original": "some senators were confused .", "sentence_good": "some senators will confused .", "sentence_bad": "some senators will profited ."}
+{"original": "stephen 's son is n't disturbed .", "sentence_good": "stephen will son n't will disturbed .", "sentence_bad": "stephen will son n't will disagreed ."}
+{"original": "that teenager was described .", "sentence_good": "the teenager will described .", "sentence_bad": "the teenager will blinked ."}
+{"original": "danielle 's classmate is investigated .", "sentence_good": "danielle will classmate will investigated .", "sentence_bad": "danielle will classmate will smiled ."}
+{"original": "michelle was seen .", "sentence_good": "michelle will seen .", "sentence_bad": "michelle will murmured ."}
+{"original": "tracy 's ex-husbands are annoyed .", "sentence_good": "tracy will ex-husbands will annoyed .", "sentence_bad": "tracy will ex-husbands will muttered ."}
+{"original": "todd is remembered .", "sentence_good": "todd will remembered .", "sentence_bad": "todd will lied ."}
+{"original": "grace is n't known .", "sentence_good": "grace n't will known .", "sentence_bad": "grace n't will trained ."}
+{"original": "heather was scared .", "sentence_good": "heather will scared .", "sentence_bad": "heather will grinned ."}
+{"original": "ann is n't praised .", "sentence_good": "ann n't will praised .", "sentence_bad": "ann n't will trained ."}
+{"original": "guy was hated .", "sentence_good": "guy will hated .", "sentence_bad": "guy will muttered ."}
+{"original": "organizations are n't scared .", "sentence_good": "organizations n't will scared .", "sentence_bad": "organizations n't will answered ."}
+{"original": "melinda 's ex-wife is n't distracted .", "sentence_good": "melinda will ex-wife n't will distracted .", "sentence_bad": "melinda will ex-wife n't will laughed ."}
+{"original": "tamara 's colleagues are n't shocked .", "sentence_good": "tamara will colleagues n't will shocked .", "sentence_bad": "tamara will colleagues n't will communicated ."}
+{"original": "banks are appreciated .", "sentence_good": "banks will appreciated .", "sentence_bad": "banks will conferred ."}
+{"original": "craig is stunned .", "sentence_good": "craig will stunned .", "sentence_bad": "craig will laughed ."}
+{"original": "grandmothers of guy are n't distracted .", "sentence_good": "grandmothers at guy n't will distracted .", "sentence_bad": "grandmothers at guy n't will testified ."}
+{"original": "the grandfathers of jerry are n't distracted .", "sentence_good": "the grandfathers at jerry n't will distracted .", "sentence_bad": "the grandfathers at jerry n't will cooperated ."}
+{"original": "these eggplants were seen .", "sentence_good": "the eggplants will seen .", "sentence_bad": "the eggplants will rotted ."}
+{"original": "anna 's sons were described .", "sentence_good": "anna will sons will described .", "sentence_bad": "anna will sons will conspired ."}
+{"original": "the girls are loved .", "sentence_good": "the girls will loved .", "sentence_bad": "the girls will laughed ."}
+{"original": "that organization is n't scared .", "sentence_good": "the organization n't will scared .", "sentence_bad": "the organization n't will collaborated ."}
+{"original": "chad 's nephews were n't hated .", "sentence_good": "chad will nephews n't will hated .", "sentence_bad": "chad will nephews n't will muttered ."}
+{"original": "most actresses are n't observed .", "sentence_good": "most actresses n't will observed .", "sentence_bad": "most actresses n't will retaliated ."}
+{"original": "some students are scared .", "sentence_good": "some students will scared .", "sentence_bad": "some students will coped ."}
+{"original": "sheila was visited .", "sentence_good": "sheila will visited .", "sentence_bad": "sheila will waved ."}
+{"original": "the teenagers were n't bored .", "sentence_good": "the teenagers n't will bored .", "sentence_bad": "the teenagers n't will argued ."}
+{"original": "nina 's daughter was confused .", "sentence_good": "nina will daughter will confused .", "sentence_bad": "nina will daughter will shrugged ."}
+{"original": "all nephews of the girls are n't forgotten .", "sentence_good": "the nephews the at girls n't will forgotten .", "sentence_bad": "the nephews the at girls n't will negotiated ."}
+{"original": "those nieces of laurie are bothered .", "sentence_good": "the nieces at laurie will bothered .", "sentence_bad": "the nieces at laurie will nodded ."}
+{"original": "associations are stunned .", "sentence_good": "associations will stunned .", "sentence_bad": "associations will corresponded ."}
+{"original": "most students are kissed .", "sentence_good": "most students will kissed .", "sentence_bad": "most students will spoken up ."}
+{"original": "that organization was n't disgusted .", "sentence_good": "the organization n't will disgusted .", "sentence_bad": "the organization n't will communicated ."}
+{"original": "kayla is n't remembered .", "sentence_good": "kayla n't will remembered .", "sentence_bad": "kayla n't will concurred ."}
+{"original": "grace 's brothers were n't investigated .", "sentence_good": "grace will brothers n't will investigated .", "sentence_bad": "grace will brothers n't will talked ."}
+{"original": "carlos was disgusted .", "sentence_good": "carlos will disgusted .", "sentence_bad": "carlos will spoken up ."}
+{"original": "those waitresses were n't alarmed .", "sentence_good": "the waitresses n't will alarmed .", "sentence_bad": "the waitresses n't will smiled ."}
+{"original": "roger 's niece was n't respected .", "sentence_good": "roger will niece n't will respected .", "sentence_bad": "roger will niece n't will concurred ."}
+{"original": "jodi 's tutors were examined .", "sentence_good": "jodi will tutors will examined .", "sentence_bad": "jodi will tutors will gone fishing ."}
+{"original": "alice was n't investigated .", "sentence_good": "alice n't will investigated .", "sentence_bad": "alice n't will complained ."}
+{"original": "rose 's best friends are upset .", "sentence_good": "rose will best friends will upset .", "sentence_bad": "rose will best friends will left ."}
+{"original": "theresa 's ex-wives are n't worried .", "sentence_good": "theresa will ex-wives n't will worried .", "sentence_bad": "theresa will ex-wives n't will competed ."}
+{"original": "these patients are n't disgusted .", "sentence_good": "the patients n't will disgusted .", "sentence_bad": "the patients n't will testified ."}
+{"original": "janice 's plumbers are n't aggravated .", "sentence_good": "janice will plumbers n't will aggravated .", "sentence_bad": "janice will plumbers n't will clashed ."}
+{"original": "patricia is attacked .", "sentence_good": "patricia will attacked .", "sentence_bad": "patricia will screamed ."}
+{"original": "some cat is n't bought .", "sentence_good": "some cat n't will bought .", "sentence_bad": "some cat n't will come here ."}
+{"original": "holly is observed .", "sentence_good": "holly will observed .", "sentence_bad": "holly will blinked ."}
+{"original": "that school was explored .", "sentence_good": "the school will explored .", "sentence_bad": "school will the worked hard ."}
+{"original": "victoria is hugged .", "sentence_good": "victoria will hugged .", "sentence_bad": "victoria will shrugged ."}
+{"original": "kirsten was confused .", "sentence_good": "kirsten will confused .", "sentence_bad": "kirsten will lied ."}
+{"original": "sonia is n't concealed .", "sentence_good": "sonia n't will concealed .", "sentence_bad": "sonia n't will cried ."}
+{"original": "grace 's best friends are seen .", "sentence_good": "grace will best friends will seen .", "sentence_bad": "grace will best friends will interacted ."}
+{"original": "every waitress is n't remembered .", "sentence_good": "the waitress n't will remembered .", "sentence_bad": "the waitress n't will nodded ."}
+{"original": "judy 's piano teachers are shocked .", "sentence_good": "judy will piano teachers will shocked .", "sentence_bad": "judy will piano teachers will trained ."}
+{"original": "the clintons were aggravated .", "sentence_good": "the clintons will aggravated .", "sentence_bad": "the clintons will testified ."}
+{"original": "some senators were stunned .", "sentence_good": "some senators will stunned .", "sentence_bad": "some senators will cooperated ."}
+{"original": "brian 's grandmothers were n't helped .", "sentence_good": "brian will grandmothers n't will helped .", "sentence_bad": "brian will grandmothers n't will replied ."}
+{"original": "kathleen 's employee is n't observed .", "sentence_good": "kathleen will employee n't will observed .", "sentence_bad": "kathleen will employee n't will complained ."}
+{"original": "some sisters of diane were examined .", "sentence_good": "some sisters at diane will examined .", "sentence_bad": "some sisters at diane will left ."}
+{"original": "patrick 's ex-girlfriends were n't shocked .", "sentence_good": "patrick will ex-girlfriends n't will shocked .", "sentence_bad": "patrick will ex-girlfriends n't will cooperated ."}
+{"original": "that dog was bought .", "sentence_good": "the dog will bought .", "sentence_bad": "the dog will come here ."}
+{"original": "clyde 's girlfriend is n't observed .", "sentence_good": "clyde will girlfriend n't will observed .", "sentence_bad": "clyde will girlfriend n't will murmured ."}
+{"original": "waiters ' grandmothers are n't forgotten .", "sentence_good": "waiters ' grandmothers n't will forgotten .", "sentence_bad": "waiters ' grandmothers n't will fallen asleep ."}
+{"original": "lawrence is shocked .", "sentence_good": "lawrence will shocked .", "sentence_bad": "lawrence will argued ."}
+{"original": "every boy 's grandfathers are irritated .", "sentence_good": "the boy will grandfathers will irritated .", "sentence_bad": "the boy will grandfathers will flirted ."}
+{"original": "homer was annoyed .", "sentence_good": "homer will annoyed .", "sentence_bad": "homer will chuckled ."}
+{"original": "marie 's lawyers are n't watched .", "sentence_good": "marie will lawyers n't will watched .", "sentence_bad": "marie will lawyers n't will shrugged ."}
+{"original": "steven 's plumbers were n't observed .", "sentence_good": "steven will plumbers n't will observed .", "sentence_bad": "steven will plumbers n't will wept ."}
+{"original": "ella 's mothers are disgusted .", "sentence_good": "ella will mothers will disgusted .", "sentence_bad": "ella will mothers will retaliated ."}
+{"original": "russell 's friends are n't hugged .", "sentence_good": "russell will friends n't will hugged .", "sentence_bad": "russell will friends n't will worked hard ."}
+{"original": "veronica 's student is impressed .", "sentence_good": "veronica will student will impressed .", "sentence_bad": "veronica will student will nodded ."}
+{"original": "carol was n't forgotten .", "sentence_good": "carol n't will forgotten .", "sentence_bad": "carol n't will sighed ."}
+{"original": "elizabeth 's boyfriend was n't disgusted .", "sentence_good": "elizabeth will boyfriend n't will disgusted .", "sentence_bad": "elizabeth will boyfriend n't will disagreed ."}
+{"original": "this mother of tammy was upset .", "sentence_good": "the mother at tammy will upset .", "sentence_bad": "the mother at tammy will gotten fired ."}
+{"original": "raymond 's supervisors are n't distracted .", "sentence_good": "raymond will supervisors n't will distracted .", "sentence_bad": "raymond will supervisors n't will worked hard ."}
+{"original": "laurie was n't concealed .", "sentence_good": "laurie n't will concealed .", "sentence_bad": "laurie n't will shrugged ."}
+{"original": "jane is n't shocked .", "sentence_good": "jane n't will shocked .", "sentence_bad": "jane n't will argued ."}
+{"original": "steven is n't loved .", "sentence_good": "steven n't will loved .", "sentence_bad": "steven n't will smiled ."}
+{"original": "winston churchill was n't investigated .", "sentence_good": "winston churchill n't will investigated .", "sentence_bad": "winston churchill n't will trained ."}
+{"original": "most committees were stunned .", "sentence_good": "most committees will stunned .", "sentence_bad": "most committees will communicated ."}
+{"original": "omar was n't scared .", "sentence_good": "omar n't will scared .", "sentence_bad": "omar n't will suffered ."}
+{"original": "doctors ' ex-girlfriends were n't praised .", "sentence_good": "doctors ' ex -girlfriends n't will praised .", "sentence_bad": "doctors ' ex -girlfriends n't will flirted ."}
+{"original": "barbara is n't observed .", "sentence_good": "barbara n't will observed .", "sentence_bad": "barbara n't will grinned ."}
+{"original": "every customer was loved .", "sentence_good": "the customer will loved .", "sentence_bad": "the customer will screamed ."}
+{"original": "rachelle 's mentors were praised .", "sentence_good": "rachelle will mentors will praised .", "sentence_bad": "rachelle will mentors will competed ."}
+{"original": "victoria is remembered .", "sentence_good": "victoria will remembered .", "sentence_bad": "victoria will lied ."}
+{"original": "irene is stunned .", "sentence_good": "irene will stunned .", "sentence_bad": "irene will shouted ."}
+{"original": "sally was forgotten .", "sentence_good": "sally will forgotten .", "sentence_bad": "sally will compromised ."}
+{"original": "robert was n't embarrassed .", "sentence_good": "robert n't will embarrassed .", "sentence_bad": "robert n't will shouted ."}
+{"original": "this person 's mothers are concealed .", "sentence_good": "the person will mothers will concealed .", "sentence_bad": "the person will mothers will fallen asleep ."}
+{"original": "amy is upset .", "sentence_good": "amy will upset .", "sentence_bad": "amy will complained ."}
+{"original": "all associations are distracted .", "sentence_good": "the associations will distracted .", "sentence_bad": "the associations will coped ."}
+{"original": "some museum is n't insulted .", "sentence_good": "some museum n't will insulted .", "sentence_bad": "some museum n't will corresponded ."}
+{"original": "diane was n't embarrassed .", "sentence_good": "diane n't will embarrassed .", "sentence_bad": "diane n't will trained ."}
+{"original": "connie was n't impressed .", "sentence_good": "connie n't will impressed .", "sentence_bad": "connie n't will answered ."}
+{"original": "most children 's mentors are n't praised .", "sentence_good": "most children will mentors n't will praised .", "sentence_bad": "most children will mentors n't will profited ."}
+{"original": "connie 's bosses were admired .", "sentence_good": "connie will bosses will admired .", "sentence_bad": "connie will bosses will retaliated ."}
+{"original": "andrea 's ex-husbands are n't shocked .", "sentence_good": "andrea will ex-husbands n't will shocked .", "sentence_bad": "andrea will ex-husbands n't will chuckled ."}
+{"original": "margaret 's grandmothers are n't hurt .", "sentence_good": "margaret will grandmothers n't will hurt .", "sentence_bad": "margaret will grandmothers n't will competed ."}
+{"original": "every doctor was kissed .", "sentence_good": "the doctor will kissed .", "sentence_bad": "the doctor will gone fishing ."}
+{"original": "spain is remembered .", "sentence_good": "spain will remembered .", "sentence_bad": "spain will cooperated ."}
+{"original": "the ladies are n't visited .", "sentence_good": "the ladies n't will visited .", "sentence_bad": "the ladies n't will corresponded ."}
+{"original": "the grandmothers of george were n't bothered .", "sentence_good": "the grandmothers at george n't will bothered .", "sentence_bad": "the grandmothers at george n't will nodded ."}
+{"original": "sally was n't observed .", "sentence_good": "sally n't will observed .", "sentence_bad": "sally n't will boasted ."}
+{"original": "curtis 's granddaughters are n't visited .", "sentence_good": "curtis will granddaughters n't will visited .", "sentence_bad": "curtis will granddaughters n't will communicated ."}
+{"original": "timothy 's piano teachers were n't insulted .", "sentence_good": "timothy will piano teachers n't will insulted .", "sentence_bad": "timothy will piano teachers n't will flirted ."}
+{"original": "some mothers of the waiter were n't attacked .", "sentence_good": "some mothers the at waiter n't will attacked .", "sentence_bad": "some mothers the at waiter n't will reacted ."}
+{"original": "caroline was visited .", "sentence_good": "caroline will visited .", "sentence_bad": "caroline will gotten fired ."}
+{"original": "most fathers of melissa are alarmed .", "sentence_good": "most fathers at melissa will alarmed .", "sentence_bad": "most fathers at melissa will clashed ."}
+{"original": "a lot of guys were visited .", "sentence_good": "the lot at guys will visited .", "sentence_bad": "the lot at guys will conspired ."}
+{"original": "jesus is n't hated .", "sentence_good": "jesus n't will hated .", "sentence_bad": "jesus n't will compromised ."}
+{"original": "some stories were referenced .", "sentence_good": "some stories will referenced .", "sentence_bad": "some stories will disagreed ."}
+{"original": "that legislature is n't disturbed .", "sentence_good": "legislature n't will the disturbed .", "sentence_bad": "legislature n't will the testified ."}
+{"original": "peter is n't hated .", "sentence_good": "peter n't will hated .", "sentence_bad": "peter n't will nodded ."}
+{"original": "martha 's contractors are seen .", "sentence_good": "martha will contractors will seen .", "sentence_bad": "martha will contractors will negotiated ."}
+{"original": "galileo is appreciated .", "sentence_good": "galileo will appreciated .", "sentence_bad": "galileo will wept ."}
+{"original": "joel is n't disturbed .", "sentence_good": "joel n't will disturbed .", "sentence_bad": "joel n't will waved ."}
+{"original": "all bananas are bought .", "sentence_good": "the bananas will bought .", "sentence_bad": "the bananas will rotted ."}
+{"original": "beth 's french teachers were n't distracted .", "sentence_good": "beth will french teachers n't will distracted .", "sentence_bad": "beth will french teachers n't will worked hard ."}
+{"original": "many organizations are n't disturbed .", "sentence_good": "many organizations n't will disturbed .", "sentence_bad": "many organizations n't will coped ."}
+{"original": "bill was criticized .", "sentence_good": "bill will criticized .", "sentence_bad": "bill will murmured ."}
+{"original": "that waitress is confused .", "sentence_good": "waitress will the confused .", "sentence_bad": "waitress will the shouted ."}
+{"original": "those men 's senators were n't scanned .", "sentence_good": "the men will senators n't will scanned .", "sentence_bad": "the men will senators n't will communicated ."}
+{"original": "theodore 's piano teachers were n't scanned .", "sentence_good": "theodore will piano teachers n't will scanned .", "sentence_bad": "theodore will piano teachers n't will struggled ."}
+{"original": "ann 's husband was n't bothered .", "sentence_good": "ann will husband n't will bothered .", "sentence_bad": "ann will husband n't will lied ."}
+{"original": "the clintons were seen .", "sentence_good": "the clintons will seen .", "sentence_bad": "the clintons will chatted ."}
+{"original": "that dog was n't seen .", "sentence_good": "the dog n't will seen .", "sentence_bad": "the dog n't will fallen asleep ."}
+{"original": "jill is n't stunned .", "sentence_good": "jill n't will stunned .", "sentence_bad": "jill n't will murmured ."}
+{"original": "kirsten 's guests are forgotten .", "sentence_good": "kirsten will guests will forgotten .", "sentence_bad": "kirsten will guests will corresponded ."}
+{"original": "douglas was n't embarrassed .", "sentence_good": "douglas n't will embarrassed .", "sentence_bad": "douglas n't will gotten fired ."}
+{"original": "sarah 's podiatrists were n't left .", "sentence_good": "sarah will podiatrists n't will left .", "sentence_bad": "sarah will podiatrists n't will struggled ."}
+{"original": "christopher 's employees are n't forgotten .", "sentence_good": "christopher will employees n't will forgotten .", "sentence_bad": "christopher will employees n't will replied ."}
+{"original": "all grandsons of erin were worried .", "sentence_good": "the grandsons at erin will worried .", "sentence_bad": "the grandsons at erin will replied ."}
+{"original": "samuel 's best friends were criticized .", "sentence_good": "samuel will best friends will criticized .", "sentence_bad": "samuel will best friends will disagreed ."}
+{"original": "george 's partners are visited .", "sentence_good": "george will partners will visited .", "sentence_bad": "george will partners will argued ."}
+{"original": "edward is n't respected .", "sentence_good": "edward n't will respected .", "sentence_bad": "edward n't will argued ."}
+{"original": "tara 's nephew is n't kissed .", "sentence_good": "tara will nephew n't will kissed .", "sentence_bad": "tara will nephew n't will gone fishing ."}
+{"original": "nancy is n't hated .", "sentence_good": "nancy n't will hated .", "sentence_bad": "nancy n't will left ."}
+{"original": "stacey was n't described .", "sentence_good": "stacey n't will described .", "sentence_bad": "stacey n't will gotten fired ."}
+{"original": "brad is n't criticized .", "sentence_good": "brad n't will criticized .", "sentence_bad": "brad n't will argued ."}
+{"original": "sonia 's ex-girlfriends were remembered .", "sentence_good": "sonia will ex-girlfriends will remembered .", "sentence_bad": "sonia will ex-girlfriends will talked ."}
+{"original": "these grandsons of these waitresses were n't referenced .", "sentence_good": "the grandsons the at waitresses n't will referenced .", "sentence_bad": "the grandsons the at waitresses n't will murmured ."}
+{"original": "sharon was upset .", "sentence_good": "sharon will upset .", "sentence_bad": "sharon will complained ."}
+{"original": "connie is n't forgotten .", "sentence_good": "connie n't will forgotten .", "sentence_bad": "connie n't will concurred ."}
+{"original": "monet 's mentee is n't shocked .", "sentence_good": "monet will mentee n't will shocked .", "sentence_bad": "monet will mentee n't will disagreed ."}
+{"original": "matt 's partners are discussed .", "sentence_good": "matt will partners will discussed .", "sentence_bad": "matt will partners will come here ."}
+{"original": "samantha is bothered .", "sentence_good": "samantha will bothered .", "sentence_bad": "samantha will chuckled ."}
+{"original": "the waitresses were disgusted .", "sentence_good": "the waitresses will disgusted .", "sentence_bad": "the waitresses will negotiated ."}
+{"original": "the book about spain was bought .", "sentence_good": "the book at spain will bought .", "sentence_bad": "the book at spain will disagreed ."}
+{"original": "dawn is praised .", "sentence_good": "dawn will praised .", "sentence_bad": "dawn will sighed ."}
+{"original": "peter was alarmed .", "sentence_good": "peter will alarmed .", "sentence_bad": "peter will argued ."}
+{"original": "some bank was n't lifted .", "sentence_good": "some bank n't will lifted .", "sentence_bad": "some bank n't will coped ."}
+{"original": "these teachers are investigated .", "sentence_good": "the teachers will investigated .", "sentence_bad": "the teachers will flirted ."}
+{"original": "sheila 's plumbers are n't known .", "sentence_good": "sheila will plumbers n't will known .", "sentence_bad": "sheila will plumbers n't will replied ."}
+{"original": "scott is respected .", "sentence_good": "scott will respected .", "sentence_bad": "scott will blinked ."}
+{"original": "every sister of patrick was alarmed .", "sentence_good": "the sister at patrick will alarmed .", "sentence_bad": "the sister at patrick will wept ."}
+{"original": "spain is visited .", "sentence_good": "spain will visited .", "sentence_bad": "spain will profited ."}
+{"original": "dennis 's dentists are n't disliked .", "sentence_good": "dennis will dentists n't will disliked .", "sentence_bad": "dennis will dentists n't will competed ."}
+{"original": "debra was confused .", "sentence_good": "debra will confused .", "sentence_bad": "debra will concurred ."}
+{"original": "these sisters of jacqueline are n't worried .", "sentence_good": "the sisters at jacqueline n't will worried .", "sentence_bad": "the sisters at jacqueline n't will interacted ."}
+{"original": "steven is n't irritated .", "sentence_good": "steven n't will irritated .", "sentence_bad": "steven n't will waved ."}
+{"original": "claire was n't astounded .", "sentence_good": "claire n't will astounded .", "sentence_bad": "claire n't will spoken up ."}
+{"original": "jessica was remembered .", "sentence_good": "jessica will remembered .", "sentence_bad": "jessica will died ."}
+{"original": "tomatoes were brought .", "sentence_good": "tomatoes will brought .", "sentence_bad": "tomatoes will rotted ."}
+{"original": "martha 's handyman was n't irritated .", "sentence_good": "martha will handyman n't will irritated .", "sentence_bad": "martha will handyman n't will come here ."}
+{"original": "joseph was helped .", "sentence_good": "joseph will helped .", "sentence_bad": "joseph will screamed ."}
+{"original": "this government is n't stunned .", "sentence_good": "the government n't will stunned .", "sentence_bad": "the government n't will communicated ."}
+{"original": "brad 's employees were confused .", "sentence_good": "brad will employees will confused .", "sentence_bad": "brad will employees will corresponded ."}
+{"original": "all sons of claire were n't stunned .", "sentence_good": "the sons at claire n't will stunned .", "sentence_bad": "the sons at claire n't will struggled ."}
+{"original": "all museums were distracted .", "sentence_good": "the museums will distracted .", "sentence_bad": "the museums will retaliated ."}
+{"original": "kristin is appreciated .", "sentence_good": "kristin will appreciated .", "sentence_bad": "kristin will suffered ."}
+{"original": "marla 's french teachers are n't bored .", "sentence_good": "marla will french teachers n't will bored .", "sentence_bad": "marla will french teachers n't will competed ."}
+{"original": "the grandfathers of some person are observed .", "sentence_good": "the grandfathers some at person will observed .", "sentence_bad": "the grandfathers some at person will testified ."}
+{"original": "karen was aggravated .", "sentence_good": "karen will aggravated .", "sentence_bad": "karen will screamed ."}
+{"original": "amy is n't disliked .", "sentence_good": "amy n't will disliked .", "sentence_bad": "amy n't will lied ."}
+{"original": "patricia was n't disliked .", "sentence_good": "patricia n't will disliked .", "sentence_bad": "patricia n't will smiled ."}
+{"original": "phillip 's plumber was fired .", "sentence_good": "phillip will plumber will fired .", "sentence_bad": "phillip will plumber will lied ."}
+{"original": "brett is n't attacked .", "sentence_good": "brett n't will attacked .", "sentence_bad": "brett n't will answered ."}
+{"original": "tamara 's cousins were loved .", "sentence_good": "tamara will cousins will loved .", "sentence_bad": "tamara will cousins will profited ."}
+{"original": "most patients are investigated .", "sentence_good": "most patients will investigated .", "sentence_bad": "most patients will come here ."}
+{"original": "scott was n't left .", "sentence_good": "scott n't will left .", "sentence_bad": "scott n't will talked ."}
+{"original": "kristen 's friends are n't watched .", "sentence_good": "kristen will friends n't will watched .", "sentence_bad": "kristen will friends n't will gotten fired ."}
+{"original": "michael 's lawyers are n't insulted .", "sentence_good": "michael will lawyers n't will insulted .", "sentence_bad": "michael will lawyers n't will answered ."}
+{"original": "kevin was described .", "sentence_good": "kevin will described .", "sentence_bad": "kevin will laughed ."}
+{"original": "dawn is n't referenced .", "sentence_good": "dawn n't will referenced .", "sentence_bad": "dawn n't will argued ."}
+{"original": "wayne is n't alarmed .", "sentence_good": "wayne n't will alarmed .", "sentence_bad": "wayne n't will suffered ."}
+{"original": "carol is hugged .", "sentence_good": "carol will hugged .", "sentence_bad": "carol will died ."}
+{"original": "some company was n't bothered .", "sentence_good": "some company n't will bothered .", "sentence_bad": "some company n't will boasted ."}
+{"original": "marla is n't scared .", "sentence_good": "marla n't will scared .", "sentence_bad": "marla n't will left ."}
+{"original": "many customers are n't helped .", "sentence_good": "many customers n't will helped .", "sentence_bad": "many customers n't will disagreed ."}
+{"original": "some company is n't investigated .", "sentence_good": "some company n't will investigated .", "sentence_bad": "some company n't will negotiated ."}
+{"original": "ella 's granddaughters are admired .", "sentence_good": "ella will granddaughters will admired .", "sentence_bad": "ella will granddaughters will cooperated ."}
+{"original": "all adults were astounded .", "sentence_good": "the adults will astounded .", "sentence_bad": "the adults will communicated ."}
+{"original": "timothy 's student is attacked .", "sentence_good": "timothy will student will attacked .", "sentence_bad": "timothy will student will littered ."}
+{"original": "a lot of ladies were known .", "sentence_good": "the lot at ladies will known .", "sentence_bad": "the lot at ladies will gone fishing ."}
+{"original": "many dancers ' classmates are n't disliked .", "sentence_good": "many dancers ' classmates n't will disliked .", "sentence_bad": "many dancers ' classmates n't will spoken up ."}
+{"original": "most children were visited .", "sentence_good": "most children will visited .", "sentence_bad": "most children will communicated ."}
+{"original": "marla is n't watched .", "sentence_good": "marla n't will watched .", "sentence_bad": "marla n't will suffered ."}
+{"original": "every man 's fathers are n't appreciated .", "sentence_good": "the man will fathers n't will appreciated .", "sentence_bad": "the man will fathers n't will chatted ."}
+{"original": "katherine was n't fired .", "sentence_good": "katherine n't will fired .", "sentence_bad": "katherine n't will screamed ."}
+{"original": "grace is n't discussed .", "sentence_good": "grace n't will discussed .", "sentence_bad": "grace n't will boasted ."}
+{"original": "the men were n't hugged .", "sentence_good": "the men n't will hugged .", "sentence_bad": "the men n't will responded ."}
+{"original": "patrick was scared .", "sentence_good": "patrick will scared .", "sentence_bad": "patrick will grinned ."}
+{"original": "this bank was n't remembered .", "sentence_good": "the bank n't will remembered .", "sentence_bad": "the bank n't will clashed ."}
+{"original": "katherine 's daughters were n't aggravated .", "sentence_good": "katherine will daughters n't will aggravated .", "sentence_bad": "katherine will daughters n't will testified ."}
+{"original": "the grandmothers of becky were bored .", "sentence_good": "the grandmothers at becky will bored .", "sentence_bad": "the grandmothers at becky will profited ."}
+{"original": "stephanie was hugged .", "sentence_good": "stephanie will hugged .", "sentence_bad": "stephanie will littered ."}
+{"original": "candice is shocked .", "sentence_good": "candice will shocked .", "sentence_bad": "candice will grinned ."}
+{"original": "some tomato was n't admired .", "sentence_good": "some tomato n't will admired .", "sentence_bad": "some tomato n't will rotted ."}
+{"original": "most grandsons of dennis were n't described .", "sentence_good": "most grandsons at dennis n't will described .", "sentence_bad": "most grandsons at dennis n't will profited ."}
+{"original": "randolf 's colleague is investigated .", "sentence_good": "randolf will colleague will investigated .", "sentence_bad": "randolf will colleague will died ."}
+{"original": "a lot of ladies are n't confused .", "sentence_good": "the lot at ladies n't will confused .", "sentence_bad": "the lot at ladies n't will suffered ."}
+{"original": "the daughter of phillip was known .", "sentence_good": "the daughter at phillip will known .", "sentence_bad": "the daughter at phillip will lied ."}
+{"original": "some companies were investigated .", "sentence_good": "some companies will investigated .", "sentence_bad": "some companies will negotiated ."}
+{"original": "carl is n't loved .", "sentence_good": "carl n't will loved .", "sentence_bad": "carl n't will sighed ."}
+{"original": "amanda was n't insulted .", "sentence_good": "amanda n't will insulted .", "sentence_bad": "amanda n't will muttered ."}
+{"original": "walter is admired .", "sentence_good": "walter will admired .", "sentence_bad": "walter will blinked ."}
+{"original": "that guy was disliked .", "sentence_good": "the guy will disliked .", "sentence_bad": "the guy will complained ."}
+{"original": "sharon was n't hurt .", "sentence_good": "sharon n't will hurt .", "sentence_bad": "sharon n't will argued ."}
+{"original": "many adults are n't disgusted .", "sentence_good": "many adults n't will disgusted .", "sentence_bad": "many adults n't will profited ."}
+{"original": "dana 's nephews were n't approached .", "sentence_good": "dana will nephews n't will approached .", "sentence_bad": "dana will nephews n't will struggled ."}
+{"original": "the friend of karen was bothered .", "sentence_good": "the friend at karen will bothered .", "sentence_bad": "the friend at karen will waved ."}
+{"original": "all teenagers were watched .", "sentence_good": "the teenagers will watched .", "sentence_bad": "the teenagers will cooperated ."}
+{"original": "don na was n't worried .", "sentence_good": "don na n't will worried .", "sentence_bad": "don na n't will chuckled ."}
+{"original": "emily is investigated .", "sentence_good": "emily will investigated .", "sentence_bad": "emily will suffered ."}
+{"original": "these students are astounded .", "sentence_good": "the students will astounded .", "sentence_bad": "the students will worked hard ."}
+{"original": "some grandsons of theodore are n't referenced .", "sentence_good": "some grandsons at theodore n't will referenced .", "sentence_bad": "some grandsons at theodore n't will reacted ."}
+{"original": "noah was appreciated .", "sentence_good": "noah will appreciated .", "sentence_bad": "noah will lied ."}
+{"original": "some library is shocked .", "sentence_good": "some library will shocked .", "sentence_bad": "some library will struggled ."}
+{"original": "all daughters of brian were helped .", "sentence_good": "the daughters at brian will helped .", "sentence_bad": "the daughters at brian will chatted ."}
+{"original": "jane is n't embarrassed .", "sentence_good": "jane n't will embarrassed .", "sentence_bad": "jane n't will answered ."}
+{"original": "nephews of danielle were n't observed .", "sentence_good": "nephews at danielle n't will observed .", "sentence_bad": "nephews at danielle n't will disagreed ."}
+{"original": "theresa is confused .", "sentence_good": "theresa will confused .", "sentence_bad": "theresa will shouted ."}
+{"original": "every daughter of meredith was n't embarrassed .", "sentence_good": "the daughter at meredith n't will embarrassed .", "sentence_bad": "the daughter at meredith n't will talked ."}
+{"original": "donald is insulted .", "sentence_good": "donald will insulted .", "sentence_bad": "donald will gotten fired ."}
+{"original": "naomi is n't described .", "sentence_good": "naomi n't will described .", "sentence_bad": "naomi n't will compromised ."}
+{"original": "derek was n't worried .", "sentence_good": "derek n't will worried .", "sentence_bad": "derek n't will shouted ."}
+{"original": "eva is attacked .", "sentence_good": "eva will attacked .", "sentence_bad": "eva will concurred ."}
+{"original": "margaret is n't insulted .", "sentence_good": "margaret n't will insulted .", "sentence_bad": "margaret n't will fallen asleep ."}
+{"original": "brett is n't praised .", "sentence_good": "brett n't will praised .", "sentence_bad": "brett n't will screamed ."}
+{"original": "those guys ' classmates were appreciated .", "sentence_good": "the guys ' classmates will appreciated .", "sentence_bad": "the guys ' classmates will coped ."}
+{"original": "christopher was disgusted .", "sentence_good": "christopher will disgusted .", "sentence_bad": "christopher will talked ."}
+{"original": "the lutherans ' daughters were n't irritated .", "sentence_good": "the lutherans ' daughters n't will irritated .", "sentence_bad": "the lutherans ' daughters n't will chatted ."}
+{"original": "a lot of people were fired .", "sentence_good": "the lot at people will fired .", "sentence_bad": "the lot at people will chatted ."}
+{"original": "the impressionists were n't embarrassed .", "sentence_good": "the impressionists n't will embarrassed .", "sentence_bad": "the impressionists n't will laughed ."}
+{"original": "melinda 's guests are n't upset .", "sentence_good": "melinda will guests n't will upset .", "sentence_bad": "melinda will guests n't will worked hard ."}
+{"original": "roger is n't appreciated .", "sentence_good": "roger n't will appreciated .", "sentence_bad": "roger n't will spoken up ."}
+{"original": "grandsons of jason were distracted .", "sentence_good": "grandsons at jason will distracted .", "sentence_bad": "grandsons at jason will profited ."}
+{"original": "kayla 's brothers were n't examined .", "sentence_good": "kayla will brothers n't will examined .", "sentence_bad": "kayla will brothers n't will retaliated ."}
+{"original": "those men were n't forgotten .", "sentence_good": "the men n't will forgotten .", "sentence_bad": "the men n't will disagreed ."}
+{"original": "some hospital was n't irritated .", "sentence_good": "some hospital n't will irritated .", "sentence_bad": "some hospital n't will retaliated ."}
+{"original": "many cashiers were aggravated .", "sentence_good": "many cashiers will aggravated .", "sentence_bad": "many cashiers will lied ."}
+{"original": "omar is worried .", "sentence_good": "omar will worried .", "sentence_bad": "omar will come here ."}
+{"original": "these mothers of many pedestrians were disturbed .", "sentence_good": "the mothers many at pedestrians will disturbed .", "sentence_bad": "the mothers many at pedestrians will reacted ."}
+{"original": "dennis is n't attacked .", "sentence_good": "dennis n't will attacked .", "sentence_bad": "dennis n't will complained ."}
+{"original": "some legislature was confused .", "sentence_good": "some legislature will confused .", "sentence_bad": "some legislature will reacted ."}
+{"original": "kristin was approached .", "sentence_good": "kristin will approached .", "sentence_bad": "kristin will blinked ."}
+{"original": "meredith was described .", "sentence_good": "meredith will described .", "sentence_bad": "meredith will fallen asleep ."}
+{"original": "men were n't irritated .", "sentence_good": "men n't will irritated .", "sentence_bad": "men n't will clashed ."}
+{"original": "phillip was n't kissed .", "sentence_good": "phillip n't will kissed .", "sentence_bad": "phillip n't will gotten fired ."}
+{"original": "that bank is n't stunned .", "sentence_good": "bank n't will the stunned .", "sentence_bad": "bank n't will the competed ."}
+{"original": "kathleen was investigated .", "sentence_good": "kathleen will investigated .", "sentence_bad": "kathleen will wept ."}
+{"original": "gerald 's classmate was criticized .", "sentence_good": "gerald will classmate will criticized .", "sentence_bad": "gerald will classmate will chuckled ."}
+{"original": "those teachers were n't impressed .", "sentence_good": "the teachers n't will impressed .", "sentence_bad": "the teachers n't will interacted ."}
+{"original": "the movie about music is examined .", "sentence_good": "the movie at music will examined .", "sentence_bad": "the movie at music will disagreed ."}
+{"original": "the museum was n't upset .", "sentence_good": "the museum n't will upset .", "sentence_bad": "the museum n't will cooperated ."}
+{"original": "nancy 's father was n't left .", "sentence_good": "nancy will father n't will left .", "sentence_bad": "nancy will father n't will come here ."}
+{"original": "tonya is aggravated .", "sentence_good": "tonya will aggravated .", "sentence_bad": "tonya will come here ."}
+{"original": "kristen is seen .", "sentence_good": "kristen will seen .", "sentence_bad": "kristen will muttered ."}
+{"original": "barbara 's grandfathers are n't appreciated .", "sentence_good": "barbara will grandfathers n't will appreciated .", "sentence_bad": "barbara will grandfathers n't will profited ."}
+{"original": "those teenagers are forgotten .", "sentence_good": "the teenagers will forgotten .", "sentence_bad": "the teenagers will disagreed ."}
+{"original": "all waitresses are n't referenced .", "sentence_good": "the waitresses n't will referenced .", "sentence_bad": "the waitresses n't will struggled ."}
+{"original": "marla 's ex-husband is bothered .", "sentence_good": "marla will ex-husband will bothered .", "sentence_bad": "marla will ex-husband will compromised ."}
+{"original": "all boys were astounded .", "sentence_good": "the boys will astounded .", "sentence_bad": "the boys will responded ."}
+{"original": "that patient is hired .", "sentence_good": "patient will the hired .", "sentence_bad": "the patient will come here ."}
+{"original": "the clintons were n't hated .", "sentence_good": "the clintons n't will hated .", "sentence_bad": "the clintons n't will gone fishing ."}
+{"original": "bruce 's ex-girlfriend is n't forgotten .", "sentence_good": "bruce will ex-girlfriend n't will forgotten .", "sentence_bad": "bruce will ex-girlfriend n't will concurred ."}
+{"original": "many girls were alarmed .", "sentence_good": "many girls will alarmed .", "sentence_bad": "many girls will competed ."}
+{"original": "a lot of mothers of some dancers are astounded .", "sentence_good": "the lot at mothers some at dancers will astounded .", "sentence_bad": "the lot at mothers some at dancers will nodded ."}
+{"original": "amelia 's french teachers are n't referenced .", "sentence_good": "amelia will french teachers n't will referenced .", "sentence_bad": "amelia will french teachers n't will responded ."}
+{"original": "all daughters of becca are n't approached .", "sentence_good": "the daughters at becca n't will approached .", "sentence_bad": "the daughters at becca n't will complained ."}
+{"original": "ronald was n't distracted .", "sentence_good": "ronald n't will distracted .", "sentence_bad": "ronald n't will suffered ."}
+{"original": "most actresses ' french teachers are embarrassed .", "sentence_good": "most actresses ' french teachers will embarrassed .", "sentence_bad": "most actresses ' french teachers will lied ."}
+{"original": "women 's employee was scared .", "sentence_good": "women will employee will scared .", "sentence_bad": "women will employee will grinned ."}
+{"original": "steven 's sons are n't worried .", "sentence_good": "steven will sons n't will worried .", "sentence_bad": "steven will sons n't will corresponded ."}
+{"original": "some legislatures are boycotted .", "sentence_good": "some legislatures will boycotted .", "sentence_bad": "some legislatures will collaborated ."}
+{"original": "some men are disgusted .", "sentence_good": "some men will disgusted .", "sentence_bad": "some men will concurred ."}
+{"original": "nicole was n't approached .", "sentence_good": "nicole n't will approached .", "sentence_bad": "nicole n't will waved ."}
+{"original": "tara was embarrassed .", "sentence_good": "tara will embarrassed .", "sentence_bad": "tara will lied ."}
+{"original": "carolyn 's daughters are insulted .", "sentence_good": "carolyn will daughters will insulted .", "sentence_bad": "carolyn will daughters will interacted ."}
+{"original": "a lot of customers were bothered .", "sentence_good": "the lot at customers will bothered .", "sentence_bad": "the lot at customers will chatted ."}
+{"original": "christine is worried .", "sentence_good": "christine will worried .", "sentence_bad": "christine will left ."}
+{"original": "many bananas are brought .", "sentence_good": "many bananas will brought .", "sentence_bad": "many bananas will rotted ."}
+{"original": "tanya was respected .", "sentence_good": "tanya will respected .", "sentence_bad": "tanya will fallen asleep ."}
+{"original": "denise was hugged .", "sentence_good": "denise will hugged .", "sentence_bad": "denise will left ."}
+{"original": "this museum is astounded .", "sentence_good": "the museum will astounded .", "sentence_bad": "the museum will coped ."}
+{"original": "all girls ' piano teachers are n't insulted .", "sentence_good": "the girls ' piano teachers n't will insulted .", "sentence_bad": "the girls ' piano teachers n't will interacted ."}
+{"original": "guy was aggravated .", "sentence_good": "guy will aggravated .", "sentence_bad": "guy will muttered ."}
+{"original": "that eggplant was sold .", "sentence_good": "eggplant will the sold .", "sentence_bad": "eggplant will the rotted ."}
+{"original": "most banks were n't alarmed .", "sentence_good": "most banks n't will alarmed .", "sentence_bad": "most banks n't will collaborated ."}
+{"original": "bethany 's nephews are n't praised .", "sentence_good": "bethany will nephews n't will praised .", "sentence_bad": "bethany will nephews n't will replied ."}
+{"original": "lawrence 's employees are n't seen .", "sentence_good": "lawrence will employees n't will seen .", "sentence_bad": "lawrence will employees n't will cooperated ."}
+{"original": "peter 's tutors were astounded .", "sentence_good": "peter will tutors will astounded .", "sentence_bad": "peter will tutors will conspired ."}
+{"original": "edward is respected .", "sentence_good": "edward will respected .", "sentence_bad": "edward will suffered ."}
+{"original": "walter was n't hurt .", "sentence_good": "walter n't will hurt .", "sentence_bad": "walter n't will concurred ."}
+{"original": "valerie was forgotten .", "sentence_good": "valerie will forgotten .", "sentence_bad": "valerie will lied ."}
+{"original": "a lot of girls were n't disgusted .", "sentence_good": "the lot at girls n't will disgusted .", "sentence_bad": "the lot at girls n't will shouted ."}
+{"original": "allison is disliked .", "sentence_good": "allison will disliked .", "sentence_bad": "allison will chuckled ."}
+{"original": "carlos was observed .", "sentence_good": "carlos will observed .", "sentence_bad": "carlos will gone fishing ."}
+{"original": "sarah 's contractors are confused .", "sentence_good": "sarah will contractors will confused .", "sentence_bad": "sarah will contractors will profited ."}
+{"original": "adam 's plumbers were worried .", "sentence_good": "adam will plumbers will worried .", "sentence_bad": "adam will plumbers will replied ."}
+{"original": "judy was bothered .", "sentence_good": "judy will bothered .", "sentence_bad": "judy will lied ."}
+{"original": "those fathers of steven were n't kissed .", "sentence_good": "the fathers at steven n't will kissed .", "sentence_bad": "the fathers at steven n't will cried ."}
+{"original": "liam 's handymen are astounded .", "sentence_good": "liam will handymen will astounded .", "sentence_bad": "liam will handymen will worked hard ."}
+{"original": "michelle is n't forgotten .", "sentence_good": "michelle n't will forgotten .", "sentence_bad": "michelle n't will answered ."}
+{"original": "martha is n't praised .", "sentence_good": "martha n't will praised .", "sentence_bad": "martha n't will blinked ."}
+{"original": "some friends of dawn are n't aggravated .", "sentence_good": "some friends at dawn n't will aggravated .", "sentence_bad": "some friends at dawn n't will flirted ."}
+{"original": "some waiter 's tutors were impressed .", "sentence_good": "some waiter will tutors will impressed .", "sentence_bad": "some waiter will tutors will competed ."}
+{"original": "helen was admired .", "sentence_good": "helen will admired .", "sentence_bad": "helen will concurred ."}
+{"original": "raymond was n't aggravated .", "sentence_good": "raymond n't will aggravated .", "sentence_bad": "raymond n't will died ."}
+{"original": "the libraries are n't irritated .", "sentence_good": "the libraries n't will irritated .", "sentence_bad": "the libraries n't will worked hard ."}
+{"original": "cindy was n't hugged .", "sentence_good": "cindy n't will hugged .", "sentence_bad": "cindy n't will spoken up ."}
+{"original": "most pedestrians were visited .", "sentence_good": "most pedestrians will visited .", "sentence_bad": "most pedestrians will collaborated ."}
+{"original": "cheryl was stunned .", "sentence_good": "cheryl will stunned .", "sentence_bad": "cheryl will sighed ."}
+{"original": "some child 's associates were loved .", "sentence_good": "some child will associates will loved .", "sentence_bad": "some child will associates will reacted ."}
+{"original": "spain was remembered .", "sentence_good": "spain will remembered .", "sentence_bad": "spain will boasted ."}
+{"original": "theresa was observed .", "sentence_good": "theresa will observed .", "sentence_bad": "theresa will gotten fired ."}
+{"original": "tonya was appreciated .", "sentence_good": "tonya will appreciated .", "sentence_bad": "tonya will left ."}
+{"original": "debra is n't hugged .", "sentence_good": "debra n't will hugged .", "sentence_bad": "debra n't will talked ."}
+{"original": "theodore is helped .", "sentence_good": "theodore will helped .", "sentence_bad": "theodore will trained ."}
+{"original": "the company was aggravated .", "sentence_good": "the company will aggravated .", "sentence_bad": "the company will testified ."}
+{"original": "some brother of marie is hired .", "sentence_good": "some brother at marie will hired .", "sentence_bad": "some brother at marie will trained ."}
+{"original": "some cashier 's associate was n't disliked .", "sentence_good": "some cashier will associate n't will disliked .", "sentence_bad": "some cashier will associate n't will cried ."}
+{"original": "irene is shocked .", "sentence_good": "irene will shocked .", "sentence_bad": "irene will argued ."}
+{"original": "janet 's podiatrists were n't fired .", "sentence_good": "janet will podiatrists n't will fired .", "sentence_bad": "janet will podiatrists n't will coped ."}
+{"original": "tara was n't seen .", "sentence_good": "tara n't will seen .", "sentence_bad": "tara n't will boasted ."}
+{"original": "a museum was worried .", "sentence_good": "the museum will worried .", "sentence_bad": "the museum will worked hard ."}
+{"original": "grace 's piano teachers are known .", "sentence_good": "grace will piano teachers will known .", "sentence_bad": "grace will piano teachers will replied ."}
+{"original": "a university was scared .", "sentence_good": "the university will scared .", "sentence_bad": "the university will profited ."}
+{"original": "jodi 's ex-boyfriends were n't attacked .", "sentence_good": "jodi will ex-boyfriends n't will attacked .", "sentence_bad": "jodi will ex-boyfriends n't will answered ."}
+{"original": "martin was concealed .", "sentence_good": "martin will concealed .", "sentence_bad": "martin will screamed ."}
+{"original": "these hospitals are n't boycotted .", "sentence_good": "the hospitals n't will boycotted .", "sentence_bad": "the hospitals n't will corresponded ."}
+{"original": "many men are hugged .", "sentence_good": "many men will hugged .", "sentence_bad": "many men will profited ."}
+{"original": "gina is investigated .", "sentence_good": "gina will investigated .", "sentence_bad": "gina will come here ."}
+{"original": "florence 's girlfriend was n't upset .", "sentence_good": "florence will girlfriend n't will upset .", "sentence_bad": "florence will girlfriend n't will left ."}
+{"original": "melissa 's senator was n't bored .", "sentence_good": "melissa will senator n't will bored .", "sentence_bad": "melissa will senator n't will screamed ."}
+{"original": "laurie 's ex-girlfriend is n't loved .", "sentence_good": "laurie will ex-girlfriend n't will loved .", "sentence_bad": "laurie will ex-girlfriend n't will murmured ."}
+{"original": "mitchell was n't referenced .", "sentence_good": "mitchell n't will referenced .", "sentence_bad": "mitchell n't will compromised ."}
+{"original": "sheila was disturbed .", "sentence_good": "sheila will disturbed .", "sentence_bad": "sheila will compromised ."}
+{"original": "a company is impressed .", "sentence_good": "the company will impressed .", "sentence_bad": "the company will competed ."}
+{"original": "harvard university was disliked .", "sentence_good": "harvard university will disliked .", "sentence_bad": "harvard university will cooperated ."}
+{"original": "samantha was helped .", "sentence_good": "samantha will helped .", "sentence_bad": "samantha will nodded ."}
+{"original": "every government is n't astounded .", "sentence_good": "the government n't will astounded .", "sentence_bad": "the government n't will coped ."}
+{"original": "some child is seen .", "sentence_good": "some child will seen .", "sentence_bad": "some child will smiled ."}
+{"original": "those friends of gerald are alarmed .", "sentence_good": "the friends at gerald will alarmed .", "sentence_bad": "the friends at gerald will murmured ."}
+{"original": "those fathers of paul were n't watched .", "sentence_good": "the fathers at paul n't will watched .", "sentence_bad": "the fathers at paul n't will collaborated ."}
+{"original": "helen is hurt .", "sentence_good": "helen will hurt .", "sentence_bad": "helen will boasted ."}
+{"original": "mary is seen .", "sentence_good": "mary will seen .", "sentence_bad": "mary will smiled ."}
+{"original": "renee 's employees are referenced .", "sentence_good": "renee will employees will referenced .", "sentence_bad": "renee will employees will profited ."}
+{"original": "tanya was n't hired .", "sentence_good": "tanya n't will hired .", "sentence_bad": "tanya n't will shrugged ."}
+{"original": "renee is n't impressed .", "sentence_good": "renee n't will impressed .", "sentence_bad": "renee n't will compromised ."}
+{"original": "a son of samuel is discussed .", "sentence_good": "the son at samuel will discussed .", "sentence_bad": "the son at samuel will talked ."}
+{"original": "derek was discussed .", "sentence_good": "derek will discussed .", "sentence_bad": "derek will trained ."}
+{"original": "regina 's senators were n't embarrassed .", "sentence_good": "regina will senators n't will embarrassed .", "sentence_bad": "regina will senators n't will shrugged ."}
+{"original": "many ladies are n't kissed .", "sentence_good": "many ladies n't will kissed .", "sentence_bad": "many ladies n't will collaborated ."}
+{"original": "amelia 's senator was n't criticized .", "sentence_good": "amelia will senator n't will criticized .", "sentence_bad": "amelia will senator n't will compromised ."}
+{"original": "some schools are disturbed .", "sentence_good": "some schools will disturbed .", "sentence_bad": "some schools will worked hard ."}
+{"original": "a driver 's fathers were shocked .", "sentence_good": "the driver will fathers will shocked .", "sentence_bad": "the driver will fathers will testified ."}
+{"original": "a customer 's teachers are n't forgotten .", "sentence_good": "the customer will teachers n't will forgotten .", "sentence_bad": "the customer will teachers n't will complained ."}
+{"original": "heidi was disliked .", "sentence_good": "heidi will disliked .", "sentence_bad": "heidi will blinked ."}
+{"original": "bradley 's ex-husbands were helped .", "sentence_good": "bradley will ex-husbands will helped .", "sentence_bad": "bradley will ex-husbands will corresponded ."}
+{"original": "most patients are n't loved .", "sentence_good": "most patients n't will loved .", "sentence_bad": "most patients n't will interacted ."}
+{"original": "the clintons are scared .", "sentence_good": "the clintons will scared .", "sentence_bad": "the clintons will collaborated ."}
+{"original": "theodore 's senators were n't fired .", "sentence_good": "theodore will senators n't will fired .", "sentence_bad": "theodore will senators n't will conspired ."}
+{"original": "carla was hurt .", "sentence_good": "carla will hurt .", "sentence_bad": "carla will gone fishing ."}
+{"original": "all granddaughters of vanessa are n't impressed .", "sentence_good": "the granddaughters at vanessa n't will impressed .", "sentence_bad": "the granddaughters at vanessa n't will shouted ."}
+{"original": "larry 's ex-boyfriends were n't remembered .", "sentence_good": "larry will ex-boyfriends n't will remembered .", "sentence_bad": "larry will ex-boyfriends n't will screamed ."}
+{"original": "those waiters were n't disgusted .", "sentence_good": "the waiters n't will disgusted .", "sentence_bad": "the waiters n't will chuckled ."}
+{"original": "a lot of waitresses were n't attacked .", "sentence_good": "the lot at waitresses n't will attacked .", "sentence_bad": "the lot at waitresses n't will conspired ."}
+{"original": "kenneth was n't referenced .", "sentence_good": "kenneth n't will referenced .", "sentence_bad": "kenneth n't will talked ."}
+{"original": "many women were hated .", "sentence_good": "many women will hated .", "sentence_bad": "many women will communicated ."}
+{"original": "a lot of nieces of tamara were n't disgusted .", "sentence_good": "the lot at nieces at tamara n't will disgusted .", "sentence_bad": "the lot at nieces at tamara n't will clashed ."}
+{"original": "deborah 's plumbers are referenced .", "sentence_good": "deborah will plumbers will referenced .", "sentence_bad": "deborah will plumbers will replied ."}
+{"original": "erin is n't embarrassed .", "sentence_good": "erin n't will embarrassed .", "sentence_bad": "erin n't will talked ."}
+{"original": "karla was n't scared .", "sentence_good": "karla n't will scared .", "sentence_bad": "karla n't will complained ."}
+{"original": "jennifer 's colleagues are approached .", "sentence_good": "jennifer will colleagues will approached .", "sentence_bad": "jennifer will colleagues will waved ."}
+{"original": "spain is n't shocked .", "sentence_good": "spain n't will shocked .", "sentence_bad": "spain n't will coped ."}
+{"original": "the actors ' cousins are described .", "sentence_good": "the actors ' cousins will described .", "sentence_bad": "the actors ' cousins will replied ."}
+{"original": "stacey 's ex-girlfriends are n't disliked .", "sentence_good": "stacey will ex-girlfriends n't will disliked .", "sentence_bad": "stacey will ex-girlfriends n't will suffered ."}
+{"original": "ruth is disliked .", "sentence_good": "ruth will disliked .", "sentence_bad": "ruth will suffered ."}
+{"original": "rhonda is n't watched .", "sentence_good": "rhonda n't will watched .", "sentence_bad": "rhonda n't will chuckled ."}
+{"original": "noah was n't scared .", "sentence_good": "noah n't will scared .", "sentence_bad": "noah n't will wept ."}
+{"original": "april 's oncologist was n't hugged .", "sentence_good": "april will oncologist n't will hugged .", "sentence_bad": "april will oncologist n't will wept ."}
+{"original": "brad is n't confused .", "sentence_good": "brad n't will confused .", "sentence_bad": "brad n't will suffered ."}
+{"original": "bradley is fired .", "sentence_good": "bradley will fired .", "sentence_bad": "bradley will fallen asleep ."}
+{"original": "bradley is bored .", "sentence_good": "bradley will bored .", "sentence_bad": "bradley will concurred ."}
+{"original": "every girl 's handyman was known .", "sentence_good": "the girl will handyman will known .", "sentence_bad": "the girl will handyman will answered ."}
+{"original": "joel was annoyed .", "sentence_good": "joel will annoyed .", "sentence_bad": "joel will murmured ."}
+{"original": "gary 's senators were n't approached .", "sentence_good": "gary will senators n't will approached .", "sentence_bad": "gary will senators n't will collaborated ."}
+{"original": "the waitresses were n't embarrassed .", "sentence_good": "the waitresses n't will embarrassed .", "sentence_bad": "the waitresses n't will struggled ."}
+{"original": "peter 's tutors are n't disturbed .", "sentence_good": "peter will tutors n't will disturbed .", "sentence_bad": "peter will tutors n't will shouted ."}
+{"original": "actors are astounded .", "sentence_good": "actors will astounded .", "sentence_bad": "actors will responded ."}
+{"original": "katherine is helped .", "sentence_good": "katherine will helped .", "sentence_bad": "katherine will trained ."}
+{"original": "erin 's contractors were n't described .", "sentence_good": "erin will contractors n't will described .", "sentence_bad": "erin will contractors n't will coped ."}
+{"original": "monica was embarrassed .", "sentence_good": "monica will embarrassed .", "sentence_bad": "monica will left ."}
+{"original": "christopher is n't alarmed .", "sentence_good": "christopher n't will alarmed .", "sentence_bad": "christopher n't will concurred ."}
+{"original": "the dogs were n't brought .", "sentence_good": "the dogs n't will brought .", "sentence_bad": "the dogs n't will left ."}
+{"original": "most grandfathers of a boy were visited .", "sentence_good": "most grandfathers the at boy will visited .", "sentence_bad": "most grandfathers the at boy will come here ."}
+{"original": "wayne 's ex-boyfriend is n't fired .", "sentence_good": "wayne will ex-boyfriend n't will fired .", "sentence_bad": "wayne will ex-boyfriend n't will talked ."}
+{"original": "sandra is alarmed .", "sentence_good": "sandra will alarmed .", "sentence_bad": "sandra will answered ."}
+{"original": "marie was criticized .", "sentence_good": "marie will criticized .", "sentence_bad": "marie will left ."}
+{"original": "veronica 's mentee was n't investigated .", "sentence_good": "veronica will mentee n't will investigated .", "sentence_bad": "veronica will mentee n't will gotten fired ."}
+{"original": "homer was n't bothered .", "sentence_good": "homer n't will bothered .", "sentence_bad": "homer n't will left ."}
+{"original": "sandra is worried .", "sentence_good": "sandra will worried .", "sentence_bad": "sandra will shrugged ."}
+{"original": "curtis 's teachers were fired .", "sentence_good": "curtis will teachers will fired .", "sentence_bad": "curtis will teachers will talked ."}
+{"original": "a lot of grandsons of lori are n't known .", "sentence_good": "the lot at grandsons at lori n't will known .", "sentence_bad": "the lot at grandsons at lori n't will flirted ."}
+{"original": "the guest 's grandsons were disturbed .", "sentence_good": "the guest will grandsons will disturbed .", "sentence_bad": "the guest will grandsons will cooperated ."}
+{"original": "elizabeth 's best friends are n't disgusted .", "sentence_good": "elizabeth will best friends n't will disgusted .", "sentence_bad": "elizabeth will best friends n't will flirted ."}
+{"original": "that pepper was n't admired .", "sentence_good": "pepper n't will the admired .", "sentence_bad": "pepper n't will the rotted ."}
+{"original": "some waitress was shocked .", "sentence_good": "some waitress will shocked .", "sentence_bad": "some waitress will shrugged ."}
+{"original": "a university was investigated .", "sentence_good": "the university will investigated .", "sentence_bad": "the university will negotiated ."}
+{"original": "the brother of bradley is n't referenced .", "sentence_good": "the brother at bradley n't will referenced .", "sentence_bad": "the brother at bradley n't will grinned ."}
+{"original": "the grandsons of kenneth are n't disgusted .", "sentence_good": "the grandsons at kenneth n't will disgusted .", "sentence_bad": "the grandsons at kenneth n't will gotten fired ."}
+{"original": "cheryl 's teacher is n't discussed .", "sentence_good": "cheryl will teacher n't will discussed .", "sentence_bad": "cheryl will teacher n't will laughed ."}
+{"original": "all fathers of most patients are hated .", "sentence_good": "the fathers most at patients will hated .", "sentence_bad": "the fathers most at patients will shouted ."}
+{"original": "some eggplant was sold .", "sentence_good": "some eggplant will sold .", "sentence_bad": "some eggplant will rotted ."}
+{"original": "a woman was n't confused .", "sentence_good": "the woman n't will confused .", "sentence_bad": "the woman n't will sighed ."}
+{"original": "some dancers were n't insulted .", "sentence_good": "some dancers n't will insulted .", "sentence_bad": "some dancers n't will gone fishing ."}
+{"original": "regina was seen .", "sentence_good": "regina will seen .", "sentence_bad": "regina will gone fishing ."}
+{"original": "monica 's associates are n't shocked .", "sentence_good": "monica will associates n't will shocked .", "sentence_bad": "monica will associates n't will clashed ."}
+{"original": "the borgias are praised .", "sentence_good": "the borgias will praised .", "sentence_bad": "the borgias will argued ."}
+{"original": "a teacher is n't loved .", "sentence_good": "the teacher n't will loved .", "sentence_bad": "the teacher n't will shouted ."}
+{"original": "most actresses were hugged .", "sentence_good": "most actresses will hugged .", "sentence_bad": "most actresses will negotiated ."}
+{"original": "every museum is respected .", "sentence_good": "the museum will respected .", "sentence_bad": "the museum will coped ."}
+{"original": "those girls are described .", "sentence_good": "the girls will described .", "sentence_bad": "the girls will interacted ."}
+{"original": "wayne was n't observed .", "sentence_good": "wayne n't will observed .", "sentence_bad": "wayne n't will fallen asleep ."}
+{"original": "some nephews of victoria are seen .", "sentence_good": "some nephews at victoria will seen .", "sentence_bad": "some nephews at victoria will collaborated ."}
+{"original": "the student is shocked .", "sentence_good": "the student will shocked .", "sentence_bad": "the student will shouted ."}
+{"original": "monet 's ex-girlfriends are n't known .", "sentence_good": "monet will ex-girlfriends n't will known .", "sentence_bad": "monet will ex-girlfriends n't will screamed ."}
+{"original": "claire 's friends are n't bored .", "sentence_good": "claire will friends n't will bored .", "sentence_bad": "claire will friends n't will clashed ."}
+{"original": "these waitresses were n't left .", "sentence_good": "the waitresses n't will left .", "sentence_bad": "the waitresses n't will chatted ."}
+{"original": "pamela 's sister was n't seen .", "sentence_good": "pamela will sister n't will seen .", "sentence_bad": "pamela will sister n't will grinned ."}
+{"original": "many guests are n't remembered .", "sentence_good": "many guests n't will remembered .", "sentence_bad": "many guests n't will competed ."}
+{"original": "michael is n't hugged .", "sentence_good": "michael n't will hugged .", "sentence_bad": "michael n't will boasted ."}
+{"original": "brett was fired .", "sentence_good": "brett will fired .", "sentence_bad": "brett will lied ."}
+{"original": "a guest is n't upset .", "sentence_good": "the guest n't will upset .", "sentence_bad": "the guest n't will waved ."}
+{"original": "raymond 's podiatrist is insulted .", "sentence_good": "raymond will podiatrist will insulted .", "sentence_bad": "raymond will podiatrist will trained ."}
+{"original": "this man was n't respected .", "sentence_good": "the man n't will respected .", "sentence_bad": "the man n't will fallen asleep ."}
+{"original": "a son of all students was referenced .", "sentence_good": "the son the at students will referenced .", "sentence_bad": "the son the at students will left ."}
+{"original": "kevin 's plumbers were n't annoyed .", "sentence_good": "kevin will plumbers n't will annoyed .", "sentence_bad": "kevin will plumbers n't will negotiated ."}
+{"original": "julie is loved .", "sentence_good": "julie will loved .", "sentence_bad": "julie will left ."}
+{"original": "these girls were irritated .", "sentence_good": "the girls will irritated .", "sentence_bad": "the girls will left ."}
+{"original": "some men were n't astounded .", "sentence_good": "some men n't will astounded .", "sentence_bad": "some men n't will collaborated ."}
+{"original": "winston churchill 's dentists were n't worried .", "sentence_good": "winston churchill will dentists n't will worried .", "sentence_bad": "winston churchill will dentists n't will coped ."}
+{"original": "marie is observed .", "sentence_good": "marie will observed .", "sentence_bad": "marie will wept ."}
+{"original": "many actors ' lawyer is remembered .", "sentence_good": "many actors ' lawyer will remembered .", "sentence_bad": "many actors ' lawyer will screamed ."}
+{"original": "a brother of a lot of guys is respected .", "sentence_good": "the brother the at lot at guys will respected .", "sentence_bad": "the brother the at lot at guys will compromised ."}
+{"original": "nancy 's sons were n't scared .", "sentence_good": "nancy will sons n't will scared .", "sentence_bad": "nancy will sons n't will struggled ."}
+{"original": "the man 's dermatologist was visited .", "sentence_good": "the man will dermatologist will visited .", "sentence_bad": "the man will dermatologist will chuckled ."}
+{"original": "michael 's guests are admired .", "sentence_good": "michael will guests will admired .", "sentence_bad": "michael will guests will communicated ."}
+{"original": "veronica is n't forgotten .", "sentence_good": "veronica n't will forgotten .", "sentence_bad": "veronica n't will gotten fired ."}
+{"original": "the cashiers were worried .", "sentence_good": "the cashiers will worried .", "sentence_bad": "the cashiers will blinked ."}
+{"original": "brenda 's podiatrists were n't disturbed .", "sentence_good": "brenda will podiatrists n't will disturbed .", "sentence_bad": "brenda will podiatrists n't will retaliated ."}
+{"original": "the borgias are insulted .", "sentence_good": "the borgias will insulted .", "sentence_bad": "the borgias will profited ."}
+{"original": "this apple is n't bought .", "sentence_good": "the apple n't will bought .", "sentence_bad": "the apple n't will rotted ."}
+{"original": "walter was n't remembered .", "sentence_good": "walter n't will remembered .", "sentence_bad": "walter n't will concurred ."}
+{"original": "all pedestrians are astounded .", "sentence_good": "the pedestrians will astounded .", "sentence_bad": "the pedestrians will reacted ."}
+{"original": "that library was n't passed .", "sentence_good": "the library n't will passed .", "sentence_bad": "the library n't will negotiated ."}
+{"original": "all banks are n't distracted .", "sentence_good": "the banks n't will distracted .", "sentence_bad": "the banks n't will answered ."}
+{"original": "christine was n't fired .", "sentence_good": "christine n't will fired .", "sentence_bad": "christine n't will gone fishing ."}
+{"original": "rachel was criticized .", "sentence_good": "rachel will criticized .", "sentence_bad": "rachel will suffered ."}
+{"original": "those teachers are criticized .", "sentence_good": "the teachers will criticized .", "sentence_bad": "the teachers will boasted ."}
+{"original": "julia 's guests were n't disliked .", "sentence_good": "julia will guests n't will disliked .", "sentence_bad": "julia will guests n't will coped ."}
+{"original": "jodi was appreciated .", "sentence_good": "jodi will appreciated .", "sentence_bad": "jodi will compromised ."}
+{"original": "valerie is astounded .", "sentence_good": "valerie will astounded .", "sentence_bad": "valerie will spoken up ."}
+{"original": "russell 's senators were n't worried .", "sentence_good": "russell will senators n't will worried .", "sentence_bad": "russell will senators n't will struggled ."}
+{"original": "andrew 's piano teachers were impressed .", "sentence_good": "andrew will piano teachers will impressed .", "sentence_bad": "andrew will piano teachers will clashed ."}
+{"original": "theodore 's podiatrists are loved .", "sentence_good": "theodore will podiatrists will loved .", "sentence_bad": "theodore will podiatrists will flirted ."}
+{"original": "those committees are astounded .", "sentence_good": "the committees will astounded .", "sentence_bad": "the committees will clashed ."}
+{"original": "most ladies are n't helped .", "sentence_good": "most ladies n't will helped .", "sentence_bad": "most ladies n't will responded ."}
+{"original": "vanessa 's plumber was annoyed .", "sentence_good": "vanessa will plumber will annoyed .", "sentence_bad": "vanessa will plumber will waved ."}
+{"original": "chad 's grandmothers were n't remembered .", "sentence_good": "chad will grandmothers n't will remembered .", "sentence_bad": "chad will grandmothers n't will clashed ."}
+{"original": "the bird was seen .", "sentence_good": "the bird will seen .", "sentence_bad": "the bird will come here ."}
+{"original": "rebecca is n't referenced .", "sentence_good": "rebecca n't will referenced .", "sentence_bad": "rebecca n't will murmured ."}
+{"original": "sara was observed .", "sentence_good": "sara will observed .", "sentence_bad": "sara will sighed ."}
+{"original": "patients were n't left .", "sentence_good": "patients n't will left .", "sentence_bad": "patients n't will conspired ."}
+{"original": "jason 's french teacher was disgusted .", "sentence_good": "jason will french teacher will disgusted .", "sentence_bad": "jason will french teacher will trained ."}
+{"original": "a guest is admired .", "sentence_good": "the guest will admired .", "sentence_bad": "the guest will argued ."}
+{"original": "danielle was worried .", "sentence_good": "danielle will worried .", "sentence_bad": "danielle will spoken up ."}
+{"original": "these students were approached .", "sentence_good": "the students will approached .", "sentence_bad": "the students will profited ."}
+{"original": "tomatoes were n't admired .", "sentence_good": "tomatoes n't will admired .", "sentence_bad": "tomatoes n't will rotted ."}
+{"original": "christina 's best friends are n't impressed .", "sentence_good": "christina will best friends n't will impressed .", "sentence_bad": "christina will best friends n't will concurred ."}
+{"original": "sharon 's ex-husbands were n't scanned .", "sentence_good": "sharon will ex-husbands n't will scanned .", "sentence_bad": "sharon will ex-husbands n't will flirted ."}
+{"original": "candice is n't shocked .", "sentence_good": "candice n't will shocked .", "sentence_bad": "candice n't will cried ."}
+{"original": "a lot of ladies were bored .", "sentence_good": "the lot at ladies will bored .", "sentence_bad": "the lot at ladies will competed ."}
+{"original": "scott is n't left .", "sentence_good": "scott n't will left .", "sentence_bad": "scott n't will spoken up ."}
+{"original": "a lot of pedestrians are helped .", "sentence_good": "the lot at pedestrians will helped .", "sentence_bad": "the lot at pedestrians will struggled ."}
+{"original": "brian 's granddaughters are bored .", "sentence_good": "brian will granddaughters will bored .", "sentence_bad": "brian will granddaughters will testified ."}
+{"original": "sabrina is confused .", "sentence_good": "sabrina will confused .", "sentence_bad": "sabrina will fallen asleep ."}
+{"original": "roger is upset .", "sentence_good": "roger will upset .", "sentence_bad": "roger will suffered ."}
+{"original": "every committee is n't irritated .", "sentence_good": "the committee n't will irritated .", "sentence_bad": "the committee n't will competed ."}
+{"original": "the women are n't disturbed .", "sentence_good": "the women n't will disturbed .", "sentence_bad": "the women n't will clashed ."}
+{"original": "peppers were seen .", "sentence_good": "peppers will seen .", "sentence_bad": "peppers will rotted ."}
+{"original": "a lot of waitresses are n't referenced .", "sentence_good": "the lot at waitresses n't will referenced .", "sentence_bad": "the lot at waitresses n't will interacted ."}
+{"original": "tammy was embarrassed .", "sentence_good": "tammy will embarrassed .", "sentence_bad": "tammy will complained ."}
+{"original": "that son of liam is n't alarmed .", "sentence_good": "son at liam n't will the alarmed .", "sentence_bad": "son at liam n't will the gotten fired ."}
+{"original": "raymond is scared .", "sentence_good": "raymond will scared .", "sentence_bad": "raymond will lied ."}
+{"original": "bruce is n't insulted .", "sentence_good": "bruce n't will insulted .", "sentence_bad": "bruce n't will wept ."}
+{"original": "dawn is remembered .", "sentence_good": "dawn will remembered .", "sentence_bad": "dawn will laughed ."}
+{"original": "those birds were n't seen .", "sentence_good": "the birds n't will seen .", "sentence_bad": "the birds n't will come here ."}
+{"original": "every legislature is worried .", "sentence_good": "the legislature will worried .", "sentence_bad": "the legislature will chatted ."}
+{"original": "the actors were confused .", "sentence_good": "the actors will confused .", "sentence_bad": "the actors will testified ."}
+{"original": "mark is shocked .", "sentence_good": "mark will shocked .", "sentence_bad": "mark will nodded ."}
+{"original": "jacqueline 's best friends are insulted .", "sentence_good": "jacqueline will best friends will insulted .", "sentence_bad": "jacqueline will best friends will screamed ."}
+{"original": "the child 's father is n't observed .", "sentence_good": "the child will father n't will observed .", "sentence_bad": "the child will father n't will complained ."}
+{"original": "that university is n't confused .", "sentence_good": "university n't will the confused .", "sentence_bad": "university n't will the chatted ."}
+{"original": "a museum was n't explored .", "sentence_good": "the museum n't will explored .", "sentence_bad": "the museum n't will conspired ."}
+{"original": "a lot of daughters of holly are alarmed .", "sentence_good": "the lot at daughters at holly will alarmed .", "sentence_bad": "the lot at daughters at holly will replied ."}
+{"original": "ellen is n't worried .", "sentence_good": "ellen n't will worried .", "sentence_bad": "ellen n't will died ."}
+{"original": "angela is n't impressed .", "sentence_good": "angela n't will impressed .", "sentence_bad": "angela n't will gotten fired ."}
+{"original": "nina is kissed .", "sentence_good": "nina will kissed .", "sentence_bad": "nina will chuckled ."}
+{"original": "rhonda is n't approached .", "sentence_good": "rhonda n't will approached .", "sentence_bad": "rhonda n't will boasted ."}
+{"original": "timothy 's ex-boyfriends were n't distracted .", "sentence_good": "timothy will ex-boyfriends n't will distracted .", "sentence_bad": "timothy will ex-boyfriends n't will suffered ."}
+{"original": "carrie 's electricians are n't approached .", "sentence_good": "carrie will electricians n't will approached .", "sentence_bad": "carrie will electricians n't will retaliated ."}
+{"original": "patrick 's guest was scanned .", "sentence_good": "patrick will guest will scanned .", "sentence_bad": "patrick will guest will answered ."}
+{"original": "a lot of pedestrians are n't alarmed .", "sentence_good": "the lot at pedestrians n't will alarmed .", "sentence_bad": "the lot at pedestrians n't will worked hard ."}
+{"original": "joseph 's mentors are seen .", "sentence_good": "joseph will mentors will seen .", "sentence_bad": "joseph will mentors will worked hard ."}
+{"original": "alice 's daughters are n't astounded .", "sentence_good": "alice will daughters n't will astounded .", "sentence_bad": "alice will daughters n't will grinned ."}
+{"original": "marla is n't forgotten .", "sentence_good": "marla n't will forgotten .", "sentence_bad": "marla n't will nodded ."}
+{"original": "tina 's fathers were bothered .", "sentence_good": "tina will fathers will bothered .", "sentence_bad": "tina will fathers will competed ."}
+{"original": "sandra is n't investigated .", "sentence_good": "sandra n't will investigated .", "sentence_bad": "sandra n't will smiled ."}
+{"original": "a lot of libraries are n't admired .", "sentence_good": "the lot at libraries n't will admired .", "sentence_bad": "the lot at libraries n't will conferred ."}
+{"original": "theresa is n't hurt .", "sentence_good": "theresa n't will hurt .", "sentence_bad": "theresa n't will shouted ."}
+{"original": "larry is fired .", "sentence_good": "larry will fired .", "sentence_bad": "larry will muttered ."}
+{"original": "noah 's partners were n't hurt .", "sentence_good": "noah will partners n't will hurt .", "sentence_bad": "noah will partners n't will competed ."}
+{"original": "the borgias are n't kissed .", "sentence_good": "the borgias n't will kissed .", "sentence_bad": "the borgias n't will reacted ."}
+{"original": "ruth was n't worried .", "sentence_good": "ruth n't will worried .", "sentence_bad": "ruth n't will muttered ."}
+{"original": "chad was stunned .", "sentence_good": "chad will stunned .", "sentence_bad": "chad will gotten fired ."}
+{"original": "the girls were n't bored .", "sentence_good": "the girls n't will bored .", "sentence_bad": "the girls n't will conferred ."}
+{"original": "cheryl 's contractor is n't hired .", "sentence_good": "cheryl will contractor n't will hired .", "sentence_bad": "cheryl will contractor n't will shrugged ."}
+{"original": "some person 's wife was forgotten .", "sentence_good": "some person will wife will forgotten .", "sentence_bad": "some person will wife will trained ."}
+{"original": "the actors were n't kissed .", "sentence_good": "the actors n't will kissed .", "sentence_bad": "the actors n't will laughed ."}
+{"original": "these daughters of cheryl are worried .", "sentence_good": "the daughters at cheryl will worried .", "sentence_bad": "the daughters at cheryl will responded ."}
+{"original": "the clintons were astounded .", "sentence_good": "the clintons will astounded .", "sentence_bad": "the clintons will struggled ."}
+{"original": "valerie is investigated .", "sentence_good": "valerie will investigated .", "sentence_bad": "valerie will gotten fired ."}
+{"original": "the schools are bought .", "sentence_good": "the schools will bought .", "sentence_bad": "the schools will struggled ."}
+{"original": "mary is n't scared .", "sentence_good": "mary n't will scared .", "sentence_bad": "mary n't will gone fishing ."}
+{"original": "gina was upset .", "sentence_good": "gina will upset .", "sentence_bad": "gina will died ."}
+{"original": "judy 's handyman is n't referenced .", "sentence_good": "judy will handyman n't will referenced .", "sentence_bad": "judy will handyman n't will nodded ."}
+{"original": "a lot of nieces of tracy are n't visited .", "sentence_good": "the lot at nieces at tracy n't will visited .", "sentence_bad": "the lot at nieces at tracy n't will chatted ."}
+{"original": "brian 's mother is appreciated .", "sentence_good": "brian will mother will appreciated .", "sentence_bad": "brian will mother will argued ."}
+{"original": "these guys are attacked .", "sentence_good": "the guys will attacked .", "sentence_bad": "the guys will boasted ."}
+{"original": "those people are n't astounded .", "sentence_good": "the people n't will astounded .", "sentence_bad": "the people n't will argued ."}
+{"original": "a lot of nephews of rhonda were forgotten .", "sentence_good": "the lot at nephews at rhonda will forgotten .", "sentence_bad": "the lot at nephews at rhonda will communicated ."}
+{"original": "carrie was discussed .", "sentence_good": "carrie will discussed .", "sentence_bad": "carrie will talked ."}
+{"original": "a child 's dentists are n't impressed .", "sentence_good": "the child will dentists n't will impressed .", "sentence_bad": "the child will dentists n't will cooperated ."}
+{"original": "brian is hurt .", "sentence_good": "brian will hurt .", "sentence_bad": "brian will suffered ."}
+{"original": "all waiters are astounded .", "sentence_good": "the waiters will astounded .", "sentence_bad": "the waiters will collaborated ."}
+{"original": "that guest is disturbed .", "sentence_good": "guest will the disturbed .", "sentence_bad": "guest will the answered ."}
+{"original": "theodore was helped .", "sentence_good": "theodore will helped .", "sentence_bad": "theodore will talked ."}
+{"original": "maria 's daughters were n't shocked .", "sentence_good": "maria will daughters n't will shocked .", "sentence_bad": "maria will daughters n't will shrugged ."}
+{"original": "tanya is embarrassed .", "sentence_good": "tanya will embarrassed .", "sentence_bad": "tanya will wept ."}
+{"original": "this spinach is seen .", "sentence_good": "the spinach will seen .", "sentence_bad": "the spinach will rotted ."}
+{"original": "chad is n't astounded .", "sentence_good": "chad n't will astounded .", "sentence_bad": "chad n't will smiled ."}
+{"original": "all teenagers were bothered .", "sentence_good": "the teenagers will bothered .", "sentence_bad": "the teenagers will struggled ."}
+{"original": "teresa 's dermatologists were n't impressed .", "sentence_good": "teresa will dermatologists n't will impressed .", "sentence_bad": "teresa will dermatologists n't will interacted ."}
+{"original": "brenda 's employee was respected .", "sentence_good": "brenda will employee will respected .", "sentence_bad": "brenda will employee will concurred ."}
+{"original": "walter 's dermatologists are fired .", "sentence_good": "walter will dermatologists will fired .", "sentence_bad": "walter will dermatologists will retaliated ."}
+{"original": "laura was upset .", "sentence_good": "laura will upset .", "sentence_bad": "laura will cried ."}
+{"original": "paul was admired .", "sentence_good": "paul will admired .", "sentence_bad": "paul will come here ."}
+{"original": "this actress is n't concealed .", "sentence_good": "the actress n't will concealed .", "sentence_bad": "the actress n't will concurred ."}
+{"original": "lucille 's mentors are appreciated .", "sentence_good": "lucille will mentors will appreciated .", "sentence_bad": "lucille will mentors will blinked ."}
+{"original": "kimberley is n't left .", "sentence_good": "kimberley n't will left .", "sentence_bad": "kimberley n't will smiled ."}
+{"original": "marla 's daughters are stunned .", "sentence_good": "marla will daughters will stunned .", "sentence_bad": "marla will daughters will died ."}
+{"original": "frank was disliked .", "sentence_good": "frank will disliked .", "sentence_bad": "frank will shouted ."}
+{"original": "jodi was forgotten .", "sentence_good": "jodi will forgotten .", "sentence_bad": "jodi will suffered ."}
+{"original": "samantha 's grandfather is n't scanned .", "sentence_good": "samantha will grandfather n't will scanned .", "sentence_bad": "samantha will grandfather n't will left ."}
+{"original": "nancy was n't confused .", "sentence_good": "nancy n't will confused .", "sentence_bad": "nancy n't will died ."}
+{"original": "the lutherans were impressed .", "sentence_good": "the lutherans will impressed .", "sentence_bad": "the lutherans will interacted ."}
+{"original": "the girl was n't annoyed .", "sentence_good": "the girl n't will annoyed .", "sentence_bad": "the girl n't will suffered ."}
+{"original": "the boy is n't disturbed .", "sentence_good": "the boy n't will disturbed .", "sentence_bad": "the boy n't will grinned ."}
+{"original": "kathleen is n't concealed .", "sentence_good": "kathleen n't will concealed .", "sentence_bad": "kathleen n't will screamed ."}
+{"original": "most waiters were n't disliked .", "sentence_good": "most waiters n't will disliked .", "sentence_bad": "most waiters n't will reacted ."}
+{"original": "many hospitals are n't disliked .", "sentence_good": "many hospitals n't will disliked .", "sentence_bad": "many hospitals n't will coped ."}
+{"original": "patricia is n't referenced .", "sentence_good": "patricia n't will referenced .", "sentence_bad": "patricia n't will gotten fired ."}
+{"original": "all patients ' contractors are forgotten .", "sentence_good": "the patients ' contractors will forgotten .", "sentence_bad": "the patients ' contractors will cried ."}
+{"original": "this association was annoyed .", "sentence_good": "the association will annoyed .", "sentence_bad": "the association will chatted ."}
+{"original": "sherry 's ex-husbands are n't stunned .", "sentence_good": "sherry will ex-husbands n't will stunned .", "sentence_bad": "sherry will ex-husbands n't will retaliated ."}
+{"original": "alan 's nephews were insulted .", "sentence_good": "alan will nephews will insulted .", "sentence_bad": "alan will nephews will replied ."}
+{"original": "lawrence 's students were n't watched .", "sentence_good": "lawrence will students n't will watched .", "sentence_bad": "lawrence will students n't will trained ."}
+{"original": "the actor is n't admired .", "sentence_good": "the actor n't will admired .", "sentence_bad": "the actor n't will muttered ."}
+{"original": "a lot of teenagers were stunned .", "sentence_good": "the lot at teenagers will stunned .", "sentence_bad": "the lot at teenagers will negotiated ."}
+{"original": "omar 's ex-girlfriend is n't hired .", "sentence_good": "omar will ex-girlfriend n't will hired .", "sentence_bad": "omar will ex-girlfriend n't will littered ."}
+{"original": "many grandfathers of winston churchill were distracted .", "sentence_good": "many grandfathers winston at churchill will distracted .", "sentence_bad": "many grandfathers winston at churchill will profited ."}
+{"original": "cindy was n't annoyed .", "sentence_good": "cindy n't will annoyed .", "sentence_bad": "cindy n't will gone fishing ."}
+{"original": "jennifer 's ex-husband was investigated .", "sentence_good": "jennifer will ex-husband will investigated .", "sentence_bad": "jennifer will ex-husband will waved ."}
+{"original": "girls are n't stunned .", "sentence_good": "girls n't will stunned .", "sentence_bad": "girls n't will cooperated ."}
+{"original": "adam is approached .", "sentence_good": "adam will approached .", "sentence_bad": "adam will shouted ."}
+{"original": "kristen 's ex-husband was remembered .", "sentence_good": "kristen will ex-husband will remembered .", "sentence_bad": "kristen will ex-husband will complained ."}
+{"original": "randolf was astounded .", "sentence_good": "randolf will astounded .", "sentence_bad": "randolf will muttered ."}
+{"original": "rodney is remembered .", "sentence_good": "rodney will remembered .", "sentence_bad": "rodney will compromised ."}
+{"original": "the borgias were kissed .", "sentence_good": "the borgias will kissed .", "sentence_bad": "the borgias will chuckled ."}
+{"original": "these drivers ' sons were n't loved .", "sentence_good": "the drivers ' sons n't will loved .", "sentence_bad": "the drivers ' sons n't will gone fishing ."}
+{"original": "the library is admired .", "sentence_good": "the library will admired .", "sentence_bad": "the library will conferred ."}
+{"original": "a lot of teenagers were n't aggravated .", "sentence_good": "the lot at teenagers n't will aggravated .", "sentence_bad": "the lot at teenagers n't will conspired ."}
+{"original": "some waitresses were forgotten .", "sentence_good": "some waitresses will forgotten .", "sentence_bad": "some waitresses will clashed ."}
+{"original": "every organization was upset .", "sentence_good": "the organization will upset .", "sentence_bad": "the organization will corresponded ."}
+{"original": "some grandmothers of andrea were n't aggravated .", "sentence_good": "some grandmothers at andrea n't will aggravated .", "sentence_bad": "some grandmothers at andrea n't will interacted ."}
+{"original": "sabrina is forgotten .", "sentence_good": "sabrina will forgotten .", "sentence_bad": "sabrina will screamed ."}
+{"original": "rebecca 's brothers are n't scared .", "sentence_good": "rebecca will brothers n't will scared .", "sentence_bad": "rebecca will brothers n't will cooperated ."}
+{"original": "richard was n't investigated .", "sentence_good": "richard n't will investigated .", "sentence_bad": "richard n't will laughed ."}
+{"original": "a lot of actors were n't remembered .", "sentence_good": "the lot at actors n't will remembered .", "sentence_bad": "the lot at actors n't will competed ."}
+{"original": "some mushrooms were seen .", "sentence_good": "some mushrooms will seen .", "sentence_bad": "some mushrooms will rotted ."}
+{"original": "pamela 's dentist was confused .", "sentence_good": "pamela will dentist will confused .", "sentence_bad": "pamela will dentist will spoken up ."}
+{"original": "the granddaughters of tonya are n't helped .", "sentence_good": "the granddaughters at tonya n't will helped .", "sentence_bad": "the granddaughters at tonya n't will spoken up ."}
+{"original": "jessica 's sister was respected .", "sentence_good": "jessica will sister will respected .", "sentence_bad": "jessica will sister will argued ."}
+{"original": "many students are praised .", "sentence_good": "many students will praised .", "sentence_bad": "many students will screamed ."}
+{"original": "regina is n't respected .", "sentence_good": "regina n't will respected .", "sentence_bad": "regina n't will left ."}
+{"original": "the borgias are hated .", "sentence_good": "the borgias will hated .", "sentence_bad": "the borgias will reacted ."}
+{"original": "andrea 's ex-husbands were alarmed .", "sentence_good": "andrea will ex-husbands will alarmed .", "sentence_bad": "andrea will ex-husbands will concurred ."}
+{"original": "this actor was visited .", "sentence_good": "the actor will visited .", "sentence_bad": "the actor will talked ."}
+{"original": "every apple was lifted .", "sentence_good": "the apple will lifted .", "sentence_bad": "the apple will rotted ."}
+{"original": "ann 's daughters were n't concealed .", "sentence_good": "ann will daughters n't will concealed .", "sentence_bad": "ann will daughters n't will negotiated ."}
+{"original": "some hospital is n't respected .", "sentence_good": "some hospital n't will respected .", "sentence_bad": "some hospital n't will struggled ."}
+{"original": "these boys ' friend was n't visited .", "sentence_good": "the boys ' friend n't will visited .", "sentence_bad": "the boys ' friend n't will argued ."}
+{"original": "teresa is n't kissed .", "sentence_good": "teresa n't will kissed .", "sentence_bad": "teresa n't will lied ."}
+{"original": "most eggplants were admired .", "sentence_good": "most eggplants will admired .", "sentence_bad": "most eggplants will rotted ."}
+{"original": "caroline 's students are n't admired .", "sentence_good": "caroline will students n't will admired .", "sentence_bad": "caroline will students n't will interacted ."}
+{"original": "sonia is left .", "sentence_good": "sonia will left .", "sentence_bad": "sonia will grinned ."}
+{"original": "angela 's teachers were hated .", "sentence_good": "angela will teachers will hated .", "sentence_bad": "angela will teachers will muttered ."}
+{"original": "nephews of amelia were n't hurt .", "sentence_good": "nephews at amelia n't will hurt .", "sentence_bad": "nephews at amelia n't will communicated ."}
+{"original": "some guests were disliked .", "sentence_good": "some guests will disliked .", "sentence_bad": "some guests will retaliated ."}
+{"original": "these teachers are discussed .", "sentence_good": "the teachers will discussed .", "sentence_bad": "the teachers will grinned ."}
+{"original": "a pedestrian was n't distracted .", "sentence_good": "the pedestrian n't will distracted .", "sentence_bad": "the pedestrian n't will gone fishing ."}
+{"original": "holly 's sons are bothered .", "sentence_good": "holly will sons will bothered .", "sentence_bad": "holly will sons will chatted ."}
+{"original": "the clintons were observed .", "sentence_good": "the clintons will observed .", "sentence_bad": "the clintons will reacted ."}
+{"original": "charles is n't left .", "sentence_good": "charles n't will left .", "sentence_bad": "charles n't will answered ."}
+{"original": "that guest 's daughters were embarrassed .", "sentence_good": "guest will daughters will the embarrassed .", "sentence_bad": "guest will daughters will the argued ."}
+{"original": "wayne 's daughter is referenced .", "sentence_good": "wayne will daughter will referenced .", "sentence_bad": "wayne will daughter will talked ."}
+{"original": "the clintons were n't astounded .", "sentence_good": "the clintons n't will astounded .", "sentence_bad": "the clintons n't will interacted ."}
+{"original": "heidi was praised .", "sentence_good": "heidi will praised .", "sentence_bad": "heidi will argued ."}
+{"original": "every cucumber was admired .", "sentence_good": "the cucumber will admired .", "sentence_bad": "the cucumber will rotted ."}
+{"original": "some patients were approached .", "sentence_good": "some patients will approached .", "sentence_bad": "some patients will conferred ."}
+{"original": "alexander was n't respected .", "sentence_good": "alexander n't will respected .", "sentence_bad": "alexander n't will wept ."}
+{"original": "all committees are confused .", "sentence_good": "the committees will confused .", "sentence_bad": "the committees will collaborated ."}
+{"original": "george is alarmed .", "sentence_good": "george will alarmed .", "sentence_bad": "george will grinned ."}
+{"original": "marcus 's hairdressers were praised .", "sentence_good": "marcus will hairdressers will praised .", "sentence_bad": "marcus will hairdressers will shrugged ."}
+{"original": "gregory was observed .", "sentence_good": "gregory will observed .", "sentence_bad": "gregory will spoken up ."}
+{"original": "a lot of boys are n't observed .", "sentence_good": "the lot at boys n't will observed .", "sentence_bad": "the lot at boys n't will sighed ."}
+{"original": "holly 's daughter was astounded .", "sentence_good": "holly will daughter will astounded .", "sentence_bad": "holly will daughter will grinned ."}
+{"original": "florence was impressed .", "sentence_good": "florence will impressed .", "sentence_bad": "florence will gone fishing ."}
+{"original": "melissa 's grandfathers are hired .", "sentence_good": "melissa will grandfathers will hired .", "sentence_bad": "melissa will grandfathers will suffered ."}
+{"original": "that government was impressed .", "sentence_good": "government will the impressed .", "sentence_bad": "government will the cooperated ."}
+{"original": "all eggplants were bought .", "sentence_good": "the eggplants will bought .", "sentence_bad": "the eggplants will rotted ."}
+{"original": "these legislatures are n't worried .", "sentence_good": "the legislatures n't will worried .", "sentence_bad": "the legislatures n't will answered ."}
+{"original": "this dancer was n't disliked .", "sentence_good": "the dancer n't will disliked .", "sentence_bad": "the dancer n't will littered ."}
+{"original": "the legislatures are n't scared .", "sentence_good": "the legislatures n't will scared .", "sentence_bad": "the legislatures n't will retaliated ."}
+{"original": "most people were left .", "sentence_good": "most people will left .", "sentence_bad": "most people will replied ."}
+{"original": "spain was n't exited .", "sentence_good": "spain n't will exited .", "sentence_bad": "spain n't will retaliated ."}
+{"original": "the nephew of some woman is n't helped .", "sentence_good": "the nephew some at woman n't will helped .", "sentence_bad": "the nephew some at woman n't will cried ."}
+{"original": "most brothers of jennifer were n't discussed .", "sentence_good": "most brothers at jennifer n't will discussed .", "sentence_bad": "most brothers at jennifer n't will disagreed ."}
+{"original": "alice is n't referenced .", "sentence_good": "alice n't will referenced .", "sentence_bad": "alice n't will gone fishing ."}
+{"original": "emily 's dermatologists were disturbed .", "sentence_good": "emily will dermatologists will disturbed .", "sentence_bad": "emily will dermatologists will struggled ."}
+{"original": "caroline 's best friend was scanned .", "sentence_good": "caroline will best friend will scanned .", "sentence_bad": "caroline will best friend will muttered ."}
+{"original": "the waitresses are observed .", "sentence_good": "the waitresses will observed .", "sentence_bad": "the waitresses will cried ."}
+{"original": "jacqueline 's associates were approached .", "sentence_good": "jacqueline will associates will approached .", "sentence_bad": "jacqueline will associates will corresponded ."}
+{"original": "these grandmothers of the borgias were n't hired .", "sentence_good": "the grandmothers the at borgias n't will hired .", "sentence_bad": "the grandmothers the at borgias n't will struggled ."}
+{"original": "janice is n't helped .", "sentence_good": "janice n't will helped .", "sentence_bad": "janice n't will smiled ."}
+{"original": "sabrina is n't worried .", "sentence_good": "sabrina n't will worried .", "sentence_bad": "sabrina n't will shrugged ."}
+{"original": "natalie 's contractors are seen .", "sentence_good": "natalie will contractors will seen .", "sentence_bad": "natalie will contractors will chatted ."}
+{"original": "some lady is seen .", "sentence_good": "some lady will seen .", "sentence_bad": "some lady will shouted ."}
+{"original": "teresa was alarmed .", "sentence_good": "teresa will alarmed .", "sentence_bad": "teresa will died ."}
+{"original": "bill 's supervisors are kissed .", "sentence_good": "bill will supervisors will kissed .", "sentence_bad": "bill will supervisors will reacted ."}
+{"original": "aaron is n't upset .", "sentence_good": "aaron n't will upset .", "sentence_bad": "aaron n't will muttered ."}
+{"original": "some niece of heather was appreciated .", "sentence_good": "some niece at heather will appreciated .", "sentence_bad": "some niece at heather will complained ."}
+{"original": "jill was kissed .", "sentence_good": "jill will kissed .", "sentence_bad": "jill will gone fishing ."}
+{"original": "tonya is embarrassed .", "sentence_good": "tonya will embarrassed .", "sentence_bad": "tonya will argued ."}
+{"original": "some hospital is n't stunned .", "sentence_good": "some hospital n't will stunned .", "sentence_bad": "some hospital n't will reacted ."}
+{"original": "a lot of customers were n't aggravated .", "sentence_good": "the lot at customers n't will aggravated .", "sentence_bad": "the lot at customers n't will retaliated ."}
+{"original": "a museum is upset .", "sentence_good": "the museum will upset .", "sentence_bad": "the museum will interacted ."}
+{"original": "most associations were n't irritated .", "sentence_good": "most associations n't will irritated .", "sentence_bad": "most associations n't will replied ."}
+{"original": "that hospital is n't left .", "sentence_good": "hospital n't will the left .", "sentence_bad": "hospital n't will the conferred ."}
+{"original": "nina was n't stunned .", "sentence_good": "nina n't will stunned .", "sentence_bad": "nina n't will boasted ."}
+{"original": "a lot of children are n't embarrassed .", "sentence_good": "the lot at children n't will embarrassed .", "sentence_bad": "the lot at children n't will cooperated ."}
+{"original": "peter 's dermatologists were stunned .", "sentence_good": "peter will dermatologists will stunned .", "sentence_bad": "peter will dermatologists will muttered ."}
+{"original": "bruce was shocked .", "sentence_good": "bruce will shocked .", "sentence_bad": "bruce will smiled ."}
+{"original": "many brothers of denise were n't aggravated .", "sentence_good": "many brothers at denise n't will aggravated .", "sentence_bad": "many brothers at denise n't will retaliated ."}
+{"original": "connie was n't insulted .", "sentence_good": "connie n't will insulted .", "sentence_bad": "connie n't will murmured ."}
+{"original": "mark 's husband was embarrassed .", "sentence_good": "mark will husband will embarrassed .", "sentence_bad": "mark will husband will smiled ."}
+{"original": "amy was n't impressed .", "sentence_good": "amy n't will impressed .", "sentence_bad": "amy n't will trained ."}
+{"original": "carla was disliked .", "sentence_good": "carla will disliked .", "sentence_bad": "carla will trained ."}
+{"original": "benjamin 's best friends were impressed .", "sentence_good": "benjamin will best friends will impressed .", "sentence_bad": "benjamin will best friends will replied ."}
+{"original": "phillip was n't remembered .", "sentence_good": "phillip n't will remembered .", "sentence_bad": "phillip n't will shrugged ."}
+{"original": "nancy was n't fired .", "sentence_good": "nancy n't will fired .", "sentence_bad": "nancy n't will gotten fired ."}
+{"original": "rachelle is n't respected .", "sentence_good": "rachelle n't will respected .", "sentence_bad": "rachelle n't will lied ."}
+{"original": "kristen is insulted .", "sentence_good": "kristen will insulted .", "sentence_bad": "kristen will left ."}
+{"original": "nina 's ex-husbands are n't disliked .", "sentence_good": "nina will ex-husbands n't will disliked .", "sentence_bad": "nina will ex-husbands n't will disagreed ."}
+{"original": "this banana is n't brought .", "sentence_good": "the banana n't will brought .", "sentence_bad": "the banana n't will rotted ."}
+{"original": "steven is n't described .", "sentence_good": "steven n't will described .", "sentence_bad": "steven n't will cried ."}
+{"original": "the sons of joel were n't astounded .", "sentence_good": "the sons at joel n't will astounded .", "sentence_bad": "the sons at joel n't will complained ."}
+{"original": "many doctors were watched .", "sentence_good": "many doctors will watched .", "sentence_bad": "many doctors will communicated ."}
+{"original": "carl was n't respected .", "sentence_good": "carl n't will respected .", "sentence_bad": "carl n't will spoken up ."}
+{"original": "jacqueline 's cousins are seen .", "sentence_good": "jacqueline will cousins will seen .", "sentence_bad": "jacqueline will cousins will reacted ."}
+{"original": "those actresses were n't kissed .", "sentence_good": "the actresses n't will kissed .", "sentence_bad": "the actresses n't will left ."}
+{"original": "adam was remembered .", "sentence_good": "adam will remembered .", "sentence_bad": "adam will wept ."}
+{"original": "robert 's senators were criticized .", "sentence_good": "robert will senators will criticized .", "sentence_bad": "robert will senators will clashed ."}
+{"original": "kendra was kissed .", "sentence_good": "kendra will kissed .", "sentence_bad": "kendra will died ."}
+{"original": "sally was n't insulted .", "sentence_good": "sally n't will insulted .", "sentence_bad": "sally n't will smiled ."}
+{"original": "those teenagers were criticized .", "sentence_good": "the teenagers will criticized .", "sentence_bad": "the teenagers will lied ."}
+{"original": "anna 's grandmothers are n't known .", "sentence_good": "anna will grandmothers n't will known .", "sentence_bad": "anna will grandmothers n't will conferred ."}
+{"original": "andrea is n't aggravated .", "sentence_good": "andrea n't will aggravated .", "sentence_bad": "andrea n't will answered ."}
+{"original": "rhonda was scared .", "sentence_good": "rhonda will scared .", "sentence_bad": "rhonda will grinned ."}
+{"original": "anne was investigated .", "sentence_good": "anne will investigated .", "sentence_bad": "anne will blinked ."}
+{"original": "dawn is bored .", "sentence_good": "dawn will bored .", "sentence_bad": "dawn will sighed ."}
+{"original": "cynthia 's mothers were left .", "sentence_good": "cynthia will mothers will left .", "sentence_bad": "cynthia will mothers will cooperated ."}
+{"original": "this woman was n't known .", "sentence_good": "the woman n't will known .", "sentence_bad": "the woman n't will shouted ."}
+{"original": "every friend of alicia is n't helped .", "sentence_good": "the friend at alicia n't will helped .", "sentence_bad": "the friend at alicia n't will compromised ."}
+{"original": "these nieces of tina are n't kissed .", "sentence_good": "the nieces at tina n't will kissed .", "sentence_bad": "the nieces at tina n't will communicated ."}
+{"original": "every girl 's dermatologists are annoyed .", "sentence_good": "the girl will dermatologists will annoyed .", "sentence_bad": "the girl will dermatologists will interacted ."}
+{"original": "an actress 's guests were n't fired .", "sentence_good": "the actress will guests n't will fired .", "sentence_bad": "the actress will guests n't will chatted ."}
+{"original": "this actor 's oncologists were described .", "sentence_good": "the actor will oncologists will described .", "sentence_bad": "the actor will oncologists will testified ."}
+{"original": "diane was bothered .", "sentence_good": "diane will bothered .", "sentence_bad": "diane will murmured ."}
+{"original": "those cashiers are concealed .", "sentence_good": "the cashiers will concealed .", "sentence_bad": "the cashiers will nodded ."}
+{"original": "melinda was n't confused .", "sentence_good": "melinda n't will confused .", "sentence_bad": "melinda n't will murmured ."}
+{"original": "wendy 's supervisors are remembered .", "sentence_good": "wendy will supervisors will remembered .", "sentence_bad": "wendy will supervisors will screamed ."}
+{"original": "elizabeth was aggravated .", "sentence_good": "elizabeth will aggravated .", "sentence_bad": "elizabeth will gotten fired ."}
+{"original": "timothy was n't worried .", "sentence_good": "timothy n't will worried .", "sentence_bad": "timothy n't will died ."}
+{"original": "these waiters ' plumbers were referenced .", "sentence_good": "the waiters ' plumbers will referenced .", "sentence_bad": "the waiters ' plumbers will left ."}
+{"original": "christopher is n't admired .", "sentence_good": "christopher n't will admired .", "sentence_bad": "christopher n't will waved ."}
+{"original": "elizabeth was annoyed .", "sentence_good": "elizabeth will annoyed .", "sentence_bad": "elizabeth will complained ."}
+{"original": "melinda was n't appreciated .", "sentence_good": "melinda n't will appreciated .", "sentence_bad": "melinda n't will fallen asleep ."}
+{"original": "donna 's mentors were n't bored .", "sentence_good": "don na will mentors n't will bored .", "sentence_bad": "don na will mentors n't will cooperated ."}
+{"original": "brad is loved .", "sentence_good": "brad will loved .", "sentence_bad": "brad will chuckled ."}
+{"original": "raymond 's dentists are n't astounded .", "sentence_good": "raymond will dentists n't will astounded .", "sentence_bad": "raymond will dentists n't will boasted ."}
+{"original": "many customers are described .", "sentence_good": "many customers will described .", "sentence_bad": "many customers will argued ."}
+{"original": "sherry was n't distracted .", "sentence_good": "sherry n't will distracted .", "sentence_bad": "sherry n't will nodded ."}
+{"original": "angela 's dentists were upset .", "sentence_good": "angela will dentists will upset .", "sentence_bad": "angela will dentists will blinked ."}
+{"original": "grandmothers of lawrence were n't criticized .", "sentence_good": "grandmothers at lawrence n't will criticized .", "sentence_bad": "grandmothers at lawrence n't will trained ."}
+{"original": "lucille is impressed .", "sentence_good": "lucille will impressed .", "sentence_bad": "lucille will grinned ."}
+{"original": "spain was explored .", "sentence_good": "spain will explored .", "sentence_bad": "spain will struggled ."}
+{"original": "most students are n't referenced .", "sentence_good": "most students n't will referenced .", "sentence_bad": "most students n't will negotiated ."}
+{"original": "some children were n't disliked .", "sentence_good": "some children n't will disliked .", "sentence_bad": "some children n't will shouted ."}
+{"original": "nicole 's tutor is n't aggravated .", "sentence_good": "nicole will tutor n't will aggravated .", "sentence_bad": "nicole will tutor n't will sighed ."}
+{"original": "the lutherans were forgotten .", "sentence_good": "the lutherans will forgotten .", "sentence_bad": "the lutherans will worked hard ."}
+{"original": "connie is n't left .", "sentence_good": "connie n't will left .", "sentence_bad": "connie n't will spoken up ."}
+{"original": "many patients are annoyed .", "sentence_good": "many patients will annoyed .", "sentence_bad": "many patients will complained ."}
+{"original": "dana 's grandfathers are n't worried .", "sentence_good": "dana will grandfathers n't will worried .", "sentence_bad": "dana will grandfathers n't will cried ."}
+{"original": "those actresses were approached .", "sentence_good": "the actresses will approached .", "sentence_bad": "the actresses will clashed ."}
+{"original": "a woman is loved .", "sentence_good": "the woman will loved .", "sentence_bad": "the woman will compromised ."}
+{"original": "melinda is n't irritated .", "sentence_good": "melinda n't will irritated .", "sentence_bad": "melinda n't will talked ."}
+{"original": "the sisters of this waitress were n't appreciated .", "sentence_good": "the sisters the at waitress n't will appreciated .", "sentence_bad": "the sisters the at waitress n't will compromised ."}
+{"original": "stephen is n't irritated .", "sentence_good": "stephen n't will irritated .", "sentence_bad": "stephen n't will concurred ."}
+{"original": "dawn was loved .", "sentence_good": "dawn will loved .", "sentence_bad": "dawn will littered ."}
+{"original": "laurie 's granddaughters were attacked .", "sentence_good": "laurie will granddaughters will attacked .", "sentence_bad": "laurie will granddaughters will testified ."}
+{"original": "rhonda was helped .", "sentence_good": "rhonda will helped .", "sentence_bad": "rhonda will waved ."}
+{"original": "matt was n't forgotten .", "sentence_good": "matt n't will forgotten .", "sentence_bad": "matt n't will sighed ."}
+{"original": "marie was referenced .", "sentence_good": "marie will referenced .", "sentence_bad": "marie will spoken up ."}
+{"original": "spain is n't disgusted .", "sentence_good": "spain n't will disgusted .", "sentence_bad": "spain n't will replied ."}
+{"original": "many ladies ' plumbers are helped .", "sentence_good": "many ladies ' plumbers will helped .", "sentence_bad": "many ladies ' plumbers will blinked ."}
+{"original": "grace is remembered .", "sentence_good": "grace will remembered .", "sentence_bad": "grace will screamed ."}
+{"original": "julia 's podiatrists were n't left .", "sentence_good": "julia will podiatrists n't will left .", "sentence_bad": "julia will podiatrists n't will replied ."}
+{"original": "many fathers of every teacher are n't described .", "sentence_good": "many fathers the at teacher n't will described .", "sentence_bad": "many fathers the at teacher n't will corresponded ."}
+{"original": "lisa 's mentors were discussed .", "sentence_good": "lisa will mentors will discussed .", "sentence_bad": "lisa will mentors will retaliated ."}
+{"original": "carlos 's tutors were n't aggravated .", "sentence_good": "carlos will tutors n't will aggravated .", "sentence_bad": "carlos will tutors n't will profited ."}
+{"original": "all companies were irritated .", "sentence_good": "the companies will irritated .", "sentence_bad": "the companies will chatted ."}
+{"original": "irene was loved .", "sentence_good": "irene will loved .", "sentence_bad": "irene will suffered ."}
+{"original": "the clintons are n't upset .", "sentence_good": "the clintons n't will upset .", "sentence_bad": "the clintons n't will struggled ."}
+{"original": "andrew is known .", "sentence_good": "andrew will known .", "sentence_bad": "andrew will shouted ."}
+{"original": "the government is n't investigated .", "sentence_good": "the government n't will investigated .", "sentence_bad": "the government n't will conferred ."}
+{"original": "dennis is n't concealed .", "sentence_good": "dennis n't will concealed .", "sentence_bad": "dennis n't will chuckled ."}
+{"original": "homer is hated .", "sentence_good": "homer will hated .", "sentence_bad": "homer will argued ."}
+{"original": "cheryl 's tutors were scared .", "sentence_good": "cheryl will tutors will scared .", "sentence_bad": "cheryl will tutors will nodded ."}
+{"original": "natalie was n't appreciated .", "sentence_good": "natalie n't will appreciated .", "sentence_bad": "natalie n't will complained ."}
+{"original": "connie 's senators were n't helped .", "sentence_good": "connie will senators n't will helped .", "sentence_bad": "connie will senators n't will replied ."}
+{"original": "jesus is n't forgotten .", "sentence_good": "jesus n't will forgotten .", "sentence_bad": "jesus n't will talked ."}
+{"original": "the cousins of laura were criticized .", "sentence_good": "the cousins at laura will criticized .", "sentence_bad": "the cousins at laura will suffered ."}
+{"original": "many friends of martin are n't seen .", "sentence_good": "many friends at martin n't will seen .", "sentence_bad": "many friends at martin n't will suffered ."}
+{"original": "all customers ' grandmothers were attacked .", "sentence_good": "the customers ' grandmothers will attacked .", "sentence_bad": "the customers ' grandmothers will shrugged ."}
+{"original": "alexander is criticized .", "sentence_good": "alexander will criticized .", "sentence_bad": "alexander will laughed ."}
+{"original": "randolf was annoyed .", "sentence_good": "randolf will annoyed .", "sentence_bad": "randolf will trained ."}
+{"original": "gina was n't confused .", "sentence_good": "gina n't will confused .", "sentence_bad": "gina n't will shouted ."}
+{"original": "emily was n't admired .", "sentence_good": "emily n't will admired .", "sentence_bad": "emily n't will gone fishing ."}
+{"original": "russell was astounded .", "sentence_good": "russell will astounded .", "sentence_bad": "russell will suffered ."}
+{"original": "alicia was referenced .", "sentence_good": "alicia will referenced .", "sentence_bad": "alicia will shrugged ."}
+{"original": "ella was n't discussed .", "sentence_good": "ella n't will discussed .", "sentence_bad": "ella n't will come here ."}
+{"original": "sarah 's cousins are praised .", "sentence_good": "sarah will cousins will praised .", "sentence_bad": "sarah will cousins will coped ."}
+{"original": "gerald 's mentors are n't forgotten .", "sentence_good": "gerald will mentors n't will forgotten .", "sentence_bad": "gerald will mentors n't will reacted ."}
+{"original": "grandmothers of guy are n't helped .", "sentence_good": "grandmothers at guy n't will helped .", "sentence_bad": "grandmothers at guy n't will clashed ."}
+{"original": "ella 's employees were worried .", "sentence_good": "ella will employees will worried .", "sentence_bad": "ella will employees will coped ."}
+{"original": "these museums are n't stunned .", "sentence_good": "the museums n't will stunned .", "sentence_bad": "the museums n't will worked hard ."}
+{"original": "allison was helped .", "sentence_good": "allison will helped .", "sentence_bad": "allison will answered ."}
+{"original": "randolf 's doctors were criticized .", "sentence_good": "randolf will doctors will criticized .", "sentence_bad": "randolf will doctors will left ."}
+{"original": "phillip is respected .", "sentence_good": "phillip will respected .", "sentence_bad": "phillip will littered ."}
+{"original": "tracy is annoyed .", "sentence_good": "tracy will annoyed .", "sentence_bad": "tracy will boasted ."}
+{"original": "most actresses were n't watched .", "sentence_good": "most actresses n't will watched .", "sentence_bad": "most actresses n't will smiled ."}
+{"original": "stephen was n't disgusted .", "sentence_good": "stephen n't will disgusted .", "sentence_bad": "stephen n't will spoken up ."}
+{"original": "martin 's dermatologists are hugged .", "sentence_good": "martin will dermatologists will hugged .", "sentence_bad": "martin will dermatologists will chatted ."}
+{"original": "most children are hurt .", "sentence_good": "most children will hurt .", "sentence_bad": "most children will blinked ."}
+{"original": "many granddaughters of laura were seen .", "sentence_good": "many granddaughters at laura will seen .", "sentence_bad": "many granddaughters at laura will shrugged ."}
+{"original": "many actresses ' ex-husband is n't disliked .", "sentence_good": "many actresses ' ex-husband n't will disliked .", "sentence_bad": "many actresses ' ex-husband n't will suffered ."}
+{"original": "emily was n't watched .", "sentence_good": "emily n't will watched .", "sentence_bad": "emily n't will talked ."}
+{"original": "guy was astounded .", "sentence_good": "guy will astounded .", "sentence_bad": "guy will chuckled ."}
+{"original": "the impressionists were n't admired .", "sentence_good": "the impressionists n't will admired .", "sentence_bad": "the impressionists n't will conferred ."}
+{"original": "granddaughters of heidi are forgotten .", "sentence_good": "granddaughters at heidi will forgotten .", "sentence_bad": "granddaughters at heidi will laughed ."}
+{"original": "those guests are confused .", "sentence_good": "the guests will confused .", "sentence_bad": "the guests will conferred ."}
+{"original": "carrie is n't irritated .", "sentence_good": "carrie n't will irritated .", "sentence_bad": "carrie n't will wept ."}
+{"original": "jennifer 's grandfathers are respected .", "sentence_good": "jennifer will grandfathers will respected .", "sentence_bad": "jennifer will grandfathers will talked ."}
+{"original": "brad 's employees are n't discussed .", "sentence_good": "brad will employees n't will discussed .", "sentence_bad": "brad will employees n't will coped ."}
+{"original": "beth 's classmates are n't impressed .", "sentence_good": "beth will classmates n't will impressed .", "sentence_bad": "beth will classmates n't will clashed ."}
+{"original": "the grandfather of these guys was n't hired .", "sentence_good": "the grandfather the at guys n't will hired .", "sentence_bad": "the grandfather the at guys n't will shouted ."}
+{"original": "wendy 's dentists are concealed .", "sentence_good": "wendy will dentists will concealed .", "sentence_bad": "wendy will dentists will testified ."}
+{"original": "jerry was upset .", "sentence_good": "jerry will upset .", "sentence_bad": "jerry will screamed ."}
+{"original": "some spinach is sold .", "sentence_good": "some spinach will sold .", "sentence_bad": "some spinach will rotted ."}

@@ -1,0 +1,490 @@
+{"original": "paula references robert .", "sentence_good": "paula references robert .", "sentence_bad": "paula reference robert ."}
+{"original": "the cups alarm angela .", "sentence_good": "a cups alarm angela .", "sentence_bad": "a cups alarms angela ."}
+{"original": "the borgias see veronica .", "sentence_good": "beyond borgias see veronica .", "sentence_bad": "beyond borgias sees veronica ."}
+{"original": "meredith researches this mountain .", "sentence_good": "meredith researches since mountain .", "sentence_bad": "meredith research since mountain ."}
+{"original": "all mirrors disgust suzanne .", "sentence_good": "while mirrors disgust suzanne .", "sentence_bad": "while mirrors disgusts suzanne ."}
+{"original": "a spotlight worries jason .", "sentence_good": "amid spotlight worries jason .", "sentence_bad": "amid spotlight worry jason ."}
+{"original": "walter tours some closets .", "sentence_good": "walter tours some closets .", "sentence_bad": "walter tour some closets ."}
+{"original": "these dancers break every bicycle .", "sentence_good": "if dancers break neither bicycle .", "sentence_bad": "if dancers breaks neither bicycle ."}
+{"original": "those rugs aggravate every woman .", "sentence_good": "amid rugs aggravate each woman .", "sentence_bad": "amid rugs aggravates each woman ."}
+{"original": "most glasses scare martin .", "sentence_good": "most glasses scare martin .", "sentence_bad": "most glasses scares martin ."}
+{"original": "a lot of dancers research a hospital .", "sentence_good": "near lot whilst dancers research being hospital .", "sentence_bad": "being lot whilst dancers researches being hospital ."}
+{"original": "margaret returns to margaret .", "sentence_good": "margaret returns and margaret .", "sentence_bad": "margaret return and margaret ."}
+{"original": "these casseroles disgust kayla .", "sentence_good": "any casseroles disgust kayla .", "sentence_bad": "any casseroles disgusts kayla ."}
+{"original": "some legislature forgets janice .", "sentence_good": "some legislature forgets janice .", "sentence_bad": "some legislature forget janice ."}
+{"original": "a lot of computers impress bradley .", "sentence_good": "must lot along computers impress bradley .", "sentence_bad": "must lot along computers impresses bradley ."}
+{"original": "those dogs resemble some sketches .", "sentence_good": "until dogs resemble some sketches .", "sentence_bad": "until dogs resembles some sketches ."}
+{"original": "all pedestrians fix some chairs .", "sentence_good": "by pedestrians fix some chairs .", "sentence_bad": "by pedestrians fixes some chairs ."}
+{"original": "most actresses observe judy .", "sentence_good": "most actresses observe judy .", "sentence_bad": "most actresses observes judy ."}
+{"original": "that teacher tours the hills .", "sentence_good": "should teacher tours neither hills .", "sentence_bad": "should teacher tour neither hills ."}
+{"original": "that library conceals jeffrey .", "sentence_good": "amongst library conceals jeffrey .", "sentence_bad": "amongst library conceal jeffrey ."}
+{"original": "schools criticize these glaciers .", "sentence_good": "schools criticize since glaciers .", "sentence_bad": "schools criticizes since glaciers ."}
+{"original": "a cake shocks patrick .", "sentence_good": "either cake shocks patrick .", "sentence_bad": "either cake shock patrick ."}
+{"original": "all hospitals resemble a lot of drawings .", "sentence_good": "re hospitals resemble has lot with drawings .", "sentence_bad": "re hospitals resembles has lot with drawings ."}
+{"original": "galileo listens to elizabeth .", "sentence_good": "galileo listens been elizabeth .", "sentence_bad": "galileo listen been elizabeth ."}
+{"original": "some movies sound like a student .", "sentence_good": "some movies sound above at student .", "sentence_bad": "some movies sounds above at student ."}
+{"original": "the pedestrians reference charles .", "sentence_good": "beside pedestrians reference charles .", "sentence_bad": "beside pedestrians references charles ."}
+{"original": "most associations buy those libraries .", "sentence_good": "most associations buy did libraries .", "sentence_bad": "most associations buys did libraries ."}
+{"original": "suzanne dislikes these dancers .", "sentence_good": "suzanne dislikes in dancers .", "sentence_bad": "suzanne dislike in dancers ."}
+{"original": "that customer dislikes heather .", "sentence_good": "along customer dislikes heather .", "sentence_bad": "along customer dislike heather ."}
+{"original": "the ladies break this plate .", "sentence_good": "although ladies break both plate .", "sentence_bad": "although ladies breaks both plate ."}
+{"original": "gary leaves stacy .", "sentence_good": "gary leaves stacy .", "sentence_bad": "gary leave stacy ."}
+{"original": "heidi lifts many socks .", "sentence_good": "heidi lifts many socks .", "sentence_bad": "heidi lift many socks ."}
+{"original": "a lot of doctors scan a lot of movies .", "sentence_good": "yet lot of doctors scan because lot while movies .", "sentence_bad": "because lot while doctors scans because lot while movies ."}
+{"original": "carol boasts about ella .", "sentence_good": "carol boasts near ella .", "sentence_bad": "carol boast near ella ."}
+{"original": "kimberley approaches carl .", "sentence_good": "kimberley approaches carl .", "sentence_bad": "kimberley approach carl ."}
+{"original": "liam notices some skirts .", "sentence_good": "liam notices some skirts .", "sentence_bad": "liam notice some skirts ."}
+{"original": "victoria breaks a bike .", "sentence_good": "victoria breaks if bike .", "sentence_bad": "victoria break if bike ."}
+{"original": "a lot of ladies watch steve .", "sentence_good": "would lot every ladies watch steve .", "sentence_bad": "would lot every ladies watches steve ."}
+{"original": "emily lifts the closet .", "sentence_good": "emily lifts between closet .", "sentence_bad": "emily lift between closet ."}
+{"original": "tracy fires sonia .", "sentence_good": "tracy fires sonia .", "sentence_bad": "tracy fire sonia ."}
+{"original": "dia na researches those restaurants .", "sentence_good": "dia na researches beneath restaurants .", "sentence_bad": "dia na research beneath restaurants ."}
+{"original": "some actors kiss some teacher .", "sentence_good": "some actors kiss some teacher .", "sentence_bad": "some actors kisses some teacher ."}
+{"original": "many dogs confuse those patients .", "sentence_good": "many dogs confuse art patients .", "sentence_bad": "many dogs confuses art patients ."}
+{"original": "tiffany passes all hospitals .", "sentence_good": "tiffany passes before hospitals .", "sentence_bad": "tiffany pass before hospitals ."}
+{"original": "dana descends this ladder .", "sentence_good": "dana descends those ladder .", "sentence_bad": "dana descend those ladder ."}
+{"original": "theodore explores most hills .", "sentence_good": "theodore explores most hills .", "sentence_bad": "theodore explore most hills ."}
+{"original": "suzanne leaves carlos .", "sentence_good": "suzanne leaves carlos .", "sentence_bad": "suzanne leave carlos ."}
+{"original": "these actors skate around harvard university .", "sentence_good": "than actors skate could harvard university .", "sentence_bad": "than actors skates could harvard university ."}
+{"original": "a lot of ladies examine a lot of documentaries .", "sentence_good": "unto lot along ladies examine had lot whether documentaries .", "sentence_bad": "had lot whether ladies examines had lot whether documentaries ."}
+{"original": "a lot of adults listen to stacy .", "sentence_good": "ar lot until adults listen beneath stacy .", "sentence_bad": "ar lot until adults listens beneath stacy ."}
+{"original": "dan conceals tracy .", "sentence_good": "dan conceals tracy .", "sentence_bad": "dan conceal tracy ."}
+{"original": "anna scans these movies .", "sentence_good": "anna scans are movies .", "sentence_bad": "anna scan are movies ."}
+{"original": "carrie buys many unicycles .", "sentence_good": "carrie buys many unicycles .", "sentence_bad": "carrie buy many unicycles ."}
+{"original": "sheila exits some mall .", "sentence_good": "sheila exits some mall .", "sentence_bad": "sheila exit some mall ."}
+{"original": "these pedestrians conceal that actor .", "sentence_good": "while pedestrians conceal ar actor .", "sentence_bad": "while pedestrians conceals ar actor ."}
+{"original": "amy buys this grocery store .", "sentence_good": "amy buys although grocery store .", "sentence_bad": "amy buy although grocery store ."}
+{"original": "the clintons visit the teachers .", "sentence_good": "all clintons visit art teachers .", "sentence_bad": "art clintons visits art teachers ."}
+{"original": "debra scares some associations .", "sentence_good": "debra scares some associations .", "sentence_bad": "debra scare some associations ."}
+{"original": "that pepper distracts lucille .", "sentence_good": "being pepper distracts lucille .", "sentence_bad": "being pepper distract lucille ."}
+{"original": "the banks buy a lot of shawls .", "sentence_good": "are banks buy should lot by shawls .", "sentence_bad": "are banks buys should lot by shawls ."}
+{"original": "many ladies see homer .", "sentence_good": "many ladies see homer .", "sentence_bad": "many ladies sees homer ."}
+{"original": "most patients conceal carla .", "sentence_good": "most patients conceal carla .", "sentence_bad": "most patients conceals carla ."}
+{"original": "those drivers disgusts dan .", "sentence_good": "in drivers disgusts dan .", "sentence_bad": "in drivers disgust dan ."}
+{"original": "karla thinks about ella .", "sentence_good": "karla thinks after ella .", "sentence_bad": "karla think after ella ."}
+{"original": "kimberley respects rachel .", "sentence_good": "kimberley respects rachel .", "sentence_bad": "kimberley respect rachel ."}
+{"original": "couches resemble some drawing .", "sentence_good": "couches resemble some drawing .", "sentence_bad": "couches resembles some drawing ."}
+{"original": "cynthia passes all mountains .", "sentence_good": "cynthia passes was mountains .", "sentence_bad": "cynthia pass was mountains ."}
+{"original": "that carriage aggravates angela .", "sentence_good": "with carriage aggravates angela .", "sentence_bad": "with carriage aggravate angela ."}
+{"original": "the lutherans clean a lot of glasses .", "sentence_good": "between lutherans clean all lot ar glasses .", "sentence_bad": "between lutherans cleans all lot ar glasses ."}
+{"original": "steven hires this child .", "sentence_good": "steven hires might child .", "sentence_bad": "steven hire might child ."}
+{"original": "that drawing disgusts the banks .", "sentence_good": "is drawing disgusts both banks .", "sentence_bad": "is drawing disgust both banks ."}
+{"original": "elizabeth remembers edward .", "sentence_good": "elizabeth remembers edward .", "sentence_bad": "elizabeth remember edward ."}
+{"original": "all teenagers run around a lot of college campuses .", "sentence_good": "by teenagers run was by lot whereas college campuses .", "sentence_bad": "by teenagers runs was by lot whereas college campuses ."}
+{"original": "samuel hates aaron .", "sentence_good": "samuel hates aaron .", "sentence_bad": "samuel hate aaron ."}
+{"original": "tonya tours this grocery store .", "sentence_good": "tonya tours without grocery store .", "sentence_bad": "tonya tour without grocery store ."}
+{"original": "lori talks to most pedestrians .", "sentence_good": "lori talks on most pedestrians .", "sentence_bad": "lori talk on most pedestrians ."}
+{"original": "many patients sound like eric .", "sentence_good": "many patients sound either eric .", "sentence_bad": "many patients sounds either eric ."}
+{"original": "some car alarms mitchell .", "sentence_good": "some car alarms mitchell .", "sentence_bad": "some car alarm mitchell ."}
+{"original": "jennifer breaks the unicycle .", "sentence_good": "jennifer breaks under unicycle .", "sentence_bad": "jennifer break under unicycle ."}
+{"original": "every teacher explores a lot of art galleries .", "sentence_good": "the teacher explores no lot yet should galleries .", "sentence_bad": "the teacher explore no lot yet should galleries ."}
+{"original": "many teenagers forget that boy .", "sentence_good": "many teenagers forget about boy .", "sentence_bad": "many teenagers forgets about boy ."}
+{"original": "the clintons hate every person .", "sentence_good": "was clintons hate behind person .", "sentence_bad": "was clintons hates behind person ."}
+{"original": "lori conceals adam .", "sentence_good": "lori conceals adam .", "sentence_bad": "lori conceal adam ."}
+{"original": "those actresses discuss steve .", "sentence_good": "by actresses discuss steve .", "sentence_bad": "by actresses discusses steve ."}
+{"original": "dancers heal tonya .", "sentence_good": "dancers heal tonya .", "sentence_bad": "dancers heals tonya ."}
+{"original": "this cashier buys many hamsters .", "sentence_good": "neither cashier buys many hamsters .", "sentence_bad": "neither cashier buy many hamsters ."}
+{"original": "chad remembers the borgias .", "sentence_good": "chad remembers off borgias .", "sentence_bad": "chad remember off borgias ."}
+{"original": "christopher cares for that teenager .", "sentence_good": "christopher cares had neither teenager .", "sentence_bad": "christopher care had neither teenager ."}
+{"original": "some teenagers return to walter .", "sentence_good": "some teenagers return neither walter .", "sentence_bad": "some teenagers returns neither walter ."}
+{"original": "christina admires michael .", "sentence_good": "christina admires michael .", "sentence_bad": "christina admire michael ."}
+{"original": "these horses ascend a lot of ladders .", "sentence_good": "as horses ascend since lot via ladders .", "sentence_bad": "as horses ascends since lot via ladders ."}
+{"original": "this association insults marcus .", "sentence_good": "above association insults marcus .", "sentence_bad": "above association insult marcus ."}
+{"original": "david questions curtis .", "sentence_good": "david questions curtis .", "sentence_bad": "david question curtis ."}
+{"original": "all waitresses stuns some schools .", "sentence_good": "could waitresses stuns some schools .", "sentence_bad": "could waitresses stun some schools ."}
+{"original": "the children care for this cashier .", "sentence_good": "on children care except yet cashier .", "sentence_bad": "on children cares except yet cashier ."}
+{"original": "these waiters examine a play .", "sentence_good": "should waiters examine upon play .", "sentence_bad": "should waiters examines upon play ."}
+{"original": "all drivers boycott some mall .", "sentence_good": "underneath drivers boycott some mall .", "sentence_bad": "underneath drivers boycotts some mall ."}
+{"original": "many teachers listen to denise .", "sentence_good": "many teachers listen over denise .", "sentence_bad": "many teachers listens over denise ."}
+{"original": "some companies work with sheila .", "sentence_good": "some companies work did sheila .", "sentence_bad": "some companies works did sheila ."}
+{"original": "theodore passes the hill .", "sentence_good": "theodore passes may hill .", "sentence_bad": "theodore pass may hill ."}
+{"original": "patrick wears those skirts .", "sentence_good": "patrick wears below skirts .", "sentence_bad": "patrick wear below skirts ."}
+{"original": "laura cures tracy .", "sentence_good": "laura cures tracy .", "sentence_bad": "laura cure tracy ."}
+{"original": "cashiers care for angela .", "sentence_good": "cashiers care around angela .", "sentence_bad": "cashiers cares around angela ."}
+{"original": "that scarf impresses lisa .", "sentence_good": "am scarf impresses lisa .", "sentence_bad": "am scarf impress lisa ."}
+{"original": "christopher observes tina .", "sentence_good": "christopher observes tina .", "sentence_bad": "christopher observe tina ."}
+{"original": "these dancers praise laurie .", "sentence_good": "over dancers praise laurie .", "sentence_bad": "over dancers praises laurie ."}
+{"original": "bill criticizes george .", "sentence_good": "bill criticizes george .", "sentence_bad": "bill criticize george ."}
+{"original": "the lutherans climb up a lot of hills .", "sentence_good": "could lutherans climb up against lot been hills .", "sentence_bad": "could lutherans climbs up against lot been hills ."}
+{"original": "melanie cures barbara .", "sentence_good": "melanie cures barbara .", "sentence_bad": "melanie cure barbara ."}
+{"original": "some dancers boycott this glacier .", "sentence_good": "some dancers boycott since glacier .", "sentence_bad": "some dancers boycotts since glacier ."}
+{"original": "some prints aggravate spain .", "sentence_good": "some prints aggravate spain .", "sentence_bad": "some prints aggravates spain ."}
+{"original": "donald notices some rice .", "sentence_good": "donald notices some rice .", "sentence_bad": "donald notice some rice ."}
+{"original": "many cashiers fire julie .", "sentence_good": "many cashiers fire julie .", "sentence_bad": "many cashiers fires julie ."}
+{"original": "many students kiss frank .", "sentence_good": "many students kiss frank .", "sentence_bad": "many students kisses frank ."}
+{"original": "that screen confuses judy .", "sentence_good": "by screen confuses judy .", "sentence_bad": "by screen confuse judy ."}
+{"original": "the clintons talk to patrick .", "sentence_good": "via clintons talk ought patrick .", "sentence_bad": "via clintons talks ought patrick ."}
+{"original": "those adults work with these patients .", "sentence_good": "or adults work need on patients .", "sentence_bad": "or adults works need on patients ."}
+{"original": "eric kisses amelia .", "sentence_good": "eric kisses amelia .", "sentence_bad": "eric kiss amelia ."}
+{"original": "some banks resemble that painting .", "sentence_good": "some banks resemble have painting .", "sentence_bad": "some banks resembles have painting ."}
+{"original": "a committee confuses gina .", "sentence_good": "during committee confuses gina .", "sentence_bad": "during committee confuse gina ."}
+{"original": "these girls work with meredith .", "sentence_good": "every girls work shall meredith .", "sentence_bad": "every girls works shall meredith ."}
+{"original": "melanie sounds like heather .", "sentence_good": "melanie sounds till heather .", "sentence_bad": "melanie sound till heather ."}
+{"original": "the teachers pass a hill .", "sentence_good": "upon teachers pass in hill .", "sentence_bad": "upon teachers passes in hill ."}
+{"original": "ellen investigates the committee .", "sentence_good": "ellen investigates in committee .", "sentence_bad": "ellen investigate in committee ."}
+{"original": "those senators mess up every glass .", "sentence_good": "from senators mess up the glass .", "sentence_bad": "from senators messes up the glass ."}
+{"original": "sarah sells this public park .", "sentence_good": "sarah sells onto public park .", "sentence_bad": "sarah sell onto public park ."}
+{"original": "sherry conceals kirsten .", "sentence_good": "sherry conceals kirsten .", "sentence_bad": "sherry conceal kirsten ."}
+{"original": "most boys listen to anne .", "sentence_good": "most boys listen each anne .", "sentence_bad": "most boys listens each anne ."}
+{"original": "danielle sells a bird .", "sentence_good": "danielle sells whether bird .", "sentence_bad": "danielle sell whether bird ."}
+{"original": "many waitresses sound like becca .", "sentence_good": "many waitresses sound towards becca .", "sentence_bad": "many waitresses sounds towards becca ."}
+{"original": "all actresses listen to the teenagers .", "sentence_good": "for actresses listen except in teenagers .", "sentence_bad": "for actresses listens except in teenagers ."}
+{"original": "holly hates roger .", "sentence_good": "holly hates roger .", "sentence_bad": "holly hate roger ."}
+{"original": "this pedestrian escapes from a lot of movie theaters .", "sentence_good": "alongside pedestrian escapes whereas any lot have movie theaters .", "sentence_bad": "alongside pedestrian escape whereas any lot have movie theaters ."}
+{"original": "lucille sells many college campuses .", "sentence_good": "lucille sells many college campuses .", "sentence_bad": "lucille sell many college campuses ."}
+{"original": "david sounds like candice .", "sentence_good": "david sounds albeit candice .", "sentence_bad": "david sound albeit candice ."}
+{"original": "cheryl tours a bank .", "sentence_good": "cheryl tours am bank .", "sentence_bad": "cheryl tour am bank ."}
+{"original": "sheila escapes from a teenager .", "sentence_good": "sheila escapes off have teenager .", "sentence_bad": "sheila escape off have teenager ."}
+{"original": "every photograph looks like holly .", "sentence_good": "without photograph looks art holly .", "sentence_bad": "without photograph look art holly ."}
+{"original": "many teachers return to that grocery store .", "sentence_good": "many teachers return or being grocery store .", "sentence_bad": "many teachers returns or being grocery store ."}
+{"original": "all children watch tiffany .", "sentence_good": "neither children watch tiffany .", "sentence_bad": "neither children watches tiffany ."}
+{"original": "steven cures sally .", "sentence_good": "steven cures sally .", "sentence_bad": "steven cure sally ."}
+{"original": "a lot of governments discuss spain .", "sentence_good": "that lot can governments discuss spain .", "sentence_bad": "that lot can governments discusses spain ."}
+{"original": "michelle boycotts those glaciers .", "sentence_good": "michelle boycotts another glaciers .", "sentence_bad": "michelle boycott another glaciers ."}
+{"original": "some boys hire benjamin .", "sentence_good": "some boys hire benjamin .", "sentence_bad": "some boys hires benjamin ."}
+{"original": "some waitresses visit homer .", "sentence_good": "some waitresses visit homer .", "sentence_bad": "some waitresses visits homer ."}
+{"original": "the lutherans climb down these hills .", "sentence_good": "throughout lutherans climb down are hills .", "sentence_bad": "throughout lutherans climbs down are hills ."}
+{"original": "allison skates around some hospital .", "sentence_good": "allison skates via some hospital .", "sentence_bad": "allison skate via some hospital ."}
+{"original": "bradley sees kevin .", "sentence_good": "bradley sees kevin .", "sentence_bad": "bradley see kevin ."}
+{"original": "heidi questions deborah .", "sentence_good": "heidi questions deborah .", "sentence_bad": "heidi question deborah ."}
+{"original": "kayla walks through those art galleries .", "sentence_good": "kayla walks beside do would galleries .", "sentence_bad": "kayla walk beside do would galleries ."}
+{"original": "the projector impresses tiffany .", "sentence_good": "amongst projector impresses tiffany .", "sentence_bad": "amongst projector impress tiffany ."}
+{"original": "these hospitals forget alan .", "sentence_good": "in hospitals forget alan .", "sentence_bad": "in hospitals forgets alan ."}
+{"original": "all ladders embarrass chad .", "sentence_good": "amid ladders embarrass chad .", "sentence_bad": "amid ladders embarrasses chad ."}
+{"original": "jane admires some cashiers .", "sentence_good": "jane admires some cashiers .", "sentence_bad": "jane admire some cashiers ."}
+{"original": "the waiters listen to timothy .", "sentence_good": "while waiters listen unto timothy .", "sentence_bad": "while waiters listens unto timothy ."}
+{"original": "all pedestrians arrive at the high schools .", "sentence_good": "at pedestrians arrive across am high schools .", "sentence_bad": "at pedestrians arrives across am high schools ."}
+{"original": "patients fire these actors .", "sentence_good": "patients fire while actors .", "sentence_bad": "patients fires while actors ."}
+{"original": "jill boycotts the bank .", "sentence_good": "jill boycotts could bank .", "sentence_bad": "jill boycott could bank ."}
+{"original": "children question some senator .", "sentence_good": "children question some senator .", "sentence_bad": "children questions some senator ."}
+{"original": "some pedestrians respect eric .", "sentence_good": "some pedestrians respect eric .", "sentence_bad": "some pedestrians respects eric ."}
+{"original": "some reports annoy actors .", "sentence_good": "some reports annoy actors .", "sentence_bad": "some reports annoys actors ."}
+{"original": "rachelle criticizes deanna .", "sentence_good": "rachelle criticizes deanna .", "sentence_bad": "rachelle criticize deanna ."}
+{"original": "those pedestrians cure jason .", "sentence_good": "amongst pedestrians cure jason .", "sentence_bad": "amongst pedestrians cures jason ."}
+{"original": "senators listen to janet .", "sentence_good": "senators listen art janet .", "sentence_bad": "senators listens art janet ."}
+{"original": "some children bike to some museum .", "sentence_good": "some children bike is some museum .", "sentence_bad": "some children bikes is some museum ."}
+{"original": "carol works with monica .", "sentence_good": "carol works once monica .", "sentence_bad": "carol work once monica ."}
+{"original": "most drivers talk to kendra .", "sentence_good": "most drivers talk as kendra .", "sentence_bad": "most drivers talks as kendra ."}
+{"original": "the adults astounds the impressionists .", "sentence_good": "above adults astounds about impressionists .", "sentence_bad": "about adults astound about impressionists ."}
+{"original": "that art gallery distracts alicia .", "sentence_good": "need after gallery distracts alicia .", "sentence_bad": "need after gallery distract alicia ."}
+{"original": "kristen runs around cafes .", "sentence_good": "kristen runs across cafes .", "sentence_bad": "kristen run across cafes ."}
+{"original": "craig works with kristin .", "sentence_good": "craig works without kristin .", "sentence_bad": "craig work without kristin ."}
+{"original": "some organizations shock a senator .", "sentence_good": "some organizations shock in senator .", "sentence_bad": "some organizations shocks in senator ."}
+{"original": "most shirts distract claire .", "sentence_good": "most shirts distract claire .", "sentence_bad": "most shirts distracts claire ."}
+{"original": "associations hire lori .", "sentence_good": "associations hire lori .", "sentence_bad": "associations hires lori ."}
+{"original": "the impressionists wear a sock .", "sentence_good": "onto impressionists wear with sock .", "sentence_bad": "onto impressionists wears with sock ."}
+{"original": "bethany cares for alicia .", "sentence_good": "bethany cares between alicia .", "sentence_bad": "bethany care between alicia ."}
+{"original": "many children break this truck .", "sentence_good": "many children break to truck .", "sentence_bad": "many children breaks to truck ."}
+{"original": "some drivers tour this high school .", "sentence_good": "some drivers tour art high school .", "sentence_bad": "some drivers tours art high school ."}
+{"original": "some patients discuss theresa .", "sentence_good": "some patients discuss theresa .", "sentence_bad": "some patients discusses theresa ."}
+{"original": "dia na admires tanya .", "sentence_good": "dia na admires tanya .", "sentence_bad": "dia na admire tanya ."}
+{"original": "gerald disturbs roger .", "sentence_good": "gerald disturbs roger .", "sentence_bad": "gerald disturb roger ."}
+{"original": "sabrina discovers florence .", "sentence_good": "sabrina discovers florence .", "sentence_bad": "sabrina discover florence ."}
+{"original": "bradley loves all documentaries .", "sentence_good": "bradley loves without documentaries .", "sentence_bad": "bradley love without documentaries ."}
+{"original": "all mountains impress sonia .", "sentence_good": "about mountains impress sonia .", "sentence_bad": "about mountains impresses sonia ."}
+{"original": "some waitresses reference some adult .", "sentence_good": "some waitresses reference some adult .", "sentence_bad": "some waitresses references some adult ."}
+{"original": "charles dislikes the art gallery .", "sentence_good": "charles dislikes throughout although gallery .", "sentence_bad": "charles dislike throughout although gallery ."}
+{"original": "some actresses complain about julia .", "sentence_good": "some actresses complain but julia .", "sentence_bad": "some actresses complains but julia ."}
+{"original": "william messes up that movie theater .", "sentence_good": "william messes up on movie theater .", "sentence_bad": "william mess up on movie theater ."}
+{"original": "many students break every computer .", "sentence_good": "many students break must computer .", "sentence_bad": "many students breaks must computer ."}
+{"original": "actresses hide the snake .", "sentence_good": "actresses hide for snake .", "sentence_bad": "actresses hides for snake ."}
+{"original": "all cashiers criticize some newspaper articles .", "sentence_good": "around cashiers criticize some newspaper articles .", "sentence_bad": "around cashiers criticizes some newspaper articles ."}
+{"original": "a cup scares teenagers .", "sentence_good": "any cup scares teenagers .", "sentence_bad": "any cup scare teenagers ."}
+{"original": "some adults flee from jason .", "sentence_good": "some adults flee unlike jason .", "sentence_bad": "some adults flees unlike jason ."}
+{"original": "caroline questions lisa .", "sentence_good": "caroline questions lisa .", "sentence_bad": "caroline question lisa ."}
+{"original": "waitresses drive to a lot of movie theaters .", "sentence_good": "waitresses drive beneath albeit lot if movie theaters .", "sentence_bad": "waitresses drives beneath albeit lot if movie theaters ."}
+{"original": "thomas watches travis .", "sentence_good": "thomas watches travis .", "sentence_bad": "thomas watch travis ."}
+{"original": "kayla lifts those projectors .", "sentence_good": "kayla lifts per projectors .", "sentence_bad": "kayla lift per projectors ."}
+{"original": "cynthia thinks about these eyes .", "sentence_good": "cynthia thinks against unlike eyes .", "sentence_bad": "cynthia think against unlike eyes ."}
+{"original": "samuel hugs liam .", "sentence_good": "samuel hugs liam .", "sentence_bad": "samuel hug liam ."}
+{"original": "joseph flees from carolyn .", "sentence_good": "joseph flees though carolyn .", "sentence_bad": "joseph flee though carolyn ."}
+{"original": "jane questions theodore .", "sentence_good": "jane questions theodore .", "sentence_bad": "jane question theodore ."}
+{"original": "this ladder annoys paula .", "sentence_good": "about ladder annoys paula .", "sentence_bad": "about ladder annoy paula ."}
+{"original": "all waiters criticize all movie theaters .", "sentence_good": "can waiters criticize before movie theaters .", "sentence_bad": "before waiters criticizes before movie theaters ."}
+{"original": "this cashier flees from rachel .", "sentence_good": "within cashier flees after rachel .", "sentence_bad": "within cashier flee after rachel ."}
+{"original": "a lot of customers notice every waiter .", "sentence_good": "whereas lot whereas customers notice am waiter .", "sentence_bad": "whereas lot whereas customers notices am waiter ."}
+{"original": "michael skates around that public park .", "sentence_good": "michael skates should a public park .", "sentence_bad": "michael skate should a public park ."}
+{"original": "douglas watches some cashier .", "sentence_good": "douglas watches some cashier .", "sentence_bad": "douglas watch some cashier ."}
+{"original": "those banks describe eric .", "sentence_good": "albeit banks describe eric .", "sentence_bad": "albeit banks describes eric ."}
+{"original": "the customer investigates carla .", "sentence_good": "via customer investigates carla .", "sentence_bad": "via customer investigate carla ."}
+{"original": "every restaurant embarrasses elaine .", "sentence_good": "am restaurant embarrasses elaine .", "sentence_bad": "am restaurant embarrass elaine ."}
+{"original": "the clintons disgusts brian .", "sentence_good": "could clintons disgusts brian .", "sentence_bad": "could clintons disgust brian ."}
+{"original": "the borgias heal connie .", "sentence_good": "throughout borgias heal connie .", "sentence_bad": "throughout borgias heals connie ."}
+{"original": "christopher runs around all art galleries .", "sentence_good": "christopher runs behind around through galleries .", "sentence_bad": "christopher run behind around through galleries ."}
+{"original": "the pie distracts this adult .", "sentence_good": "because pie distracts of adult .", "sentence_bad": "because pie distract of adult ."}
+{"original": "those waitresses annoys cynthia .", "sentence_good": "around waitresses annoys cynthia .", "sentence_bad": "around waitresses annoy cynthia ."}
+{"original": "catherine boasts about brett .", "sentence_good": "catherine boasts once brett .", "sentence_bad": "catherine boast once brett ."}
+{"original": "that public park astounds allison .", "sentence_good": "for public park astounds allison .", "sentence_bad": "for public park astound allison ."}
+{"original": "a lot of libraries praise sarah .", "sentence_good": "among lot but libraries praise sarah .", "sentence_bad": "among lot but libraries praises sarah ."}
+{"original": "every brochure bores james .", "sentence_good": "if brochure bores james .", "sentence_bad": "if brochure bore james ."}
+{"original": "kenneth runs around the great lakes .", "sentence_good": "kenneth runs near despite great lakes .", "sentence_bad": "kenneth run near despite great lakes ."}
+{"original": "museums fire elaine .", "sentence_good": "museums fire elaine .", "sentence_bad": "museums fires elaine ."}
+{"original": "a lot of waiters remember all students .", "sentence_good": "ca lot will waiters remember amongst students .", "sentence_bad": "ca lot will waiters remembers amongst students ."}
+{"original": "these guys reference clyde .", "sentence_good": "at guys reference clyde .", "sentence_bad": "at guys references clyde ."}
+{"original": "danielle arrives at most mountains .", "sentence_good": "danielle arrives either most mountains .", "sentence_bad": "danielle arrive either most mountains ."}
+{"original": "those actors run around this library .", "sentence_good": "albeit actors run beneath art library .", "sentence_bad": "albeit actors runs beneath art library ."}
+{"original": "spain alarms connie .", "sentence_good": "spain alarms connie .", "sentence_bad": "spain alarm connie ."}
+{"original": "many adults hide every window .", "sentence_good": "many adults hide must window .", "sentence_bad": "many adults hides must window ."}
+{"original": "tanya scares deanna .", "sentence_good": "tanya scares deanna .", "sentence_bad": "tanya scare deanna ."}
+{"original": "paul cleans those pictures .", "sentence_good": "paul cleans whereas pictures .", "sentence_bad": "paul clean whereas pictures ."}
+{"original": "holly descends ladders .", "sentence_good": "holly descends ladders .", "sentence_bad": "holly descend ladders ."}
+{"original": "sara drives to the mall .", "sentence_good": "sara drives from into mall .", "sentence_bad": "sara drive from into mall ."}
+{"original": "the libraries know becky .", "sentence_good": "off libraries know becky .", "sentence_bad": "off libraries knows becky ."}
+{"original": "the lutherans reference jason .", "sentence_good": "although lutherans reference jason .", "sentence_bad": "although lutherans references jason ."}
+{"original": "steven talks to florence .", "sentence_good": "steven talks could florence .", "sentence_bad": "steven talk could florence ."}
+{"original": "jennifer sells that plate .", "sentence_good": "jennifer sells each plate .", "sentence_bad": "jennifer sell each plate ."}
+{"original": "a lot of organizations praise andrew .", "sentence_good": "is lot per organizations praise andrew .", "sentence_bad": "is lot per organizations praises andrew ."}
+{"original": "some boys escape from don na .", "sentence_good": "some boys escape any don na .", "sentence_bad": "some boys escapes any don na ."}
+{"original": "a lot of reports astound lissa .", "sentence_good": "below lot without reports astound lissa .", "sentence_bad": "below lot without reports astounds lissa ."}
+{"original": "the clintons reference these commentaries .", "sentence_good": "at clintons reference under commentaries .", "sentence_bad": "at clintons references under commentaries ."}
+{"original": "those legislatures fire craig .", "sentence_good": "every legislatures fire craig .", "sentence_bad": "every legislatures fires craig ."}
+{"original": "a pie bothers benjamin .", "sentence_good": "or pie bothers benjamin .", "sentence_bad": "or pie bother benjamin ."}
+{"original": "most fish confuse don na .", "sentence_good": "most fish confuse don na .", "sentence_bad": "most fish confuses don na ."}
+{"original": "most girls go to many libraries .", "sentence_good": "most girls go re many libraries .", "sentence_bad": "most girls goes re many libraries ."}
+{"original": "all waitresses bike to glaciers .", "sentence_good": "with waitresses bike another glaciers .", "sentence_bad": "with waitresses bikes another glaciers ."}
+{"original": "many guests describe amanda .", "sentence_good": "many guests describe amanda .", "sentence_bad": "many guests describes amanda ."}
+{"original": "rodney questions some legislature .", "sentence_good": "rodney questions some legislature .", "sentence_bad": "rodney question some legislature ."}
+{"original": "marla walks through a high school .", "sentence_good": "marla walks need while high school .", "sentence_bad": "marla walk need while high school ."}
+{"original": "jill boycotts a closet .", "sentence_good": "jill boycotts unlike closet .", "sentence_bad": "jill boycott unlike closet ."}
+{"original": "tiffany hires monica .", "sentence_good": "tiffany hires monica .", "sentence_bad": "tiffany hire monica ."}
+{"original": "some shoes embarrass some cashier .", "sentence_good": "some shoes embarrass some cashier .", "sentence_bad": "some shoes embarrasses some cashier ."}
+{"original": "a lot of screens embarrass sabrina .", "sentence_good": "were lot have screens embarrass sabrina .", "sentence_bad": "were lot have screens embarrasses sabrina ."}
+{"original": "andrea tours rivers .", "sentence_good": "andrea tours rivers .", "sentence_bad": "andrea tour rivers ."}
+{"original": "elizabeth explores all restaurants .", "sentence_good": "elizabeth explores shall restaurants .", "sentence_bad": "elizabeth explore shall restaurants ."}
+{"original": "raymond cleans a library .", "sentence_good": "raymond cleans whether library .", "sentence_bad": "raymond clean whether library ."}
+{"original": "those cashiers question many waiters .", "sentence_good": "along cashiers question many waiters .", "sentence_bad": "along cashiers questions many waiters ."}
+{"original": "all glasses disgust clyde .", "sentence_good": "beneath glasses disgust clyde .", "sentence_bad": "beneath glasses disgusts clyde ."}
+{"original": "kristin leaves monica .", "sentence_good": "kristin leaves monica .", "sentence_bad": "kristin leave monica ."}
+{"original": "a lot of waiters boast about wayne .", "sentence_good": "over lot amongst waiters boast did wayne .", "sentence_bad": "over lot amongst waiters boasts did wayne ."}
+{"original": "stephanie knows maria .", "sentence_good": "stephanie knows maria .", "sentence_bad": "stephanie know maria ."}
+{"original": "wayne messes up that dish .", "sentence_good": "wayne messes up around dish .", "sentence_bad": "wayne mess up around dish ."}
+{"original": "dan heals catherine .", "sentence_good": "dan heals catherine .", "sentence_bad": "dan heal catherine ."}
+{"original": "kevin approaches jeffrey .", "sentence_good": "kevin approaches jeffrey .", "sentence_bad": "kevin approach jeffrey ."}
+{"original": "those customers run around this museum .", "sentence_good": "both customers run be whether museum .", "sentence_bad": "both customers runs be whether museum ."}
+{"original": "veronica sells a nose .", "sentence_good": "veronica sells at nose .", "sentence_bad": "veronica sell at nose ."}
+{"original": "the borgias run around the public park .", "sentence_good": "can borgias run behind unlike public park .", "sentence_bad": "unlike borgias runs behind unlike public park ."}
+{"original": "ronald kisses matt .", "sentence_good": "ronald kisses matt .", "sentence_bad": "ronald kiss matt ."}
+{"original": "amanda walks through some mountains .", "sentence_good": "amanda walks whilst some mountains .", "sentence_bad": "amanda walk whilst some mountains ."}
+{"original": "a lot of public parks worry jennifer .", "sentence_good": "beside lot unto public parks worry jennifer .", "sentence_bad": "beside lot unto public parks worries jennifer ."}
+{"original": "these children care for alice .", "sentence_good": "near children care aboard alice .", "sentence_bad": "near children cares aboard alice ."}
+{"original": "those students remember carolyn .", "sentence_good": "as students remember carolyn .", "sentence_bad": "as students remembers carolyn ."}
+{"original": "a lot of guys help anne .", "sentence_good": "am lot because guys help anne .", "sentence_bad": "am lot because guys helps anne ."}
+{"original": "current events aggravate many universities .", "sentence_good": "current events aggravate many universities .", "sentence_bad": "current events aggravates many universities ."}
+{"original": "kathleen talks about the stories .", "sentence_good": "kathleen talks on will stories .", "sentence_bad": "kathleen talk on will stories ."}
+{"original": "beth scares kendra .", "sentence_good": "beth scares kendra .", "sentence_bad": "beth scare kendra ."}
+{"original": "some candle irritates marla .", "sentence_good": "some candle irritates marla .", "sentence_bad": "some candle irritate marla ."}
+{"original": "cashiers approach travis .", "sentence_good": "cashiers approach travis .", "sentence_bad": "cashiers approaches travis ."}
+{"original": "many skateboards resemble the painting .", "sentence_good": "many skateboards resemble these painting .", "sentence_bad": "many skateboards resembles these painting ."}
+{"original": "girls break those trucks .", "sentence_good": "girls break ought trucks .", "sentence_bad": "girls breaks ought trucks ."}
+{"original": "all patients question ronald .", "sentence_good": "art patients question ronald .", "sentence_bad": "art patients questions ronald ."}
+{"original": "sally boasts about all pedestrians .", "sentence_good": "sally boasts unlike no pedestrians .", "sentence_bad": "sally boast unlike no pedestrians ."}
+{"original": "matt flees from don na .", "sentence_good": "matt flees does don na .", "sentence_bad": "matt flee does don na ."}
+{"original": "this association impresses janet .", "sentence_good": "over association impresses janet .", "sentence_bad": "over association impress janet ."}
+{"original": "the cars embarrass every pedestrian .", "sentence_good": "did cars embarrass behind pedestrian .", "sentence_bad": "did cars embarrasses behind pedestrian ."}
+{"original": "rose remembers karla .", "sentence_good": "rose remembers karla .", "sentence_bad": "rose remember karla ."}
+{"original": "a lot of peppers aggravate mark .", "sentence_good": "aboard lot beyond peppers aggravate mark .", "sentence_bad": "aboard lot beyond peppers aggravates mark ."}
+{"original": "these sketches confuse lissa .", "sentence_good": "may sketches confuse lissa .", "sentence_bad": "may sketches confuses lissa ."}
+{"original": "actors examine the plays .", "sentence_good": "actors examine among plays .", "sentence_bad": "actors examines among plays ."}
+{"original": "these drivers sound like lisa .", "sentence_good": "were drivers sound above lisa .", "sentence_bad": "were drivers sounds above lisa ."}
+{"original": "claire exits the public parks .", "sentence_good": "claire exits upon public parks .", "sentence_bad": "claire exit upon public parks ."}
+{"original": "steve visits carmen .", "sentence_good": "steve visits carmen .", "sentence_bad": "steve visit carmen ."}
+{"original": "those ladies heal gina .", "sentence_good": "underneath ladies heal gina .", "sentence_bad": "underneath ladies heals gina ."}
+{"original": "connie conceals some mirror .", "sentence_good": "connie conceals some mirror .", "sentence_bad": "connie conceal some mirror ."}
+{"original": "those teachers hide jerry .", "sentence_good": "any teachers hide jerry .", "sentence_bad": "any teachers hides jerry ."}
+{"original": "those guys return to lori .", "sentence_good": "each guys return until lori .", "sentence_bad": "each guys returns until lori ."}
+{"original": "christopher reveals maria .", "sentence_good": "christopher reveals maria .", "sentence_bad": "christopher reveal maria ."}
+{"original": "girls examine most newspaper articles .", "sentence_good": "girls examine most newspaper articles .", "sentence_bad": "girls examines most newspaper articles ."}
+{"original": "theresa explores that library .", "sentence_good": "theresa explores both library .", "sentence_bad": "theresa explore both library ."}
+{"original": "janet discovers lissa .", "sentence_good": "janet discovers lissa .", "sentence_bad": "janet discover lissa ."}
+{"original": "gary knows every adult .", "sentence_good": "gary knows that adult .", "sentence_bad": "gary know that adult ."}
+{"original": "a horse shocks timothy .", "sentence_good": "both horse shocks timothy .", "sentence_bad": "both horse shock timothy ."}
+{"original": "a lot of children approach these women .", "sentence_good": "till lot the children approach might women .", "sentence_bad": "till lot the children approaches might women ."}
+{"original": "bradley watches vincent .", "sentence_good": "bradley watches vincent .", "sentence_bad": "bradley watch vincent ."}
+{"original": "a lot of doctors arrive at that college campus .", "sentence_good": "ar lot be doctors arrive was can college campus .", "sentence_bad": "ar lot be doctors arrives was can college campus ."}
+{"original": "candice returns to eva .", "sentence_good": "candice returns among eva .", "sentence_bad": "candice return among eva ."}
+{"original": "the paintings look like many socks .", "sentence_good": "except paintings look albeit many socks .", "sentence_bad": "except paintings looks albeit many socks ."}
+{"original": "some cashier returns to some dancer .", "sentence_good": "some cashier returns upon some dancer .", "sentence_bad": "some cashier return upon some dancer ."}
+{"original": "these children drop by a lot of banks .", "sentence_good": "on children drop that into lot despite banks .", "sentence_bad": "on children drops that into lot despite banks ."}
+{"original": "all doctors discover a lot of commentaries .", "sentence_good": "toward doctors discover amongst lot be commentaries .", "sentence_bad": "toward doctors discovers amongst lot be commentaries ."}
+{"original": "john descends most stairs .", "sentence_good": "john descends most stairs .", "sentence_bad": "john descend most stairs ."}
+{"original": "christine praises every movie .", "sentence_good": "christine praises into movie .", "sentence_bad": "christine praise into movie ."}
+{"original": "boys criticize sheila .", "sentence_good": "boys criticize sheila .", "sentence_bad": "boys criticizes sheila ."}
+{"original": "carlos helps the adult .", "sentence_good": "carlos helps amid adult .", "sentence_bad": "carlos help amid adult ."}
+{"original": "the teachers complain about a commentary .", "sentence_good": "or teachers complain art although commentary .", "sentence_bad": "or teachers complains art although commentary ."}
+{"original": "connie remembers deanna .", "sentence_good": "connie remembers deanna .", "sentence_bad": "connie remember deanna ."}
+{"original": "dennis breaks these planes .", "sentence_good": "dennis breaks amongst planes .", "sentence_bad": "dennis break amongst planes ."}
+{"original": "kenneth goes to every college campus .", "sentence_good": "kenneth goes into an college campus .", "sentence_bad": "kenneth go into an college campus ."}
+{"original": "many waitresses reference some actors .", "sentence_good": "many waitresses reference some actors .", "sentence_bad": "many waitresses references some actors ."}
+{"original": "a lot of waitresses scare edward .", "sentence_good": "via lot has waitresses scare edward .", "sentence_bad": "via lot has waitresses scares edward ."}
+{"original": "this icicle distracts anna .", "sentence_good": "into icicle distracts anna .", "sentence_bad": "into icicle distract anna ."}
+{"original": "most newspaper articles scare a lot of universities .", "sentence_good": "most newspaper articles scare will lot along universities .", "sentence_bad": "most newspaper articles scares will lot along universities ."}
+{"original": "helen scans some report .", "sentence_good": "helen scans some report .", "sentence_bad": "helen scan some report ."}
+{"original": "most students know sabrina .", "sentence_good": "most students know sabrina .", "sentence_bad": "most students knows sabrina ."}
+{"original": "these teachers break those bicycles .", "sentence_good": "during teachers break toward bicycles .", "sentence_bad": "during teachers breaks toward bicycles ."}
+{"original": "the bird impresses scott .", "sentence_good": "and bird impresses scott .", "sentence_bad": "and bird impress scott ."}
+{"original": "stacy explores the art gallery .", "sentence_good": "stacy explores yet from gallery .", "sentence_bad": "stacy explore yet from gallery ."}
+{"original": "lissa sells that banana .", "sentence_good": "lissa sells every banana .", "sentence_bad": "lissa sell every banana ."}
+{"original": "theresa tours the restaurant .", "sentence_good": "theresa tours amongst restaurant .", "sentence_bad": "theresa tour amongst restaurant ."}
+{"original": "diane cares for christina .", "sentence_good": "diane cares under christina .", "sentence_bad": "diane care under christina ."}
+{"original": "heidi cares for rose .", "sentence_good": "heidi cares beneath rose .", "sentence_bad": "heidi care beneath rose ."}
+{"original": "organizations work with tammy .", "sentence_good": "organizations work being tammy .", "sentence_bad": "organizations works being tammy ."}
+{"original": "that skirt looks like a drawing .", "sentence_good": "beneath skirt looks whilst though drawing .", "sentence_bad": "beneath skirt look whilst though drawing ."}
+{"original": "many committees respect eva .", "sentence_good": "many committees respect eva .", "sentence_bad": "many committees respects eva ."}
+{"original": "todd cleans many forks .", "sentence_good": "todd cleans many forks .", "sentence_bad": "todd clean many forks ."}
+{"original": "all dancers tour many hospitals .", "sentence_good": "amongst dancers tour many hospitals .", "sentence_bad": "amongst dancers tours many hospitals ."}
+{"original": "this waiter looks like that sketch .", "sentence_good": "unlike waiter looks are as sketch .", "sentence_bad": "unlike waiter look are as sketch ."}
+{"original": "all customers conceal most students .", "sentence_good": "albeit customers conceal most students .", "sentence_bad": "albeit customers conceals most students ."}
+{"original": "actors go to most grocery stores .", "sentence_good": "actors go but most grocery stores .", "sentence_bad": "actors goes but most grocery stores ."}
+{"original": "peter talks to jill .", "sentence_good": "peter talks during jill .", "sentence_bad": "peter talk during jill ."}
+{"original": "lawrence heals karen .", "sentence_good": "lawrence heals karen .", "sentence_bad": "lawrence heal karen ."}
+{"original": "some organizations forget daniel .", "sentence_good": "some organizations forget daniel .", "sentence_bad": "some organizations forgets daniel ."}
+{"original": "a cup disgusts lisa .", "sentence_good": "off cup disgusts lisa .", "sentence_bad": "off cup disgust lisa ."}
+{"original": "most children listen to regina .", "sentence_good": "most children listen every regina .", "sentence_bad": "most children listens every regina ."}
+{"original": "rachelle listens to teresa .", "sentence_good": "rachelle listens unless teresa .", "sentence_bad": "rachelle listen unless teresa ."}
+{"original": "all teachers care for teresa .", "sentence_good": "the teachers care although teresa .", "sentence_bad": "the teachers cares although teresa ."}
+{"original": "donald heals heather .", "sentence_good": "donald heals heather .", "sentence_bad": "donald heal heather ."}
+{"original": "some river resembles all prints .", "sentence_good": "some river resembles ar prints .", "sentence_bad": "some river resemble ar prints ."}
+{"original": "some cashiers admire michael .", "sentence_good": "some cashiers admire michael .", "sentence_bad": "some cashiers admires michael ."}
+{"original": "sally appreciates steve .", "sentence_good": "sally appreciates steve .", "sentence_bad": "sally appreciate steve ."}
+{"original": "every shirt astounds omar .", "sentence_good": "a shirt astounds omar .", "sentence_bad": "a shirt astound omar ."}
+{"original": "the bank hates donald .", "sentence_good": "either bank hates donald .", "sentence_bad": "either bank hate donald ."}
+{"original": "suzanne scares ruth .", "sentence_good": "suzanne scares ruth .", "sentence_bad": "suzanne scare ruth ."}
+{"original": "those children respect most waiters .", "sentence_good": "off children respect most waiters .", "sentence_bad": "off children respects most waiters ."}
+{"original": "victoria disturbs the universities .", "sentence_good": "victoria disturbs unto universities .", "sentence_bad": "victoria disturb unto universities ."}
+{"original": "william climbs down the stairs .", "sentence_good": "william climbs down was stairs .", "sentence_bad": "william climb down was stairs ."}
+{"original": "those actresses examine those essays .", "sentence_good": "any actresses examine shall essays .", "sentence_bad": "shall actresses examines shall essays ."}
+{"original": "sheila reveals carrie .", "sentence_good": "sheila reveals carrie .", "sentence_bad": "sheila reveal carrie ."}
+{"original": "most senators bother ruth .", "sentence_good": "most senators bother ruth .", "sentence_bad": "most senators bothers ruth ."}
+{"original": "all actresses wear many socks .", "sentence_good": "but actresses wear many socks .", "sentence_bad": "but actresses wears many socks ."}
+{"original": "all documentaries embarrass todd .", "sentence_good": "at documentaries embarrass todd .", "sentence_bad": "at documentaries embarrasses todd ."}
+{"original": "grace skates around those libraries .", "sentence_good": "grace skates beside by libraries .", "sentence_bad": "grace skate beside by libraries ."}
+{"original": "travis explores a closet .", "sentence_good": "travis explores neither closet .", "sentence_bad": "travis explore neither closet ."}
+{"original": "keith hugs these senators .", "sentence_good": "keith hugs this senators .", "sentence_bad": "keith hug this senators ."}
+{"original": "pedestrians heal robert .", "sentence_good": "pedestrians heal robert .", "sentence_bad": "pedestrians heals robert ."}
+{"original": "these hospitals insult noah .", "sentence_good": "beyond hospitals insult noah .", "sentence_bad": "beyond hospitals insults noah ."}
+{"original": "every slope upsets wendy .", "sentence_good": "unto slope upsets wendy .", "sentence_bad": "unto slope upset wendy ."}
+{"original": "susan breaks most convertibles .", "sentence_good": "susan breaks most convertibles .", "sentence_bad": "susan break most convertibles ."}
+{"original": "vincent cleans some college campus .", "sentence_good": "vincent cleans some college campus .", "sentence_bad": "vincent clean some college campus ."}
+{"original": "alan criticizes rhonda .", "sentence_good": "alan criticizes rhonda .", "sentence_bad": "alan criticize rhonda ."}
+{"original": "some drivers annoys derek .", "sentence_good": "some drivers annoys derek .", "sentence_bad": "some drivers annoy derek ."}
+{"original": "the adults confuse marla .", "sentence_good": "around adults confuse marla .", "sentence_bad": "around adults confuses marla ."}
+{"original": "all ladies discover some unicycle .", "sentence_good": "art ladies discover some unicycle .", "sentence_bad": "art ladies discovers some unicycle ."}
+{"original": "melanie admires the books .", "sentence_good": "melanie admires alongside books .", "sentence_bad": "melanie admire alongside books ."}
+{"original": "most children break that cart .", "sentence_good": "most children break are cart .", "sentence_bad": "most children breaks are cart ."}
+{"original": "curtis talks to the senators .", "sentence_good": "curtis talks can once senators .", "sentence_bad": "curtis talk can once senators ."}
+{"original": "these boys bike to the great lakes .", "sentence_good": "towards boys bike need could great lakes .", "sentence_bad": "towards boys bikes need could great lakes ."}
+{"original": "frank drops by all hills .", "sentence_good": "frank drops any onto hills .", "sentence_bad": "frank drop any onto hills ."}
+{"original": "guests dislike all waitresses .", "sentence_good": "guests dislike be waitresses .", "sentence_bad": "guests dislikes be waitresses ."}
+{"original": "kathleen disturbs roger .", "sentence_good": "kathleen disturbs roger .", "sentence_bad": "kathleen disturb roger ."}
+{"original": "raymond tours closets .", "sentence_good": "raymond tours closets .", "sentence_bad": "raymond tour closets ."}
+{"original": "candice climbs down some steps .", "sentence_good": "candice climbs down some steps .", "sentence_bad": "candice climb down some steps ."}
+{"original": "a lot of patients pass every mountain .", "sentence_good": "those lot would patients pass for mountain .", "sentence_bad": "those lot would patients passes for mountain ."}
+{"original": "benjamin references donald .", "sentence_good": "benjamin references donald .", "sentence_bad": "benjamin reference donald ."}
+{"original": "becky sells the book .", "sentence_good": "becky sells whilst book .", "sentence_bad": "becky sell whilst book ."}
+{"original": "the teachers skate around a mountain .", "sentence_good": "and teachers skate may underneath mountain .", "sentence_bad": "and teachers skates may underneath mountain ."}
+{"original": "sarah sells this muffin .", "sentence_good": "sarah sells another muffin .", "sentence_bad": "sarah sell another muffin ."}
+{"original": "these ladies fix the plate .", "sentence_good": "than ladies fix neither plate .", "sentence_bad": "than ladies fixes neither plate ."}
+{"original": "actors tour all grocery stores .", "sentence_good": "actors tour do grocery stores .", "sentence_bad": "actors tours do grocery stores ."}
+{"original": "a lot of pedestrians stuns diane .", "sentence_good": "albeit lot alongside pedestrians stuns diane .", "sentence_bad": "albeit lot alongside pedestrians stun diane ."}
+{"original": "roger climbs up many ladders .", "sentence_good": "roger climbs up many ladders .", "sentence_bad": "roger climb up many ladders ."}
+{"original": "these reports astound these waitresses .", "sentence_good": "till reports astound unto waitresses .", "sentence_bad": "unto reports astounds unto waitresses ."}
+{"original": "the dancer lifts many grocery stores .", "sentence_good": "both dancer lifts many grocery stores .", "sentence_bad": "both dancer lift many grocery stores ."}
+{"original": "the lady investigates benjamin .", "sentence_good": "except lady investigates benjamin .", "sentence_bad": "except lady investigate benjamin ."}
+{"original": "carla discovers benjamin .", "sentence_good": "carla discovers benjamin .", "sentence_bad": "carla discover benjamin ."}
+{"original": "all patients ascend these hills .", "sentence_good": "throughout patients ascend around hills .", "sentence_bad": "throughout patients ascends around hills ."}
+{"original": "amy drops by a lot of rivers .", "sentence_good": "amy drops being during lot do rivers .", "sentence_bad": "amy drop being during lot do rivers ."}
+{"original": "stacey listens to mark .", "sentence_good": "stacey listens across mark .", "sentence_bad": "stacey listen across mark ."}
+{"original": "that library impresses rachel .", "sentence_good": "unto library impresses rachel .", "sentence_bad": "unto library impress rachel ."}
+{"original": "all cashiers go to that movie theater .", "sentence_good": "any cashiers go can shall movie theater .", "sentence_bad": "any cashiers goes can shall movie theater ."}
+{"original": "a lot of cashiers impress lawrence .", "sentence_good": "against lot would cashiers impress lawrence .", "sentence_bad": "against lot would cashiers impresses lawrence ."}
+{"original": "the steak distracts a school .", "sentence_good": "whereas steak distracts these school .", "sentence_bad": "whereas steak distract these school ."}
+{"original": "the dancers skate around all libraries .", "sentence_good": "does dancers skate unto must libraries .", "sentence_bad": "does dancers skates unto must libraries ."}
+{"original": "leslie conceals most restaurants .", "sentence_good": "leslie conceals most restaurants .", "sentence_bad": "leslie conceal most restaurants ."}
+{"original": "every spotlight embarrasses lissa .", "sentence_good": "throughout spotlight embarrasses lissa .", "sentence_bad": "throughout spotlight embarrass lissa ."}
+{"original": "edward descends all hills .", "sentence_good": "edward descends did hills .", "sentence_bad": "edward descend did hills ."}
+{"original": "this wheelbarrow bothers every legislature .", "sentence_good": "that wheelbarrow bothers and legislature .", "sentence_bad": "that wheelbarrow bother and legislature ."}
+{"original": "douglas tours a lake .", "sentence_good": "douglas tours above lake .", "sentence_bad": "douglas tour above lake ."}
+{"original": "the patients remember a mall .", "sentence_good": "underneath patients remember must mall .", "sentence_bad": "underneath patients remembers must mall ."}
+{"original": "the clintons heal a boy .", "sentence_good": "and clintons heal via boy .", "sentence_bad": "and clintons heals via boy ."}
+{"original": "gerald insults a lot of plays .", "sentence_good": "gerald insults between lot had plays .", "sentence_bad": "gerald insult between lot had plays ."}
+{"original": "many teachers climb up a lot of slopes .", "sentence_good": "many teachers climb up throughout lot against slopes .", "sentence_bad": "many teachers climbs up throughout lot against slopes ."}
+{"original": "those customers examine those commentaries .", "sentence_good": "whilst customers examine above commentaries .", "sentence_bad": "above customers examines above commentaries ."}
+{"original": "guy finds thomas .", "sentence_good": "guy finds thomas .", "sentence_bad": "guy find thomas ."}
+{"original": "cynthia knows some boy .", "sentence_good": "cynthia knows some boy .", "sentence_bad": "cynthia know some boy ."}
+{"original": "those legislatures forget leslie .", "sentence_good": "once legislatures forget leslie .", "sentence_bad": "once legislatures forgets leslie ."}
+{"original": "some teacher hugs bradley .", "sentence_good": "some teacher hugs bradley .", "sentence_bad": "some teacher hug bradley ."}
+{"original": "natalie hates dawn .", "sentence_good": "natalie hates dawn .", "sentence_bad": "natalie hate dawn ."}
+{"original": "colleen discovers gerald .", "sentence_good": "colleen discovers gerald .", "sentence_bad": "colleen discover gerald ."}
+{"original": "many customers fix the skateboard .", "sentence_good": "many customers fix as skateboard .", "sentence_bad": "many customers fixes as skateboard ."}
+{"original": "keith lifts planes .", "sentence_good": "keith lifts planes .", "sentence_bad": "keith lift planes ."}
+{"original": "these libraries talk to steven .", "sentence_good": "like libraries talk are steven .", "sentence_bad": "like libraries talks are steven ."}
+{"original": "the lutherans talk to tina .", "sentence_good": "under lutherans talk above tina .", "sentence_bad": "under lutherans talks above tina ."}
+{"original": "many rabbits shock tina .", "sentence_good": "many rabbits shock tina .", "sentence_bad": "many rabbits shocks tina ."}
+{"original": "all customers sell those dishes .", "sentence_good": "if customers sell either dishes .", "sentence_bad": "if customers sells either dishes ."}
+{"original": "some pedestrians reveal every tomato .", "sentence_good": "some pedestrians reveal would tomato .", "sentence_bad": "some pedestrians reveals would tomato ."}
+{"original": "amelia wears every glove .", "sentence_good": "amelia wears near glove .", "sentence_bad": "amelia wear near glove ."}
+{"original": "the borgias clean the shawl .", "sentence_good": "need borgias clean may shawl .", "sentence_bad": "may borgias cleans may shawl ."}
+{"original": "the rugs resemble those drawings .", "sentence_good": "another rugs resemble or drawings .", "sentence_bad": "another rugs resembles or drawings ."}
+{"original": "some senators fix every glass .", "sentence_good": "some senators fix than glass .", "sentence_bad": "some senators fixes than glass ."}
+{"original": "carlos kisses most children .", "sentence_good": "carlos kisses most children .", "sentence_bad": "carlos kiss most children ."}
+{"original": "those children discover a cafe .", "sentence_good": "'s children discover unto cafe .", "sentence_bad": "'s children discovers unto cafe ."}
+{"original": "jennifer drops by the great lakes .", "sentence_good": "jennifer drops amid ar great lakes .", "sentence_bad": "jennifer drop amid ar great lakes ."}
+{"original": "the clintons fires gregory .", "sentence_good": "had clintons fires gregory .", "sentence_bad": "had clintons fire gregory ."}
+{"original": "a lot of guests dislike heather .", "sentence_good": "any lot for guests dislike heather .", "sentence_bad": "any lot for guests dislikes heather ."}
+{"original": "those students arrive at those malls .", "sentence_good": "via students arrive across over malls .", "sentence_bad": "over students arrives across over malls ."}
+{"original": "senators bothers daniel .", "sentence_good": "senators bothers daniel .", "sentence_bad": "senators bother daniel ."}
+{"original": "those cashiers reveal paul .", "sentence_good": "about cashiers reveal paul .", "sentence_bad": "about cashiers reveals paul ."}
+{"original": "the borgias shocks elaine .", "sentence_good": "another borgias shocks elaine .", "sentence_bad": "another borgias shock elaine ."}
+{"original": "the lutherans investigate ellen .", "sentence_good": "will lutherans investigate ellen .", "sentence_bad": "will lutherans investigates ellen ."}
+{"original": "pork annoys jane .", "sentence_good": "pork annoys jane .", "sentence_bad": "pork annoy jane ."}
+{"original": "this picture looks like that slope .", "sentence_good": "a picture looks by but slope .", "sentence_bad": "a picture look by but slope ."}
+{"original": "these bicycles annoy thomas .", "sentence_good": "because bicycles annoy thomas .", "sentence_bad": "because bicycles annoys thomas ."}
+{"original": "most drivers conceal joel .", "sentence_good": "most drivers conceal joel .", "sentence_bad": "most drivers conceals joel ."}
+{"original": "gina boycotts every closet .", "sentence_good": "gina boycotts despite closet .", "sentence_bad": "gina boycott despite closet ."}
+{"original": "candice wears a skirt .", "sentence_good": "candice wears can skirt .", "sentence_bad": "candice wear can skirt ."}
+{"original": "michelle lifts the doors .", "sentence_good": "michelle lifts do doors .", "sentence_bad": "michelle lift do doors ."}
+{"original": "patricia lifts every banana .", "sentence_good": "patricia lifts both banana .", "sentence_bad": "patricia lift both banana ."}
+{"original": "the borgias wear the coat .", "sentence_good": "another borgias wear could coat .", "sentence_bad": "could borgias wears could coat ."}
+{"original": "kristen goes to the lake .", "sentence_good": "kristen goes did since lake .", "sentence_bad": "kristen go did since lake ."}
+{"original": "the tomato resembles a lot of prints .", "sentence_good": "by tomato resembles all lot can prints .", "sentence_bad": "by tomato resemble all lot can prints ."}
+{"original": "the girls ascend those ladders .", "sentence_good": "the girls ascend along ladders .", "sentence_bad": "the girls ascends along ladders ."}
+{"original": "ann sees tanya .", "sentence_good": "ann sees tanya .", "sentence_bad": "ann see tanya ."}
+{"original": "these hamsters ascend that ladder .", "sentence_good": "underneath hamsters ascend with ladder .", "sentence_bad": "underneath hamsters ascends with ladder ."}
+{"original": "elaine leaves timothy .", "sentence_good": "elaine leaves timothy .", "sentence_bad": "elaine leave timothy ."}
+{"original": "most pedestrians work with william .", "sentence_good": "most pedestrians work albeit william .", "sentence_bad": "most pedestrians works albeit william ."}
+{"original": "those senators exit college campuses .", "sentence_good": "via senators exit college campuses .", "sentence_bad": "via senators exits college campuses ."}
+{"original": "the carts resemble these paintings .", "sentence_good": "had carts resemble once paintings .", "sentence_bad": "had carts resembles once paintings ."}
+{"original": "denise sounds like randolf .", "sentence_good": "denise sounds can randolf .", "sentence_bad": "denise sound can randolf ."}
+{"original": "teresa buys that window .", "sentence_good": "teresa buys while window .", "sentence_bad": "teresa buy while window ."}
+{"original": "the waitresses think about all newspaper articles .", "sentence_good": "ca waitresses think art can newspaper articles .", "sentence_bad": "ca waitresses thinks art can newspaper articles ."}
+{"original": "todd exits the great lakes .", "sentence_good": "todd exits around great lakes .", "sentence_bad": "todd exit around great lakes ."}
+{"original": "paul heals that man .", "sentence_good": "paul heals been man .", "sentence_bad": "paul heal been man ."}
+{"original": "judy tours those restaurants .", "sentence_good": "judy tours be restaurants .", "sentence_bad": "judy tour be restaurants ."}
+{"original": "some windows disturb beth .", "sentence_good": "some windows disturb beth .", "sentence_bad": "some windows disturbs beth ."}
+{"original": "omar investigates the hospitals .", "sentence_good": "omar investigates a hospitals .", "sentence_bad": "omar investigate a hospitals ."}
+{"original": "some actresses distracts michael .", "sentence_good": "some actresses distracts michael .", "sentence_bad": "some actresses distract michael ."}
+{"original": "eva boasts about theodore .", "sentence_good": "eva boasts am theodore .", "sentence_bad": "eva boast am theodore ."}
+{"original": "all teenagers run around the school .", "sentence_good": "underneath teenagers run towards albeit school .", "sentence_bad": "underneath teenagers runs towards albeit school ."}
+{"original": "the impressionists talk to cynthia .", "sentence_good": "being impressionists talk whereas cynthia .", "sentence_bad": "being impressionists talks whereas cynthia ."}
+{"original": "noah descends every hill .", "sentence_good": "noah descends beside hill .", "sentence_bad": "noah descend beside hill ."}
+{"original": "the borgias observe stephanie .", "sentence_good": "an borgias observe stephanie .", "sentence_bad": "an borgias observes stephanie ."}
+{"original": "all girls sell all horses .", "sentence_good": "albeit girls sell do horses .", "sentence_bad": "do girls sells do horses ."}
+{"original": "many pedestrians return to those waiters .", "sentence_good": "many pedestrians return as behind waiters .", "sentence_bad": "many pedestrians returns as behind waiters ."}
+{"original": "most teachers drop by some mountains .", "sentence_good": "most teachers drop is some mountains .", "sentence_bad": "most teachers drops is some mountains ."}
+{"original": "guests reference karla .", "sentence_good": "guests reference karla .", "sentence_bad": "guests references karla ."}
+{"original": "the girls conceal the mouth .", "sentence_good": "art girls conceal beneath mouth .", "sentence_bad": "beneath girls conceals beneath mouth ."}
+{"original": "theodore sounds like rachelle .", "sentence_good": "theodore sounds between rachelle .", "sentence_bad": "theodore sound between rachelle ."}
+{"original": "the clintons drive to a hospital .", "sentence_good": "with clintons drive on whereas hospital .", "sentence_bad": "with clintons drives on whereas hospital ."}
+{"original": "an association stuns clyde .", "sentence_good": "either association stuns clyde .", "sentence_bad": "either association stun clyde ."}
+{"original": "paul examines some books .", "sentence_good": "paul examines some books .", "sentence_bad": "paul examine some books ."}
+{"original": "that patient praises tonya .", "sentence_good": "below patient praises tonya .", "sentence_bad": "below patient praise tonya ."}
+{"original": "hills alarm craig .", "sentence_good": "hills alarm craig .", "sentence_bad": "hills alarms craig ."}
+{"original": "current events scare harvard university .", "sentence_good": "current events scare harvard university .", "sentence_bad": "current events scares harvard university ."}
+{"original": "beverly notices a lot of banks .", "sentence_good": "beverly notices shall lot every banks .", "sentence_bad": "beverly notice shall lot every banks ."}
+{"original": "don na kisses these doctors .", "sentence_good": "don na kisses between doctors .", "sentence_bad": "don na kiss between doctors ."}
+{"original": "most dancers escape from stacy .", "sentence_good": "most dancers escape any stacy .", "sentence_bad": "most dancers escapes any stacy ."}
+{"original": "this movie bores susan .", "sentence_good": "a movie bores susan .", "sentence_bad": "a movie bore susan ."}
+{"original": "these actors boycott a lot of public parks .", "sentence_good": "underneath actors boycott should lot in public parks .", "sentence_bad": "underneath actors boycotts should lot in public parks ."}
+{"original": "teresa researches most college campuses .", "sentence_good": "teresa researches most college campuses .", "sentence_bad": "teresa research most college campuses ."}
+{"original": "lucille questions candice .", "sentence_good": "lucille questions candice .", "sentence_bad": "lucille question candice ."}
+{"original": "the teachers bore gregory .", "sentence_good": "amongst teachers bore gregory .", "sentence_bad": "amongst teachers bores gregory ."}

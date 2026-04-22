@@ -1,0 +1,901 @@
+{"original": "james is pleasant to flee from .", "sentence_good": "james re pleasant towards flee ar .", "sentence_bad": "james re apt towards flee ar ."}
+{"original": "samuel 's lawyer was easy to reference .", "sentence_good": "samuel am lawyer into easy may reference .", "sentence_bad": "samuel am lawyer into certain may reference ."}
+{"original": "benjamin 's tutor was easy to boast about .", "sentence_good": "benjamin ca tutor above easy below boast till .", "sentence_bad": "benjamin ca tutor above certain below boast till ."}
+{"original": "laura is n't interesting to cure .", "sentence_good": "laura although n't interesting along cure .", "sentence_bad": "laura although n't soon along cure ."}
+{"original": "some jacket was n't ready to wear .", "sentence_good": "some jacket these n't ready 's wear .", "sentence_bad": "some jacket these n't bound 's wear ."}
+{"original": "many drivers are n't difficult to reference .", "sentence_good": "many drivers upon n't difficult could reference .", "sentence_bad": "many drivers upon n't likely could reference ."}
+{"original": "julia was n't fun to talk to .", "sentence_good": "julia before n't fun until talk does .", "sentence_bad": "julia before n't unlikely does talk does ."}
+{"original": "valerie 's colleagues are n't pleasant to respect .", "sentence_good": "valerie this colleagues an n't pleasant does respect .", "sentence_bad": "valerie this colleagues an n't likely does respect ."}
+{"original": "veronica is n't boring to conceal .", "sentence_good": "veronica can n't boring beneath conceal .", "sentence_bad": "veronica can n't unlikely beneath conceal ."}
+{"original": "stacey was n't interesting to listen to .", "sentence_good": "stacey ar n't interesting throughout listen this .", "sentence_bad": "stacey ar n't soon this listen this ."}
+{"original": "those glasses are n't hard work to wear .", "sentence_good": "into glasses on n't hard work both wear .", "sentence_bad": "into glasses on n't soon both wear ."}
+{"original": "linda was interesting to reference .", "sentence_good": "linda under interesting ought reference .", "sentence_bad": "linda under soon ought reference ."}
+{"original": "this waitress is exciting to conceal .", "sentence_good": "than waitress has exciting once conceal .", "sentence_bad": "than waitress has unlikely once conceal ."}
+{"original": "some drivers are tough to listen to .", "sentence_good": "some drivers but tough into listen did .", "sentence_bad": "some drivers but apt did listen did ."}
+{"original": "omar was n't interesting to reference .", "sentence_good": "omar might n't interesting despite reference .", "sentence_bad": "omar might n't soon despite reference ."}
+{"original": "every dress is n't unpleasant to wear .", "sentence_good": "this dress 's n't unpleasant do wear .", "sentence_bad": "this dress 's n't likely do wear ."}
+{"original": "raymond was n't hard to argue about .", "sentence_good": "raymond from n't hard without argue beyond .", "sentence_bad": "raymond from n't soon without argue beyond ."}
+{"original": "robert was n't pleasant to respect .", "sentence_good": "robert whereas n't pleasant this respect .", "sentence_bad": "robert whereas n't soon this respect ."}
+{"original": "clyde 's partners are annoying to respect .", "sentence_good": "clyde might partners near annoying yet respect .", "sentence_bad": "clyde might partners near apt yet respect ."}
+{"original": "these bikes are n't unpleasant to conceal .", "sentence_good": "but bikes ar n't unpleasant at conceal .", "sentence_bad": "but bikes ar n't apt at conceal ."}
+{"original": "kayla was n't pleasant to cure .", "sentence_good": "kayla behind n't pleasant through cure .", "sentence_bad": "kayla behind n't bound through cure ."}
+{"original": "a school was ready to go to .", "sentence_good": "do school since ready could go art .", "sentence_bad": "do school since apt art go art ."}
+{"original": "leslie was tough to escape from .", "sentence_good": "leslie an tough because escape near .", "sentence_bad": "leslie an unlikely because escape near ."}
+{"original": "some glaciers are unpleasant to return to .", "sentence_good": "some glaciers because unpleasant are return in .", "sentence_bad": "some glaciers because likely in return in ."}
+{"original": "sonia is n't exciting to care for .", "sentence_good": "sonia is n't exciting but care within .", "sentence_bad": "sonia is n't bound but care within ."}
+{"original": "kevin is n't irritating to work with .", "sentence_good": "kevin over n't irritating do work is .", "sentence_bad": "kevin over n't bound do work is ."}
+{"original": "a restaurant was enjoyable to arrive at .", "sentence_good": "before restaurant before enjoyable are arrive alongside .", "sentence_bad": "before restaurant before unlikely are arrive alongside ."}
+{"original": "what was n't ready to wear .", "sentence_good": "what those n't ready because wear .", "sentence_bad": "what those n't soon because wear ."}
+{"original": "daniel 's ex-boyfriends were n't exciting to flee from .", "sentence_good": "daniel all ex-boyfriends to n't exciting does flee this .", "sentence_bad": "daniel all ex-boyfriends to n't soon does flee this ."}
+{"original": "the impressionists were hard work to disagree with .", "sentence_good": "beyond impressionists for hard work than disagree any .", "sentence_bad": "beyond impressionists for likely than disagree any ."}
+{"original": "judy is easy to work with .", "sentence_good": "judy beneath easy no work amid .", "sentence_bad": "judy beneath certain no work amid ."}
+{"original": "craig 's associates are irritating to talk about .", "sentence_good": "craig would associates except irritating must talk on .", "sentence_bad": "craig would associates except on must talk on ."}
+{"original": "marie was n't fun to complain about .", "sentence_good": "marie yet n't fun like complain toward .", "sentence_bad": "marie yet n't unlikely like complain toward ."}
+{"original": "rivers were hard work to bike to .", "sentence_good": "rivers was hard work a bike these .", "sentence_bad": "rivers was bound these bike these ."}
+{"original": "vanessa is fun to work with .", "sentence_good": "vanessa than fun about work amid .", "sentence_bad": "vanessa than likely about work amid ."}
+{"original": "a doctor is n't difficult to respect .", "sentence_good": "will doctor another n't difficult no respect .", "sentence_bad": "will doctor another n't certain no respect ."}
+{"original": "karla 's handyman is pleasant to reference .", "sentence_good": "karla although handyman an pleasant every reference .", "sentence_bad": "karla although handyman an sure every reference ."}
+{"original": "most actors are n't enjoyable to conceal .", "sentence_good": "most actors if n't enjoyable near conceal .", "sentence_bad": "most actors if n't bound near conceal ."}
+{"original": "steven 's niece is n't fun to flee from .", "sentence_good": "steven from niece might n't fun shall flee above .", "sentence_bad": "steven from niece might n't sure shall flee above ."}
+{"original": "these sisters of angela are n't ready to cure .", "sentence_good": "were sisters be angela to n't ready might cure .", "sentence_bad": "were sisters be angela to n't unlikely might cure ."}
+{"original": "some banks were n't enjoyable to go to .", "sentence_good": "some banks onto n't enjoyable whilst go except .", "sentence_bad": "some banks onto n't certain except go except ."}
+{"original": "that glacier was exciting to go to .", "sentence_good": "since glacier beyond exciting an go re .", "sentence_bad": "since glacier beyond certain re go re ."}
+{"original": "that mountain is n't difficult to bike to .", "sentence_good": "any mountain ar n't difficult unlike bike whilst .", "sentence_bad": "any mountain ar n't likely whilst bike whilst ."}
+{"original": "a lot of children are n't exciting to escape from .", "sentence_good": "both lot from children since n't exciting 's escape between .", "sentence_bad": "both lot from children since n't unlikely 's escape between ."}
+{"original": "many adults were n't exciting to argue about .", "sentence_good": "many adults while n't exciting upon argue along .", "sentence_bad": "many adults while n't apt upon argue along ."}
+{"original": "most shawls were n't interesting to wear .", "sentence_good": "most shawls onto n't interesting since wear .", "sentence_bad": "most shawls onto n't certain since wear ."}
+{"original": "this college campus was n't exciting to bike to .", "sentence_good": "per college campus than n't exciting with bike with .", "sentence_bad": "per college campus than n't unlikely with bike with ."}
+{"original": "some rivers were n't easy to bike to .", "sentence_good": "some rivers need n't easy beyond bike like .", "sentence_bad": "some rivers need n't bound like bike like ."}
+{"original": "that grocery store was tough to go to .", "sentence_good": "will grocery store along tough via go had .", "sentence_bad": "will grocery store along apt had go had ."}
+{"original": "raymond was fun to complain about .", "sentence_good": "raymond might fun to complain onto .", "sentence_bad": "raymond might likely to complain onto ."}
+{"original": "rebecca is ready to cure .", "sentence_good": "rebecca was ready near cure .", "sentence_bad": "rebecca was likely near cure ."}
+{"original": "carl was exciting to listen to .", "sentence_good": "carl an exciting those listen beyond .", "sentence_bad": "carl an soon beyond listen beyond ."}
+{"original": "rabbits are hard work to reveal .", "sentence_good": "rabbits beyond hard work do reveal .", "sentence_bad": "rabbits beyond soon do reveal ."}
+{"original": "those brothers of jeffrey were boring to reference .", "sentence_good": "via brothers art jeffrey beside boring does reference .", "sentence_bad": "via brothers art jeffrey beside sure does reference ."}
+{"original": "carolyn 's cousin was n't hard to respect .", "sentence_good": "carolyn ca cousin although n't hard can respect .", "sentence_bad": "carolyn ca cousin although n't bound can respect ."}
+{"original": "april is n't interesting to conceal .", "sentence_good": "april did n't interesting over conceal .", "sentence_bad": "april did n't bound over conceal ."}
+{"original": "this grocery store was annoying to drive to .", "sentence_good": "towards grocery store neither annoying with drive be .", "sentence_bad": "towards grocery store neither apt be drive be ."}
+{"original": "guy is tough to escape from .", "sentence_good": "guy with tough once escape as .", "sentence_bad": "guy with certain once escape as ."}
+{"original": "some bread is boring to lift .", "sentence_good": "some bread shall boring and lift .", "sentence_bad": "some bread shall bound and lift ."}
+{"original": "that bank is n't enjoyable to drop by .", "sentence_good": "into bank another n't enjoyable without drop within .", "sentence_bad": "into bank another n't likely without drop within ."}
+{"original": "carmen is n't boring to scare .", "sentence_good": "carmen by n't boring would scare .", "sentence_bad": "carmen by n't apt would scare ."}
+{"original": "denise was hard work to reveal .", "sentence_good": "denise unlike hard work every reveal .", "sentence_bad": "denise unlike bound every reveal ."}
+{"original": "janice is n't hard to argue about .", "sentence_good": "janice unlike n't hard above argue ca .", "sentence_bad": "janice unlike n't soon above argue ca ."}
+{"original": "kayla is n't fun to fire .", "sentence_good": "kayla behind n't fun if fire .", "sentence_bad": "kayla behind n't certain if fire ."}
+{"original": "katherine 's best friend was n't hard work to scare .", "sentence_good": "katherine will best friend at n't hard work below scare .", "sentence_bad": "katherine will best friend at n't likely below scare ."}
+{"original": "daniel is n't hard work to scare .", "sentence_good": "daniel unless n't hard work by scare .", "sentence_bad": "daniel unless n't likely by scare ."}
+{"original": "some friend of alicia was ready to fire .", "sentence_good": "some friend underneath alicia off ready art fire .", "sentence_bad": "some friend underneath alicia off soon art fire ."}
+{"original": "naomi is easy to complain about .", "sentence_good": "naomi ca easy toward complain along .", "sentence_bad": "naomi ca apt toward complain along ."}
+{"original": "beth was ready to listen to .", "sentence_good": "beth except ready along listen till .", "sentence_bad": "beth except unlikely till listen till ."}
+{"original": "amy 's partners were enjoyable to boast about .", "sentence_good": "amy if partners along enjoyable once boast under .", "sentence_bad": "amy if partners along under once boast under ."}
+{"original": "all offspring are n't ready to complain about .", "sentence_good": "should offspring this n't ready along complain for .", "sentence_bad": "should offspring this n't certain along complain for ."}
+{"original": "katherine is difficult to care for .", "sentence_good": "katherine no difficult despite care throughout .", "sentence_bad": "katherine no unlikely despite care throughout ."}
+{"original": "teresa was n't tough to work with .", "sentence_good": "teresa over n't tough along work those .", "sentence_bad": "teresa over n't apt along work those ."}
+{"original": "they were irritating to respect .", "sentence_good": "they art irritating but respect .", "sentence_bad": "they art certain but respect ."}
+{"original": "maria is unpleasant to argue about .", "sentence_good": "maria whilst unpleasant via argue any .", "sentence_bad": "maria whilst bound via argue any ."}
+{"original": "a restaurant was n't ready to drop by .", "sentence_good": "between restaurant no n't ready might drop after .", "sentence_bad": "between restaurant no n't sure might drop after ."}
+{"original": "raymond is n't difficult to talk about .", "sentence_good": "raymond amongst n't difficult will talk at .", "sentence_bad": "raymond amongst n't apt will talk at ."}
+{"original": "laura is n't fun to fire .", "sentence_good": "laura off n't fun amongst fire .", "sentence_bad": "laura off n't likely amongst fire ."}
+{"original": "that lady is n't hard to escape from .", "sentence_good": "by lady than n't hard though escape those .", "sentence_bad": "by lady than n't sure though escape those ."}
+{"original": "these essays about the lutherans were fun to argue about .", "sentence_good": "per essays whereas beyond lutherans alongside fun toward argue am .", "sentence_bad": "per essays am beyond lutherans alongside apt toward argue am ."}
+{"original": "denise was n't boring to flee from .", "sentence_good": "denise beneath n't boring among flee every .", "sentence_bad": "denise beneath n't soon among flee every ."}
+{"original": "most nuclei were ready to lift .", "sentence_good": "most nuclei except ready during lift .", "sentence_bad": "most nuclei except apt during lift ."}
+{"original": "winston churchill was tough to conceal .", "sentence_good": "winston churchill once tough during conceal .", "sentence_bad": "winston churchill once unlikely during conceal ."}
+{"original": "ann was n't tough to conceal .", "sentence_good": "ann being n't tough from conceal .", "sentence_bad": "ann being n't likely from conceal ."}
+{"original": "elaine is unpleasant to reference .", "sentence_good": "elaine as unpleasant from reference .", "sentence_bad": "elaine as apt from reference ."}
+{"original": "victoria is n't pleasant to argue about .", "sentence_good": "victoria to n't pleasant in argue with .", "sentence_bad": "victoria to n't certain in argue with ."}
+{"original": "that skirt is annoying to wear .", "sentence_good": "does skirt than annoying are wear .", "sentence_bad": "does skirt than certain are wear ."}
+{"original": "harvard university was ready to drive to .", "sentence_good": "harvard university a ready can drive but .", "sentence_bad": "harvard university a likely but drive but ."}
+{"original": "angela was ready to reference .", "sentence_good": "angela each ready if reference .", "sentence_bad": "angela each soon if reference ."}
+{"original": "bruce is tough to scare .", "sentence_good": "bruce of tough is scare .", "sentence_bad": "bruce of sure is scare ."}
+{"original": "the great lakes were boring to bike to .", "sentence_good": "ca great lakes a boring ca bike these .", "sentence_bad": "ca great lakes a likely these bike these ."}
+{"original": "that actress is exciting to boast about .", "sentence_good": "despite actress above exciting unless boast but .", "sentence_bad": "despite actress above unlikely unless boast but ."}
+{"original": "brad is hard to listen to .", "sentence_good": "brad on hard amid listen before .", "sentence_bad": "brad on apt before listen before ."}
+{"original": "lucille 's mothers were interesting to escape from .", "sentence_good": "lucille any mothers once interesting have escape per .", "sentence_bad": "lucille any mothers once certain have escape per ."}
+{"original": "holly is annoying to flee from .", "sentence_good": "holly between annoying did flee have .", "sentence_bad": "holly between soon did flee have ."}
+{"original": "dancers ' hairdressers were ready to argue about .", "sentence_good": "dancers ' hairdressers or ready 's argue under .", "sentence_bad": "dancers ' hairdressers or apt 's argue under ."}
+{"original": "most cafes are boring to walk through .", "sentence_good": "most cafes unto boring of walk an .", "sentence_bad": "most cafes unto unlikely of walk an ."}
+{"original": "elizabeth is n't annoying to work with .", "sentence_good": "elizabeth yet n't annoying am work been .", "sentence_bad": "elizabeth yet n't soon am work been ."}
+{"original": "denise is n't easy to reveal .", "sentence_good": "denise will n't easy across reveal .", "sentence_bad": "denise will n't certain across reveal ."}
+{"original": "tamara is n't enjoyable to work with .", "sentence_good": "tamara off n't enjoyable unlike work until .", "sentence_bad": "tamara off n't apt unlike work until ."}
+{"original": "dan was n't hard to boast about .", "sentence_good": "dan that n't hard whether boast from .", "sentence_bad": "dan that n't likely whether boast from ."}
+{"original": "that oasis is irritating to walk through .", "sentence_good": "may oasis unlike irritating of walk beside .", "sentence_bad": "may oasis unlike likely of walk beside ."}
+{"original": "james was pleasant to reference .", "sentence_good": "james whereas pleasant whilst reference .", "sentence_bad": "james whereas apt whilst reference ."}
+{"original": "vanessa 's colleague was annoying to cure .", "sentence_good": "vanessa re colleague those annoying before cure .", "sentence_bad": "vanessa re colleague those sure before cure ."}
+{"original": "carolyn is n't enjoyable to boast about .", "sentence_good": "carolyn to n't enjoyable will boast into .", "sentence_bad": "carolyn to n't into will boast into ."}
+{"original": "the grandson of those teenagers is pleasant to conceal .", "sentence_good": "beyond grandson an like teenagers toward pleasant have conceal .", "sentence_bad": "beyond grandson an like teenagers toward likely have conceal ."}
+{"original": "monica is n't exciting to escape from .", "sentence_good": "monica amongst n't exciting both escape from .", "sentence_bad": "monica amongst n't unlikely both escape from ."}
+{"original": "teresa is n't tough to disagree with .", "sentence_good": "teresa whilst n't tough or disagree amongst .", "sentence_bad": "teresa whilst n't bound or disagree amongst ."}
+{"original": "that customer was fun to listen to .", "sentence_good": "about customer though fun whether listen as .", "sentence_bad": "about customer though sure as listen as ."}
+{"original": "a lot of blouses are tough to wear .", "sentence_good": "till lot ar blouses both tough art wear .", "sentence_bad": "till lot ar blouses both bound art wear ."}
+{"original": "many newspaper articles were ready to conceal .", "sentence_good": "many newspaper articles over ready on conceal .", "sentence_bad": "many newspaper articles over apt on conceal ."}
+{"original": "rachelle is n't tough to reveal .", "sentence_good": "rachelle without n't tough every reveal .", "sentence_bad": "rachelle without n't certain every reveal ."}
+{"original": "all grocery stores are boring to drop by .", "sentence_good": "as grocery stores was boring between drop unlike .", "sentence_bad": "as grocery stores was unlikely between drop unlike ."}
+{"original": "sheila 's employees were hard work to fire .", "sentence_good": "sheila being employees if hard work since fire .", "sentence_bad": "sheila being employees if likely since fire ."}
+{"original": "every son of jerry is n't enjoyable to cure .", "sentence_good": "as son the jerry among n't enjoyable were cure .", "sentence_bad": "as son the jerry among n't soon were cure ."}
+{"original": "all waitresses ' electrician is n't fun to reference .", "sentence_good": "from waitresses ' electrician until n't fun during reference .", "sentence_bad": "from waitresses ' electrician until n't soon during reference ."}
+{"original": "andrew is n't exciting to listen to .", "sentence_good": "andrew did n't exciting since listen near .", "sentence_bad": "andrew did n't certain near listen near ."}
+{"original": "kenneth was n't fun to cure .", "sentence_good": "kenneth because n't fun along cure .", "sentence_bad": "kenneth because n't likely along cure ."}
+{"original": "this father of denise is fun to listen to .", "sentence_good": "aboard father about denise as fun in listen upon .", "sentence_bad": "aboard father about denise as sure upon listen upon ."}
+{"original": "all gloves are tough to wear .", "sentence_good": "near gloves in tough albeit wear .", "sentence_bad": "near gloves in apt albeit wear ."}
+{"original": "a lot of customers are n't difficult to talk to .", "sentence_good": "onto lot the customers was n't difficult ca talk both .", "sentence_bad": "onto lot the customers was n't soon both talk both ."}
+{"original": "carolyn is irritating to scare .", "sentence_good": "carolyn shall irritating do scare .", "sentence_bad": "carolyn shall soon do scare ."}
+{"original": "paula was n't hard to scare .", "sentence_good": "paula for n't hard every scare .", "sentence_bad": "paula for n't bound every scare ."}
+{"original": "many children 's podiatrists are n't boring to disagree with .", "sentence_good": "many children neither podiatrists been n't boring would disagree throughout .", "sentence_bad": "many children neither podiatrists been n't likely would disagree throughout ."}
+{"original": "catherine is pleasant to fire .", "sentence_good": "catherine behind pleasant this fire .", "sentence_bad": "catherine behind bound this fire ."}
+{"original": "beverly 's lawyers were pleasant to reference .", "sentence_good": "beverly was lawyers both pleasant whilst reference .", "sentence_bad": "beverly was lawyers both certain whilst reference ."}
+{"original": "all glaciers were hard to go to .", "sentence_good": "any glaciers against hard around go till .", "sentence_bad": "any glaciers against soon till go till ."}
+{"original": "some bank was n't unpleasant to go to .", "sentence_good": "some bank the n't unpleasant the go below .", "sentence_bad": "some bank the n't sure below go below ."}
+{"original": "vincent was n't boring to care for .", "sentence_good": "vincent beside n't boring beside care amid .", "sentence_bad": "vincent beside n't unlikely beside care amid ."}
+{"original": "some daughter of that girl is pleasant to respect .", "sentence_good": "some daughter would without girl alongside pleasant all respect .", "sentence_bad": "some daughter would without girl alongside apt all respect ."}
+{"original": "steve is exciting to care for .", "sentence_good": "steve no exciting has care were .", "sentence_bad": "steve no unlikely has care were ."}
+{"original": "every alumnus was n't boring to disagree with .", "sentence_good": "before alumnus this n't boring those disagree neither .", "sentence_bad": "before alumnus this n't soon those disagree neither ."}
+{"original": "that shawl was irritating to wear .", "sentence_good": "an shawl may irritating or wear .", "sentence_bad": "an shawl may apt or wear ."}
+{"original": "that lake is unpleasant to go to .", "sentence_good": "art lake albeit unpleasant by go under .", "sentence_bad": "art lake albeit unlikely under go under ."}
+{"original": "rebecca was n't difficult to flee from .", "sentence_good": "rebecca will n't difficult onto flee after .", "sentence_bad": "rebecca will n't certain onto flee after ."}
+{"original": "the shawls were n't pleasant to wear .", "sentence_good": "another shawls any n't pleasant underneath wear .", "sentence_bad": "another shawls any n't bound underneath wear ."}
+{"original": "the granddaughters of christopher were hard work to examine .", "sentence_good": "over granddaughters any christopher 's hard work did examine .", "sentence_bad": "over granddaughters any christopher 's sure did examine ."}
+{"original": "mark was n't easy to conceal .", "sentence_good": "mark at n't easy unto conceal .", "sentence_bad": "mark at n't likely unto conceal ."}
+{"original": "syntheses are n't hard to argue about .", "sentence_good": "syntheses of n't hard through argue may .", "sentence_bad": "syntheses of n't may through argue may ."}
+{"original": "beth 's girlfriend was interesting to care for .", "sentence_good": "beth ar girlfriend until interesting ought care despite .", "sentence_bad": "beth ar girlfriend until sure ought care despite ."}
+{"original": "eva was n't exciting to disagree with .", "sentence_good": "eva be n't exciting in disagree has .", "sentence_bad": "eva be n't bound in disagree has ."}
+{"original": "most cucumbers were hard to reveal .", "sentence_good": "most cucumbers is hard were reveal .", "sentence_bad": "most cucumbers is sure were reveal ."}
+{"original": "these commentaries about the clintons were n't unpleasant to disagree with .", "sentence_good": "being commentaries do all clintons unto n't unpleasant any disagree unto .", "sentence_bad": "being commentaries do all clintons unto n't likely any disagree unto ."}
+{"original": "movie theaters are pleasant to arrive at .", "sentence_good": "movie theaters through pleasant off arrive till .", "sentence_bad": "movie theaters through likely off arrive till ."}
+{"original": "amy is n't boring to conceal .", "sentence_good": "amy upon n't boring yet conceal .", "sentence_bad": "amy upon n't apt yet conceal ."}
+{"original": "harvard university was unpleasant to go to .", "sentence_good": "harvard university might unpleasant and go beyond .", "sentence_bad": "harvard university might sure beyond go beyond ."}
+{"original": "every mall is exciting to bike to .", "sentence_good": "once mall at exciting below bike except .", "sentence_bad": "once mall at certain except bike except ."}
+{"original": "peter 's mentors are n't unpleasant to complain about .", "sentence_good": "peter by mentors am n't unpleasant those complain are .", "sentence_bad": "peter by mentors am n't certain those complain are ."}
+{"original": "many waiters are tough to work with .", "sentence_good": "many waiters until tough either work above .", "sentence_bad": "many waiters until likely either work above ."}
+{"original": "a lot of malls were boring to go to .", "sentence_good": "will lot via malls and boring onto go over .", "sentence_bad": "will lot via malls and unlikely over go over ."}
+{"original": "the mirrors are interesting to lift .", "sentence_good": "aboard mirrors do interesting unless lift .", "sentence_bad": "aboard mirrors do certain unless lift ."}
+{"original": "patrick was n't difficult to conceal .", "sentence_good": "patrick another n't difficult after conceal .", "sentence_bad": "patrick another n't soon after conceal ."}
+{"original": "most high schools were tough to arrive at .", "sentence_good": "most high schools till tough off arrive off .", "sentence_bad": "most high schools till bound off arrive off ."}
+{"original": "steve was enjoyable to conceal .", "sentence_good": "steve while enjoyable beside conceal .", "sentence_bad": "steve while unlikely beside conceal ."}
+{"original": "galileo was difficult to scare .", "sentence_good": "galileo these difficult am scare .", "sentence_bad": "galileo these bound am scare ."}
+{"original": "sharon was n't interesting to respect .", "sentence_good": "sharon of n't interesting should respect .", "sentence_bad": "sharon of n't soon should respect ."}
+{"original": "gregory was n't tough to argue about .", "sentence_good": "gregory around n't tough beyond argue been .", "sentence_bad": "gregory around n't certain beyond argue been ."}
+{"original": "samuel was n't enjoyable to argue about .", "sentence_good": "samuel over n't enjoyable be argue being .", "sentence_bad": "samuel over n't certain be argue being ."}
+{"original": "the art galleries are enjoyable to walk through .", "sentence_good": "re but galleries ca enjoyable a walk need .", "sentence_bad": "re but galleries ca unlikely a walk need ."}
+{"original": "this person was irritating to return to .", "sentence_good": "might person into irritating along return near .", "sentence_bad": "might person into bound near return near ."}
+{"original": "every teacher was n't annoying to escape from .", "sentence_good": "was teacher for n't annoying was escape this .", "sentence_bad": "was teacher for n't apt was escape this ."}
+{"original": "these oases are hard to arrive at .", "sentence_good": "in oases could hard across arrive may .", "sentence_bad": "in oases could sure across arrive may ."}
+{"original": "a cousin of april is n't hard to scare .", "sentence_good": "about cousin between april between n't hard no scare .", "sentence_bad": "about cousin between april between n't sure no scare ."}
+{"original": "sandra is n't pleasant to complain about .", "sentence_good": "sandra because n't pleasant despite complain did .", "sentence_bad": "sandra because n't certain despite complain did ."}
+{"original": "those sweaters are n't difficult to wear .", "sentence_good": "can sweaters about n't difficult above wear .", "sentence_bad": "can sweaters about n't sure above wear ."}
+{"original": "the public park is n't interesting to go to .", "sentence_good": "both public park if n't interesting has go must .", "sentence_bad": "both public park if n't certain must go must ."}
+{"original": "matt was n't boring to talk about .", "sentence_good": "matt neither n't boring did talk by .", "sentence_bad": "matt neither n't apt did talk by ."}
+{"original": "julia was n't tough to flee from .", "sentence_good": "julia if n't tough every flee that .", "sentence_bad": "julia if n't sure every flee that ."}
+{"original": "every lake is hard work to talk about .", "sentence_good": "whether lake each hard work onto talk by .", "sentence_bad": "whether lake each by onto talk by ."}
+{"original": "that art gallery was n't easy to drive to .", "sentence_good": "if ca gallery another n't easy had drive an .", "sentence_bad": "if ca gallery another n't bound an drive an ."}
+{"original": "sherry is annoying to reference .", "sentence_good": "sherry yet annoying near reference .", "sentence_bad": "sherry yet unlikely near reference ."}
+{"original": "sonia was difficult to argue about .", "sentence_good": "sonia amid difficult amid argue whilst .", "sentence_bad": "sonia amid unlikely amid argue whilst ."}
+{"original": "diana is n't fun to talk about .", "sentence_good": "diana all n't fun would talk ought .", "sentence_bad": "diana all n't sure would talk ought ."}
+{"original": "clyde 's partners are fun to fire .", "sentence_good": "clyde ought partners does fun beyond fire .", "sentence_bad": "clyde ought partners does apt beyond fire ."}
+{"original": "the students ' colleagues were n't pleasant to conceal .", "sentence_good": "around students ' colleagues once n't pleasant after conceal .", "sentence_bad": "around students ' colleagues once n't soon after conceal ."}
+{"original": "derek 's supervisor was ready to reference .", "sentence_good": "derek no supervisor like ready or reference .", "sentence_bad": "derek no supervisor like likely or reference ."}
+{"original": "these waiters were irritating to cure .", "sentence_good": "do waiters under irritating am cure .", "sentence_bad": "do waiters under likely am cure ."}
+{"original": "aaron was n't interesting to scare .", "sentence_good": "aaron albeit n't interesting throughout scare .", "sentence_bad": "aaron albeit n't likely throughout scare ."}
+{"original": "many art galleries were n't tough to drop by .", "sentence_good": "many from galleries after n't tough toward drop at .", "sentence_bad": "many from galleries after n't bound toward drop at ."}
+{"original": "ladies were n't boring to fire .", "sentence_good": "ladies does n't boring neither fire .", "sentence_bad": "ladies does n't certain neither fire ."}
+{"original": "wayne was enjoyable to disagree with .", "sentence_good": "wayne above enjoyable between disagree against .", "sentence_bad": "wayne above sure between disagree against ."}
+{"original": "some lakes were n't difficult to reveal .", "sentence_good": "some lakes across n't difficult throughout reveal .", "sentence_bad": "some lakes across n't likely throughout reveal ."}
+{"original": "sandra was n't exciting to return to .", "sentence_good": "sandra for n't exciting after return whether .", "sentence_bad": "sandra for n't bound whether return whether ."}
+{"original": "candice was annoying to work with .", "sentence_good": "candice every annoying underneath work albeit .", "sentence_bad": "candice every apt underneath work albeit ."}
+{"original": "samuel was n't unpleasant to escape from .", "sentence_good": "samuel was n't unpleasant via escape be .", "sentence_bad": "samuel was n't apt via escape be ."}
+{"original": "tamara was easy to flee from .", "sentence_good": "tamara about easy unless flee to .", "sentence_bad": "tamara about soon unless flee to ."}
+{"original": "all students are n't boring to disagree with .", "sentence_good": "whether students per n't boring toward disagree do .", "sentence_bad": "whether students per n't unlikely toward disagree do ."}
+{"original": "those glaciers are n't enjoyable to walk through .", "sentence_good": "than glaciers whilst n't enjoyable alongside walk beneath .", "sentence_bad": "than glaciers whilst n't apt alongside walk beneath ."}
+{"original": "deanna is n't hard to talk about .", "sentence_good": "deanna within n't hard after talk within .", "sentence_bad": "deanna within n't within after talk within ."}
+{"original": "all pictures are enjoyable to lift .", "sentence_good": "either pictures neither enjoyable to lift .", "sentence_bad": "either pictures neither bound to lift ."}
+{"original": "those hamsters are irritating to cure .", "sentence_good": "the hamsters be irritating beyond cure .", "sentence_bad": "the hamsters be unlikely beyond cure ."}
+{"original": "craig is fun to argue about .", "sentence_good": "craig towards fun till argue these .", "sentence_bad": "craig towards unlikely till argue these ."}
+{"original": "some brochures were n't easy to reveal .", "sentence_good": "some brochures ar n't easy any reveal .", "sentence_bad": "some brochures ar n't unlikely any reveal ."}
+{"original": "jason 's best friends were n't pleasant to complain about .", "sentence_good": "jason like best friends every n't pleasant until complain during .", "sentence_bad": "jason like best friends every n't sure until complain during ."}
+{"original": "lakes are hard to bike to .", "sentence_good": "lakes have hard since bike during .", "sentence_bad": "lakes have sure during bike during ."}
+{"original": "this sister of these girls was n't easy to cure .", "sentence_good": "after sister have near girls an n't easy per cure .", "sentence_bad": "after sister have near girls an n't apt per cure ."}
+{"original": "every father of theodore is n't enjoyable to examine .", "sentence_good": "at father ar theodore a n't enjoyable within examine .", "sentence_bad": "at father ar theodore a n't certain within examine ."}
+{"original": "judy was n't boring to conceal .", "sentence_good": "judy unlike n't boring those conceal .", "sentence_bad": "judy unlike n't unlikely those conceal ."}
+{"original": "james was irritating to flee from .", "sentence_good": "james on irritating been flee re .", "sentence_bad": "james on unlikely been flee re ."}
+{"original": "those closets are irritating to arrive at .", "sentence_good": "unto closets were irritating did arrive though .", "sentence_bad": "unto closets were bound did arrive though ."}
+{"original": "those schools are n't irritating to go to .", "sentence_good": "is schools around n't irritating ca go to .", "sentence_bad": "is schools around n't unlikely to go to ."}
+{"original": "ruth 's tutors were n't difficult to argue about .", "sentence_good": "ruth per tutors unless n't difficult were argue despite .", "sentence_bad": "ruth per tutors unless n't despite were argue despite ."}
+{"original": "barbara is unpleasant to disagree with .", "sentence_good": "barbara once unpleasant into disagree each .", "sentence_bad": "barbara once sure into disagree each ."}
+{"original": "mark is exciting to boast about .", "sentence_good": "mark with exciting amid boast unlike .", "sentence_bad": "mark with bound amid boast unlike ."}
+{"original": "mark is fun to care for .", "sentence_good": "mark either fun from care for .", "sentence_bad": "mark either bound from care for ."}
+{"original": "this student was pleasant to fire .", "sentence_good": "around student across pleasant unto fire .", "sentence_bad": "around student across certain unto fire ."}
+{"original": "connie is interesting to return to .", "sentence_good": "connie along interesting no return had .", "sentence_bad": "connie along soon had return had ."}
+{"original": "that glacier was n't difficult to drop by .", "sentence_good": "ought glacier an n't difficult while drop towards .", "sentence_bad": "ought glacier an n't likely while drop towards ."}
+{"original": "the high school was n't tough to go to .", "sentence_good": "although high school beyond n't tough to go need .", "sentence_bad": "although high school beyond n't likely need go need ."}
+{"original": "denise is easy to argue about .", "sentence_good": "denise but easy onto argue towards .", "sentence_bad": "denise but certain onto argue towards ."}
+{"original": "the bank was fun to conceal .", "sentence_good": "ca bank toward fun per conceal .", "sentence_bad": "ca bank toward certain per conceal ."}
+{"original": "the art gallery is n't exciting to arrive at .", "sentence_good": "from of gallery across n't exciting ar arrive with .", "sentence_bad": "from of gallery across n't bound ar arrive with ."}
+{"original": "many eyes were interesting to reveal .", "sentence_good": "many eyes onto interesting to reveal .", "sentence_bad": "many eyes onto unlikely to reveal ."}
+{"original": "sherry 's friend was n't interesting to complain about .", "sentence_good": "sherry as friend will n't interesting before complain were .", "sentence_bad": "sherry as friend will n't soon before complain were ."}
+{"original": "florence was unpleasant to scare .", "sentence_good": "florence beneath unpleasant in scare .", "sentence_bad": "florence beneath bound in scare ."}
+{"original": "larry is n't annoying to boast about .", "sentence_good": "larry be n't annoying behind boast been .", "sentence_bad": "larry be n't been behind boast been ."}
+{"original": "christopher was ready to respect .", "sentence_good": "christopher although ready do respect .", "sentence_bad": "christopher although apt do respect ."}
+{"original": "that lake is n't hard to go to .", "sentence_good": "once lake do n't hard with go beneath .", "sentence_bad": "once lake do n't soon beneath go beneath ."}
+{"original": "the niece of sherry was n't unpleasant to return to .", "sentence_good": "whilst niece once sherry amid n't unpleasant across return behind .", "sentence_bad": "whilst niece once sherry amid n't certain behind return behind ."}
+{"original": "most children are difficult to disagree with .", "sentence_good": "most children amongst difficult beneath disagree below .", "sentence_bad": "most children amongst bound beneath disagree below ."}
+{"original": "rachelle is n't unpleasant to argue about .", "sentence_good": "rachelle be n't unpleasant while argue 's .", "sentence_bad": "rachelle be n't soon while argue 's ."}
+{"original": "a lot of hospitals were boring to go to .", "sentence_good": "at lot being hospitals every boring unlike go along .", "sentence_bad": "at lot being hospitals every apt along go along ."}
+{"original": "steve 's hairdressers are n't exciting to listen to .", "sentence_good": "steve once hairdressers 's n't exciting until listen at .", "sentence_bad": "steve once hairdressers 's n't likely at listen at ."}
+{"original": "monet was n't hard to conceal .", "sentence_good": "monet am n't hard is conceal .", "sentence_bad": "monet am n't certain is conceal ."}
+{"original": "martha 's lawyer was n't irritating to care for .", "sentence_good": "martha an lawyer like n't irritating via care all .", "sentence_bad": "martha an lawyer like n't apt via care all ."}
+{"original": "those cafes were n't pleasant to drive to .", "sentence_good": "was cafes after n't pleasant for drive through .", "sentence_bad": "was cafes after n't likely through drive through ."}
+{"original": "melinda is n't easy to disagree with .", "sentence_good": "melinda albeit n't easy might disagree no .", "sentence_bad": "melinda albeit n't bound might disagree no ."}
+{"original": "that oasis was boring to conceal .", "sentence_good": "under oasis if boring toward conceal .", "sentence_bad": "under oasis if certain toward conceal ."}
+{"original": "daniel 's classmate was hard work to work with .", "sentence_good": "daniel neither classmate whilst hard work between work those .", "sentence_bad": "daniel neither classmate whilst soon between work those ."}
+{"original": "some sons of derek are n't exciting to fire .", "sentence_good": "some sons neither derek ca n't exciting and fire .", "sentence_bad": "some sons neither derek ca n't soon and fire ."}
+{"original": "the lutherans were exciting to scare .", "sentence_good": "per lutherans though exciting to scare .", "sentence_bad": "per lutherans though likely to scare ."}
+{"original": "a glacier is n't enjoyable to go to .", "sentence_good": "unto glacier may n't enjoyable upon go for .", "sentence_bad": "unto glacier may n't sure for go for ."}
+{"original": "theodore 's granddaughters were pleasant to listen to .", "sentence_good": "theodore ought granddaughters beneath pleasant aboard listen both .", "sentence_bad": "theodore ought granddaughters beneath certain both listen both ."}
+{"original": "most men are n't fun to complain about .", "sentence_good": "most men could n't fun across complain because .", "sentence_bad": "most men could n't likely across complain because ."}
+{"original": "high schools are interesting to drop by .", "sentence_good": "high schools via interesting a drop from .", "sentence_bad": "high schools via certain a drop from ."}
+{"original": "brenda was difficult to work with .", "sentence_good": "brenda by difficult despite work being .", "sentence_bad": "brenda by unlikely despite work being ."}
+{"original": "every man is easy to talk about .", "sentence_good": "despite man as easy by talk this .", "sentence_bad": "despite man as this by talk this ."}
+{"original": "matt is n't difficult to complain about .", "sentence_good": "matt of n't difficult to complain though .", "sentence_bad": "matt of n't likely to complain though ."}
+{"original": "those schools were n't pleasant to drop by .", "sentence_good": "toward schools although n't pleasant into drop since .", "sentence_bad": "toward schools although n't bound into drop since ."}
+{"original": "michelle was n't hard work to complain about .", "sentence_good": "michelle around n't hard work any complain till .", "sentence_bad": "michelle around n't bound any complain till ."}
+{"original": "restaurants are n't exciting to drop by .", "sentence_good": "restaurants alongside n't exciting until drop this .", "sentence_bad": "restaurants alongside n't apt until drop this ."}
+{"original": "most art galleries were n't enjoyable to drop by .", "sentence_good": "most yet galleries into n't enjoyable another drop albeit .", "sentence_bad": "most yet galleries into n't bound another drop albeit ."}
+{"original": "janet was n't boring to fire .", "sentence_good": "janet are n't boring towards fire .", "sentence_bad": "janet are n't apt towards fire ."}
+{"original": "spain is difficult to bike to .", "sentence_good": "spain if difficult over bike except .", "sentence_bad": "spain if likely except bike except ."}
+{"original": "these cashiers are tough to work with .", "sentence_good": "to cashiers while tough is work were .", "sentence_bad": "to cashiers while certain is work were ."}
+{"original": "a lot of college campuses are n't boring to walk through .", "sentence_good": "in lot whether college campuses could n't boring beside walk ought .", "sentence_bad": "in lot whether college campuses could n't sure beside walk ought ."}
+{"original": "daniel 's grandmother is irritating to cure .", "sentence_good": "daniel be grandmother the irritating of cure .", "sentence_bad": "daniel be grandmother the unlikely of cure ."}
+{"original": "all girls were n't hard work to care for .", "sentence_good": "because girls whilst n't hard work all care and .", "sentence_bad": "because girls whilst n't soon all care and ."}
+{"original": "the nuclei were n't ready to lift .", "sentence_good": "to nuclei between n't ready must lift .", "sentence_bad": "to nuclei between n't soon must lift ."}
+{"original": "eric is enjoyable to return to .", "sentence_good": "eric ar enjoyable behind return for .", "sentence_bad": "eric ar certain for return for ."}
+{"original": "raymond was hard to boast about .", "sentence_good": "raymond about hard underneath boast unlike .", "sentence_bad": "raymond about unlike underneath boast unlike ."}
+{"original": "matt was n't easy to scare .", "sentence_good": "matt ca n't easy underneath scare .", "sentence_bad": "matt ca n't bound underneath scare ."}
+{"original": "some art gallery is n't boring to drive to .", "sentence_good": "some amongst gallery across n't boring between drive underneath .", "sentence_bad": "some amongst gallery across n't soon underneath drive underneath ."}
+{"original": "roger was n't boring to reveal .", "sentence_good": "roger over n't boring need reveal .", "sentence_bad": "roger over n't soon need reveal ."}
+{"original": "the girl is n't pleasant to return to .", "sentence_good": "be girl between n't pleasant at return behind .", "sentence_bad": "be girl between n't apt behind return behind ."}
+{"original": "stephanie is n't pleasant to boast about .", "sentence_good": "stephanie is n't pleasant onto boast since .", "sentence_bad": "stephanie is n't likely onto boast since ."}
+{"original": "leslie was n't unpleasant to argue about .", "sentence_good": "leslie neither n't unpleasant throughout argue may .", "sentence_bad": "leslie neither n't likely throughout argue may ."}
+{"original": "heather was n't unpleasant to talk about .", "sentence_good": "heather per n't unpleasant unto talk within .", "sentence_bad": "heather per n't unlikely unto talk within ."}
+{"original": "catherine 's grandsons are pleasant to examine .", "sentence_good": "catherine from grandsons through pleasant are examine .", "sentence_bad": "catherine from grandsons through likely are examine ."}
+{"original": "those grocery stores were annoying to drive to .", "sentence_good": "must grocery stores unlike annoying can drive art .", "sentence_bad": "must grocery stores unlike certain art drive art ."}
+{"original": "melanie 's friends are interesting to listen to .", "sentence_good": "melanie upon friends has interesting below listen was .", "sentence_bad": "melanie upon friends has apt was listen was ."}
+{"original": "the dancers were unpleasant to listen to .", "sentence_good": "do dancers these unpleasant near listen amid .", "sentence_bad": "do dancers these soon amid listen amid ."}
+{"original": "the cafe is tough to walk through .", "sentence_good": "being cafe neither tough in walk for .", "sentence_bad": "being cafe neither sure in walk for ."}
+{"original": "that ice is easy to lift .", "sentence_good": "ar ice under easy yet lift .", "sentence_bad": "ar ice under sure yet lift ."}
+{"original": "waitresses were n't easy to talk about .", "sentence_good": "waitresses underneath n't easy no talk if .", "sentence_bad": "waitresses underneath n't bound no talk if ."}
+{"original": "stacey is n't fun to argue about .", "sentence_good": "stacey along n't fun between argue ought .", "sentence_bad": "stacey along n't bound between argue ought ."}
+{"original": "the restaurant was annoying to walk through .", "sentence_good": "those restaurant need annoying if walk and .", "sentence_bad": "those restaurant need likely if walk and ."}
+{"original": "donna 's supervisors were n't enjoyable to talk about .", "sentence_good": "don na would supervisors near n't enjoyable need talk on .", "sentence_bad": "don na would supervisors near n't certain need talk on ."}
+{"original": "scarves are n't enjoyable to wear .", "sentence_good": "scarves an n't enjoyable no wear .", "sentence_bad": "scarves an n't sure no wear ."}
+{"original": "the son of patrick was tough to conceal .", "sentence_good": "across son upon patrick via tough an conceal .", "sentence_bad": "across son upon patrick via certain an conceal ."}
+{"original": "some sweaters are enjoyable to wear .", "sentence_good": "some sweaters shall enjoyable no wear .", "sentence_bad": "some sweaters shall bound no wear ."}
+{"original": "eva was hard work to argue about .", "sentence_good": "eva ar hard work upon argue both .", "sentence_bad": "eva ar bound upon argue both ."}
+{"original": "pamphlets were hard work to boast about .", "sentence_good": "pamphlets re hard work from boast on .", "sentence_bad": "pamphlets re apt from boast on ."}
+{"original": "craig is n't pleasant to escape from .", "sentence_good": "craig and n't pleasant without escape beneath .", "sentence_bad": "craig and n't unlikely without escape beneath ."}
+{"original": "a screen was n't hard work to conceal .", "sentence_good": "unto screen could n't hard work except conceal .", "sentence_bad": "unto screen could n't unlikely except conceal ."}
+{"original": "many college campuses were n't annoying to escape from .", "sentence_good": "many college campuses either n't annoying but escape ar .", "sentence_bad": "many college campuses either n't sure but escape ar ."}
+{"original": "those libraries were hard to drive to .", "sentence_good": "behind libraries with hard be drive that .", "sentence_bad": "behind libraries with unlikely that drive that ."}
+{"original": "men were hard work to talk to .", "sentence_good": "men did hard work a talk via .", "sentence_bad": "men did bound via talk via ."}
+{"original": "a lot of mountains are n't interesting to drive to .", "sentence_good": "along lot all mountains onto n't interesting of drive ought .", "sentence_bad": "along lot all mountains onto n't unlikely ought drive ought ."}
+{"original": "every woman 's piano teachers are n't fun to reveal .", "sentence_good": "across woman can piano teachers will n't fun been reveal .", "sentence_bad": "across woman can piano teachers will n't likely been reveal ."}
+{"original": "some son of the actresses was easy to complain about .", "sentence_good": "some son by along actresses towards easy towards complain have .", "sentence_bad": "some son by along actresses towards soon towards complain have ."}
+{"original": "grocery stores were annoying to walk through .", "sentence_good": "grocery stores another annoying unless walk unlike .", "sentence_bad": "grocery stores another certain unless walk unlike ."}
+{"original": "chad 's classmates are n't hard work to examine .", "sentence_good": "chad in classmates would n't hard work with examine .", "sentence_bad": "chad in classmates would n't bound with examine ."}
+{"original": "some college campuses were pleasant to walk through .", "sentence_good": "some college campuses since pleasant did walk beside .", "sentence_bad": "some college campuses since apt did walk beside ."}
+{"original": "theresa was n't hard work to fire .", "sentence_good": "theresa beyond n't hard work being fire .", "sentence_bad": "theresa beyond n't unlikely being fire ."}
+{"original": "sabrina is tough to flee from .", "sentence_good": "sabrina should tough at flee both .", "sentence_bad": "sabrina should apt at flee both ."}
+{"original": "randolf is interesting to scare .", "sentence_good": "randolf was interesting a scare .", "sentence_bad": "randolf was unlikely a scare ."}
+{"original": "that hill was n't enjoyable to drop by .", "sentence_good": "as hill re n't enjoyable despite drop both .", "sentence_bad": "as hill re n't sure despite drop both ."}
+{"original": "those mothers of carolyn were annoying to reference .", "sentence_good": "shall mothers along carolyn by annoying since reference .", "sentence_bad": "shall mothers along carolyn by sure since reference ."}
+{"original": "karla was n't irritating to fire .", "sentence_good": "karla or n't irritating but fire .", "sentence_bad": "karla or n't certain but fire ."}
+{"original": "some jackets are n't easy to wear .", "sentence_good": "some jackets onto n't easy with wear .", "sentence_bad": "some jackets onto n't unlikely with wear ."}
+{"original": "those closets were easy to drive to .", "sentence_good": "about closets through easy and drive upon .", "sentence_bad": "about closets through certain upon drive upon ."}
+{"original": "katherine 's tutors were n't fun to flee from .", "sentence_good": "katherine before tutors underneath n't fun upon flee that .", "sentence_bad": "katherine before tutors underneath n't likely upon flee that ."}
+{"original": "a lot of public parks were n't hard work to drop by .", "sentence_good": "but lot beside public parks every n't hard work upon drop ought .", "sentence_bad": "but lot beside public parks every n't likely upon drop ought ."}
+{"original": "bradley was boring to conceal .", "sentence_good": "bradley will boring be conceal .", "sentence_bad": "bradley will unlikely be conceal ."}
+{"original": "some children are ready to flee from .", "sentence_good": "some children against ready do flee does .", "sentence_bad": "some children against soon do flee does ."}
+{"original": "thomas 's contractors were n't enjoyable to talk about .", "sentence_good": "thomas once contractors either n't enjoyable amid talk that .", "sentence_bad": "thomas once contractors either n't unlikely amid talk that ."}
+{"original": "all museums are easy to drop by .", "sentence_good": "around museums do easy during drop within .", "sentence_bad": "around museums do bound during drop within ."}
+{"original": "mitchell was n't pleasant to conceal .", "sentence_good": "mitchell the n't pleasant should conceal .", "sentence_bad": "mitchell the n't unlikely should conceal ."}
+{"original": "these grandsons of carlos were easy to conceal .", "sentence_good": "over grandsons but carlos whereas easy although conceal .", "sentence_bad": "over grandsons but carlos whereas soon although conceal ."}
+{"original": "some hospitals are irritating to escape from .", "sentence_good": "some hospitals till irritating amid escape as .", "sentence_bad": "some hospitals till apt amid escape as ."}
+{"original": "this closet was irritating to walk through .", "sentence_good": "off closet the irritating while walk near .", "sentence_bad": "off closet the apt while walk near ."}
+{"original": "carolyn 's french teacher was fun to talk about .", "sentence_good": "carolyn unto french teacher whilst fun do talk each .", "sentence_bad": "carolyn unto french teacher whilst soon do talk each ."}
+{"original": "peter 's ex-husbands were n't fun to fire .", "sentence_good": "peter over ex-husbands could n't fun than fire .", "sentence_bad": "peter over ex-husbands could n't sure than fire ."}
+{"original": "a lot of brothers of a dancer were irritating to fire .", "sentence_good": "whether lot could brothers though to dancer both irritating re fire .", "sentence_bad": "to lot though brothers though to dancer both sure re fire ."}
+{"original": "that mountain was tough to lift .", "sentence_good": "from mountain had tough unless lift .", "sentence_bad": "from mountain had unlikely unless lift ."}
+{"original": "dawn is fun to reference .", "sentence_good": "dawn upon fun was reference .", "sentence_bad": "dawn upon apt was reference ."}
+{"original": "cynthia is n't exciting to care for .", "sentence_good": "cynthia could n't exciting through care through .", "sentence_bad": "cynthia could n't likely through care through ."}
+{"original": "many people were enjoyable to talk to .", "sentence_good": "many people till enjoyable on talk would .", "sentence_bad": "many people till soon would talk would ."}
+{"original": "raymond was n't pleasant to talk to .", "sentence_good": "raymond another n't pleasant an talk have .", "sentence_bad": "raymond another n't unlikely have talk have ."}
+{"original": "heidi 's nieces were n't exciting to work with .", "sentence_good": "heidi this nieces off n't exciting no work after .", "sentence_bad": "heidi this nieces off n't unlikely no work after ."}
+{"original": "closets were n't exciting to arrive at .", "sentence_good": "closets over n't exciting every arrive would .", "sentence_bad": "closets over n't unlikely every arrive would ."}
+{"original": "the senators are boring to cure .", "sentence_good": "without senators toward boring every cure .", "sentence_bad": "without senators toward soon every cure ."}
+{"original": "cheryl 's tutor was irritating to listen to .", "sentence_good": "cheryl upon tutor does irritating re listen had .", "sentence_bad": "cheryl upon tutor does soon had listen had ."}
+{"original": "this dancer is enjoyable to argue about .", "sentence_good": "on dancer while enjoyable amongst argue via .", "sentence_bad": "on dancer while certain amongst argue via ."}
+{"original": "this college campus was n't interesting to arrive at .", "sentence_good": "if college campus did n't interesting like arrive was .", "sentence_bad": "if college campus did n't bound like arrive was ."}
+{"original": "some drivers were n't interesting to complain about .", "sentence_good": "some drivers whether n't interesting between complain like .", "sentence_bad": "some drivers whether n't bound between complain like ."}
+{"original": "carlos 's classmate was n't ready to reference .", "sentence_good": "carlos above classmate while n't ready did reference .", "sentence_bad": "carlos above classmate while n't certain did reference ."}
+{"original": "winston churchill was n't hard to listen to .", "sentence_good": "winston churchill had n't hard except listen neither .", "sentence_bad": "winston churchill had n't bound neither listen neither ."}
+{"original": "rhonda 's grandmothers are n't hard work to escape from .", "sentence_good": "rhonda although grandmothers was n't hard work 's escape those .", "sentence_bad": "rhonda although grandmothers was n't bound 's escape those ."}
+{"original": "the restaurant is n't unpleasant to drop by .", "sentence_good": "be restaurant are n't unpleasant each drop about .", "sentence_bad": "be restaurant are n't likely each drop about ."}
+{"original": "a public park is hard to drive to .", "sentence_good": "between public park these hard the drive every .", "sentence_bad": "between public park these sure every drive every ."}
+{"original": "that grocery store was n't irritating to drop by .", "sentence_good": "am grocery store that n't irritating is drop as .", "sentence_bad": "am grocery store that n't likely is drop as ."}
+{"original": "edward is n't boring to listen to .", "sentence_good": "edward this n't boring were listen until .", "sentence_bad": "edward this n't apt until listen until ."}
+{"original": "a closet is n't hard to arrive at .", "sentence_good": "whilst closet because n't hard re arrive behind .", "sentence_bad": "whilst closet because n't certain re arrive behind ."}
+{"original": "the borgias ' ex-girlfriends were difficult to work with .", "sentence_good": "towards borgias ' ex -girlfriends beyond difficult via work any .", "sentence_bad": "towards borgias ' ex -girlfriends beyond bound via work any ."}
+{"original": "every mall is n't exciting to drop by .", "sentence_good": "to mall either n't exciting throughout drop of .", "sentence_bad": "to mall either n't soon throughout drop of ."}
+{"original": "claire 's grandmothers were hard work to argue about .", "sentence_good": "claire could grandmothers but hard work into argue towards .", "sentence_bad": "claire could grandmothers but soon into argue towards ."}
+{"original": "derek was n't hard work to respect .", "sentence_good": "derek should n't hard work have respect .", "sentence_bad": "derek should n't apt have respect ."}
+{"original": "an essay was n't difficult to disagree with .", "sentence_good": "across essay another n't difficult another disagree am .", "sentence_bad": "across essay another n't certain another disagree am ."}
+{"original": "raymond is irritating to conceal .", "sentence_good": "raymond art irritating although conceal .", "sentence_bad": "raymond art unlikely although conceal ."}
+{"original": "debra was n't hard work to talk to .", "sentence_good": "debra were n't hard work these talk along .", "sentence_bad": "debra were n't unlikely along talk along ."}
+{"original": "christopher was tough to cure .", "sentence_good": "christopher unlike tough over cure .", "sentence_bad": "christopher unlike bound over cure ."}
+{"original": "skirts are annoying to wear .", "sentence_good": "skirts no annoying each wear .", "sentence_bad": "skirts no soon each wear ."}
+{"original": "a lot of pants were tough to reveal .", "sentence_good": "a lot off pants like tough though reveal .", "sentence_bad": "a lot off pants like unlikely though reveal ."}
+{"original": "that art gallery was n't easy to arrive at .", "sentence_good": "against might gallery that n't easy each arrive behind .", "sentence_bad": "against might gallery that n't certain each arrive behind ."}
+{"original": "some high school is n't interesting to walk through .", "sentence_good": "some high school will n't interesting have walk from .", "sentence_bad": "some high school will n't sure have walk from ."}
+{"original": "this teenager 's nephew is enjoyable to scare .", "sentence_good": "by teenager every nephew neither enjoyable among scare .", "sentence_bad": "by teenager every nephew neither sure among scare ."}
+{"original": "libraries are n't annoying to go to .", "sentence_good": "libraries any n't annoying after go for .", "sentence_bad": "libraries any n't apt for go for ."}
+{"original": "joseph was n't annoying to fire .", "sentence_good": "joseph once n't annoying without fire .", "sentence_bad": "joseph once n't likely without fire ."}
+{"original": "the great lakes are n't irritating to bike to .", "sentence_good": "no great lakes those n't irritating throughout bike will .", "sentence_bad": "no great lakes those n't soon will bike will ."}
+{"original": "most cafes were n't ready to bike to .", "sentence_good": "most cafes without n't ready onto bike was .", "sentence_bad": "most cafes without n't likely was bike was ."}
+{"original": "carl was hard to work with .", "sentence_good": "carl alongside hard been work ought .", "sentence_bad": "carl alongside soon been work ought ."}
+{"original": "kenneth 's contractors were difficult to return to .", "sentence_good": "kenneth off contractors although difficult like return each .", "sentence_bad": "kenneth off contractors although bound each return each ."}
+{"original": "christine is ready to listen to .", "sentence_good": "christine is ready had listen throughout .", "sentence_bad": "christine is certain throughout listen throughout ."}
+{"original": "tracy 's best friends are n't hard to return to .", "sentence_good": "tracy since best friends into n't hard over return beyond .", "sentence_bad": "tracy since best friends into n't unlikely beyond return beyond ."}
+{"original": "a lot of drivers ' daughter was n't hard work to complain about .", "sentence_good": "neither lot via drivers ' daughter been n't hard work aboard complain till .", "sentence_bad": "neither lot via drivers ' daughter been n't certain aboard complain till ."}
+{"original": "deanna is irritating to cure .", "sentence_good": "deanna beyond irritating against cure .", "sentence_bad": "deanna beyond bound against cure ."}
+{"original": "bill was n't fun to scare .", "sentence_good": "bill the n't fun and scare .", "sentence_bad": "bill the n't sure and scare ."}
+{"original": "most mountains are hard work to bike to .", "sentence_good": "most mountains and hard work after bike am .", "sentence_bad": "most mountains and likely am bike am ."}
+{"original": "some hill was n't exciting to go to .", "sentence_good": "some hill the n't exciting in go like .", "sentence_bad": "some hill the n't unlikely like go like ."}
+{"original": "a lot of nieces of a child are n't difficult to respect .", "sentence_good": "near lot while nieces that each child in n't difficult till respect .", "sentence_bad": "each lot that nieces that each child in n't sure till respect ."}
+{"original": "a mall is difficult to walk through .", "sentence_good": "art mall despite difficult around walk neither .", "sentence_bad": "art mall despite apt around walk neither ."}
+{"original": "some cashier was n't difficult to fire .", "sentence_good": "some cashier though n't difficult onto fire .", "sentence_bad": "some cashier though n't apt onto fire ."}
+{"original": "carla is n't pleasant to conceal .", "sentence_good": "carla among n't pleasant aboard conceal .", "sentence_bad": "carla among n't unlikely aboard conceal ."}
+{"original": "theodore 's niece was irritating to care for .", "sentence_good": "theodore around niece because irritating every care alongside .", "sentence_bad": "theodore around niece because certain every care alongside ."}
+{"original": "a lot of libraries are n't fun to walk through .", "sentence_good": "re lot may libraries is n't fun per walk another .", "sentence_bad": "re lot may libraries is n't apt per walk another ."}
+{"original": "caroline is n't ready to conceal .", "sentence_good": "caroline towards n't ready each conceal .", "sentence_bad": "caroline towards n't sure each conceal ."}
+{"original": "sarah 's ex-boyfriend was annoying to listen to .", "sentence_good": "sarah once ex-boyfriend whilst annoying is listen these .", "sentence_bad": "sarah once ex-boyfriend whilst sure these listen these ."}
+{"original": "andrew is pleasant to return to .", "sentence_good": "andrew might pleasant any return amid .", "sentence_bad": "andrew might apt amid return amid ."}
+{"original": "every report was n't ready to complain about .", "sentence_good": "or report among n't ready upon complain should .", "sentence_bad": "or report among n't soon upon complain should ."}
+{"original": "amelia is exciting to cure .", "sentence_good": "amelia about exciting as cure .", "sentence_bad": "amelia about unlikely as cure ."}
+{"original": "patrick is unpleasant to conceal .", "sentence_good": "patrick yet unpleasant alongside conceal .", "sentence_bad": "patrick yet certain alongside conceal ."}
+{"original": "ella was interesting to work with .", "sentence_good": "ella throughout interesting around work around .", "sentence_bad": "ella throughout soon around work around ."}
+{"original": "bill was n't easy to reveal .", "sentence_good": "bill shall n't easy within reveal .", "sentence_bad": "bill shall n't unlikely within reveal ."}
+{"original": "most hills were n't irritating to arrive at .", "sentence_good": "most hills are n't irritating after arrive a .", "sentence_bad": "most hills are n't sure after arrive a ."}
+{"original": "some women are n't enjoyable to care for .", "sentence_good": "some women this n't enjoyable to care must .", "sentence_bad": "some women this n't bound to care must ."}
+{"original": "paul 's brother is boring to boast about .", "sentence_good": "paul by brother during boring upon boast all .", "sentence_bad": "paul by brother during all upon boast all ."}
+{"original": "brenda is annoying to conceal .", "sentence_good": "brenda underneath annoying 's conceal .", "sentence_bad": "brenda underneath likely 's conceal ."}
+{"original": "brett 's oncologist was interesting to listen to .", "sentence_good": "brett under oncologist those interesting ought listen than .", "sentence_bad": "brett under oncologist those apt than listen than ."}
+{"original": "all blouses are n't easy to wear .", "sentence_good": "had blouses does n't easy is wear .", "sentence_bad": "had blouses does n't unlikely is wear ."}
+{"original": "theresa was n't irritating to return to .", "sentence_good": "theresa did n't irritating might return ar .", "sentence_bad": "theresa did n't sure ar return ar ."}
+{"original": "some banks were n't interesting to go to .", "sentence_good": "some banks need n't interesting beside go as .", "sentence_bad": "some banks need n't unlikely as go as ."}
+{"original": "winston churchill was n't hard to respect .", "sentence_good": "winston churchill at n't hard any respect .", "sentence_bad": "winston churchill at n't bound any respect ."}
+{"original": "many fathers of tammy are n't irritating to flee from .", "sentence_good": "many fathers no tammy 's n't irritating beneath flee are .", "sentence_bad": "many fathers no tammy 's n't soon beneath flee are ."}
+{"original": "all hills are n't exciting to arrive at .", "sentence_good": "whereas hills with n't exciting re arrive above .", "sentence_bad": "whereas hills with n't apt re arrive above ."}
+{"original": "anna is n't irritating to fire .", "sentence_good": "anna from n't irritating should fire .", "sentence_bad": "anna from n't unlikely should fire ."}
+{"original": "these children were hard to work with .", "sentence_good": "albeit children will hard has work ca .", "sentence_bad": "albeit children will likely has work ca ."}
+{"original": "christina was ready to boast about .", "sentence_good": "christina within ready all boast toward .", "sentence_bad": "christina within certain all boast toward ."}
+{"original": "every teenager is exciting to reveal .", "sentence_good": "among teenager ought exciting has reveal .", "sentence_bad": "among teenager ought unlikely has reveal ."}
+{"original": "these high schools are easy to arrive at .", "sentence_good": "no high schools is easy and arrive may .", "sentence_bad": "no high schools is certain and arrive may ."}
+{"original": "liam is easy to talk to .", "sentence_good": "liam can easy aboard talk 's .", "sentence_bad": "liam can certain 's talk 's ."}
+{"original": "those shawls are n't annoying to wear .", "sentence_good": "ca shawls is n't annoying while wear .", "sentence_bad": "ca shawls is n't certain while wear ."}
+{"original": "bill is interesting to cure .", "sentence_good": "bill a interesting aboard cure .", "sentence_bad": "bill a likely aboard cure ."}
+{"original": "a lot of customers were n't tough to return to .", "sentence_good": "these lot underneath customers this n't tough while return since .", "sentence_bad": "these lot underneath customers this n't sure since return since ."}
+{"original": "some phenomenon was difficult to complain about .", "sentence_good": "some phenomenon in difficult whilst complain would .", "sentence_bad": "some phenomenon in soon whilst complain would ."}
+{"original": "sarah is n't hard to conceal .", "sentence_good": "sarah or n't hard re conceal .", "sentence_bad": "sarah or n't likely re conceal ."}
+{"original": "patrick was irritating to conceal .", "sentence_good": "patrick during irritating near conceal .", "sentence_bad": "patrick during apt near conceal ."}
+{"original": "some documentaries are ready to argue about .", "sentence_good": "some documentaries can ready or argue despite .", "sentence_bad": "some documentaries can likely or argue despite ."}
+{"original": "deanna is ready to talk about .", "sentence_good": "deanna might ready amid talk if .", "sentence_bad": "deanna might soon amid talk if ."}
+{"original": "a man was pleasant to flee from .", "sentence_good": "around man near pleasant beyond flee among .", "sentence_bad": "around man near soon beyond flee among ."}
+{"original": "mary is n't interesting to respect .", "sentence_good": "mary about n't interesting need respect .", "sentence_bad": "mary about n't bound need respect ."}
+{"original": "dana was boring to reference .", "sentence_good": "dana need boring another reference .", "sentence_bad": "dana need soon another reference ."}
+{"original": "all students ' mother is n't ready to escape from .", "sentence_good": "yet students ' mother beyond n't ready whilst escape no .", "sentence_bad": "yet students ' mother beyond n't unlikely whilst escape no ."}
+{"original": "allison 's husband was interesting to fire .", "sentence_good": "allison that husband near interesting was fire .", "sentence_bad": "allison that husband near likely was fire ."}
+{"original": "this person is annoying to talk about .", "sentence_good": "unless person should annoying will talk no .", "sentence_bad": "unless person should bound will talk no ."}
+{"original": "samantha is n't irritating to argue about .", "sentence_good": "samantha while n't irritating against argue near .", "sentence_bad": "samantha while n't near against argue near ."}
+{"original": "most shirts are n't exciting to wear .", "sentence_good": "most shirts and n't exciting between wear .", "sentence_bad": "most shirts and n't bound between wear ."}
+{"original": "judy was fun to boast about .", "sentence_good": "judy both fun are boast since .", "sentence_bad": "judy both since are boast since ."}
+{"original": "diane is easy to complain about .", "sentence_good": "diane about easy before complain unless .", "sentence_bad": "diane about certain before complain unless ."}
+{"original": "many muffins were n't difficult to lift .", "sentence_good": "many muffins had n't difficult despite lift .", "sentence_bad": "many muffins had n't likely despite lift ."}
+{"original": "those cafes are n't difficult to arrive at .", "sentence_good": "beyond cafes although n't difficult may arrive each .", "sentence_bad": "beyond cafes although n't likely may arrive each ."}
+{"original": "diane 's mothers were n't boring to fire .", "sentence_good": "diane except mothers behind n't boring did fire .", "sentence_bad": "diane except mothers behind n't soon did fire ."}
+{"original": "the lutherans were tough to respect .", "sentence_good": "behind lutherans each tough by respect .", "sentence_bad": "behind lutherans each likely by respect ."}
+{"original": "that cafe is n't irritating to walk through .", "sentence_good": "near cafe may n't irritating any walk against .", "sentence_bad": "near cafe may n't soon any walk against ."}
+{"original": "anne was n't enjoyable to conceal .", "sentence_good": "anne above n't enjoyable alongside conceal .", "sentence_bad": "anne above n't certain alongside conceal ."}
+{"original": "denise was interesting to work with .", "sentence_good": "denise am interesting do work unto .", "sentence_bad": "denise am sure do work unto ."}
+{"original": "that customer was n't enjoyable to return to .", "sentence_good": "had customer beyond n't enjoyable shall return within .", "sentence_bad": "had customer beyond n't bound within return within ."}
+{"original": "paula was n't irritating to reveal .", "sentence_good": "paula these n't irritating will reveal .", "sentence_bad": "paula these n't certain will reveal ."}
+{"original": "cheryl is n't interesting to scare .", "sentence_good": "cheryl of n't interesting toward scare .", "sentence_bad": "cheryl of n't likely toward scare ."}
+{"original": "most mountains were n't tough to reveal .", "sentence_good": "most mountains but n't tough towards reveal .", "sentence_bad": "most mountains but n't sure towards reveal ."}
+{"original": "kristin 's plumber is n't exciting to conceal .", "sentence_good": "kristin except plumber against n't exciting though conceal .", "sentence_bad": "kristin except plumber against n't likely though conceal ."}
+{"original": "alice is n't unpleasant to work with .", "sentence_good": "alice being n't unpleasant near work except .", "sentence_bad": "alice being n't likely near work except ."}
+{"original": "diana is enjoyable to talk to .", "sentence_good": "diana art enjoyable without talk be .", "sentence_bad": "diana art apt be talk be ."}
+{"original": "natalie was enjoyable to respect .", "sentence_good": "natalie whether enjoyable should respect .", "sentence_bad": "natalie whether certain should respect ."}
+{"original": "janet was n't annoying to listen to .", "sentence_good": "janet throughout n't annoying although listen art .", "sentence_bad": "janet throughout n't bound art listen art ."}
+{"original": "a lake is enjoyable to go to .", "sentence_good": "art lake aboard enjoyable the go whether .", "sentence_bad": "art lake aboard unlikely whether go whether ."}
+{"original": "these cafes are exciting to go to .", "sentence_good": "behind cafes about exciting whilst go re .", "sentence_bad": "behind cafes about likely re go re ."}
+{"original": "michelle 's oncologists are fun to reveal .", "sentence_good": "michelle via oncologists per fun on reveal .", "sentence_bad": "michelle via oncologists per sure on reveal ."}
+{"original": "some adult was hard to reference .", "sentence_good": "some adult ought hard need reference .", "sentence_bad": "some adult ought soon need reference ."}
+{"original": "all grocery stores were hard to bike to .", "sentence_good": "unlike grocery stores to hard am bike above .", "sentence_bad": "unlike grocery stores to bound above bike above ."}
+{"original": "sara is exciting to return to .", "sentence_good": "sara within exciting across return toward .", "sentence_bad": "sara within certain toward return toward ."}
+{"original": "every shirt is boring to wear .", "sentence_good": "under shirt throughout boring like wear .", "sentence_bad": "under shirt throughout likely like wear ."}
+{"original": "a chair is n't exciting to lift .", "sentence_good": "before chair both n't exciting albeit lift .", "sentence_bad": "before chair both n't apt albeit lift ."}
+{"original": "many peppers are tough to lift .", "sentence_good": "many peppers per tough by lift .", "sentence_bad": "many peppers per unlikely by lift ."}
+{"original": "a lady is n't ready to flee from .", "sentence_good": "for lady but n't ready every flee upon .", "sentence_bad": "for lady but n't sure every flee upon ."}
+{"original": "all doctors ' sisters are n't ready to conceal .", "sentence_good": "'s doctors ' sisters until n't ready does conceal .", "sentence_bad": "'s doctors ' sisters until n't unlikely does conceal ."}
+{"original": "carl was n't hard to flee from .", "sentence_good": "carl within n't hard neither flee over .", "sentence_bad": "carl within n't likely neither flee over ."}
+{"original": "the public park is n't irritating to arrive at .", "sentence_good": "art public park either n't irritating be arrive among .", "sentence_bad": "art public park either n't sure be arrive among ."}
+{"original": "eva is n't annoying to flee from .", "sentence_good": "eva in n't annoying near flee once .", "sentence_bad": "eva in n't likely near flee once ."}
+{"original": "some pamphlet about spain was exciting to conceal .", "sentence_good": "some pamphlet alongside spain onto exciting will conceal .", "sentence_bad": "some pamphlet alongside spain onto certain will conceal ."}
+{"original": "homer is n't easy to conceal .", "sentence_good": "homer off n't easy were conceal .", "sentence_bad": "homer off n't soon were conceal ."}
+{"original": "phillip is n't pleasant to complain about .", "sentence_good": "phillip that n't pleasant behind complain might .", "sentence_bad": "phillip that n't soon behind complain might ."}
+{"original": "the college campuses were enjoyable to bike to .", "sentence_good": "across college campuses over enjoyable despite bike need .", "sentence_bad": "across college campuses over soon need bike need ."}
+{"original": "a doctor is n't unpleasant to conceal .", "sentence_good": "per doctor amid n't unpleasant upon conceal .", "sentence_bad": "per doctor amid n't bound upon conceal ."}
+{"original": "veronica is n't unpleasant to listen to .", "sentence_good": "veronica were n't unpleasant upon listen within .", "sentence_bad": "veronica were n't soon within listen within ."}
+{"original": "every sock is n't irritating to wear .", "sentence_good": "into sock aboard n't irritating every wear .", "sentence_bad": "into sock aboard n't bound every wear ."}
+{"original": "danielle 's sons are n't hard work to respect .", "sentence_good": "danielle those sons across n't hard work towards respect .", "sentence_bad": "danielle those sons across n't apt towards respect ."}
+{"original": "victoria was n't unpleasant to flee from .", "sentence_good": "victoria along n't unpleasant whether flee above .", "sentence_bad": "victoria along n't soon whether flee above ."}
+{"original": "martha was n't difficult to work with .", "sentence_good": "martha over n't difficult each work those .", "sentence_bad": "martha over n't bound each work those ."}
+{"original": "most glaciers are n't interesting to go to .", "sentence_good": "most glaciers though n't interesting re go beneath .", "sentence_bad": "most glaciers though n't bound beneath go beneath ."}
+{"original": "these dancers were n't tough to reveal .", "sentence_good": "along dancers is n't tough through reveal .", "sentence_bad": "along dancers is n't apt through reveal ."}
+{"original": "the museums are n't pleasant to bike to .", "sentence_good": "were museums without n't pleasant that bike been .", "sentence_bad": "were museums without n't apt been bike been ."}
+{"original": "tonya was n't difficult to complain about .", "sentence_good": "tonya into n't difficult every complain into .", "sentence_bad": "tonya into n't certain every complain into ."}
+{"original": "some offspring was exciting to conceal .", "sentence_good": "some offspring per exciting each conceal .", "sentence_bad": "some offspring per certain each conceal ."}
+{"original": "travis 's grandmother is n't interesting to scare .", "sentence_good": "travis being grandmother ar n't interesting should scare .", "sentence_bad": "travis being grandmother ar n't likely should scare ."}
+{"original": "steve is annoying to work with .", "sentence_good": "steve below annoying beside work if .", "sentence_bad": "steve below sure beside work if ."}
+{"original": "a man is pleasant to talk to .", "sentence_good": "through man had pleasant aboard talk whereas .", "sentence_bad": "through man had sure whereas talk whereas ."}
+{"original": "samuel 's sisters were fun to care for .", "sentence_good": "samuel neither sisters or fun because care this .", "sentence_bad": "samuel neither sisters or sure because care this ."}
+{"original": "a sister of homer is n't fun to escape from .", "sentence_good": "would sister whereas homer per n't fun under escape per .", "sentence_bad": "would sister whereas homer per n't unlikely under escape per ."}
+{"original": "this doctor was n't tough to argue about .", "sentence_good": "to doctor over n't tough both argue once .", "sentence_bad": "to doctor over n't bound both argue once ."}
+{"original": "a mountain is ready to bike to .", "sentence_good": "either mountain like ready can bike between .", "sentence_bad": "either mountain like apt between bike between ."}
+{"original": "a lot of reports were n't unpleasant to boast about .", "sentence_good": "need lot between reports ought n't unpleasant underneath boast neither .", "sentence_bad": "need lot between reports ought n't bound underneath boast neither ."}
+{"original": "a cafe is easy to flee from .", "sentence_good": "between cafe off easy this flee between .", "sentence_bad": "between cafe off likely this flee between ."}
+{"original": "a customer 's piano teacher was n't pleasant to scare .", "sentence_good": "whilst customer below piano teacher of n't pleasant art scare .", "sentence_bad": "whilst customer below piano teacher of n't likely art scare ."}
+{"original": "the public park is pleasant to bike to .", "sentence_good": "beside public park any pleasant need bike is .", "sentence_bad": "beside public park any apt is bike is ."}
+{"original": "nuclei were interesting to lift .", "sentence_good": "nuclei across interesting re lift .", "sentence_bad": "nuclei across soon re lift ."}
+{"original": "movies about science were n't interesting to talk about .", "sentence_good": "movies unto science above n't interesting another talk do .", "sentence_bad": "movies do science above n't sure another talk do ."}
+{"original": "this museum was ready to go to .", "sentence_good": "re museum for ready either go at .", "sentence_bad": "re museum for soon at go at ."}
+{"original": "some child is n't irritating to listen to .", "sentence_good": "some child among n't irritating must listen are .", "sentence_bad": "some child among n't apt are listen are ."}
+{"original": "christina 's doctors are n't ready to escape from .", "sentence_good": "christina should doctors across n't ready about escape among .", "sentence_bad": "christina should doctors across n't soon about escape among ."}
+{"original": "meredith 's sister is exciting to fire .", "sentence_good": "meredith amid sister despite exciting ought fire .", "sentence_bad": "meredith amid sister despite certain ought fire ."}
+{"original": "that friend of bill was boring to argue about .", "sentence_good": "behind friend this bill above boring between argue till .", "sentence_bad": "behind friend this bill above bound between argue till ."}
+{"original": "some shirts were n't fun to wear .", "sentence_good": "some shirts except n't fun if wear .", "sentence_bad": "some shirts except n't apt if wear ."}
+{"original": "janet was n't fun to conceal .", "sentence_good": "janet do n't fun through conceal .", "sentence_bad": "janet do n't soon through conceal ."}
+{"original": "every child was n't tough to reference .", "sentence_good": "can child aboard n't tough until reference .", "sentence_bad": "can child aboard n't bound until reference ."}
+{"original": "stacy 's classmates are fun to fire .", "sentence_good": "stacy throughout classmates until fun or fire .", "sentence_bad": "stacy throughout classmates until apt or fire ."}
+{"original": "tracy 's colleagues are n't hard work to examine .", "sentence_good": "tracy beneath colleagues unless n't hard work like examine .", "sentence_bad": "tracy beneath colleagues unless n't bound like examine ."}
+{"original": "julia is n't tough to talk about .", "sentence_good": "julia though n't tough am talk across .", "sentence_bad": "julia though n't soon am talk across ."}
+{"original": "most reports are pleasant to complain about .", "sentence_good": "most reports toward pleasant been complain whether .", "sentence_bad": "most reports toward certain been complain whether ."}
+{"original": "jerry was n't irritating to escape from .", "sentence_good": "jerry in n't irritating will escape re .", "sentence_bad": "jerry in n't bound will escape re ."}
+{"original": "many sisters of patrick are fun to work with .", "sentence_good": "many sisters through patrick can fun till work is .", "sentence_bad": "many sisters through patrick can likely till work is ."}
+{"original": "this banana is n't tough to lift .", "sentence_good": "need banana to n't tough around lift .", "sentence_bad": "need banana to n't soon around lift ."}
+{"original": "holly 's cousin was easy to return to .", "sentence_good": "holly of cousin could easy either return onto .", "sentence_bad": "holly of cousin could apt onto return onto ."}
+{"original": "some mountain is easy to drive to .", "sentence_good": "some mountain without easy ought drive is .", "sentence_bad": "some mountain without certain is drive is ."}
+{"original": "the restaurants are fun to go to .", "sentence_good": "neither restaurants amongst fun any go without .", "sentence_bad": "neither restaurants amongst soon without go without ."}
+{"original": "becky was n't ready to talk about .", "sentence_good": "becky another n't ready those talk alongside .", "sentence_bad": "becky another n't unlikely those talk alongside ."}
+{"original": "cindy was fun to complain about .", "sentence_good": "cindy underneath fun upon complain off .", "sentence_bad": "cindy underneath off upon complain off ."}
+{"original": "kristin is n't unpleasant to return to .", "sentence_good": "kristin did n't unpleasant yet return since .", "sentence_bad": "kristin did n't unlikely since return since ."}
+{"original": "travis 's ex-boyfriend was n't enjoyable to complain about .", "sentence_good": "travis have ex-boyfriend throughout n't enjoyable would complain either .", "sentence_bad": "travis have ex-boyfriend throughout n't soon would complain either ."}
+{"original": "this customer was n't easy to respect .", "sentence_good": "have customer like n't easy or respect .", "sentence_bad": "have customer like n't bound or respect ."}
+{"original": "allison is n't easy to respect .", "sentence_good": "allison off n't easy has respect .", "sentence_bad": "allison off n't apt has respect ."}
+{"original": "bethany is n't tough to reference .", "sentence_good": "bethany between n't tough shall reference .", "sentence_bad": "bethany between n't likely shall reference ."}
+{"original": "many pamphlets about the clintons were exciting to examine .", "sentence_good": "many pamphlets while should clintons towards exciting had examine .", "sentence_bad": "many pamphlets while should clintons towards while had examine ."}
+{"original": "some libraries are hard to walk through .", "sentence_good": "some libraries but hard like walk do .", "sentence_bad": "some libraries but unlikely like walk do ."}
+{"original": "erin 's guests are n't ready to respect .", "sentence_good": "erin near guests off n't ready on respect .", "sentence_bad": "erin near guests off n't likely on respect ."}
+{"original": "a lot of grocery stores are easy to go to .", "sentence_good": "re lot whereas grocery stores may easy art go till .", "sentence_bad": "re lot whereas grocery stores may unlikely till go till ."}
+{"original": "vanessa is n't hard to flee from .", "sentence_good": "vanessa once n't hard that flee albeit .", "sentence_bad": "vanessa once n't soon that flee albeit ."}
+{"original": "that dress is n't irritating to wear .", "sentence_good": "behind dress until n't irritating beside wear .", "sentence_bad": "behind dress until n't bound beside wear ."}
+{"original": "lisa 's mentee was n't easy to cure .", "sentence_good": "lisa below mentee been n't easy around cure .", "sentence_bad": "lisa below mentee been n't unlikely around cure ."}
+{"original": "all pamphlets about science are hard work to talk about .", "sentence_good": "against pamphlets these science has hard work across talk underneath .", "sentence_bad": "against pamphlets underneath science has underneath across talk underneath ."}
+{"original": "becca is hard work to flee from .", "sentence_good": "becca both hard work can flee yet .", "sentence_bad": "becca both bound can flee yet ."}
+{"original": "some girls were n't easy to work with .", "sentence_good": "some girls whereas n't easy unto work via .", "sentence_bad": "some girls whereas n't certain unto work via ."}
+{"original": "a newspaper article about the clintons was boring to reveal .", "sentence_good": "per newspaper article while throughout clintons has boring did reveal .", "sentence_bad": "per newspaper article while throughout clintons has certain did reveal ."}
+{"original": "lucille 's granddaughters are difficult to argue about .", "sentence_good": "lucille amid granddaughters ar difficult all argue between .", "sentence_bad": "lucille amid granddaughters ar bound all argue between ."}
+{"original": "vanessa was interesting to respect .", "sentence_good": "vanessa albeit interesting between respect .", "sentence_bad": "vanessa albeit likely between respect ."}
+{"original": "carl was n't interesting to conceal .", "sentence_good": "carl need n't interesting unto conceal .", "sentence_bad": "carl need n't unlikely unto conceal ."}
+{"original": "some grandson of natalie was n't boring to examine .", "sentence_good": "some grandson aboard natalie near n't boring whilst examine .", "sentence_bad": "some grandson aboard natalie near n't sure whilst examine ."}
+{"original": "some banks were annoying to walk through .", "sentence_good": "some banks shall annoying all walk except .", "sentence_bad": "some banks shall certain all walk except ."}
+{"original": "this school is n't exciting to go to .", "sentence_good": "between school ar n't exciting via go near .", "sentence_bad": "between school ar n't certain near go near ."}
+{"original": "jessica is enjoyable to scare .", "sentence_good": "jessica as enjoyable via scare .", "sentence_bad": "jessica as certain via scare ."}
+{"original": "these offspring are hard work to talk about .", "sentence_good": "about offspring re hard work alongside talk will .", "sentence_bad": "about offspring re certain alongside talk will ."}
+{"original": "dawn was boring to flee from .", "sentence_good": "dawn while boring no flee do .", "sentence_bad": "dawn while certain no flee do ."}
+{"original": "todd 's brothers were annoying to return to .", "sentence_good": "todd than brothers toward annoying into return this .", "sentence_bad": "todd than brothers toward likely this return this ."}
+{"original": "grace was n't tough to cure .", "sentence_good": "grace among n't tough unto cure .", "sentence_bad": "grace among n't sure unto cure ."}
+{"original": "bradley 's husband was n't irritating to examine .", "sentence_good": "bradley amongst husband into n't irritating unto examine .", "sentence_bad": "bradley amongst husband into n't sure unto examine ."}
+{"original": "most waiters are n't easy to fire .", "sentence_good": "most waiters beyond n't easy over fire .", "sentence_bad": "most waiters beyond n't soon over fire ."}
+{"original": "the restaurant is n't annoying to escape from .", "sentence_good": "should restaurant about n't annoying along escape since .", "sentence_bad": "should restaurant about n't unlikely along escape since ."}
+{"original": "marie 's mothers are difficult to disagree with .", "sentence_good": "marie every mothers unless difficult along disagree shall .", "sentence_bad": "marie every mothers unless apt along disagree shall ."}
+{"original": "sheila is n't annoying to flee from .", "sentence_good": "sheila must n't annoying over flee each .", "sentence_bad": "sheila must n't unlikely over flee each ."}
+{"original": "these waitresses are hard work to boast about .", "sentence_good": "these waitresses be hard work has boast despite .", "sentence_bad": "these waitresses be soon has boast despite ."}
+{"original": "a lot of ladies ' plumbers were hard work to flee from .", "sentence_good": "is lot be ladies ' plumbers whereas hard work below flee the .", "sentence_bad": "is lot be ladies ' plumbers whereas unlikely below flee the ."}
+{"original": "kendra is n't enjoyable to care for .", "sentence_good": "kendra beyond n't enjoyable do care albeit .", "sentence_bad": "kendra beyond n't likely do care albeit ."}
+{"original": "charles is hard work to complain about .", "sentence_good": "charles via hard work ar complain will .", "sentence_bad": "charles via will ar complain will ."}
+{"original": "a lot of sweaters are hard work to wear .", "sentence_good": "albeit lot either sweaters 's hard work 's wear .", "sentence_bad": "albeit lot either sweaters 's soon 's wear ."}
+{"original": "sonia is n't ready to listen to .", "sentence_good": "sonia am n't ready with listen after .", "sentence_bad": "sonia am n't sure after listen after ."}
+{"original": "elaine 's daughters are n't boring to examine .", "sentence_good": "elaine since daughters albeit n't boring the examine .", "sentence_bad": "elaine since daughters albeit n't soon the examine ."}
+{"original": "ella is hard work to complain about .", "sentence_good": "ella while hard work if complain has .", "sentence_bad": "ella while sure if complain has ."}
+{"original": "those cafes were n't tough to go to .", "sentence_good": "over cafes behind n't tough for go because .", "sentence_bad": "over cafes behind n't sure because go because ."}
+{"original": "some mountain was n't hard work to flee from .", "sentence_good": "some mountain above n't hard work against flee that .", "sentence_bad": "some mountain above n't sure against flee that ."}
+{"original": "phillip 's teachers were easy to fire .", "sentence_good": "phillip among teachers ar easy have fire .", "sentence_bad": "phillip among teachers ar unlikely have fire ."}
+{"original": "edward was n't hard work to listen to .", "sentence_good": "edward a n't hard work ca listen another .", "sentence_bad": "edward a n't likely another listen another ."}
+{"original": "that pamphlet about art was n't unpleasant to disagree with .", "sentence_good": "every pamphlet under unto although n't unpleasant among disagree upon .", "sentence_bad": "every pamphlet under unto although n't bound among disagree upon ."}
+{"original": "douglas was tough to flee from .", "sentence_good": "douglas since tough been flee by .", "sentence_bad": "douglas since likely been flee by ."}
+{"original": "curtis was n't enjoyable to reveal .", "sentence_good": "curtis but n't enjoyable until reveal .", "sentence_bad": "curtis but n't sure until reveal ."}
+{"original": "most restaurants are boring to drop by .", "sentence_good": "most restaurants from boring aboard drop though .", "sentence_bad": "most restaurants from sure aboard drop though ."}
+{"original": "allison is fun to conceal .", "sentence_good": "allison did fun each conceal .", "sentence_bad": "allison did apt each conceal ."}
+{"original": "some man 's granddaughters are unpleasant to care for .", "sentence_good": "some man if granddaughters the unpleasant under care that .", "sentence_bad": "some man if granddaughters the soon under care that ."}
+{"original": "stephanie 's doctor was n't interesting to disagree with .", "sentence_good": "stephanie toward doctor on n't interesting unless disagree once .", "sentence_bad": "stephanie toward doctor on n't bound unless disagree once ."}
+{"original": "cats were pleasant to lift .", "sentence_good": "cats are pleasant while lift .", "sentence_bad": "cats are bound while lift ."}
+{"original": "spain is hard to return to .", "sentence_good": "spain the hard no return unto .", "sentence_bad": "spain the bound unto return unto ."}
+{"original": "the bank is hard work to go to .", "sentence_good": "unto bank neither hard work have go 's .", "sentence_bad": "unto bank neither apt 's go 's ."}
+{"original": "jill was unpleasant to listen to .", "sentence_good": "jill after unpleasant through listen during .", "sentence_bad": "jill after likely during listen during ."}
+{"original": "some drivers were annoying to conceal .", "sentence_good": "some drivers without annoying on conceal .", "sentence_bad": "some drivers without sure on conceal ."}
+{"original": "these mountains are n't irritating to drop by .", "sentence_good": "along mountains while n't irritating once drop by .", "sentence_bad": "along mountains while n't soon once drop by ."}
+{"original": "the waitress was n't hard work to cure .", "sentence_good": "along waitress by n't hard work aboard cure .", "sentence_bad": "along waitress by n't unlikely aboard cure ."}
+{"original": "a woman 's hairdresser was n't easy to disagree with .", "sentence_good": "neither woman against hairdresser had n't easy must disagree but .", "sentence_bad": "neither woman against hairdresser had n't sure must disagree but ."}
+{"original": "homer was interesting to fire .", "sentence_good": "homer the interesting ar fire .", "sentence_bad": "homer the unlikely ar fire ."}
+{"original": "sabrina was n't enjoyable to boast about .", "sentence_good": "sabrina albeit n't enjoyable was boast across .", "sentence_bad": "sabrina albeit n't apt was boast across ."}
+{"original": "winston churchill is n't tough to talk about .", "sentence_good": "winston churchill amid n't tough upon talk throughout .", "sentence_bad": "winston churchill amid n't bound upon talk throughout ."}
+{"original": "jacqueline is n't pleasant to scare .", "sentence_good": "jacqueline amongst n't pleasant along scare .", "sentence_bad": "jacqueline amongst n't bound along scare ."}
+{"original": "beverly was n't irritating to talk about .", "sentence_good": "beverly amongst n't irritating amid talk into .", "sentence_bad": "beverly amongst n't certain amid talk into ."}
+{"original": "this grandfather of danielle was n't fun to argue about .", "sentence_good": "this grandfather throughout danielle were n't fun both argue with .", "sentence_bad": "this grandfather throughout danielle were n't likely both argue with ."}
+{"original": "some grandson of every person is n't hard to examine .", "sentence_good": "some grandson beyond ca person as n't hard upon examine .", "sentence_bad": "some grandson beyond ca person as n't soon upon examine ."}
+{"original": "a person 's mentees were irritating to conceal .", "sentence_good": "neither person though mentees amid irritating an conceal .", "sentence_bad": "neither person though mentees amid sure an conceal ."}
+{"original": "men were n't hard to talk about .", "sentence_good": "men being n't hard was talk must .", "sentence_bad": "men being n't bound was talk must ."}
+{"original": "christina was n't annoying to escape from .", "sentence_good": "christina than n't annoying another escape upon .", "sentence_bad": "christina than n't apt another escape upon ."}
+{"original": "some essay is n't tough to talk about .", "sentence_good": "some essay but n't tough has talk at .", "sentence_bad": "some essay but n't unlikely has talk at ."}
+{"original": "laura was n't ready to reveal .", "sentence_good": "laura both n't ready unlike reveal .", "sentence_bad": "laura both n't likely unlike reveal ."}
+{"original": "that man is n't ready to argue about .", "sentence_good": "beneath man unlike n't ready or argue though .", "sentence_bad": "beneath man unlike n't likely or argue though ."}
+{"original": "most students ' piano teacher was fun to listen to .", "sentence_good": "most students ' piano teacher whilst fun whether listen upon .", "sentence_bad": "most students ' piano teacher whilst apt upon listen upon ."}
+{"original": "that movie theater is n't annoying to arrive at .", "sentence_good": "if movie theater along n't annoying neither arrive any .", "sentence_bad": "if movie theater along n't unlikely neither arrive any ."}
+{"original": "jodi is ready to reference .", "sentence_good": "jodi except ready since reference .", "sentence_bad": "jodi except sure since reference ."}
+{"original": "this essay about music is n't easy to boast about .", "sentence_good": "except essay if music need n't easy have boast can .", "sentence_bad": "except essay can music need n't unlikely have boast can ."}
+{"original": "emily 's fathers are ready to reveal .", "sentence_good": "emily at fathers every ready till reveal .", "sentence_bad": "emily at fathers every unlikely till reveal ."}
+{"original": "keith 's boss is n't pleasant to conceal .", "sentence_good": "keith alongside boss among n't pleasant every conceal .", "sentence_bad": "keith alongside boss among n't bound every conceal ."}
+{"original": "ronald 's ex-boyfriend is exciting to talk about .", "sentence_good": "ronald since ex-boyfriend about exciting among talk ar .", "sentence_bad": "ronald since ex-boyfriend about apt among talk ar ."}
+{"original": "elaine was irritating to talk to .", "sentence_good": "elaine with irritating any talk should .", "sentence_bad": "elaine with sure should talk should ."}
+{"original": "debra is easy to reference .", "sentence_good": "debra been easy on reference .", "sentence_bad": "debra been unlikely on reference ."}
+{"original": "andrea is n't interesting to conceal .", "sentence_good": "andrea since n't interesting towards conceal .", "sentence_bad": "andrea since n't likely towards conceal ."}
+{"original": "those people are n't exciting to talk to .", "sentence_good": "do people is n't exciting each talk ar .", "sentence_bad": "do people is n't unlikely ar talk ar ."}
+{"original": "this river is n't fun to drop by .", "sentence_good": "will river is n't fun off drop since .", "sentence_bad": "will river is n't unlikely off drop since ."}
+{"original": "bethany was n't unpleasant to conceal .", "sentence_good": "bethany between n't unpleasant like conceal .", "sentence_bad": "bethany between n't soon like conceal ."}
+{"original": "diana 's doctors are enjoyable to complain about .", "sentence_good": "diana under doctors does enjoyable despite complain have .", "sentence_bad": "diana under doctors does have despite complain have ."}
+{"original": "a newspaper article about the clintons was n't unpleasant to examine .", "sentence_good": "via newspaper article onto via clintons all n't unpleasant be examine .", "sentence_bad": "via newspaper article onto via clintons all n't bound be examine ."}
+{"original": "some rice was n't fun to lift .", "sentence_good": "some rice at n't fun is lift .", "sentence_bad": "some rice at n't apt is lift ."}
+{"original": "a means is n't fun to complain about .", "sentence_good": "'s means whilst n't fun till complain onto .", "sentence_bad": "'s means whilst n't apt till complain onto ."}
+{"original": "mitchell was hard to boast about .", "sentence_good": "mitchell were hard another boast may .", "sentence_bad": "mitchell were unlikely another boast may ."}
+{"original": "essays about galileo were n't fun to disagree with .", "sentence_good": "essays be galileo unto n't fun between disagree would .", "sentence_bad": "essays be galileo unto n't be between disagree would ."}
+{"original": "many lakes are n't unpleasant to drop by .", "sentence_good": "many lakes near n't unpleasant an drop need .", "sentence_bad": "many lakes near n't soon an drop need ."}
+{"original": "martin was tough to listen to .", "sentence_good": "martin any tough onto listen on .", "sentence_bad": "martin any sure on listen on ."}
+{"original": "elaine is n't hard work to escape from .", "sentence_good": "elaine over n't hard work unlike escape whether .", "sentence_bad": "elaine over n't apt unlike escape whether ."}
+{"original": "those rivers are tough to walk through .", "sentence_good": "on rivers on tough beside walk per .", "sentence_bad": "on rivers on soon beside walk per ."}
+{"original": "barbara was n't interesting to fire .", "sentence_good": "barbara under n't interesting although fire .", "sentence_bad": "barbara under n't certain although fire ."}
+{"original": "randolf 's daughter is n't boring to scare .", "sentence_good": "randolf because daughter near n't boring unto scare .", "sentence_bad": "randolf because daughter near n't sure unto scare ."}
+{"original": "many actors were n't irritating to talk to .", "sentence_good": "many actors do n't irritating because talk beneath .", "sentence_bad": "many actors do n't certain beneath talk beneath ."}
+{"original": "the impressionists are enjoyable to boast about .", "sentence_good": "amid impressionists did enjoyable re boast like .", "sentence_bad": "amid impressionists did likely re boast like ."}
+{"original": "every restaurant is n't hard to bike to .", "sentence_good": "been restaurant while n't hard does bike than .", "sentence_bad": "been restaurant while n't soon than bike than ."}
+{"original": "that adult was n't annoying to flee from .", "sentence_good": "whereas adult than n't annoying re flee above .", "sentence_bad": "whereas adult than n't bound re flee above ."}
+{"original": "most sisters of rebecca were n't tough to work with .", "sentence_good": "most sisters has rebecca does n't tough beyond work beyond .", "sentence_bad": "most sisters has rebecca does n't bound beyond work beyond ."}
+{"original": "walter was difficult to talk to .", "sentence_good": "walter both difficult beneath talk ca .", "sentence_bad": "walter both soon ca talk ca ."}
+{"original": "that coat is difficult to wear .", "sentence_good": "did coat because difficult those wear .", "sentence_bad": "did coat because bound those wear ."}
+{"original": "jane is n't enjoyable to conceal .", "sentence_good": "jane that n't enjoyable while conceal .", "sentence_bad": "jane that n't apt while conceal ."}
+{"original": "colleen is annoying to talk about .", "sentence_good": "colleen above annoying will talk on .", "sentence_bad": "colleen above likely will talk on ."}
+{"original": "shirts were n't tough to wear .", "sentence_good": "shirts before n't tough has wear .", "sentence_bad": "shirts before n't unlikely has wear ."}
+{"original": "all art galleries are annoying to respect .", "sentence_good": "the before galleries the annoying below respect .", "sentence_bad": "the before galleries the certain below respect ."}
+{"original": "elizabeth 's bosses are n't interesting to fire .", "sentence_good": "elizabeth above bosses above n't interesting amongst fire .", "sentence_bad": "elizabeth above bosses above n't unlikely amongst fire ."}
+{"original": "the mountains were hard to lift .", "sentence_good": "while mountains between hard like lift .", "sentence_bad": "while mountains between soon like lift ."}
+{"original": "patricia was n't pleasant to escape from .", "sentence_good": "patricia among n't pleasant each escape 's .", "sentence_bad": "patricia among n't unlikely each escape 's ."}
+{"original": "those glaciers are difficult to go to .", "sentence_good": "unless glaciers yet difficult either go near .", "sentence_bad": "unless glaciers yet likely near go near ."}
+{"original": "elizabeth is n't tough to boast about .", "sentence_good": "elizabeth through n't tough despite boast till .", "sentence_bad": "elizabeth through n't apt despite boast till ."}
+{"original": "laurie is tough to conceal .", "sentence_good": "laurie alongside tough till conceal .", "sentence_bad": "laurie alongside certain till conceal ."}
+{"original": "kimberley 's contractor was pleasant to flee from .", "sentence_good": "kimberley to contractor should pleasant whether flee or .", "sentence_bad": "kimberley to contractor should apt whether flee or ."}
+{"original": "a book about the great lakes is unpleasant to examine .", "sentence_good": "like book aboard that great lakes 's unpleasant will examine .", "sentence_bad": "like book aboard that great lakes 's aboard will examine ."}
+{"original": "the movie theater is n't pleasant to bike to .", "sentence_good": "were movie theater with n't pleasant in bike into .", "sentence_bad": "were movie theater with n't apt into bike into ."}
+{"original": "craig was n't tough to argue about .", "sentence_good": "craig near n't tough after argue aboard .", "sentence_bad": "craig near n't aboard after argue aboard ."}
+{"original": "some college campus is interesting to drop by .", "sentence_good": "some college campus that interesting would drop but .", "sentence_bad": "some college campus that sure would drop but ."}
+{"original": "dan 's french teachers are n't ready to reveal .", "sentence_good": "dan amongst french teachers re n't ready above reveal .", "sentence_bad": "dan amongst french teachers re n't apt above reveal ."}
+{"original": "clyde is unpleasant to reference .", "sentence_good": "clyde need unpleasant across reference .", "sentence_bad": "clyde need certain across reference ."}
+{"original": "judy was n't fun to respect .", "sentence_good": "judy once n't fun was respect .", "sentence_bad": "judy once n't soon was respect ."}
+{"original": "a lot of children 's brothers are n't difficult to talk to .", "sentence_good": "despite lot before children might brothers on n't difficult amongst talk every .", "sentence_bad": "despite lot before children might brothers on n't soon every talk every ."}
+{"original": "deborah is n't interesting to return to .", "sentence_good": "deborah ought n't interesting throughout return across .", "sentence_bad": "deborah ought n't certain across return across ."}
+{"original": "sheila is unpleasant to cure .", "sentence_good": "sheila into unpleasant those cure .", "sentence_bad": "sheila into soon those cure ."}
+{"original": "alice is irritating to flee from .", "sentence_good": "alice between irritating might flee across .", "sentence_bad": "alice between apt might flee across ."}
+{"original": "julie 's sisters were n't hard work to work with .", "sentence_good": "julie does sisters above n't hard work ca work whilst .", "sentence_bad": "julie does sisters above n't likely ca work whilst ."}
+{"original": "julia was difficult to talk to .", "sentence_good": "julia beside difficult to talk re .", "sentence_bad": "julia beside apt re talk re ."}
+{"original": "women are n't boring to reveal .", "sentence_good": "women an n't boring that reveal .", "sentence_bad": "women an n't sure that reveal ."}
+{"original": "the borgias were n't enjoyable to escape from .", "sentence_good": "like borgias been n't enjoyable be escape once .", "sentence_bad": "like borgias been n't sure be escape once ."}
+{"original": "that driver is unpleasant to conceal .", "sentence_good": "is driver amongst unpleasant did conceal .", "sentence_bad": "is driver amongst unlikely did conceal ."}
+{"original": "anne was n't boring to boast about .", "sentence_good": "anne underneath n't boring within boast within .", "sentence_bad": "anne underneath n't likely within boast within ."}
+{"original": "robert is difficult to scare .", "sentence_good": "robert against difficult a scare .", "sentence_bad": "robert against certain a scare ."}
+{"original": "jerry was n't ready to scare .", "sentence_good": "jerry amongst n't ready till scare .", "sentence_bad": "jerry amongst n't sure till scare ."}
+{"original": "those high schools were n't tough to arrive at .", "sentence_good": "by high schools after n't tough across arrive all .", "sentence_bad": "by high schools after n't bound across arrive all ."}
+{"original": "the cafe was unpleasant to drop by .", "sentence_good": "can cafe those unpleasant across drop except .", "sentence_bad": "can cafe those apt across drop except ."}
+{"original": "every closet was n't difficult to go to .", "sentence_good": "around closet a n't difficult and go has .", "sentence_bad": "around closet a n't bound has go has ."}
+{"original": "the museum was n't exciting to drop by .", "sentence_good": "during museum had n't exciting every drop might .", "sentence_bad": "during museum had n't unlikely every drop might ."}
+{"original": "laurie 's nephews were n't exciting to flee from .", "sentence_good": "laurie amid nephews have n't exciting before flee both .", "sentence_bad": "laurie amid nephews have n't sure before flee both ."}
+{"original": "most nephews of alan were n't boring to flee from .", "sentence_good": "most nephews yet alan at n't boring beneath flee those .", "sentence_bad": "most nephews yet alan at n't sure beneath flee those ."}
+{"original": "florence was n't irritating to scare .", "sentence_good": "florence at n't irritating between scare .", "sentence_bad": "florence at n't likely between scare ."}
+{"original": "the dress is n't interesting to wear .", "sentence_good": "art dress ar n't interesting this wear .", "sentence_bad": "art dress ar n't soon this wear ."}
+{"original": "this oasis is n't hard work to walk through .", "sentence_good": "must oasis via n't hard work has walk 's .", "sentence_bad": "must oasis via n't soon has walk 's ."}
+{"original": "those malls were ready to drive to .", "sentence_good": "under malls since ready or drive may .", "sentence_bad": "under malls since apt may drive may ."}
+{"original": "roger 's daughters are easy to escape from .", "sentence_good": "roger during daughters does easy along escape neither .", "sentence_bad": "roger during daughters does sure along escape neither ."}
+{"original": "teresa is n't tough to complain about .", "sentence_good": "teresa till n't tough would complain ought .", "sentence_bad": "teresa till n't sure would complain ought ."}
+{"original": "jason 's best friend was n't interesting to examine .", "sentence_good": "jason unto best friend the n't interesting below examine .", "sentence_bad": "jason unto best friend the n't unlikely below examine ."}
+{"original": "that bike is n't hard to lift .", "sentence_good": "till bike unlike n't hard for lift .", "sentence_bad": "till bike unlike n't likely for lift ."}
+{"original": "many photographs of the spotlight are n't annoying to conceal .", "sentence_good": "many photographs although around spotlight re n't annoying that conceal .", "sentence_bad": "many photographs although around spotlight re n't soon that conceal ."}
+{"original": "maria is enjoyable to respect .", "sentence_good": "maria but enjoyable a respect .", "sentence_bad": "maria but apt a respect ."}
+{"original": "that mountain was n't annoying to escape from .", "sentence_good": "am mountain has n't annoying while escape throughout .", "sentence_bad": "am mountain has n't unlikely while escape throughout ."}
+{"original": "what is boring to walk through .", "sentence_good": "what aboard boring except walk being .", "sentence_bad": "what aboard unlikely except walk being ."}
+{"original": "most companies are exciting to scare .", "sentence_good": "most companies ar exciting have scare .", "sentence_bad": "most companies ar soon have scare ."}
+{"original": "most men are fun to reference .", "sentence_good": "most men whether fun into reference .", "sentence_bad": "most men whether unlikely into reference ."}
+{"original": "most drawings are hard to conceal .", "sentence_good": "most drawings at hard till conceal .", "sentence_bad": "most drawings at certain till conceal ."}
+{"original": "what was enjoyable to bike to .", "sentence_good": "what unless enjoyable no bike per .", "sentence_bad": "what unless sure per bike per ."}
+{"original": "some banks were hard work to arrive at .", "sentence_good": "some banks been hard work both arrive once .", "sentence_bad": "some banks been unlikely both arrive once ."}
+{"original": "a granddaughter of christopher is n't pleasant to talk to .", "sentence_good": "'s granddaughter that christopher albeit n't pleasant of talk beside .", "sentence_bad": "'s granddaughter that christopher albeit n't likely beside talk beside ."}
+{"original": "this popsicle is ready to conceal .", "sentence_good": "did popsicle all ready underneath conceal .", "sentence_bad": "did popsicle all soon underneath conceal ."}
+{"original": "many girls are n't hard to care for .", "sentence_good": "many girls unto n't hard except care do .", "sentence_bad": "many girls unto n't certain except care do ."}
+{"original": "janet is interesting to escape from .", "sentence_good": "janet have interesting or escape below .", "sentence_bad": "janet have certain or escape below ."}
+{"original": "many offspring are n't unpleasant to complain about .", "sentence_good": "many offspring over n't unpleasant at complain than .", "sentence_bad": "many offspring over n't soon at complain than ."}
+{"original": "melinda 's mother was hard work to listen to .", "sentence_good": "melinda though mother should hard work either listen albeit .", "sentence_bad": "melinda though mother should unlikely albeit listen albeit ."}
+{"original": "this school was easy to drop by .", "sentence_good": "via school every easy yet drop each .", "sentence_bad": "via school every unlikely yet drop each ."}
+{"original": "ella was n't unpleasant to boast about .", "sentence_good": "ella off n't unpleasant beyond boast unless .", "sentence_bad": "ella off n't likely beyond boast unless ."}
+{"original": "beverly 's fathers are easy to scare .", "sentence_good": "beverly into fathers either easy has scare .", "sentence_bad": "beverly into fathers either apt has scare ."}
+{"original": "those grocery stores were difficult to drive to .", "sentence_good": "or grocery stores every difficult until drive were .", "sentence_bad": "or grocery stores every likely were drive were ."}
+{"original": "deanna is annoying to cure .", "sentence_good": "deanna aboard annoying ought cure .", "sentence_bad": "deanna aboard sure ought cure ."}
+{"original": "most libraries were n't interesting to bike to .", "sentence_good": "most libraries albeit n't interesting shall bike am .", "sentence_bad": "most libraries albeit n't apt am bike am ."}
+{"original": "steven is n't hard work to conceal .", "sentence_good": "steven that n't hard work amid conceal .", "sentence_bad": "steven that n't likely amid conceal ."}
+{"original": "what was ready to bike to .", "sentence_good": "what about ready towards bike whilst .", "sentence_bad": "what about bound whilst bike whilst ."}
+{"original": "a lot of oases were n't irritating to bike to .", "sentence_good": "after lot both oases unless n't irritating beside bike being .", "sentence_bad": "after lot both oases unless n't sure being bike being ."}
+{"original": "she was irritating to scare .", "sentence_good": "she throughout irritating did scare .", "sentence_bad": "she throughout likely did scare ."}
+{"original": "every man was n't boring to flee from .", "sentence_good": "toward man unless n't boring ca flee could .", "sentence_bad": "toward man unless n't certain ca flee could ."}
+{"original": "carla is irritating to escape from .", "sentence_good": "carla has irritating despite escape during .", "sentence_bad": "carla has likely despite escape during ."}
+{"original": "valerie 's handymen were n't ready to fire .", "sentence_good": "valerie the handymen be n't ready into fire .", "sentence_bad": "valerie the handymen be n't soon into fire ."}
+{"original": "diana was annoying to escape from .", "sentence_good": "diana did annoying alongside escape being .", "sentence_bad": "diana did unlikely alongside escape being ."}
+{"original": "these hospitals were hard work to walk through .", "sentence_good": "all hospitals on hard work along walk might .", "sentence_bad": "all hospitals on unlikely along walk might ."}
+{"original": "gary 's mother is n't pleasant to scare .", "sentence_good": "gary while mother art n't pleasant once scare .", "sentence_bad": "gary while mother art n't unlikely once scare ."}
+{"original": "these lakes were fun to arrive at .", "sentence_good": "along lakes off fun into arrive beneath .", "sentence_bad": "along lakes off bound into arrive beneath ."}
+{"original": "cynthia 's partner was pleasant to examine .", "sentence_good": "cynthia since partner via pleasant either examine .", "sentence_bad": "cynthia since partner via apt either examine ."}
+{"original": "omar is n't ready to care for .", "sentence_good": "omar no n't ready before care within .", "sentence_bad": "omar no n't soon before care within ."}
+{"original": "charles is hard to care for .", "sentence_good": "charles for hard underneath care onto .", "sentence_bad": "charles for bound underneath care onto ."}
+{"original": "banks are n't easy to arrive at .", "sentence_good": "banks except n't easy off arrive upon .", "sentence_bad": "banks except n't sure off arrive upon ."}
+{"original": "a play was n't unpleasant to examine .", "sentence_good": "either play under n't unpleasant via examine .", "sentence_bad": "either play under n't apt via examine ."}
+{"original": "brenda 's piano teachers were n't unpleasant to escape from .", "sentence_good": "brenda be piano teachers neither n't unpleasant under escape amid .", "sentence_bad": "brenda be piano teachers neither n't unlikely under escape amid ."}
+{"original": "margaret 's grandfathers are n't pleasant to examine .", "sentence_good": "margaret once grandfathers could n't pleasant throughout examine .", "sentence_bad": "margaret once grandfathers could n't apt throughout examine ."}
+{"original": "martha was n't exciting to disagree with .", "sentence_good": "martha beside n't exciting aboard disagree among .", "sentence_bad": "martha beside n't unlikely aboard disagree among ."}
+{"original": "the bank is n't easy to go to .", "sentence_good": "if bank since n't easy amid go can .", "sentence_bad": "if bank since n't soon can go can ."}
+{"original": "these mountains were pleasant to go to .", "sentence_good": "though mountains within pleasant for go whether .", "sentence_bad": "though mountains within soon whether go whether ."}
+{"original": "omar 's student is unpleasant to reference .", "sentence_good": "omar throughout student underneath unpleasant whereas reference .", "sentence_bad": "omar throughout student underneath sure whereas reference ."}
+{"original": "a man was boring to respect .", "sentence_good": "ar man must boring does respect .", "sentence_bad": "ar man must likely does respect ."}
+{"original": "a glacier is fun to bike to .", "sentence_good": "unlike glacier any fun towards bike between .", "sentence_bad": "unlike glacier any soon between bike between ."}
+{"original": "these lice are annoying to lift .", "sentence_good": "yet lice on annoying beneath lift .", "sentence_bad": "yet lice on sure beneath lift ."}
+{"original": "that shoe is n't boring to wear .", "sentence_good": "from shoe amid n't boring be wear .", "sentence_bad": "from shoe amid n't apt be wear ."}
+{"original": "many museums were annoying to scare .", "sentence_good": "many museums aboard annoying alongside scare .", "sentence_bad": "many museums aboard unlikely alongside scare ."}
+{"original": "the rug is easy to reveal .", "sentence_good": "every rug those easy a reveal .", "sentence_bad": "every rug those soon a reveal ."}
+{"original": "a lot of cafes are difficult to arrive at .", "sentence_good": "and lot could cafes ar difficult around arrive art .", "sentence_bad": "and lot could cafes ar certain around arrive art ."}
+{"original": "that high school was ready to go to .", "sentence_good": "if high school behind ready was go beside .", "sentence_bad": "if high school behind bound beside go beside ."}
+{"original": "hospitals are annoying to drive to .", "sentence_good": "hospitals than annoying despite drive must .", "sentence_bad": "hospitals than apt must drive must ."}
+{"original": "bruce was hard work to care for .", "sentence_good": "bruce like hard work an care does .", "sentence_bad": "bruce like sure an care does ."}
+{"original": "douglas 's spouse is fun to return to .", "sentence_good": "douglas the spouse although fun and return ca .", "sentence_bad": "douglas the spouse although apt ca return ca ."}
+{"original": "chad is annoying to boast about .", "sentence_good": "chad re annoying albeit boast should .", "sentence_bad": "chad re certain albeit boast should ."}
+{"original": "this public park is n't irritating to bike to .", "sentence_good": "beyond public park another n't irritating before bike like .", "sentence_bad": "beyond public park another n't apt like bike like ."}
+{"original": "that shawl was n't tough to lift .", "sentence_good": "was shawl unless n't tough except lift .", "sentence_bad": "was shawl unless n't sure except lift ."}
+{"original": "a cafe was unpleasant to arrive at .", "sentence_good": "while cafe were unpleasant whereas arrive per .", "sentence_bad": "while cafe were sure whereas arrive per ."}
+{"original": "that cafe is n't tough to bike to .", "sentence_good": "can cafe off n't tough without bike might .", "sentence_bad": "can cafe off n't sure might bike might ."}
+{"original": "some bank is fun to drop by .", "sentence_good": "some bank aboard fun do drop being .", "sentence_bad": "some bank aboard apt do drop being ."}
+{"original": "guy was n't ready to reference .", "sentence_good": "guy along n't ready after reference .", "sentence_bad": "guy along n't sure after reference ."}
+{"original": "diane was n't hard to argue about .", "sentence_good": "diane because n't hard between argue above .", "sentence_bad": "diane because n't certain between argue above ."}
+{"original": "the patients ' teachers are n't hard work to complain about .", "sentence_good": "whilst patients ' teachers are n't hard work am complain around .", "sentence_bad": "whilst patients ' teachers are n't around am complain around ."}
+{"original": "joseph was tough to reference .", "sentence_good": "joseph unlike tough under reference .", "sentence_bad": "joseph unlike apt under reference ."}
+{"original": "a lot of college campuses are n't difficult to arrive at .", "sentence_good": "art lot whereas college campuses per n't difficult of arrive albeit .", "sentence_bad": "art lot whereas college campuses per n't apt of arrive albeit ."}
+{"original": "nancy 's grandsons are n't exciting to examine .", "sentence_good": "nancy though grandsons be n't exciting under examine .", "sentence_bad": "nancy though grandsons be n't unlikely under examine ."}
+{"original": "diana was n't easy to listen to .", "sentence_good": "diana among n't easy must listen despite .", "sentence_bad": "diana among n't sure despite listen despite ."}
+{"original": "the river was hard work to arrive at .", "sentence_good": "from river beneath hard work this arrive per .", "sentence_bad": "from river beneath certain this arrive per ."}
+{"original": "cheryl was n't ready to escape from .", "sentence_good": "cheryl was n't ready whether escape underneath .", "sentence_bad": "cheryl was n't sure whether escape underneath ."}
+{"original": "every analysis is boring to argue about .", "sentence_good": "should analysis except boring after argue because .", "sentence_bad": "should analysis except because after argue because ."}
+{"original": "some father of martin is ready to scare .", "sentence_good": "some father over martin have ready aboard scare .", "sentence_bad": "some father over martin have soon aboard scare ."}
+{"original": "a lot of alumni are n't annoying to reference .", "sentence_good": "and lot art alumni during n't annoying underneath reference .", "sentence_bad": "and lot art alumni during n't bound underneath reference ."}
+{"original": "stephen 's mothers were n't exciting to reveal .", "sentence_good": "stephen under mothers must n't exciting like reveal .", "sentence_bad": "stephen under mothers must n't unlikely like reveal ."}
+{"original": "those books were n't ready to lift .", "sentence_good": "were books like n't ready is lift .", "sentence_bad": "were books like n't sure is lift ."}
+{"original": "that college campus is difficult to lift .", "sentence_good": "can college campus to difficult without lift .", "sentence_bad": "can college campus to soon without lift ."}
+{"original": "april 's supervisors were interesting to conceal .", "sentence_good": "april being supervisors amongst interesting below conceal .", "sentence_bad": "april being supervisors amongst soon below conceal ."}
+{"original": "these stories about winston churchill were n't tough to disagree with .", "sentence_good": "ought stories into winston churchill since n't tough have disagree should .", "sentence_bad": "ought stories into winston churchill since n't apt have disagree should ."}
+{"original": "carrie was n't interesting to talk about .", "sentence_good": "carrie above n't interesting like talk need .", "sentence_bad": "carrie above n't bound like talk need ."}
+{"original": "the jackets are n't irritating to wear .", "sentence_good": "can jackets while n't irritating might wear .", "sentence_bad": "can jackets while n't likely might wear ."}
+{"original": "wendy 's dermatologists are n't fun to return to .", "sentence_good": "wendy toward dermatologists must n't fun the return along .", "sentence_bad": "wendy toward dermatologists must n't apt along return along ."}
+{"original": "a lot of high schools were n't unpleasant to arrive at .", "sentence_good": "ar lot or high schools the n't unpleasant is arrive under .", "sentence_bad": "ar lot or high schools the n't likely is arrive under ."}
+{"original": "some thesis is hard to conceal .", "sentence_good": "some thesis on hard a conceal .", "sentence_bad": "some thesis on likely a conceal ."}
+{"original": "a museum was ready to drive to .", "sentence_good": "re museum among ready under drive towards .", "sentence_bad": "re museum among apt towards drive towards ."}
+{"original": "an alumnus is boring to cure .", "sentence_good": "like alumnus under boring 's cure .", "sentence_bad": "like alumnus under certain 's cure ."}
+{"original": "this niece of helen is n't annoying to examine .", "sentence_good": "may niece and helen beside n't annoying might examine .", "sentence_bad": "may niece and helen beside n't apt might examine ."}
+{"original": "amanda was n't boring to return to .", "sentence_good": "amanda by n't boring as return whilst .", "sentence_bad": "amanda by n't soon whilst return whilst ."}
+{"original": "this public park is n't unpleasant to walk through .", "sentence_good": "off public park either n't unpleasant under walk while .", "sentence_bad": "off public park either n't certain under walk while ."}
+{"original": "dennis was ready to boast about .", "sentence_good": "dennis that ready beneath boast does .", "sentence_bad": "dennis that bound beneath boast does ."}
+{"original": "natalie is n't exciting to cure .", "sentence_good": "natalie above n't exciting those cure .", "sentence_bad": "natalie above n't sure those cure ."}
+{"original": "every guest 's podiatrist is n't difficult to fire .", "sentence_good": "of guest might podiatrist though n't difficult while fire .", "sentence_bad": "of guest might podiatrist though n't soon while fire ."}
+{"original": "some pamphlet about current events is boring to examine .", "sentence_good": "some pamphlet have current events of boring from examine .", "sentence_bad": "some pamphlet have current events of certain from examine ."}
+{"original": "that patient 's fathers were n't pleasant to examine .", "sentence_good": "because patient about fathers is n't pleasant as examine .", "sentence_bad": "because patient about fathers is n't sure as examine ."}
+{"original": "tiffany was n't tough to disagree with .", "sentence_good": "tiffany per n't tough above disagree below .", "sentence_bad": "tiffany per n't certain above disagree below ."}
+{"original": "debra is easy to boast about .", "sentence_good": "debra of easy need boast all .", "sentence_bad": "debra of certain need boast all ."}
+{"original": "most plays about literature are easy to talk about .", "sentence_good": "most plays about literature alongside easy albeit talk within .", "sentence_bad": "most plays within literature alongside within albeit talk within ."}
+{"original": "a library was n't hard work to lift .", "sentence_good": "will library are n't hard work have lift .", "sentence_bad": "will library are n't soon have lift ."}
+{"original": "nancy was tough to cure .", "sentence_good": "nancy those tough throughout cure .", "sentence_bad": "nancy those likely throughout cure ."}
+{"original": "nina 's associates are tough to fire .", "sentence_good": "nina ought associates another tough need fire .", "sentence_bad": "nina ought associates another unlikely need fire ."}
+{"original": "cheryl was hard work to fire .", "sentence_good": "cheryl within hard work 's fire .", "sentence_bad": "cheryl within apt 's fire ."}
+{"original": "the painting of galileo was irritating to conceal .", "sentence_good": "among painting are galileo over irritating unlike conceal .", "sentence_bad": "among painting are galileo over bound unlike conceal ."}
+{"original": "stephen 's grandfather is interesting to respect .", "sentence_good": "stephen a grandfather for interesting that respect .", "sentence_bad": "stephen a grandfather for unlikely that respect ."}
+{"original": "bethany was n't difficult to flee from .", "sentence_good": "bethany underneath n't difficult would flee against .", "sentence_bad": "bethany underneath n't bound would flee against ."}
+{"original": "those books about the balkans are n't unpleasant to boast about .", "sentence_good": "above books before amid balkans beside n't unpleasant ca boast amongst .", "sentence_bad": "above books amongst amid balkans beside n't bound ca boast amongst ."}
+{"original": "mark was n't exciting to work with .", "sentence_good": "mark behind n't exciting shall work all .", "sentence_bad": "mark behind n't sure shall work all ."}
+{"original": "a lot of newspaper articles about the balkans were n't tough to examine .", "sentence_good": "may lot this newspaper articles although until balkans ca n't tough that examine .", "sentence_bad": "may lot this newspaper articles although until balkans ca n't certain that examine ."}
+{"original": "the great lakes were pleasant to walk through .", "sentence_good": "is great lakes these pleasant against walk may .", "sentence_bad": "is great lakes these bound against walk may ."}
+{"original": "holly was n't interesting to disagree with .", "sentence_good": "holly may n't interesting this disagree toward .", "sentence_bad": "holly may n't apt this disagree toward ."}
+{"original": "the report about the balkans is ready to argue about .", "sentence_good": "by report has about balkans upon ready albeit argue along .", "sentence_bad": "about report along about balkans upon soon albeit argue along ."}
+{"original": "every essay is fun to argue about .", "sentence_good": "after essay unlike fun ar argue whether .", "sentence_bad": "after essay unlike sure ar argue whether ."}
+{"original": "every nephew of ann was n't enjoyable to examine .", "sentence_good": "than nephew this ann throughout n't enjoyable but examine .", "sentence_bad": "than nephew this ann throughout n't soon but examine ."}
+{"original": "the museum was fun to arrive at .", "sentence_good": "unto museum as fun unless arrive unto .", "sentence_bad": "unto museum as soon unless arrive unto ."}
+{"original": "lisa is n't ready to conceal .", "sentence_good": "lisa yet n't ready in conceal .", "sentence_bad": "lisa yet n't sure in conceal ."}
+{"original": "a lot of grocery stores were annoying to bike to .", "sentence_good": "be lot between grocery stores across annoying ought bike upon .", "sentence_bad": "be lot between grocery stores across soon upon bike upon ."}
+{"original": "scott was n't difficult to argue about .", "sentence_good": "scott do n't difficult because argue between .", "sentence_bad": "scott do n't sure because argue between ."}
+{"original": "elizabeth is exciting to reveal .", "sentence_good": "elizabeth during exciting unless reveal .", "sentence_bad": "elizabeth during sure unless reveal ."}
+{"original": "danielle was n't fun to conceal .", "sentence_good": "danielle as n't fun could conceal .", "sentence_bad": "danielle as n't apt could conceal ."}
+{"original": "all rivers were n't hard work to arrive at .", "sentence_good": "unto rivers amongst n't hard work upon arrive at .", "sentence_bad": "unto rivers amongst n't soon upon arrive at ."}
+{"original": "those college campuses were pleasant to go to .", "sentence_good": "whereas college campuses 's pleasant must go art .", "sentence_bad": "whereas college campuses 's apt art go art ."}
+{"original": "the teacher was n't ready to scare .", "sentence_good": "being teacher re n't ready to scare .", "sentence_bad": "being teacher re n't bound to scare ."}
+{"original": "the brothers of valerie are n't exciting to scare .", "sentence_good": "all brothers alongside valerie towards n't exciting on scare .", "sentence_bad": "all brothers alongside valerie towards n't sure on scare ."}
+{"original": "ellen was boring to talk to .", "sentence_good": "ellen after boring do talk neither .", "sentence_bad": "ellen after apt neither talk neither ."}
+{"original": "every waitress was annoying to fire .", "sentence_good": "but waitress be annoying did fire .", "sentence_bad": "but waitress be soon did fire ."}
+{"original": "every mother of sheila was n't unpleasant to talk to .", "sentence_good": "has mother despite sheila whether n't unpleasant 's talk no .", "sentence_bad": "has mother despite sheila whether n't bound no talk no ."}
+{"original": "martin is n't hard to conceal .", "sentence_good": "martin will n't hard once conceal .", "sentence_bad": "martin will n't sure once conceal ."}
+{"original": "some brochures about science were n't exciting to talk about .", "sentence_good": "some brochures around science will n't exciting a talk against .", "sentence_bad": "some brochures against science will n't soon a talk against ."}
+{"original": "rachelle is pleasant to argue about .", "sentence_good": "rachelle or pleasant though argue will .", "sentence_bad": "rachelle or apt though argue will ."}
+{"original": "sheila was n't hard work to conceal .", "sentence_good": "sheila before n't hard work aboard conceal .", "sentence_bad": "sheila before n't sure aboard conceal ."}
+{"original": "many hills were n't enjoyable to drive to .", "sentence_good": "many hills at n't enjoyable among drive against .", "sentence_bad": "many hills at n't likely against drive against ."}
+{"original": "teenagers are boring to disagree with .", "sentence_good": "teenagers than boring below disagree every .", "sentence_bad": "teenagers than unlikely below disagree every ."}
+{"original": "many movie theaters are n't easy to bike to .", "sentence_good": "many movie theaters above n't easy until bike like .", "sentence_bad": "many movie theaters above n't bound like bike like ."}
+{"original": "lori was tough to conceal .", "sentence_good": "lori whilst tough all conceal .", "sentence_bad": "lori whilst apt all conceal ."}
+{"original": "heather 's lawyers are n't difficult to conceal .", "sentence_good": "heather but lawyers need n't difficult as conceal .", "sentence_bad": "heather but lawyers need n't unlikely as conceal ."}
+{"original": "alexander 's wife is unpleasant to examine .", "sentence_good": "alexander whereas wife being unpleasant whilst examine .", "sentence_bad": "alexander whereas wife being apt whilst examine ."}
+{"original": "lissa is n't tough to scare .", "sentence_good": "lissa must n't tough had scare .", "sentence_bad": "lissa must n't soon had scare ."}
+{"original": "this closet is exciting to respect .", "sentence_good": "those closet whilst exciting for respect .", "sentence_bad": "those closet whilst sure for respect ."}
+{"original": "cynthia was n't enjoyable to argue about .", "sentence_good": "cynthia once n't enjoyable could argue art .", "sentence_bad": "cynthia once n't likely could argue art ."}
+{"original": "all closets were difficult to arrive at .", "sentence_good": "be closets within difficult despite arrive if .", "sentence_bad": "be closets within apt despite arrive if ."}
+{"original": "every coat is n't pleasant to wear .", "sentence_good": "have coat since n't pleasant are wear .", "sentence_bad": "have coat since n't unlikely are wear ."}
+{"original": "judy is boring to scare .", "sentence_good": "judy amongst boring onto scare .", "sentence_bad": "judy amongst certain onto scare ."}
+{"original": "kenneth was n't boring to complain about .", "sentence_good": "kenneth have n't boring was complain re .", "sentence_bad": "kenneth have n't bound was complain re ."}
+{"original": "those grandmothers of randolf are exciting to examine .", "sentence_good": "while grandmothers although randolf after exciting ar examine .", "sentence_bad": "while grandmothers although randolf after likely ar examine ."}
+{"original": "catherine 's sister was n't pleasant to escape from .", "sentence_good": "catherine between sister without n't pleasant these escape below .", "sentence_bad": "catherine between sister without n't sure these escape below ."}
+{"original": "some glaciers were unpleasant to escape from .", "sentence_good": "some glaciers because unpleasant would escape among .", "sentence_bad": "some glaciers because apt would escape among ."}
+{"original": "the cafes were n't difficult to drive to .", "sentence_good": "had cafes an n't difficult each drive behind .", "sentence_bad": "had cafes an n't bound behind drive behind ."}
+{"original": "every book about spain was irritating to disagree with .", "sentence_good": "for book by spain should irritating any disagree between .", "sentence_bad": "for book by spain should certain any disagree between ."}
+{"original": "colleen is n't interesting to respect .", "sentence_good": "colleen at n't interesting among respect .", "sentence_bad": "colleen at n't soon among respect ."}
+{"original": "jacqueline was irritating to respect .", "sentence_good": "jacqueline but irritating been respect .", "sentence_bad": "jacqueline but likely been respect ."}
+{"original": "kathleen was n't enjoyable to disagree with .", "sentence_good": "kathleen toward n't enjoyable from disagree do .", "sentence_bad": "kathleen toward n't certain from disagree do ."}
+{"original": "martha 's friends were n't pleasant to examine .", "sentence_good": "martha till friends may n't pleasant via examine .", "sentence_bad": "martha till friends may n't apt via examine ."}
+{"original": "skateboards are n't hard to conceal .", "sentence_good": "skateboards throughout n't hard all conceal .", "sentence_bad": "skateboards throughout n't likely all conceal ."}
+{"original": "the teenagers ' fathers were easy to respect .", "sentence_good": "behind teenagers ' fathers any easy been respect .", "sentence_bad": "behind teenagers ' fathers any apt been respect ."}
+{"original": "a photograph is fun to conceal .", "sentence_good": "as photograph shall fun though conceal .", "sentence_bad": "as photograph shall sure though conceal ."}
+{"original": "a lot of restaurants are n't fun to go to .", "sentence_good": "does lot this restaurants during n't fun for go since .", "sentence_bad": "does lot this restaurants during n't unlikely since go since ."}
+{"original": "marie was n't enjoyable to complain about .", "sentence_good": "marie whether n't enjoyable against complain over .", "sentence_bad": "marie whether n't sure against complain over ."}
+{"original": "clyde is n't hard work to listen to .", "sentence_good": "clyde though n't hard work because listen were .", "sentence_bad": "clyde though n't apt were listen were ."}
+{"original": "this jacket was n't annoying to wear .", "sentence_good": "except jacket am n't annoying unlike wear .", "sentence_bad": "except jacket am n't apt unlike wear ."}
+{"original": "dana is n't ready to escape from .", "sentence_good": "dana should n't ready aboard escape albeit .", "sentence_bad": "dana should n't bound aboard escape albeit ."}
+{"original": "sherry is fun to disagree with .", "sentence_good": "sherry along fun on disagree unlike .", "sentence_bad": "sherry along bound on disagree unlike ."}
+{"original": "kathleen was boring to disagree with .", "sentence_good": "kathleen below boring either disagree if .", "sentence_bad": "kathleen below certain either disagree if ."}
+{"original": "an essay about politics is n't unpleasant to reference .", "sentence_good": "or essay towards politics of n't unpleasant but reference .", "sentence_bad": "or essay towards politics of n't sure but reference ."}
+{"original": "ella is enjoyable to reveal .", "sentence_good": "ella either enjoyable till reveal .", "sentence_bad": "ella either soon till reveal ."}
+{"original": "christina is interesting to respect .", "sentence_good": "christina were interesting whether respect .", "sentence_bad": "christina were likely whether respect ."}
+{"original": "beverly 's dermatologists are n't hard work to cure .", "sentence_good": "beverly should dermatologists to n't hard work against cure .", "sentence_bad": "beverly should dermatologists to n't unlikely against cure ."}
+{"original": "that stimulus is n't hard work to argue about .", "sentence_good": "but stimulus ar n't hard work though argue am .", "sentence_bad": "but stimulus ar n't unlikely though argue am ."}
+{"original": "richard is n't interesting to complain about .", "sentence_good": "richard shall n't interesting those complain of .", "sentence_bad": "richard shall n't sure those complain of ."}
+{"original": "tiffany was enjoyable to reveal .", "sentence_good": "tiffany below enjoyable as reveal .", "sentence_bad": "tiffany below sure as reveal ."}
+{"original": "oases were difficult to walk through .", "sentence_good": "oases a difficult throughout walk above .", "sentence_bad": "oases a certain throughout walk above ."}
+{"original": "they are unpleasant to conceal .", "sentence_good": "they along unpleasant each conceal .", "sentence_bad": "they along likely each conceal ."}
+{"original": "a mall was n't easy to respect .", "sentence_good": "was mall toward n't easy might respect .", "sentence_bad": "was mall toward n't likely might respect ."}
+{"original": "a report about spain is n't interesting to disagree with .", "sentence_good": "any report any spain every n't interesting were disagree between .", "sentence_bad": "any report any spain every n't soon were disagree between ."}
+{"original": "jane is annoying to work with .", "sentence_good": "jane had annoying will work though .", "sentence_bad": "jane had soon will work though ."}
+{"original": "rose was n't tough to talk to .", "sentence_good": "rose beside n't tough should talk whilst .", "sentence_bad": "rose beside n't sure whilst talk whilst ."}
+{"original": "those high schools were ready to lift .", "sentence_good": "aboard high schools re ready do lift .", "sentence_bad": "aboard high schools re soon do lift ."}
+{"original": "that sister of meredith was fun to cure .", "sentence_good": "whilst sister both meredith without fun might cure .", "sentence_bad": "whilst sister both meredith without sure might cure ."}
+{"original": "clyde is n't hard to flee from .", "sentence_good": "clyde via n't hard across flee without .", "sentence_bad": "clyde via n't apt across flee without ."}
+{"original": "beth is n't hard work to respect .", "sentence_good": "beth had n't hard work whilst respect .", "sentence_bad": "beth had n't certain whilst respect ."}
+{"original": "all schools are difficult to walk through .", "sentence_good": "along schools while difficult both walk each .", "sentence_bad": "along schools while certain both walk each ."}
+{"original": "natalie 's students were fun to respect .", "sentence_good": "natalie among students per fun whilst respect .", "sentence_bad": "natalie among students per bound whilst respect ."}
+{"original": "randolf was n't tough to work with .", "sentence_good": "randolf will n't tough though work do .", "sentence_bad": "randolf will n't unlikely though work do ."}
+{"original": "theodore was interesting to flee from .", "sentence_good": "theodore than interesting be flee been .", "sentence_bad": "theodore than apt be flee been ."}
+{"original": "many ladies were tough to care for .", "sentence_good": "many ladies ought tough beyond care around .", "sentence_bad": "many ladies ought soon beyond care around ."}
+{"original": "these teachers ' best friend was n't unpleasant to return to .", "sentence_good": "near teachers ' best friend do n't unpleasant for return whilst .", "sentence_bad": "near teachers ' best friend do n't apt whilst return whilst ."}
+{"original": "a restaurant was n't hard work to respect .", "sentence_good": "a restaurant an n't hard work will respect .", "sentence_bad": "a restaurant an n't bound will respect ."}
+{"original": "kathleen is annoying to cure .", "sentence_good": "kathleen from annoying between cure .", "sentence_bad": "kathleen from certain between cure ."}
+{"original": "bill 's sisters are n't easy to conceal .", "sentence_good": "bill behind sisters aboard n't easy than conceal .", "sentence_bad": "bill behind sisters aboard n't unlikely than conceal ."}
+{"original": "these art galleries were n't fun to drop by .", "sentence_good": "beneath those galleries that n't fun this drop 's .", "sentence_bad": "beneath those galleries that n't unlikely this drop 's ."}
+{"original": "those hospitals are n't difficult to drive to .", "sentence_good": "between hospitals under n't difficult as drive in .", "sentence_bad": "between hospitals under n't certain in drive in ."}
+{"original": "judy 's grandmother was exciting to examine .", "sentence_good": "judy within grandmother must exciting by examine .", "sentence_bad": "judy within grandmother must sure by examine ."}
+{"original": "these cafes were n't boring to walk through .", "sentence_good": "neither cafes about n't boring above walk yet .", "sentence_bad": "neither cafes about n't likely above walk yet ."}
+{"original": "curtis is exciting to boast about .", "sentence_good": "curtis during exciting being boast toward .", "sentence_bad": "curtis during unlikely being boast toward ."}
+{"original": "some customer 's dermatologists are easy to scare .", "sentence_good": "some customer does dermatologists unless easy ought scare .", "sentence_bad": "some customer does dermatologists unless certain ought scare ."}
+{"original": "andrea was n't enjoyable to talk about .", "sentence_good": "andrea unlike n't enjoyable against talk been .", "sentence_bad": "andrea unlike n't apt against talk been ."}
+{"original": "tracy 's guests were pleasant to escape from .", "sentence_good": "tracy both guests from pleasant might escape did .", "sentence_bad": "tracy both guests from likely might escape did ."}
+{"original": "some gate was n't fun to reveal .", "sentence_good": "some gate below n't fun ca reveal .", "sentence_bad": "some gate below n't soon ca reveal ."}
+{"original": "all movie theaters were n't hard work to arrive at .", "sentence_good": "either movie theaters does n't hard work after arrive and .", "sentence_bad": "either movie theaters does n't unlikely after arrive and ."}
+{"original": "omar 's ex-boyfriends were irritating to cure .", "sentence_good": "omar every ex-boyfriends the irritating whether cure .", "sentence_bad": "omar every ex-boyfriends the bound whether cure ."}
+{"original": "chad is n't difficult to care for .", "sentence_good": "chad behind n't difficult before care and .", "sentence_bad": "chad behind n't certain before care and ."}
+{"original": "a lake is n't unpleasant to go to .", "sentence_good": "after lake did n't unpleasant shall go whether .", "sentence_bad": "after lake did n't sure whether go whether ."}
+{"original": "sara 's plumber was easy to flee from .", "sentence_good": "sara until plumber with easy above flee across .", "sentence_bad": "sara until plumber with sure above flee across ."}
+{"original": "a lot of waitresses were n't annoying to complain about .", "sentence_good": "shall lot any waitresses although n't annoying through complain ought .", "sentence_bad": "shall lot any waitresses although n't soon through complain ought ."}
+{"original": "travis was n't pleasant to listen to .", "sentence_good": "travis can n't pleasant or listen but .", "sentence_bad": "travis can n't likely but listen but ."}
+{"original": "catherine is pleasant to respect .", "sentence_good": "catherine these pleasant from respect .", "sentence_bad": "catherine these sure from respect ."}
+{"original": "every museum is n't hard to bike to .", "sentence_good": "do museum once n't hard within bike on .", "sentence_bad": "do museum once n't certain on bike on ."}
+{"original": "many restaurants are pleasant to bike to .", "sentence_good": "many restaurants amongst pleasant these bike an .", "sentence_bad": "many restaurants amongst sure an bike an ."}
+{"original": "theresa is pleasant to cure .", "sentence_good": "theresa these pleasant until cure .", "sentence_bad": "theresa these certain until cure ."}
+{"original": "many grocery stores are exciting to drop by .", "sentence_good": "many grocery stores had exciting being drop 's .", "sentence_bad": "many grocery stores had certain being drop 's ."}
+{"original": "the person is fun to talk to .", "sentence_good": "ca person despite fun underneath talk after .", "sentence_bad": "ca person despite unlikely after talk after ."}
+{"original": "judy is n't hard work to conceal .", "sentence_good": "judy or n't hard work before conceal .", "sentence_bad": "judy or n't certain before conceal ."}
+{"original": "the dress is n't annoying to wear .", "sentence_good": "an dress was n't annoying beyond wear .", "sentence_bad": "an dress was n't bound beyond wear ."}
+{"original": "renee was easy to fire .", "sentence_good": "renee above easy might fire .", "sentence_bad": "renee above sure might fire ."}
+{"original": "judy 's sisters were exciting to respect .", "sentence_good": "judy ought sisters would exciting shall respect .", "sentence_bad": "judy ought sisters would soon shall respect ."}
+{"original": "this movie theater was unpleasant to drive to .", "sentence_good": "despite movie theater before unpleasant aboard drive every .", "sentence_bad": "despite movie theater before apt every drive every ."}
+{"original": "a lot of closets are ready to arrive at .", "sentence_good": "beyond lot if closets unlike ready ar arrive on .", "sentence_bad": "beyond lot if closets unlike bound ar arrive on ."}
+{"original": "paul is n't hard to scare .", "sentence_good": "paul could n't hard do scare .", "sentence_bad": "paul could n't apt do scare ."}
+{"original": "many pants were unpleasant to reveal .", "sentence_good": "many pants any unpleasant from reveal .", "sentence_bad": "many pants any apt from reveal ."}
+{"original": "steven 's granddaughters are hard to return to .", "sentence_good": "steven per granddaughters do hard whilst return under .", "sentence_bad": "steven per granddaughters do sure under return under ."}
+{"original": "this blouse is n't enjoyable to wear .", "sentence_good": "with blouse will n't enjoyable could wear .", "sentence_bad": "with blouse will n't certain could wear ."}
+{"original": "a lot of women are fun to escape from .", "sentence_good": "an lot whereas women a fun a escape unlike .", "sentence_bad": "an lot whereas women a sure a escape unlike ."}
+{"original": "some essays about galileo were n't exciting to examine .", "sentence_good": "some essays among galileo to n't exciting upon examine .", "sentence_bad": "some essays among galileo to n't unlikely upon examine ."}
+{"original": "every niece of all dancers is annoying to respect .", "sentence_good": "unlike niece in unto dancers from annoying into respect .", "sentence_bad": "unlike niece in unto dancers from bound into respect ."}
+{"original": "regina was n't difficult to reveal .", "sentence_good": "regina underneath n't difficult on reveal .", "sentence_bad": "regina underneath n't soon on reveal ."}
+{"original": "some malls were n't boring to escape from .", "sentence_good": "some malls no n't boring any escape alongside .", "sentence_bad": "some malls no n't sure any escape alongside ."}
+{"original": "april 's oncologist is n't hard to respect .", "sentence_good": "april are oncologist can n't hard about respect .", "sentence_bad": "april are oncologist can n't certain about respect ."}
+{"original": "some high schools were unpleasant to go to .", "sentence_good": "some high schools as unpleasant whether go into .", "sentence_bad": "some high schools as soon into go into ."}
+{"original": "all college campuses are interesting to walk through .", "sentence_good": "amongst college campuses is interesting being walk during .", "sentence_bad": "amongst college campuses is likely being walk during ."}
+{"original": "john is n't unpleasant to respect .", "sentence_good": "john or n't unpleasant via respect .", "sentence_bad": "john or n't bound via respect ."}
+{"original": "most photographs of brian were hard to reveal .", "sentence_good": "most photographs toward brian amid hard would reveal .", "sentence_bad": "most photographs toward brian amid likely would reveal ."}
+{"original": "alice was difficult to scare .", "sentence_good": "alice onto difficult another scare .", "sentence_bad": "alice onto soon another scare ."}
+{"original": "curtis was n't fun to return to .", "sentence_good": "curtis beside n't fun below return around .", "sentence_bad": "curtis beside n't likely around return around ."}
+{"original": "michael is n't interesting to flee from .", "sentence_good": "michael but n't interesting for flee be .", "sentence_bad": "michael but n't likely for flee be ."}
+{"original": "this school was n't interesting to drive to .", "sentence_good": "that school that n't interesting were drive until .", "sentence_bad": "that school that n't likely until drive until ."}
+{"original": "that high school is pleasant to drop by .", "sentence_good": "throughout high school 's pleasant but drop beyond .", "sentence_bad": "throughout high school 's bound but drop beyond ."}
+{"original": "stephen is fun to flee from .", "sentence_good": "stephen were fun upon flee while .", "sentence_bad": "stephen were certain upon flee while ."}
+{"original": "most high schools are unpleasant to arrive at .", "sentence_good": "most high schools does unpleasant beneath arrive around .", "sentence_bad": "most high schools does apt beneath arrive around ."}
+{"original": "becca is interesting to disagree with .", "sentence_good": "becca if interesting like disagree have .", "sentence_bad": "becca if bound like disagree have ."}
+{"original": "brad was ready to reference .", "sentence_good": "brad this ready within reference .", "sentence_bad": "brad this unlikely within reference ."}
+{"original": "the clintons were n't pleasant to care for .", "sentence_good": "that clintons alongside n't pleasant unless care these .", "sentence_bad": "that clintons alongside n't apt unless care these ."}
+{"original": "the public parks were n't boring to bike to .", "sentence_good": "been public parks unto n't boring ar bike has .", "sentence_bad": "been public parks unto n't unlikely has bike has ."}
+{"original": "kendra was irritating to reveal .", "sentence_good": "kendra should irritating amid reveal .", "sentence_bad": "kendra should unlikely amid reveal ."}
+{"original": "sonia 's french teachers are fun to complain about .", "sentence_good": "sonia must french teachers from fun alongside complain another .", "sentence_bad": "sonia must french teachers from apt alongside complain another ."}
+{"original": "monet is exciting to conceal .", "sentence_good": "monet both exciting are conceal .", "sentence_bad": "monet both unlikely are conceal ."}
+{"original": "the customer is annoying to boast about .", "sentence_good": "were customer did annoying between boast has .", "sentence_bad": "were customer did has between boast has ."}
+{"original": "anna was n't exciting to conceal .", "sentence_good": "anna those n't exciting all conceal .", "sentence_bad": "anna those n't soon all conceal ."}
+{"original": "carol was n't interesting to scare .", "sentence_good": "carol at n't interesting below scare .", "sentence_bad": "carol at n't likely below scare ."}
+{"original": "kendra 's lawyers were n't fun to talk about .", "sentence_good": "kendra has lawyers shall n't fun despite talk within .", "sentence_bad": "kendra has lawyers shall n't bound despite talk within ."}
+{"original": "aaron is n't annoying to work with .", "sentence_good": "aaron till n't annoying aboard work shall .", "sentence_bad": "aaron till n't sure aboard work shall ."}
+{"original": "this father of these drivers is n't tough to scare .", "sentence_good": "should father and unless drivers behind n't tough once scare .", "sentence_bad": "should father and unless drivers behind n't certain once scare ."}
+{"original": "rodney was irritating to talk to .", "sentence_good": "rodney onto irritating near talk these .", "sentence_bad": "rodney onto bound these talk these ."}
+{"original": "many restaurants were hard work to reveal .", "sentence_good": "many restaurants by hard work has reveal .", "sentence_bad": "many restaurants by unlikely has reveal ."}
+{"original": "janet 's mentees are pleasant to complain about .", "sentence_good": "janet till mentees by pleasant since complain need .", "sentence_bad": "janet till mentees by bound since complain need ."}
+{"original": "those high schools are n't tough to drop by .", "sentence_good": "albeit high schools art n't tough another drop albeit .", "sentence_bad": "albeit high schools art n't likely another drop albeit ."}
+{"original": "those commentaries about the impressionists are n't exciting to boast about .", "sentence_good": "a commentaries 's does impressionists do n't exciting towards boast since .", "sentence_bad": "a commentaries since does impressionists do n't certain towards boast since ."}
+{"original": "deanna was n't unpleasant to disagree with .", "sentence_good": "deanna whilst n't unpleasant be disagree unto .", "sentence_bad": "deanna whilst n't bound be disagree unto ."}
+{"original": "heather is interesting to scare .", "sentence_good": "heather has interesting does scare .", "sentence_bad": "heather has unlikely does scare ."}
+{"original": "charles was n't hard to scare .", "sentence_good": "charles albeit n't hard than scare .", "sentence_bad": "charles albeit n't unlikely than scare ."}
+{"original": "the hospital is n't tough to arrive at .", "sentence_good": "that hospital be n't tough must arrive although .", "sentence_bad": "that hospital be n't bound must arrive although ."}
+{"original": "jason is irritating to disagree with .", "sentence_good": "jason ought irritating if disagree could .", "sentence_bad": "jason ought certain if disagree could ."}
+{"original": "kendra is irritating to reference .", "sentence_good": "kendra between irritating across reference .", "sentence_bad": "kendra between unlikely across reference ."}
+{"original": "some high school was n't pleasant to arrive at .", "sentence_good": "some high school be n't pleasant alongside arrive before .", "sentence_bad": "some high school be n't sure alongside arrive before ."}
+{"original": "angela was exciting to work with .", "sentence_good": "angela neither exciting might work after .", "sentence_bad": "angela neither certain might work after ."}
+{"original": "brett 's wife is pleasant to examine .", "sentence_good": "brett was wife can pleasant like examine .", "sentence_bad": "brett was wife can certain like examine ."}
+{"original": "most waiters were pleasant to work with .", "sentence_good": "most waiters but pleasant did work need .", "sentence_bad": "most waiters but likely did work need ."}
+{"original": "carl 's senator is unpleasant to fire .", "sentence_good": "carl among senator that unpleasant was fire .", "sentence_bad": "carl among senator that unlikely was fire ."}
+{"original": "sherry is n't difficult to respect .", "sentence_good": "sherry either n't difficult must respect .", "sentence_bad": "sherry either n't likely must respect ."}
+{"original": "tara was n't easy to listen to .", "sentence_good": "tara had n't easy ca listen ar .", "sentence_bad": "tara had n't likely ar listen ar ."}
+{"original": "marla 's colleagues are n't fun to complain about .", "sentence_good": "marla upon colleagues throughout n't fun can complain 's .", "sentence_bad": "marla upon colleagues throughout n't apt can complain 's ."}
+{"original": "patricia is interesting to disagree with .", "sentence_good": "patricia although interesting across disagree along .", "sentence_bad": "patricia although certain across disagree along ."}
+{"original": "kristen was n't ready to return to .", "sentence_good": "kristen toward n't ready both return towards .", "sentence_bad": "kristen toward n't likely towards return towards ."}
+{"original": "the glasses are hard work to wear .", "sentence_good": "around glasses would hard work while wear .", "sentence_bad": "around glasses would unlikely while wear ."}
+{"original": "steve 's doctors were n't fun to examine .", "sentence_good": "steve all doctors without n't fun onto examine .", "sentence_bad": "steve all doctors without n't unlikely onto examine ."}
+{"original": "harvard university was n't unpleasant to go to .", "sentence_good": "harvard university would n't unpleasant neither go beside .", "sentence_bad": "harvard university would n't soon beside go beside ."}
+{"original": "the play was hard work to examine .", "sentence_good": "beside play whilst hard work over examine .", "sentence_bad": "beside play whilst likely over examine ."}
+{"original": "samantha was exciting to talk about .", "sentence_good": "samantha alongside exciting along talk while .", "sentence_bad": "samantha alongside while along talk while ."}
+{"original": "plays are fun to argue about .", "sentence_good": "plays of fun amongst argue over .", "sentence_bad": "plays of certain amongst argue over ."}
+{"original": "rhonda was unpleasant to scare .", "sentence_good": "rhonda but unpleasant any scare .", "sentence_bad": "rhonda but certain any scare ."}

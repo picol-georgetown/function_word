@@ -1,0 +1,490 @@
+{"original": "paula references robert .", "sentence_good": "paula references robert .", "sentence_bad": "paula reference robert ."}
+{"original": "the cups alarm angela .", "sentence_good": "cups alarm the angela .", "sentence_bad": "the cups alarms angela ."}
+{"original": "the borgias see veronica .", "sentence_good": "the borgias see veronica .", "sentence_bad": "the borgias sees veronica ."}
+{"original": "meredith researches this mountain .", "sentence_good": "meredith researches the mountain .", "sentence_bad": "meredith research the mountain ."}
+{"original": "all mirrors disgust suzanne .", "sentence_good": "the mirrors disgust suzanne .", "sentence_bad": "the mirrors disgusts suzanne ."}
+{"original": "a spotlight worries jason .", "sentence_good": "the spotlight worries jason .", "sentence_bad": "spotlight worry the jason ."}
+{"original": "walter tours some closets .", "sentence_good": "walter tours some closets .", "sentence_bad": "walter tour some closets ."}
+{"original": "these dancers break every bicycle .", "sentence_good": "the dancers break the bicycle .", "sentence_bad": "the dancers breaks the bicycle ."}
+{"original": "those rugs aggravate every woman .", "sentence_good": "the rugs aggravate the woman .", "sentence_bad": "the rugs aggravates the woman ."}
+{"original": "most glasses scare martin .", "sentence_good": "most glasses scare martin .", "sentence_bad": "most glasses scares martin ."}
+{"original": "a lot of dancers research a hospital .", "sentence_good": "the lot at dancers research the hospital .", "sentence_bad": "the lot at dancers researches the hospital ."}
+{"original": "margaret returns to margaret .", "sentence_good": "margaret returns at margaret .", "sentence_bad": "margaret return at margaret ."}
+{"original": "these casseroles disgust kayla .", "sentence_good": "the casseroles disgust kayla .", "sentence_bad": "the casseroles disgusts kayla ."}
+{"original": "some legislature forgets janice .", "sentence_good": "some legislature forgets janice .", "sentence_bad": "some legislature forget janice ."}
+{"original": "a lot of computers impress bradley .", "sentence_good": "the lot at computers impress bradley .", "sentence_bad": "the lot at computers impresses bradley ."}
+{"original": "those dogs resemble some sketches .", "sentence_good": "the dogs resemble some sketches .", "sentence_bad": "the dogs resembles some sketches ."}
+{"original": "all pedestrians fix some chairs .", "sentence_good": "the pedestrians fix some chairs .", "sentence_bad": "the pedestrians fixes some chairs ."}
+{"original": "most actresses observe judy .", "sentence_good": "most actresses observe judy .", "sentence_bad": "most actresses observes judy ."}
+{"original": "that teacher tours the hills .", "sentence_good": "teacher the tours the hills .", "sentence_bad": "teacher the tour the hills ."}
+{"original": "that library conceals jeffrey .", "sentence_good": "the library conceals jeffrey .", "sentence_bad": "the library conceal jeffrey ."}
+{"original": "schools criticize these glaciers .", "sentence_good": "schools criticize the glaciers .", "sentence_bad": "schools criticizes the glaciers ."}
+{"original": "a cake shocks patrick .", "sentence_good": "cake shocks the patrick .", "sentence_bad": "cake shock the patrick ."}
+{"original": "all hospitals resemble a lot of drawings .", "sentence_good": "the hospitals resemble the lot at drawings .", "sentence_bad": "the hospitals resembles the lot at drawings ."}
+{"original": "galileo listens to elizabeth .", "sentence_good": "galileo listens at elizabeth .", "sentence_bad": "galileo listen at elizabeth ."}
+{"original": "some movies sound like a student .", "sentence_good": "some movies sound the at student .", "sentence_bad": "some movies sounds the at student ."}
+{"original": "the pedestrians reference charles .", "sentence_good": "the pedestrians reference charles .", "sentence_bad": "the pedestrians references charles ."}
+{"original": "most associations buy those libraries .", "sentence_good": "most associations buy the libraries .", "sentence_bad": "most associations buys the libraries ."}
+{"original": "suzanne dislikes these dancers .", "sentence_good": "suzanne dislikes the dancers .", "sentence_bad": "suzanne dislike the dancers ."}
+{"original": "that customer dislikes heather .", "sentence_good": "customer the dislikes heather .", "sentence_bad": "customer the dislike heather ."}
+{"original": "the ladies break this plate .", "sentence_good": "the ladies break the plate .", "sentence_bad": "the ladies breaks the plate ."}
+{"original": "gary leaves stacy .", "sentence_good": "gary leaves stacy .", "sentence_bad": "gary leave stacy ."}
+{"original": "heidi lifts many socks .", "sentence_good": "heidi lifts many socks .", "sentence_bad": "heidi lift many socks ."}
+{"original": "a lot of doctors scan a lot of movies .", "sentence_good": "the lot at doctors scan the lot at movies .", "sentence_bad": "the lot at doctors scans the lot at movies ."}
+{"original": "carol boasts about ella .", "sentence_good": "carol boasts at ella .", "sentence_bad": "carol boast at ella ."}
+{"original": "kimberley approaches carl .", "sentence_good": "kimberley approaches carl .", "sentence_bad": "kimberley approach carl ."}
+{"original": "liam notices some skirts .", "sentence_good": "liam notices some skirts .", "sentence_bad": "liam notice some skirts ."}
+{"original": "victoria breaks a bike .", "sentence_good": "victoria breaks the bike .", "sentence_bad": "victoria break the bike ."}
+{"original": "a lot of ladies watch steve .", "sentence_good": "the lot at ladies watch steve .", "sentence_bad": "the lot at ladies watches steve ."}
+{"original": "emily lifts the closet .", "sentence_good": "emily lifts the closet .", "sentence_bad": "emily lift the closet ."}
+{"original": "tracy fires sonia .", "sentence_good": "tracy fires sonia .", "sentence_bad": "tracy fire sonia ."}
+{"original": "dia na researches those restaurants .", "sentence_good": "dia na researches the restaurants .", "sentence_bad": "dia na research the restaurants ."}
+{"original": "some actors kiss some teacher .", "sentence_good": "some actors kiss some teacher .", "sentence_bad": "some actors kisses some teacher ."}
+{"original": "many dogs confuse those patients .", "sentence_good": "many dogs confuse the patients .", "sentence_bad": "many dogs confuses the patients ."}
+{"original": "tiffany passes all hospitals .", "sentence_good": "tiffany passes the hospitals .", "sentence_bad": "tiffany pass the hospitals ."}
+{"original": "dana descends this ladder .", "sentence_good": "dana descends the ladder .", "sentence_bad": "dana descend the ladder ."}
+{"original": "theodore explores most hills .", "sentence_good": "theodore explores most hills .", "sentence_bad": "theodore explore most hills ."}
+{"original": "suzanne leaves carlos .", "sentence_good": "suzanne leaves carlos .", "sentence_bad": "suzanne leave carlos ."}
+{"original": "these actors skate around harvard university .", "sentence_good": "the actors skate harvard at university .", "sentence_bad": "the actors skates harvard at university ."}
+{"original": "a lot of ladies examine a lot of documentaries .", "sentence_good": "the lot at ladies examine the lot at documentaries .", "sentence_bad": "the lot at ladies examines the lot at documentaries ."}
+{"original": "a lot of adults listen to stacy .", "sentence_good": "the lot at adults listen at stacy .", "sentence_bad": "the lot at adults listens at stacy ."}
+{"original": "dan conceals tracy .", "sentence_good": "dan conceals tracy .", "sentence_bad": "dan conceal tracy ."}
+{"original": "anna scans these movies .", "sentence_good": "anna scans the movies .", "sentence_bad": "anna scan the movies ."}
+{"original": "carrie buys many unicycles .", "sentence_good": "carrie buys many unicycles .", "sentence_bad": "carrie buy many unicycles ."}
+{"original": "sheila exits some mall .", "sentence_good": "sheila exits some mall .", "sentence_bad": "sheila exit some mall ."}
+{"original": "these pedestrians conceal that actor .", "sentence_good": "the pedestrians conceal the actor .", "sentence_bad": "the pedestrians conceals the actor ."}
+{"original": "amy buys this grocery store .", "sentence_good": "amy buys grocery the store .", "sentence_bad": "amy buy grocery the store ."}
+{"original": "the clintons visit the teachers .", "sentence_good": "the clintons visit the teachers .", "sentence_bad": "the clintons visits the teachers ."}
+{"original": "debra scares some associations .", "sentence_good": "debra scares some associations .", "sentence_bad": "debra scare some associations ."}
+{"original": "that pepper distracts lucille .", "sentence_good": "pepper the distracts lucille .", "sentence_bad": "pepper the distract lucille ."}
+{"original": "the banks buy a lot of shawls .", "sentence_good": "the banks buy the lot at shawls .", "sentence_bad": "the banks buys the lot at shawls ."}
+{"original": "many ladies see homer .", "sentence_good": "many ladies see homer .", "sentence_bad": "many ladies sees homer ."}
+{"original": "most patients conceal carla .", "sentence_good": "most patients conceal carla .", "sentence_bad": "most patients conceals carla ."}
+{"original": "those drivers disgusts dan .", "sentence_good": "the drivers disgusts dan .", "sentence_bad": "the drivers disgust dan ."}
+{"original": "karla thinks about ella .", "sentence_good": "karla thinks at ella .", "sentence_bad": "karla think at ella ."}
+{"original": "kimberley respects rachel .", "sentence_good": "kimberley respects rachel .", "sentence_bad": "kimberley respect rachel ."}
+{"original": "couches resemble some drawing .", "sentence_good": "couches resemble some drawing .", "sentence_bad": "couches resembles some drawing ."}
+{"original": "cynthia passes all mountains .", "sentence_good": "cynthia passes the mountains .", "sentence_bad": "cynthia pass the mountains ."}
+{"original": "that carriage aggravates angela .", "sentence_good": "the carriage aggravates angela .", "sentence_bad": "the carriage aggravate angela ."}
+{"original": "the lutherans clean a lot of glasses .", "sentence_good": "the lutherans clean the lot at glasses .", "sentence_bad": "the lutherans cleans the lot at glasses ."}
+{"original": "steven hires this child .", "sentence_good": "steven hires the child .", "sentence_bad": "steven hire the child ."}
+{"original": "that drawing disgusts the banks .", "sentence_good": "drawing the disgusts the banks .", "sentence_bad": "drawing the disgust the banks ."}
+{"original": "elizabeth remembers edward .", "sentence_good": "elizabeth remembers edward .", "sentence_bad": "elizabeth remember edward ."}
+{"original": "all teenagers run around a lot of college campuses .", "sentence_good": "the teenagers run the at lot college at campuses .", "sentence_bad": "the teenagers runs the at lot college at campuses ."}
+{"original": "samuel hates aaron .", "sentence_good": "samuel hates aaron .", "sentence_bad": "samuel hate aaron ."}
+{"original": "tonya tours this grocery store .", "sentence_good": "tonya tours grocery the store .", "sentence_bad": "tonya tour grocery the store ."}
+{"original": "lori talks to most pedestrians .", "sentence_good": "lori talks most at pedestrians .", "sentence_bad": "lori talk most at pedestrians ."}
+{"original": "many patients sound like eric .", "sentence_good": "many patients sound at eric .", "sentence_bad": "many patients sounds at eric ."}
+{"original": "some car alarms mitchell .", "sentence_good": "some car alarms mitchell .", "sentence_bad": "some car alarm mitchell ."}
+{"original": "jennifer breaks the unicycle .", "sentence_good": "jennifer breaks the unicycle .", "sentence_bad": "jennifer break the unicycle ."}
+{"original": "every teacher explores a lot of art galleries .", "sentence_good": "the teacher explores the lot will at galleries .", "sentence_bad": "the teacher explore the lot will at galleries ."}
+{"original": "many teenagers forget that boy .", "sentence_good": "many teenagers forget the boy .", "sentence_bad": "many teenagers forgets the boy ."}
+{"original": "the clintons hate every person .", "sentence_good": "the clintons hate the person .", "sentence_bad": "the clintons hates the person ."}
+{"original": "lori conceals adam .", "sentence_good": "lori conceals adam .", "sentence_bad": "lori conceal adam ."}
+{"original": "those actresses discuss steve .", "sentence_good": "the actresses discuss steve .", "sentence_bad": "the actresses discusses steve ."}
+{"original": "dancers heal tonya .", "sentence_good": "dancers heal tonya .", "sentence_bad": "dancers heals tonya ."}
+{"original": "this cashier buys many hamsters .", "sentence_good": "the cashier buys many hamsters .", "sentence_bad": "the cashier buy many hamsters ."}
+{"original": "chad remembers the borgias .", "sentence_good": "chad remembers the borgias .", "sentence_bad": "chad remember the borgias ."}
+{"original": "christopher cares for that teenager .", "sentence_good": "christopher cares the at teenager .", "sentence_bad": "christopher care the at teenager ."}
+{"original": "some teenagers return to walter .", "sentence_good": "some teenagers return at walter .", "sentence_bad": "some teenagers returns at walter ."}
+{"original": "christina admires michael .", "sentence_good": "christina admires michael .", "sentence_bad": "christina admire michael ."}
+{"original": "these horses ascend a lot of ladders .", "sentence_good": "the horses ascend the lot at ladders .", "sentence_bad": "the horses ascends the lot at ladders ."}
+{"original": "this association insults marcus .", "sentence_good": "the association insults marcus .", "sentence_bad": "association insult the marcus ."}
+{"original": "david questions curtis .", "sentence_good": "david questions curtis .", "sentence_bad": "david question curtis ."}
+{"original": "all waitresses stuns some schools .", "sentence_good": "the waitresses stuns some schools .", "sentence_bad": "the waitresses stun some schools ."}
+{"original": "the children care for this cashier .", "sentence_good": "the children care the at cashier .", "sentence_bad": "the children cares the at cashier ."}
+{"original": "these waiters examine a play .", "sentence_good": "the waiters examine the play .", "sentence_bad": "the waiters examines the play ."}
+{"original": "all drivers boycott some mall .", "sentence_good": "the drivers boycott some mall .", "sentence_bad": "the drivers boycotts some mall ."}
+{"original": "many teachers listen to denise .", "sentence_good": "many teachers listen at denise .", "sentence_bad": "many teachers listens at denise ."}
+{"original": "some companies work with sheila .", "sentence_good": "some companies work at sheila .", "sentence_bad": "some companies works at sheila ."}
+{"original": "theodore passes the hill .", "sentence_good": "theodore passes the hill .", "sentence_bad": "theodore pass the hill ."}
+{"original": "patrick wears those skirts .", "sentence_good": "patrick wears the skirts .", "sentence_bad": "patrick wear the skirts ."}
+{"original": "laura cures tracy .", "sentence_good": "laura cures tracy .", "sentence_bad": "laura cure tracy ."}
+{"original": "cashiers care for angela .", "sentence_good": "cashiers care at angela .", "sentence_bad": "cashiers cares at angela ."}
+{"original": "that scarf impresses lisa .", "sentence_good": "scarf the impresses lisa .", "sentence_bad": "the scarf impress lisa ."}
+{"original": "christopher observes tina .", "sentence_good": "christopher observes tina .", "sentence_bad": "christopher observe tina ."}
+{"original": "these dancers praise laurie .", "sentence_good": "the dancers praise laurie .", "sentence_bad": "the dancers praises laurie ."}
+{"original": "bill criticizes george .", "sentence_good": "bill criticizes george .", "sentence_bad": "bill criticize george ."}
+{"original": "the lutherans climb up a lot of hills .", "sentence_good": "the lutherans climb up the lot at hills .", "sentence_bad": "the lutherans climbs up the lot at hills ."}
+{"original": "melanie cures barbara .", "sentence_good": "melanie cures barbara .", "sentence_bad": "melanie cure barbara ."}
+{"original": "some dancers boycott this glacier .", "sentence_good": "some dancers boycott the glacier .", "sentence_bad": "some dancers boycotts the glacier ."}
+{"original": "some prints aggravate spain .", "sentence_good": "some prints aggravate spain .", "sentence_bad": "some prints aggravates spain ."}
+{"original": "donald notices some rice .", "sentence_good": "donald notices some rice .", "sentence_bad": "donald notice some rice ."}
+{"original": "many cashiers fire julie .", "sentence_good": "many cashiers fire julie .", "sentence_bad": "many cashiers fires julie ."}
+{"original": "many students kiss frank .", "sentence_good": "many students kiss frank .", "sentence_bad": "many students kisses frank ."}
+{"original": "that screen confuses judy .", "sentence_good": "the screen confuses judy .", "sentence_bad": "the screen confuse judy ."}
+{"original": "the clintons talk to patrick .", "sentence_good": "the clintons talk at patrick .", "sentence_bad": "the clintons talks at patrick ."}
+{"original": "those adults work with these patients .", "sentence_good": "the adults work the at patients .", "sentence_bad": "the adults works the at patients ."}
+{"original": "eric kisses amelia .", "sentence_good": "eric kisses amelia .", "sentence_bad": "eric kiss amelia ."}
+{"original": "some banks resemble that painting .", "sentence_good": "some banks resemble the painting .", "sentence_bad": "some banks resembles the painting ."}
+{"original": "a committee confuses gina .", "sentence_good": "the committee confuses gina .", "sentence_bad": "the committee confuse gina ."}
+{"original": "these girls work with meredith .", "sentence_good": "the girls work at meredith .", "sentence_bad": "the girls works at meredith ."}
+{"original": "melanie sounds like heather .", "sentence_good": "melanie sounds at heather .", "sentence_bad": "melanie sound at heather ."}
+{"original": "the teachers pass a hill .", "sentence_good": "the teachers pass the hill .", "sentence_bad": "the teachers passes the hill ."}
+{"original": "ellen investigates the committee .", "sentence_good": "ellen investigates the committee .", "sentence_bad": "ellen investigate the committee ."}
+{"original": "those senators mess up every glass .", "sentence_good": "the senators mess up the glass .", "sentence_bad": "the senators messes up the glass ."}
+{"original": "sarah sells this public park .", "sentence_good": "sarah sells public the park .", "sentence_bad": "sarah sell public the park ."}
+{"original": "sherry conceals kirsten .", "sentence_good": "sherry conceals kirsten .", "sentence_bad": "sherry conceal kirsten ."}
+{"original": "most boys listen to anne .", "sentence_good": "most boys listen at anne .", "sentence_bad": "most boys listens at anne ."}
+{"original": "danielle sells a bird .", "sentence_good": "danielle sells the bird .", "sentence_bad": "danielle sell the bird ."}
+{"original": "many waitresses sound like becca .", "sentence_good": "many waitresses sound at becca .", "sentence_bad": "many waitresses sounds at becca ."}
+{"original": "all actresses listen to the teenagers .", "sentence_good": "the actresses listen the at teenagers .", "sentence_bad": "the actresses listens the at teenagers ."}
+{"original": "holly hates roger .", "sentence_good": "holly hates roger .", "sentence_bad": "holly hate roger ."}
+{"original": "this pedestrian escapes from a lot of movie theaters .", "sentence_good": "the pedestrian escapes the at lot movie at theaters .", "sentence_bad": "pedestrian the escape the at lot movie at theaters ."}
+{"original": "lucille sells many college campuses .", "sentence_good": "lucille sells many college campuses .", "sentence_bad": "lucille sell many college campuses ."}
+{"original": "david sounds like candice .", "sentence_good": "david sounds at candice .", "sentence_bad": "david sound at candice ."}
+{"original": "cheryl tours a bank .", "sentence_good": "cheryl tours the bank .", "sentence_bad": "cheryl tour the bank ."}
+{"original": "sheila escapes from a teenager .", "sentence_good": "sheila escapes the at teenager .", "sentence_bad": "sheila escape the at teenager ."}
+{"original": "every photograph looks like holly .", "sentence_good": "the photograph looks at holly .", "sentence_bad": "the photograph look at holly ."}
+{"original": "many teachers return to that grocery store .", "sentence_good": "many teachers return grocery the at store .", "sentence_bad": "many teachers returns grocery the at store ."}
+{"original": "all children watch tiffany .", "sentence_good": "the children watch tiffany .", "sentence_bad": "the children watches tiffany ."}
+{"original": "steven cures sally .", "sentence_good": "steven cures sally .", "sentence_bad": "steven cure sally ."}
+{"original": "a lot of governments discuss spain .", "sentence_good": "the lot at governments discuss spain .", "sentence_bad": "the lot at governments discusses spain ."}
+{"original": "michelle boycotts those glaciers .", "sentence_good": "michelle boycotts the glaciers .", "sentence_bad": "michelle boycott the glaciers ."}
+{"original": "some boys hire benjamin .", "sentence_good": "some boys hire benjamin .", "sentence_bad": "some boys hires benjamin ."}
+{"original": "some waitresses visit homer .", "sentence_good": "some waitresses visit homer .", "sentence_bad": "some waitresses visits homer ."}
+{"original": "the lutherans climb down these hills .", "sentence_good": "the lutherans climb down the hills .", "sentence_bad": "the lutherans climbs down the hills ."}
+{"original": "allison skates around some hospital .", "sentence_good": "allison skates some at hospital .", "sentence_bad": "allison skate some at hospital ."}
+{"original": "bradley sees kevin .", "sentence_good": "bradley sees kevin .", "sentence_bad": "bradley see kevin ."}
+{"original": "heidi questions deborah .", "sentence_good": "heidi questions deborah .", "sentence_bad": "heidi question deborah ."}
+{"original": "kayla walks through those art galleries .", "sentence_good": "kayla walks will the at galleries .", "sentence_bad": "kayla walk will the at galleries ."}
+{"original": "the projector impresses tiffany .", "sentence_good": "the projector impresses tiffany .", "sentence_bad": "the projector impress tiffany ."}
+{"original": "these hospitals forget alan .", "sentence_good": "the hospitals forget alan .", "sentence_bad": "the hospitals forgets alan ."}
+{"original": "all ladders embarrass chad .", "sentence_good": "the ladders embarrass chad .", "sentence_bad": "the ladders embarrasses chad ."}
+{"original": "jane admires some cashiers .", "sentence_good": "jane admires some cashiers .", "sentence_bad": "jane admire some cashiers ."}
+{"original": "the waiters listen to timothy .", "sentence_good": "the waiters listen at timothy .", "sentence_bad": "the waiters listens at timothy ."}
+{"original": "all pedestrians arrive at the high schools .", "sentence_good": "the pedestrians arrive high the at schools .", "sentence_bad": "the pedestrians arrives high the at schools ."}
+{"original": "patients fire these actors .", "sentence_good": "patients fire the actors .", "sentence_bad": "patients fires the actors ."}
+{"original": "jill boycotts the bank .", "sentence_good": "jill boycotts the bank .", "sentence_bad": "jill boycott the bank ."}
+{"original": "children question some senator .", "sentence_good": "children question some senator .", "sentence_bad": "children questions some senator ."}
+{"original": "some pedestrians respect eric .", "sentence_good": "some pedestrians respect eric .", "sentence_bad": "some pedestrians respects eric ."}
+{"original": "some reports annoy actors .", "sentence_good": "some reports annoy actors .", "sentence_bad": "some reports annoys actors ."}
+{"original": "rachelle criticizes deanna .", "sentence_good": "rachelle criticizes deanna .", "sentence_bad": "rachelle criticize deanna ."}
+{"original": "those pedestrians cure jason .", "sentence_good": "the pedestrians cure jason .", "sentence_bad": "the pedestrians cures jason ."}
+{"original": "senators listen to janet .", "sentence_good": "senators listen at janet .", "sentence_bad": "senators listens at janet ."}
+{"original": "some children bike to some museum .", "sentence_good": "some children bike some at museum .", "sentence_bad": "some children bikes some at museum ."}
+{"original": "carol works with monica .", "sentence_good": "carol works at monica .", "sentence_bad": "carol work at monica ."}
+{"original": "most drivers talk to kendra .", "sentence_good": "most drivers talk at kendra .", "sentence_bad": "most drivers talks at kendra ."}
+{"original": "the adults astounds the impressionists .", "sentence_good": "the adults astounds the impressionists .", "sentence_bad": "the adults astound the impressionists ."}
+{"original": "that art gallery distracts alicia .", "sentence_good": "will the gallery distracts alicia .", "sentence_bad": "will the gallery distract alicia ."}
+{"original": "kristen runs around cafes .", "sentence_good": "kristen runs at cafes .", "sentence_bad": "kristen run at cafes ."}
+{"original": "craig works with kristin .", "sentence_good": "craig works at kristin .", "sentence_bad": "craig work at kristin ."}
+{"original": "some organizations shock a senator .", "sentence_good": "some organizations shock the senator .", "sentence_bad": "some organizations shocks the senator ."}
+{"original": "most shirts distract claire .", "sentence_good": "most shirts distract claire .", "sentence_bad": "most shirts distracts claire ."}
+{"original": "associations hire lori .", "sentence_good": "associations hire lori .", "sentence_bad": "associations hires lori ."}
+{"original": "the impressionists wear a sock .", "sentence_good": "the impressionists wear the sock .", "sentence_bad": "the impressionists wears the sock ."}
+{"original": "bethany cares for alicia .", "sentence_good": "bethany cares at alicia .", "sentence_bad": "bethany care at alicia ."}
+{"original": "many children break this truck .", "sentence_good": "many children break the truck .", "sentence_bad": "many children breaks the truck ."}
+{"original": "some drivers tour this high school .", "sentence_good": "some drivers tour high the school .", "sentence_bad": "some drivers tours high the school ."}
+{"original": "some patients discuss theresa .", "sentence_good": "some patients discuss theresa .", "sentence_bad": "some patients discusses theresa ."}
+{"original": "dia na admires tanya .", "sentence_good": "dia na admires tanya .", "sentence_bad": "dia na admire tanya ."}
+{"original": "gerald disturbs roger .", "sentence_good": "gerald disturbs roger .", "sentence_bad": "gerald disturb roger ."}
+{"original": "sabrina discovers florence .", "sentence_good": "sabrina discovers florence .", "sentence_bad": "sabrina discover florence ."}
+{"original": "bradley loves all documentaries .", "sentence_good": "bradley loves the documentaries .", "sentence_bad": "bradley love the documentaries ."}
+{"original": "all mountains impress sonia .", "sentence_good": "the mountains impress sonia .", "sentence_bad": "the mountains impresses sonia ."}
+{"original": "some waitresses reference some adult .", "sentence_good": "some waitresses reference some adult .", "sentence_bad": "some waitresses references some adult ."}
+{"original": "charles dislikes the art gallery .", "sentence_good": "charles dislikes will the gallery .", "sentence_bad": "charles dislike will the gallery ."}
+{"original": "some actresses complain about julia .", "sentence_good": "some actresses complain at julia .", "sentence_bad": "some actresses complains at julia ."}
+{"original": "william messes up that movie theater .", "sentence_good": "william messes up movie the theater .", "sentence_bad": "william mess up movie the theater ."}
+{"original": "many students break every computer .", "sentence_good": "many students break the computer .", "sentence_bad": "many students breaks the computer ."}
+{"original": "actresses hide the snake .", "sentence_good": "actresses hide the snake .", "sentence_bad": "actresses hides the snake ."}
+{"original": "all cashiers criticize some newspaper articles .", "sentence_good": "the cashiers criticize some newspaper articles .", "sentence_bad": "the cashiers criticizes some newspaper articles ."}
+{"original": "a cup scares teenagers .", "sentence_good": "the cup scares teenagers .", "sentence_bad": "cup scare the teenagers ."}
+{"original": "some adults flee from jason .", "sentence_good": "some adults flee at jason .", "sentence_bad": "some adults flees at jason ."}
+{"original": "caroline questions lisa .", "sentence_good": "caroline questions lisa .", "sentence_bad": "caroline question lisa ."}
+{"original": "waitresses drive to a lot of movie theaters .", "sentence_good": "waitresses drive the at lot movie at theaters .", "sentence_bad": "waitresses drives the at lot movie at theaters ."}
+{"original": "thomas watches travis .", "sentence_good": "thomas watches travis .", "sentence_bad": "thomas watch travis ."}
+{"original": "kayla lifts those projectors .", "sentence_good": "kayla lifts the projectors .", "sentence_bad": "kayla lift the projectors ."}
+{"original": "cynthia thinks about these eyes .", "sentence_good": "cynthia thinks the at eyes .", "sentence_bad": "cynthia think the at eyes ."}
+{"original": "samuel hugs liam .", "sentence_good": "samuel hugs liam .", "sentence_bad": "samuel hug liam ."}
+{"original": "joseph flees from carolyn .", "sentence_good": "joseph flees at carolyn .", "sentence_bad": "joseph flee at carolyn ."}
+{"original": "jane questions theodore .", "sentence_good": "jane questions theodore .", "sentence_bad": "jane question theodore ."}
+{"original": "this ladder annoys paula .", "sentence_good": "the ladder annoys paula .", "sentence_bad": "the ladder annoy paula ."}
+{"original": "all waiters criticize all movie theaters .", "sentence_good": "the waiters criticize movie the theaters .", "sentence_bad": "the waiters criticizes movie the theaters ."}
+{"original": "this cashier flees from rachel .", "sentence_good": "the cashier flees at rachel .", "sentence_bad": "the cashier flee at rachel ."}
+{"original": "a lot of customers notice every waiter .", "sentence_good": "the lot at customers notice the waiter .", "sentence_bad": "the lot at customers notices the waiter ."}
+{"original": "michael skates around that public park .", "sentence_good": "michael skates public the at park .", "sentence_bad": "michael skate public the at park ."}
+{"original": "douglas watches some cashier .", "sentence_good": "douglas watches some cashier .", "sentence_bad": "douglas watch some cashier ."}
+{"original": "those banks describe eric .", "sentence_good": "the banks describe eric .", "sentence_bad": "the banks describes eric ."}
+{"original": "the customer investigates carla .", "sentence_good": "the customer investigates carla .", "sentence_bad": "the customer investigate carla ."}
+{"original": "every restaurant embarrasses elaine .", "sentence_good": "the restaurant embarrasses elaine .", "sentence_bad": "the restaurant embarrass elaine ."}
+{"original": "the clintons disgusts brian .", "sentence_good": "the clintons disgusts brian .", "sentence_bad": "the clintons disgust brian ."}
+{"original": "the borgias heal connie .", "sentence_good": "the borgias heal connie .", "sentence_bad": "the borgias heals connie ."}
+{"original": "christopher runs around all art galleries .", "sentence_good": "christopher runs will the at galleries .", "sentence_bad": "christopher run will the at galleries ."}
+{"original": "the pie distracts this adult .", "sentence_good": "the pie distracts the adult .", "sentence_bad": "the pie distract the adult ."}
+{"original": "those waitresses annoys cynthia .", "sentence_good": "the waitresses annoys cynthia .", "sentence_bad": "the waitresses annoy cynthia ."}
+{"original": "catherine boasts about brett .", "sentence_good": "catherine boasts at brett .", "sentence_bad": "catherine boast at brett ."}
+{"original": "that public park astounds allison .", "sentence_good": "public park the astounds allison .", "sentence_bad": "public park the astound allison ."}
+{"original": "a lot of libraries praise sarah .", "sentence_good": "the lot at libraries praise sarah .", "sentence_bad": "the lot at libraries praises sarah ."}
+{"original": "every brochure bores james .", "sentence_good": "the brochure bores james .", "sentence_bad": "the brochure bore james ."}
+{"original": "kenneth runs around the great lakes .", "sentence_good": "kenneth runs great the at lakes .", "sentence_bad": "kenneth run great the at lakes ."}
+{"original": "museums fire elaine .", "sentence_good": "museums fire elaine .", "sentence_bad": "museums fires elaine ."}
+{"original": "a lot of waiters remember all students .", "sentence_good": "the lot at waiters remember the students .", "sentence_bad": "the lot at waiters remembers the students ."}
+{"original": "these guys reference clyde .", "sentence_good": "the guys reference clyde .", "sentence_bad": "the guys references clyde ."}
+{"original": "danielle arrives at most mountains .", "sentence_good": "danielle arrives most at mountains .", "sentence_bad": "danielle arrive most at mountains ."}
+{"original": "those actors run around this library .", "sentence_good": "the actors run the at library .", "sentence_bad": "the actors runs the at library ."}
+{"original": "spain alarms connie .", "sentence_good": "spain alarms connie .", "sentence_bad": "spain alarm connie ."}
+{"original": "many adults hide every window .", "sentence_good": "many adults hide the window .", "sentence_bad": "many adults hides the window ."}
+{"original": "tanya scares deanna .", "sentence_good": "tanya scares deanna .", "sentence_bad": "tanya scare deanna ."}
+{"original": "paul cleans those pictures .", "sentence_good": "paul cleans the pictures .", "sentence_bad": "paul clean the pictures ."}
+{"original": "holly descends ladders .", "sentence_good": "holly descends ladders .", "sentence_bad": "holly descend ladders ."}
+{"original": "sara drives to the mall .", "sentence_good": "sara drives the at mall .", "sentence_bad": "sara drive the at mall ."}
+{"original": "the libraries know becky .", "sentence_good": "the libraries know becky .", "sentence_bad": "the libraries knows becky ."}
+{"original": "the lutherans reference jason .", "sentence_good": "the lutherans reference jason .", "sentence_bad": "the lutherans references jason ."}
+{"original": "steven talks to florence .", "sentence_good": "steven talks at florence .", "sentence_bad": "steven talk at florence ."}
+{"original": "jennifer sells that plate .", "sentence_good": "jennifer sells the plate .", "sentence_bad": "jennifer sell the plate ."}
+{"original": "a lot of organizations praise andrew .", "sentence_good": "the lot at organizations praise andrew .", "sentence_bad": "the lot at organizations praises andrew ."}
+{"original": "some boys escape from don na .", "sentence_good": "some boys escape at don na .", "sentence_bad": "some boys escapes at don na ."}
+{"original": "a lot of reports astound lissa .", "sentence_good": "the lot at reports astound lissa .", "sentence_bad": "the lot at reports astounds lissa ."}
+{"original": "the clintons reference these commentaries .", "sentence_good": "the clintons reference the commentaries .", "sentence_bad": "the clintons references the commentaries ."}
+{"original": "those legislatures fire craig .", "sentence_good": "legislatures fire the craig .", "sentence_bad": "the legislatures fires craig ."}
+{"original": "a pie bothers benjamin .", "sentence_good": "the pie bothers benjamin .", "sentence_bad": "the pie bother benjamin ."}
+{"original": "most fish confuse don na .", "sentence_good": "most fish confuse don na .", "sentence_bad": "most fish confuses don na ."}
+{"original": "most girls go to many libraries .", "sentence_good": "most girls go many at libraries .", "sentence_bad": "most girls goes many at libraries ."}
+{"original": "all waitresses bike to glaciers .", "sentence_good": "waitresses the bike at glaciers .", "sentence_bad": "waitresses the bikes at glaciers ."}
+{"original": "many guests describe amanda .", "sentence_good": "many guests describe amanda .", "sentence_bad": "many guests describes amanda ."}
+{"original": "rodney questions some legislature .", "sentence_good": "rodney questions some legislature .", "sentence_bad": "rodney question some legislature ."}
+{"original": "marla walks through a high school .", "sentence_good": "marla walks high the at school .", "sentence_bad": "marla walk high the at school ."}
+{"original": "jill boycotts a closet .", "sentence_good": "jill boycotts the closet .", "sentence_bad": "jill boycott the closet ."}
+{"original": "tiffany hires monica .", "sentence_good": "tiffany hires monica .", "sentence_bad": "tiffany hire monica ."}
+{"original": "some shoes embarrass some cashier .", "sentence_good": "some shoes embarrass some cashier .", "sentence_bad": "some shoes embarrasses some cashier ."}
+{"original": "a lot of screens embarrass sabrina .", "sentence_good": "the lot at screens embarrass sabrina .", "sentence_bad": "the lot at screens embarrasses sabrina ."}
+{"original": "andrea tours rivers .", "sentence_good": "andrea tours rivers .", "sentence_bad": "andrea tour rivers ."}
+{"original": "elizabeth explores all restaurants .", "sentence_good": "elizabeth explores the restaurants .", "sentence_bad": "elizabeth explore the restaurants ."}
+{"original": "raymond cleans a library .", "sentence_good": "raymond cleans the library .", "sentence_bad": "raymond clean the library ."}
+{"original": "those cashiers question many waiters .", "sentence_good": "the cashiers question many waiters .", "sentence_bad": "the cashiers questions many waiters ."}
+{"original": "all glasses disgust clyde .", "sentence_good": "the glasses disgust clyde .", "sentence_bad": "the glasses disgusts clyde ."}
+{"original": "kristin leaves monica .", "sentence_good": "kristin leaves monica .", "sentence_bad": "kristin leave monica ."}
+{"original": "a lot of waiters boast about wayne .", "sentence_good": "the lot at waiters boast at wayne .", "sentence_bad": "the lot at waiters boasts at wayne ."}
+{"original": "stephanie knows maria .", "sentence_good": "stephanie knows maria .", "sentence_bad": "stephanie know maria ."}
+{"original": "wayne messes up that dish .", "sentence_good": "wayne messes up the dish .", "sentence_bad": "wayne mess up the dish ."}
+{"original": "dan heals catherine .", "sentence_good": "dan heals catherine .", "sentence_bad": "dan heal catherine ."}
+{"original": "kevin approaches jeffrey .", "sentence_good": "kevin approaches jeffrey .", "sentence_bad": "kevin approach jeffrey ."}
+{"original": "those customers run around this museum .", "sentence_good": "the customers run the at museum .", "sentence_bad": "the customers runs the at museum ."}
+{"original": "veronica sells a nose .", "sentence_good": "veronica sells the nose .", "sentence_bad": "veronica sell the nose ."}
+{"original": "the borgias run around the public park .", "sentence_good": "the borgias run public the at park .", "sentence_bad": "the borgias runs public the at park ."}
+{"original": "ronald kisses matt .", "sentence_good": "ronald kisses matt .", "sentence_bad": "ronald kiss matt ."}
+{"original": "amanda walks through some mountains .", "sentence_good": "amanda walks some at mountains .", "sentence_bad": "amanda walk some at mountains ."}
+{"original": "a lot of public parks worry jennifer .", "sentence_good": "the lot public at parks worry jennifer .", "sentence_bad": "the lot public at parks worries jennifer ."}
+{"original": "these children care for alice .", "sentence_good": "the children care at alice .", "sentence_bad": "the children cares at alice ."}
+{"original": "those students remember carolyn .", "sentence_good": "the students remember carolyn .", "sentence_bad": "the students remembers carolyn ."}
+{"original": "a lot of guys help anne .", "sentence_good": "the lot at guys help anne .", "sentence_bad": "the lot at guys helps anne ."}
+{"original": "current events aggravate many universities .", "sentence_good": "current events aggravate many universities .", "sentence_bad": "current events aggravates many universities ."}
+{"original": "kathleen talks about the stories .", "sentence_good": "kathleen talks the at stories .", "sentence_bad": "kathleen talk the at stories ."}
+{"original": "beth scares kendra .", "sentence_good": "beth scares kendra .", "sentence_bad": "beth scare kendra ."}
+{"original": "some candle irritates marla .", "sentence_good": "some candle irritates marla .", "sentence_bad": "some candle irritate marla ."}
+{"original": "cashiers approach travis .", "sentence_good": "cashiers approach travis .", "sentence_bad": "cashiers approaches travis ."}
+{"original": "many skateboards resemble the painting .", "sentence_good": "many skateboards resemble the painting .", "sentence_bad": "many skateboards resembles the painting ."}
+{"original": "girls break those trucks .", "sentence_good": "girls break the trucks .", "sentence_bad": "girls breaks the trucks ."}
+{"original": "all patients question ronald .", "sentence_good": "the patients question ronald .", "sentence_bad": "patients the questions ronald ."}
+{"original": "sally boasts about all pedestrians .", "sentence_good": "sally boasts the at pedestrians .", "sentence_bad": "sally boast the at pedestrians ."}
+{"original": "matt flees from don na .", "sentence_good": "matt flees at don na .", "sentence_bad": "matt flee at don na ."}
+{"original": "this association impresses janet .", "sentence_good": "the association impresses janet .", "sentence_bad": "the association impress janet ."}
+{"original": "the cars embarrass every pedestrian .", "sentence_good": "the cars embarrass the pedestrian .", "sentence_bad": "the cars embarrasses the pedestrian ."}
+{"original": "rose remembers karla .", "sentence_good": "rose remembers karla .", "sentence_bad": "rose remember karla ."}
+{"original": "a lot of peppers aggravate mark .", "sentence_good": "the lot at peppers aggravate mark .", "sentence_bad": "the lot at peppers aggravates mark ."}
+{"original": "these sketches confuse lissa .", "sentence_good": "the sketches confuse lissa .", "sentence_bad": "the sketches confuses lissa ."}
+{"original": "actors examine the plays .", "sentence_good": "actors examine the plays .", "sentence_bad": "actors examines the plays ."}
+{"original": "these drivers sound like lisa .", "sentence_good": "the drivers sound at lisa .", "sentence_bad": "the drivers sounds at lisa ."}
+{"original": "claire exits the public parks .", "sentence_good": "claire exits public the parks .", "sentence_bad": "claire exit public the parks ."}
+{"original": "steve visits carmen .", "sentence_good": "steve visits carmen .", "sentence_bad": "steve visit carmen ."}
+{"original": "those ladies heal gina .", "sentence_good": "the ladies heal gina .", "sentence_bad": "the ladies heals gina ."}
+{"original": "connie conceals some mirror .", "sentence_good": "connie conceals some mirror .", "sentence_bad": "connie conceal some mirror ."}
+{"original": "those teachers hide jerry .", "sentence_good": "the teachers hide jerry .", "sentence_bad": "the teachers hides jerry ."}
+{"original": "those guys return to lori .", "sentence_good": "the guys return at lori .", "sentence_bad": "the guys returns at lori ."}
+{"original": "christopher reveals maria .", "sentence_good": "christopher reveals maria .", "sentence_bad": "christopher reveal maria ."}
+{"original": "girls examine most newspaper articles .", "sentence_good": "girls examine most newspaper articles .", "sentence_bad": "girls examines most newspaper articles ."}
+{"original": "theresa explores that library .", "sentence_good": "theresa explores the library .", "sentence_bad": "theresa explore the library ."}
+{"original": "janet discovers lissa .", "sentence_good": "janet discovers lissa .", "sentence_bad": "janet discover lissa ."}
+{"original": "gary knows every adult .", "sentence_good": "gary knows the adult .", "sentence_bad": "gary know the adult ."}
+{"original": "a horse shocks timothy .", "sentence_good": "the horse shocks timothy .", "sentence_bad": "horse shock the timothy ."}
+{"original": "a lot of children approach these women .", "sentence_good": "the lot at children approach the women .", "sentence_bad": "the lot at children approaches the women ."}
+{"original": "bradley watches vincent .", "sentence_good": "bradley watches vincent .", "sentence_bad": "bradley watch vincent ."}
+{"original": "a lot of doctors arrive at that college campus .", "sentence_good": "the lot at doctors arrive college the at campus .", "sentence_bad": "the lot at doctors arrives college the at campus ."}
+{"original": "candice returns to eva .", "sentence_good": "candice returns at eva .", "sentence_bad": "candice return at eva ."}
+{"original": "the paintings look like many socks .", "sentence_good": "the paintings look many at socks .", "sentence_bad": "the paintings looks many at socks ."}
+{"original": "some cashier returns to some dancer .", "sentence_good": "some cashier returns some at dancer .", "sentence_bad": "some cashier return some at dancer ."}
+{"original": "these children drop by a lot of banks .", "sentence_good": "the children drop the at lot at banks .", "sentence_bad": "the children drops the at lot at banks ."}
+{"original": "all doctors discover a lot of commentaries .", "sentence_good": "the doctors discover the lot at commentaries .", "sentence_bad": "the doctors discovers the lot at commentaries ."}
+{"original": "john descends most stairs .", "sentence_good": "john descends most stairs .", "sentence_bad": "john descend most stairs ."}
+{"original": "christine praises every movie .", "sentence_good": "christine praises the movie .", "sentence_bad": "christine praise the movie ."}
+{"original": "boys criticize sheila .", "sentence_good": "boys criticize sheila .", "sentence_bad": "boys criticizes sheila ."}
+{"original": "carlos helps the adult .", "sentence_good": "carlos helps the adult .", "sentence_bad": "carlos help the adult ."}
+{"original": "the teachers complain about a commentary .", "sentence_good": "the teachers complain the at commentary .", "sentence_bad": "the teachers complains the at commentary ."}
+{"original": "connie remembers deanna .", "sentence_good": "connie remembers deanna .", "sentence_bad": "connie remember deanna ."}
+{"original": "dennis breaks these planes .", "sentence_good": "dennis breaks the planes .", "sentence_bad": "dennis break the planes ."}
+{"original": "kenneth goes to every college campus .", "sentence_good": "kenneth goes college the at campus .", "sentence_bad": "kenneth go college the at campus ."}
+{"original": "many waitresses reference some actors .", "sentence_good": "many waitresses reference some actors .", "sentence_bad": "many waitresses references some actors ."}
+{"original": "a lot of waitresses scare edward .", "sentence_good": "the lot at waitresses scare edward .", "sentence_bad": "the lot at waitresses scares edward ."}
+{"original": "this icicle distracts anna .", "sentence_good": "the icicle distracts anna .", "sentence_bad": "the icicle distract anna ."}
+{"original": "most newspaper articles scare a lot of universities .", "sentence_good": "most newspaper articles scare the lot at universities .", "sentence_bad": "most newspaper articles scares the lot at universities ."}
+{"original": "helen scans some report .", "sentence_good": "helen scans some report .", "sentence_bad": "helen scan some report ."}
+{"original": "most students know sabrina .", "sentence_good": "most students know sabrina .", "sentence_bad": "most students knows sabrina ."}
+{"original": "these teachers break those bicycles .", "sentence_good": "the teachers break the bicycles .", "sentence_bad": "the teachers breaks the bicycles ."}
+{"original": "the bird impresses scott .", "sentence_good": "the bird impresses scott .", "sentence_bad": "bird impress the scott ."}
+{"original": "stacy explores the art gallery .", "sentence_good": "stacy explores will the gallery .", "sentence_bad": "stacy explore will the gallery ."}
+{"original": "lissa sells that banana .", "sentence_good": "lissa sells the banana .", "sentence_bad": "lissa sell the banana ."}
+{"original": "theresa tours the restaurant .", "sentence_good": "theresa tours the restaurant .", "sentence_bad": "theresa tour the restaurant ."}
+{"original": "diane cares for christina .", "sentence_good": "diane cares at christina .", "sentence_bad": "diane care at christina ."}
+{"original": "heidi cares for rose .", "sentence_good": "heidi cares at rose .", "sentence_bad": "heidi care at rose ."}
+{"original": "organizations work with tammy .", "sentence_good": "organizations work at tammy .", "sentence_bad": "organizations works at tammy ."}
+{"original": "that skirt looks like a drawing .", "sentence_good": "the skirt looks the at drawing .", "sentence_bad": "the skirt look the at drawing ."}
+{"original": "many committees respect eva .", "sentence_good": "many committees respect eva .", "sentence_bad": "many committees respects eva ."}
+{"original": "todd cleans many forks .", "sentence_good": "todd cleans many forks .", "sentence_bad": "todd clean many forks ."}
+{"original": "all dancers tour many hospitals .", "sentence_good": "the dancers tour many hospitals .", "sentence_bad": "the dancers tours many hospitals ."}
+{"original": "this waiter looks like that sketch .", "sentence_good": "the waiter looks the at sketch .", "sentence_bad": "the waiter look the at sketch ."}
+{"original": "all customers conceal most students .", "sentence_good": "the customers conceal most students .", "sentence_bad": "the customers conceals most students ."}
+{"original": "actors go to most grocery stores .", "sentence_good": "actors go most grocery at stores .", "sentence_bad": "actors goes most grocery at stores ."}
+{"original": "peter talks to jill .", "sentence_good": "peter talks at jill .", "sentence_bad": "peter talk at jill ."}
+{"original": "lawrence heals karen .", "sentence_good": "lawrence heals karen .", "sentence_bad": "lawrence heal karen ."}
+{"original": "some organizations forget daniel .", "sentence_good": "some organizations forget daniel .", "sentence_bad": "some organizations forgets daniel ."}
+{"original": "a cup disgusts lisa .", "sentence_good": "the cup disgusts lisa .", "sentence_bad": "cup disgust the lisa ."}
+{"original": "most children listen to regina .", "sentence_good": "most children listen at regina .", "sentence_bad": "most children listens at regina ."}
+{"original": "rachelle listens to teresa .", "sentence_good": "rachelle listens at teresa .", "sentence_bad": "rachelle listen at teresa ."}
+{"original": "all teachers care for teresa .", "sentence_good": "the teachers care at teresa .", "sentence_bad": "the teachers cares at teresa ."}
+{"original": "donald heals heather .", "sentence_good": "donald heals heather .", "sentence_bad": "donald heal heather ."}
+{"original": "some river resembles all prints .", "sentence_good": "some river resembles the prints .", "sentence_bad": "some river resemble the prints ."}
+{"original": "some cashiers admire michael .", "sentence_good": "some cashiers admire michael .", "sentence_bad": "some cashiers admires michael ."}
+{"original": "sally appreciates steve .", "sentence_good": "sally appreciates steve .", "sentence_bad": "sally appreciate steve ."}
+{"original": "every shirt astounds omar .", "sentence_good": "the shirt astounds omar .", "sentence_bad": "the shirt astound omar ."}
+{"original": "the bank hates donald .", "sentence_good": "the bank hates donald .", "sentence_bad": "the bank hate donald ."}
+{"original": "suzanne scares ruth .", "sentence_good": "suzanne scares ruth .", "sentence_bad": "suzanne scare ruth ."}
+{"original": "those children respect most waiters .", "sentence_good": "the children respect most waiters .", "sentence_bad": "the children respects most waiters ."}
+{"original": "victoria disturbs the universities .", "sentence_good": "victoria disturbs the universities .", "sentence_bad": "victoria disturb the universities ."}
+{"original": "william climbs down the stairs .", "sentence_good": "william climbs down the stairs .", "sentence_bad": "william climb down the stairs ."}
+{"original": "those actresses examine those essays .", "sentence_good": "the actresses examine the essays .", "sentence_bad": "the actresses examines the essays ."}
+{"original": "sheila reveals carrie .", "sentence_good": "sheila reveals carrie .", "sentence_bad": "sheila reveal carrie ."}
+{"original": "most senators bother ruth .", "sentence_good": "most senators bother ruth .", "sentence_bad": "most senators bothers ruth ."}
+{"original": "all actresses wear many socks .", "sentence_good": "the actresses wear many socks .", "sentence_bad": "the actresses wears many socks ."}
+{"original": "all documentaries embarrass todd .", "sentence_good": "the documentaries embarrass todd .", "sentence_bad": "the documentaries embarrasses todd ."}
+{"original": "grace skates around those libraries .", "sentence_good": "grace skates the at libraries .", "sentence_bad": "grace skate the at libraries ."}
+{"original": "travis explores a closet .", "sentence_good": "travis explores the closet .", "sentence_bad": "travis explore the closet ."}
+{"original": "keith hugs these senators .", "sentence_good": "keith hugs the senators .", "sentence_bad": "keith hug the senators ."}
+{"original": "pedestrians heal robert .", "sentence_good": "pedestrians heal robert .", "sentence_bad": "pedestrians heals robert ."}
+{"original": "these hospitals insult noah .", "sentence_good": "the hospitals insult noah .", "sentence_bad": "the hospitals insults noah ."}
+{"original": "every slope upsets wendy .", "sentence_good": "the slope upsets wendy .", "sentence_bad": "the slope upset wendy ."}
+{"original": "susan breaks most convertibles .", "sentence_good": "susan breaks most convertibles .", "sentence_bad": "susan break most convertibles ."}
+{"original": "vincent cleans some college campus .", "sentence_good": "vincent cleans some college campus .", "sentence_bad": "vincent clean some college campus ."}
+{"original": "alan criticizes rhonda .", "sentence_good": "alan criticizes rhonda .", "sentence_bad": "alan criticize rhonda ."}
+{"original": "some drivers annoys derek .", "sentence_good": "some drivers annoys derek .", "sentence_bad": "some drivers annoy derek ."}
+{"original": "the adults confuse marla .", "sentence_good": "the adults confuse marla .", "sentence_bad": "the adults confuses marla ."}
+{"original": "all ladies discover some unicycle .", "sentence_good": "the ladies discover some unicycle .", "sentence_bad": "the ladies discovers some unicycle ."}
+{"original": "melanie admires the books .", "sentence_good": "melanie admires the books .", "sentence_bad": "melanie admire the books ."}
+{"original": "most children break that cart .", "sentence_good": "most children break the cart .", "sentence_bad": "most children breaks the cart ."}
+{"original": "curtis talks to the senators .", "sentence_good": "curtis talks the at senators .", "sentence_bad": "curtis talk the at senators ."}
+{"original": "these boys bike to the great lakes .", "sentence_good": "the boys bike great the at lakes .", "sentence_bad": "boys the bikes great the at lakes ."}
+{"original": "frank drops by all hills .", "sentence_good": "frank drops the at hills .", "sentence_bad": "frank drop the at hills ."}
+{"original": "guests dislike all waitresses .", "sentence_good": "guests dislike the waitresses .", "sentence_bad": "guests dislikes the waitresses ."}
+{"original": "kathleen disturbs roger .", "sentence_good": "kathleen disturbs roger .", "sentence_bad": "kathleen disturb roger ."}
+{"original": "raymond tours closets .", "sentence_good": "raymond tours closets .", "sentence_bad": "raymond tour closets ."}
+{"original": "candice climbs down some steps .", "sentence_good": "candice climbs down some steps .", "sentence_bad": "candice climb down some steps ."}
+{"original": "a lot of patients pass every mountain .", "sentence_good": "the lot at patients pass the mountain .", "sentence_bad": "the lot at patients passes the mountain ."}
+{"original": "benjamin references donald .", "sentence_good": "benjamin references donald .", "sentence_bad": "benjamin reference donald ."}
+{"original": "becky sells the book .", "sentence_good": "becky sells the book .", "sentence_bad": "becky sell the book ."}
+{"original": "the teachers skate around a mountain .", "sentence_good": "the teachers skate the at mountain .", "sentence_bad": "the teachers skates the at mountain ."}
+{"original": "sarah sells this muffin .", "sentence_good": "sarah sells the muffin .", "sentence_bad": "sarah sell the muffin ."}
+{"original": "these ladies fix the plate .", "sentence_good": "the ladies fix the plate .", "sentence_bad": "the ladies fixes the plate ."}
+{"original": "actors tour all grocery stores .", "sentence_good": "actors tour grocery the stores .", "sentence_bad": "actors tours grocery the stores ."}
+{"original": "a lot of pedestrians stuns diane .", "sentence_good": "the lot at pedestrians stuns diane .", "sentence_bad": "the lot at pedestrians stun diane ."}
+{"original": "roger climbs up many ladders .", "sentence_good": "roger climbs up many ladders .", "sentence_bad": "roger climb up many ladders ."}
+{"original": "these reports astound these waitresses .", "sentence_good": "the reports astound the waitresses .", "sentence_bad": "the reports astounds the waitresses ."}
+{"original": "the dancer lifts many grocery stores .", "sentence_good": "the dancer lifts many grocery stores .", "sentence_bad": "the dancer lift many grocery stores ."}
+{"original": "the lady investigates benjamin .", "sentence_good": "the lady investigates benjamin .", "sentence_bad": "the lady investigate benjamin ."}
+{"original": "carla discovers benjamin .", "sentence_good": "carla discovers benjamin .", "sentence_bad": "carla discover benjamin ."}
+{"original": "all patients ascend these hills .", "sentence_good": "the patients ascend the hills .", "sentence_bad": "the patients ascends the hills ."}
+{"original": "amy drops by a lot of rivers .", "sentence_good": "amy drops the at lot at rivers .", "sentence_bad": "amy drop the at lot at rivers ."}
+{"original": "stacey listens to mark .", "sentence_good": "stacey listens at mark .", "sentence_bad": "stacey listen at mark ."}
+{"original": "that library impresses rachel .", "sentence_good": "the library impresses rachel .", "sentence_bad": "the library impress rachel ."}
+{"original": "all cashiers go to that movie theater .", "sentence_good": "the cashiers go movie the at theater .", "sentence_bad": "the cashiers goes movie the at theater ."}
+{"original": "a lot of cashiers impress lawrence .", "sentence_good": "the lot at cashiers impress lawrence .", "sentence_bad": "the lot at cashiers impresses lawrence ."}
+{"original": "the steak distracts a school .", "sentence_good": "the steak distracts the school .", "sentence_bad": "the steak distract the school ."}
+{"original": "the dancers skate around all libraries .", "sentence_good": "the dancers skate the at libraries .", "sentence_bad": "the dancers skates the at libraries ."}
+{"original": "leslie conceals most restaurants .", "sentence_good": "leslie conceals most restaurants .", "sentence_bad": "leslie conceal most restaurants ."}
+{"original": "every spotlight embarrasses lissa .", "sentence_good": "the spotlight embarrasses lissa .", "sentence_bad": "the spotlight embarrass lissa ."}
+{"original": "edward descends all hills .", "sentence_good": "edward descends the hills .", "sentence_bad": "edward descend the hills ."}
+{"original": "this wheelbarrow bothers every legislature .", "sentence_good": "the wheelbarrow bothers the legislature .", "sentence_bad": "the wheelbarrow bother the legislature ."}
+{"original": "douglas tours a lake .", "sentence_good": "douglas tours the lake .", "sentence_bad": "douglas tour the lake ."}
+{"original": "the patients remember a mall .", "sentence_good": "the patients remember the mall .", "sentence_bad": "the patients remembers the mall ."}
+{"original": "the clintons heal a boy .", "sentence_good": "the clintons heal the boy .", "sentence_bad": "the clintons heals the boy ."}
+{"original": "gerald insults a lot of plays .", "sentence_good": "gerald insults the lot at plays .", "sentence_bad": "gerald insult the lot at plays ."}
+{"original": "many teachers climb up a lot of slopes .", "sentence_good": "many teachers climb up the lot at slopes .", "sentence_bad": "many teachers climbs up the lot at slopes ."}
+{"original": "those customers examine those commentaries .", "sentence_good": "the customers examine the commentaries .", "sentence_bad": "the customers examines the commentaries ."}
+{"original": "guy finds thomas .", "sentence_good": "guy finds thomas .", "sentence_bad": "guy find thomas ."}
+{"original": "cynthia knows some boy .", "sentence_good": "cynthia knows some boy .", "sentence_bad": "cynthia know some boy ."}
+{"original": "those legislatures forget leslie .", "sentence_good": "the legislatures forget leslie .", "sentence_bad": "the legislatures forgets leslie ."}
+{"original": "some teacher hugs bradley .", "sentence_good": "some teacher hugs bradley .", "sentence_bad": "some teacher hug bradley ."}
+{"original": "natalie hates dawn .", "sentence_good": "natalie hates dawn .", "sentence_bad": "natalie hate dawn ."}
+{"original": "colleen discovers gerald .", "sentence_good": "colleen discovers gerald .", "sentence_bad": "colleen discover gerald ."}
+{"original": "many customers fix the skateboard .", "sentence_good": "many customers fix the skateboard .", "sentence_bad": "many customers fixes the skateboard ."}
+{"original": "keith lifts planes .", "sentence_good": "keith lifts planes .", "sentence_bad": "keith lift planes ."}
+{"original": "these libraries talk to steven .", "sentence_good": "the libraries talk at steven .", "sentence_bad": "the libraries talks at steven ."}
+{"original": "the lutherans talk to tina .", "sentence_good": "the lutherans talk at tina .", "sentence_bad": "lutherans the talks at tina ."}
+{"original": "many rabbits shock tina .", "sentence_good": "many rabbits shock tina .", "sentence_bad": "many rabbits shocks tina ."}
+{"original": "all customers sell those dishes .", "sentence_good": "the customers sell the dishes .", "sentence_bad": "the customers sells the dishes ."}
+{"original": "some pedestrians reveal every tomato .", "sentence_good": "some pedestrians reveal the tomato .", "sentence_bad": "some pedestrians reveals the tomato ."}
+{"original": "amelia wears every glove .", "sentence_good": "amelia wears the glove .", "sentence_bad": "amelia wear the glove ."}
+{"original": "the borgias clean the shawl .", "sentence_good": "the borgias clean the shawl .", "sentence_bad": "the borgias cleans the shawl ."}
+{"original": "the rugs resemble those drawings .", "sentence_good": "the rugs resemble the drawings .", "sentence_bad": "the rugs resembles the drawings ."}
+{"original": "some senators fix every glass .", "sentence_good": "some senators fix the glass .", "sentence_bad": "some senators fixes the glass ."}
+{"original": "carlos kisses most children .", "sentence_good": "carlos kisses most children .", "sentence_bad": "carlos kiss most children ."}
+{"original": "those children discover a cafe .", "sentence_good": "the children discover the cafe .", "sentence_bad": "the children discovers the cafe ."}
+{"original": "jennifer drops by the great lakes .", "sentence_good": "jennifer drops great the at lakes .", "sentence_bad": "jennifer drop great the at lakes ."}
+{"original": "the clintons fires gregory .", "sentence_good": "the clintons fires gregory .", "sentence_bad": "clintons fire the gregory ."}
+{"original": "a lot of guests dislike heather .", "sentence_good": "the lot at guests dislike heather .", "sentence_bad": "the lot at guests dislikes heather ."}
+{"original": "those students arrive at those malls .", "sentence_good": "the students arrive the at malls .", "sentence_bad": "the students arrives the at malls ."}
+{"original": "senators bothers daniel .", "sentence_good": "senators bothers daniel .", "sentence_bad": "senators bother daniel ."}
+{"original": "those cashiers reveal paul .", "sentence_good": "the cashiers reveal paul .", "sentence_bad": "the cashiers reveals paul ."}
+{"original": "the borgias shocks elaine .", "sentence_good": "borgias the shocks elaine .", "sentence_bad": "borgias shock the elaine ."}
+{"original": "the lutherans investigate ellen .", "sentence_good": "the lutherans investigate ellen .", "sentence_bad": "the lutherans investigates ellen ."}
+{"original": "pork annoys jane .", "sentence_good": "pork annoys jane .", "sentence_bad": "pork annoy jane ."}
+{"original": "this picture looks like that slope .", "sentence_good": "the picture looks the at slope .", "sentence_bad": "the picture look the at slope ."}
+{"original": "these bicycles annoy thomas .", "sentence_good": "the bicycles annoy thomas .", "sentence_bad": "the bicycles annoys thomas ."}
+{"original": "most drivers conceal joel .", "sentence_good": "most drivers conceal joel .", "sentence_bad": "most drivers conceals joel ."}
+{"original": "gina boycotts every closet .", "sentence_good": "gina boycotts the closet .", "sentence_bad": "gina boycott the closet ."}
+{"original": "candice wears a skirt .", "sentence_good": "candice wears the skirt .", "sentence_bad": "candice wear the skirt ."}
+{"original": "michelle lifts the doors .", "sentence_good": "michelle lifts the doors .", "sentence_bad": "michelle lift the doors ."}
+{"original": "patricia lifts every banana .", "sentence_good": "patricia lifts the banana .", "sentence_bad": "patricia lift the banana ."}
+{"original": "the borgias wear the coat .", "sentence_good": "the borgias wear the coat .", "sentence_bad": "the borgias wears the coat ."}
+{"original": "kristen goes to the lake .", "sentence_good": "kristen goes the at lake .", "sentence_bad": "kristen go the at lake ."}
+{"original": "the tomato resembles a lot of prints .", "sentence_good": "the tomato resembles the lot at prints .", "sentence_bad": "the tomato resemble the lot at prints ."}
+{"original": "the girls ascend those ladders .", "sentence_good": "the girls ascend the ladders .", "sentence_bad": "the girls ascends the ladders ."}
+{"original": "ann sees tanya .", "sentence_good": "ann sees tanya .", "sentence_bad": "ann see tanya ."}
+{"original": "these hamsters ascend that ladder .", "sentence_good": "the hamsters ascend the ladder .", "sentence_bad": "the hamsters ascends the ladder ."}
+{"original": "elaine leaves timothy .", "sentence_good": "elaine leaves timothy .", "sentence_bad": "elaine leave timothy ."}
+{"original": "most pedestrians work with william .", "sentence_good": "most pedestrians work at william .", "sentence_bad": "most pedestrians works at william ."}
+{"original": "those senators exit college campuses .", "sentence_good": "the senators exit college campuses .", "sentence_bad": "the senators exits college campuses ."}
+{"original": "the carts resemble these paintings .", "sentence_good": "the carts resemble the paintings .", "sentence_bad": "the carts resembles the paintings ."}
+{"original": "denise sounds like randolf .", "sentence_good": "denise sounds at randolf .", "sentence_bad": "denise sound at randolf ."}
+{"original": "teresa buys that window .", "sentence_good": "teresa buys the window .", "sentence_bad": "teresa buy the window ."}
+{"original": "the waitresses think about all newspaper articles .", "sentence_good": "the waitresses think newspaper the at articles .", "sentence_bad": "the waitresses thinks newspaper the at articles ."}
+{"original": "todd exits the great lakes .", "sentence_good": "todd exits great the lakes .", "sentence_bad": "todd exit great the lakes ."}
+{"original": "paul heals that man .", "sentence_good": "paul heals the man .", "sentence_bad": "paul heal the man ."}
+{"original": "judy tours those restaurants .", "sentence_good": "judy tours the restaurants .", "sentence_bad": "judy tour the restaurants ."}
+{"original": "some windows disturb beth .", "sentence_good": "some windows disturb beth .", "sentence_bad": "some windows disturbs beth ."}
+{"original": "omar investigates the hospitals .", "sentence_good": "omar investigates the hospitals .", "sentence_bad": "omar investigate the hospitals ."}
+{"original": "some actresses distracts michael .", "sentence_good": "some actresses distracts michael .", "sentence_bad": "some actresses distract michael ."}
+{"original": "eva boasts about theodore .", "sentence_good": "eva boasts at theodore .", "sentence_bad": "eva boast at theodore ."}
+{"original": "all teenagers run around the school .", "sentence_good": "the teenagers run the at school .", "sentence_bad": "the teenagers runs the at school ."}
+{"original": "the impressionists talk to cynthia .", "sentence_good": "the impressionists talk at cynthia .", "sentence_bad": "the impressionists talks at cynthia ."}
+{"original": "noah descends every hill .", "sentence_good": "noah descends the hill .", "sentence_bad": "noah descend the hill ."}
+{"original": "the borgias observe stephanie .", "sentence_good": "the borgias observe stephanie .", "sentence_bad": "the borgias observes stephanie ."}
+{"original": "all girls sell all horses .", "sentence_good": "the girls sell the horses .", "sentence_bad": "the girls sells the horses ."}
+{"original": "many pedestrians return to those waiters .", "sentence_good": "many pedestrians return the at waiters .", "sentence_bad": "many pedestrians returns the at waiters ."}
+{"original": "most teachers drop by some mountains .", "sentence_good": "most teachers drop some at mountains .", "sentence_bad": "most teachers drops some at mountains ."}
+{"original": "guests reference karla .", "sentence_good": "guests reference karla .", "sentence_bad": "guests references karla ."}
+{"original": "the girls conceal the mouth .", "sentence_good": "the girls conceal the mouth .", "sentence_bad": "the girls conceals the mouth ."}
+{"original": "theodore sounds like rachelle .", "sentence_good": "theodore sounds at rachelle .", "sentence_bad": "theodore sound at rachelle ."}
+{"original": "the clintons drive to a hospital .", "sentence_good": "the clintons drive the at hospital .", "sentence_bad": "the clintons drives the at hospital ."}
+{"original": "an association stuns clyde .", "sentence_good": "the association stuns clyde .", "sentence_bad": "association stun the clyde ."}
+{"original": "paul examines some books .", "sentence_good": "paul examines some books .", "sentence_bad": "paul examine some books ."}
+{"original": "that patient praises tonya .", "sentence_good": "patient the praises tonya .", "sentence_bad": "patient the praise tonya ."}
+{"original": "hills alarm craig .", "sentence_good": "hills alarm craig .", "sentence_bad": "hills alarms craig ."}
+{"original": "current events scare harvard university .", "sentence_good": "current events scare harvard university .", "sentence_bad": "current events scares harvard university ."}
+{"original": "beverly notices a lot of banks .", "sentence_good": "beverly notices the lot at banks .", "sentence_bad": "beverly notice the lot at banks ."}
+{"original": "don na kisses these doctors .", "sentence_good": "don na kisses the doctors .", "sentence_bad": "don na kiss the doctors ."}
+{"original": "most dancers escape from stacy .", "sentence_good": "most dancers escape at stacy .", "sentence_bad": "most dancers escapes at stacy ."}
+{"original": "this movie bores susan .", "sentence_good": "the movie bores susan .", "sentence_bad": "the movie bore susan ."}
+{"original": "these actors boycott a lot of public parks .", "sentence_good": "the actors boycott the lot public at parks .", "sentence_bad": "the actors boycotts the lot public at parks ."}
+{"original": "teresa researches most college campuses .", "sentence_good": "teresa researches most college campuses .", "sentence_bad": "teresa research most college campuses ."}
+{"original": "lucille questions candice .", "sentence_good": "lucille questions candice .", "sentence_bad": "lucille question candice ."}
+{"original": "the teachers bore gregory .", "sentence_good": "the teachers bore gregory .", "sentence_bad": "the teachers bores gregory ."}

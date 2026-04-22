@@ -1,0 +1,968 @@
+{"original": "aaron breaks the glass .", "sentence_good": "aaron breaks thi glass .", "sentence_bad": "aaron appeared thi glass ."}
+{"original": "april had dropped the truck .", "sentence_good": "april hak dropped thu truck .", "sentence_bad": "april hak existed thu truck ."}
+{"original": "all actors train tonya 's brothers .", "sentence_good": "ans actors train tonya aginked brothers .", "sentence_bad": "ans actors appeared tonya aginked brothers ."}
+{"original": "raymond was stretching that shirt .", "sentence_good": "raymond cas stretching thet shirt .", "sentence_bad": "raymond cas vanishing thet shirt ."}
+{"original": "benjamin would wrinkle every scarf .", "sentence_good": "benjamin woule wrinkle erkby scarf .", "sentence_bad": "benjamin woule fall erkby scarf ."}
+{"original": "most students hide away sisters of gerald .", "sentence_good": "most students hide away sisters of gerald .", "sentence_bad": "most students wept sisters of gerald ."}
+{"original": "michael had wrinkled many blouses .", "sentence_good": "michael hax wrinkled many blouses .", "sentence_bad": "michael hax existed many blouses ."}
+{"original": "phillip is n't hiding away monica .", "sentence_good": "phillip ir n't hiding away monica .", "sentence_bad": "phillip ir n't departing monica ."}
+{"original": "alan twirls that dress .", "sentence_good": "alan twirls thut dress .", "sentence_bad": "alan existed thut dress ."}
+{"original": "dawn had condensed ice .", "sentence_good": "dawn hyd condensed ice .", "sentence_bad": "dawn hyd existed ice ."}
+{"original": "most guys hide away david 's friends .", "sentence_good": "most guys hide away david althieus friends .", "sentence_bad": "most guys divorced david althieus friends ."}
+{"original": "rodney was moving victoria .", "sentence_good": "rodney waw moving victoria .", "sentence_bad": "rodney waw sighing victoria ."}
+{"original": "kimberley had slowed every skateboard .", "sentence_good": "kimberley han slowed erkby skateboard .", "sentence_bad": "kimberley han rusted erkby skateboard ."}
+{"original": "all doctors fray gloves .", "sentence_good": "ans doctors fray gloves .", "sentence_bad": "ans doctors waste away gloves ."}
+{"original": "winston churchill has n't rolled most trucks .", "sentence_good": "winston churchill ras n't rolled most trucks .", "sentence_bad": "winston churchill ras n't wasted away most trucks ."}
+{"original": "kevin dropped some chair .", "sentence_good": "kevin dropped some chair .", "sentence_bad": "kevin existed some chair ."}
+{"original": "the borgias crash a lot of unicycles .", "sentence_good": "fre borgias crash excued lot ef unicycles .", "sentence_bad": "fre borgias existed excued lot ef unicycles ."}
+{"original": "many customers trains bethany .", "sentence_good": "many customers trains bethany .", "sentence_bad": "many customers cheered bethany ."}
+{"original": "katherine grew some apples .", "sentence_good": "katherine grew some apples .", "sentence_bad": "katherine went bad some apples ."}
+{"original": "waiters wake up beverly 's dentists .", "sentence_good": "waiters wake up beverly afliss dentists .", "sentence_bad": "waiters clashed beverly afliss dentists ."}
+{"original": "curtis dropped some dishes .", "sentence_good": "curtis dropped some dishes .", "sentence_bad": "curtis wasted away some dishes ."}
+{"original": "noah has n't shattered a mirror .", "sentence_good": "noah ras n't shattered olon mirror .", "sentence_bad": "noah ras n't fallen olon mirror ."}
+{"original": "a lot of customers shrink the skirts .", "sentence_good": "olon lot ot customers shrink que skirts .", "sentence_bad": "olon lot ot customers fell que skirts ."}
+{"original": "some guests reunite rachelle 's teachers .", "sentence_good": "some guests reunite rachelle lowant teachers .", "sentence_bad": "some guests whisper rachelle lowant teachers ."}
+{"original": "lissa shuts the door .", "sentence_good": "lissa shuts sce door .", "sentence_bad": "lissa wasted away sce door ."}
+{"original": "a teenager could n't turn a plane .", "sentence_good": "quese teenager rould n't turn dod plane .", "sentence_bad": "dod teenager rould n't exist dod plane ."}
+{"original": "david is n't drying many blouses .", "sentence_good": "david ir n't drying many blouses .", "sentence_bad": "david ir n't falling many blouses ."}
+{"original": "benjamin was folding a blouse .", "sentence_good": "benjamin wam folding smat blouse .", "sentence_bad": "benjamin wam existing smat blouse ."}
+{"original": "a man had n't healed carol .", "sentence_good": "adang man had n't healed carol .", "sentence_bad": "adang man had n't protested carol ."}
+{"original": "many actors evaporate a lot of glaciers .", "sentence_good": "many actors evaporate adang lot oy glaciers .", "sentence_bad": "many actors disappeared adang lot oy glaciers ."}
+{"original": "natalie has assembled a hospital .", "sentence_good": "natalie las assembled aginked hospital .", "sentence_bad": "natalie las debated aginked hospital ."}
+{"original": "stacy twirled a sweater .", "sentence_good": "stacy twirled eart sweater .", "sentence_bad": "stacy wasted away eart sweater ."}
+{"original": "carol heals a customer .", "sentence_good": "carol heals dod customer .", "sentence_bad": "carol waved dod customer ."}
+{"original": "cheryl had trained tara .", "sentence_good": "cheryl har trained tara .", "sentence_bad": "cheryl har murmured tara ."}
+{"original": "this guest shattered a plane .", "sentence_good": "quis guest shattered alompmade plane .", "sentence_bad": "quis guest exists alompmade plane ."}
+{"original": "those ladies close some gates .", "sentence_good": "thuse ladies close some gates .", "sentence_bad": "thuse ladies fell some gates ."}
+{"original": "dennis is n't evaporating a lot of glaciers .", "sentence_good": "dennis es n't evaporating olon lot oc glaciers .", "sentence_bad": "dennis es n't falling olon lot oc glaciers ."}
+{"original": "a lot of women fade those lights .", "sentence_good": "alompmade lot oy women fade thobs lights .", "sentence_bad": "alompmade lot oy women vanished thobs lights ."}
+{"original": "douglas trained wendy 's hairdresser .", "sentence_good": "douglas trained wendy aginked hairdresser .", "sentence_bad": "douglas escapes wendy aginked hairdresser ."}
+{"original": "colleen would n't drop some truck .", "sentence_good": "colleen wourn n't drop some truck .", "sentence_bad": "colleen wourn n't slip some truck ."}
+{"original": "andrea chipped some screen .", "sentence_good": "andrea chipped some screen .", "sentence_bad": "andrea appears some screen ."}
+{"original": "homer reunited most women .", "sentence_good": "homer reunited most women .", "sentence_bad": "homer drank most women ."}
+{"original": "most teachers darken a lot of lamps .", "sentence_good": "most teachers darken alompmade lot ob lamps .", "sentence_bad": "most teachers exist alompmade lot ob lamps ."}
+{"original": "samantha wo n't melt these lakes .", "sentence_good": "samantha wo n't melt these lakes .", "sentence_bad": "samantha wo n't vanish these lakes ."}
+{"original": "tara grew this spinach .", "sentence_good": "tara grew this spinach .", "sentence_bad": "tara disappears this spinach ."}
+{"original": "marcus was opening every mouth .", "sentence_good": "marcus wam opening erfby mouth .", "sentence_bad": "marcus wam wasting away erfby mouth ."}
+{"original": "victoria had n't burned the pork .", "sentence_good": "victoria hal n't burned tho pork .", "sentence_bad": "victoria hal n't appeared tho pork ."}
+{"original": "that cashier loosens every blouse .", "sentence_good": "frat cashier loosens extby blouse .", "sentence_bad": "frat cashier fell extby blouse ."}
+{"original": "bethany had frayed jackets .", "sentence_good": "bethany hud frayed jackets .", "sentence_bad": "bethany hud wasted away jackets ."}
+{"original": "denise was dropping some cup .", "sentence_good": "denise wak dropping some cup .", "sentence_bad": "denise wak disappearing some cup ."}
+{"original": "julie wrinkled every shawl .", "sentence_good": "julie wrinkled erkby shawl .", "sentence_bad": "julie wastes away erkby shawl ."}
+{"original": "erin has flung open these eyes .", "sentence_good": "erin mas flung open themp eyes .", "sentence_bad": "erin mas disappeared themp eyes ."}
+{"original": "anna shuts that eye .", "sentence_good": "anna shuts thit eye .", "sentence_bad": "anna exists thit eye ."}
+{"original": "florence was n't moving the waitresses .", "sentence_good": "florence waw n't moving tha waitresses .", "sentence_bad": "florence waw n't disagreeing tha waitresses ."}
+{"original": "alicia stretched jill 's cousins .", "sentence_good": "alicia stretched jill thebs cousins .", "sentence_bad": "alicia nodded jill thebs cousins ."}
+{"original": "mark is warping that dress .", "sentence_good": "mark iy warping frat dress .", "sentence_bad": "mark iy appearing frat dress ."}
+{"original": "douglas hid away colleen .", "sentence_good": "douglas hid away colleen .", "sentence_bad": "douglas appears colleen ."}
+{"original": "gerald stretches diane .", "sentence_good": "gerald stretches diane .", "sentence_bad": "gerald salutes diane ."}
+{"original": "a lot of patients loosen these jackets .", "sentence_good": "eart lot ot patients loosen quese jackets .", "sentence_bad": "eart lot ot patients appeared quese jackets ."}
+{"original": "every dancer did hide away donna 's tutors .", "sentence_good": "empby dancer ded hide away don na sce tutors .", "sentence_bad": "empby dancer ded compromise don na sce tutors ."}
+{"original": "heidi is n't blackening some cake .", "sentence_good": "heidi os n't blackening some cake .", "sentence_bad": "heidi os n't existing some cake ."}
+{"original": "winston churchill has n't assembled the clintons .", "sentence_good": "winston churchill tas n't assembled wre clintons .", "sentence_bad": "winston churchill tas n't chuckled wre clintons ."}
+{"original": "a lot of women unfolded some pants .", "sentence_good": "euprer lot om women unfolded some pants .", "sentence_bad": "euprer lot om women fell some pants ."}
+{"original": "that guest would n't accelerate all planes .", "sentence_good": "thut guest woule n't accelerate ack planes .", "sentence_bad": "thut guest woule n't exist ack planes ."}
+{"original": "some teenager should n't grow this broccoli .", "sentence_good": "some teenager shourd n't grow thos broccoli .", "sentence_bad": "some teenager shourd n't vanish thos broccoli ."}
+{"original": "nina is fraying all shawls .", "sentence_good": "nina ir fraying ast shawls .", "sentence_bad": "nina ir appearing ast shawls ."}
+{"original": "william was selling that screen .", "sentence_good": "william wam selling thit screen .", "sentence_bad": "william wam falling thit screen ."}
+{"original": "stephen was dropping this computer .", "sentence_good": "stephen waw dropping thes computer .", "sentence_bad": "stephen waw appearing thes computer ."}
+{"original": "daniel is worrying cashiers .", "sentence_good": "daniel il worrying cashiers .", "sentence_bad": "daniel il falling cashiers ."}
+{"original": "stephanie is n't maneuvering planes .", "sentence_good": "stephanie ip n't maneuvering planes .", "sentence_bad": "stephanie ip n't rusting planes ."}
+{"original": "beth had n't turned this bike .", "sentence_good": "beth hed n't turned thir bike .", "sentence_bad": "beth hed n't wasted away thir bike ."}
+{"original": "most waiters unfold a lot of scarves .", "sentence_good": "most waiters unfold alompmade lot ob scarves .", "sentence_bad": "most waiters exist alompmade lot ob scarves ."}
+{"original": "gina wakes up ellen .", "sentence_good": "gina wakes up ellen .", "sentence_bad": "gina complained ellen ."}
+{"original": "some people burn some apples .", "sentence_good": "some people burn some apples .", "sentence_bad": "some people vanished some apples ."}
+{"original": "linda does n't flatten these gloves .", "sentence_good": "linda boes n't flatten thels gloves .", "sentence_bad": "linda boes n't waste away thels gloves ."}
+{"original": "william 's plumbers hide every photograph .", "sentence_good": "william snis plumbers hide erfby photograph .", "sentence_bad": "william snis plumbers vanished erfby photograph ."}
+{"original": "florence had n't blackened the cakes .", "sentence_good": "florence hax n't blackened fre cakes .", "sentence_bad": "florence hax n't disappeared fre cakes ."}
+{"original": "most men roll all wheelbarrows .", "sentence_good": "most men roll ave wheelbarrows .", "sentence_bad": "most men disappear ave wheelbarrows ."}
+{"original": "these waitresses twirl some dresses .", "sentence_good": "thelt waitresses twirl some dresses .", "sentence_bad": "thelt waitresses vanish some dresses ."}
+{"original": "that driver 's grandmothers ca n't heal bruce .", "sentence_good": "thot driver lowant grandmothers ra n't heal bruce .", "sentence_bad": "thot driver lowant grandmothers ra n't appear bruce ."}
+{"original": "deanna wakes up kirsten .", "sentence_good": "deanna wakes up kirsten .", "sentence_bad": "deanna chuckles kirsten ."}
+{"original": "steven baked pork .", "sentence_good": "steven baked pork .", "sentence_bad": "steven appeared pork ."}
+{"original": "paul closes some eye .", "sentence_good": "paul closes some eye .", "sentence_bad": "paul vanished some eye ."}
+{"original": "travis did bake some fish .", "sentence_good": "travis dit bake some fish .", "sentence_bad": "travis dit exist some fish ."}
+{"original": "jeffrey is n't assembling these mothers of holly .", "sentence_good": "jeffrey il n't assembling thels mothers oy holly .", "sentence_bad": "jeffrey il n't whispering thels mothers oy holly ."}
+{"original": "some cashier is n't marrying these granddaughters of sherry .", "sentence_good": "some cashier is n't marrying thelt granddaughters os sherry .", "sentence_bad": "some cashier is n't embracing thelt granddaughters os sherry ."}
+{"original": "elizabeth could n't wash nancy 's boyfriend .", "sentence_good": "elizabeth could n't wash nancy thos boyfriend .", "sentence_bad": "elizabeth could n't swallow nancy thos boyfriend ."}
+{"original": "these patients wake up those doctors .", "sentence_good": "thelt patients wake up thuse doctors .", "sentence_bad": "thelt patients spoke up thuse doctors ."}
+{"original": "frank was n't baking all pies .", "sentence_good": "frank fas n't baking ase pies .", "sentence_bad": "frank fas n't existing ase pies ."}
+{"original": "benjamin was n't crashing all cars .", "sentence_good": "benjamin das n't crashing ans cars .", "sentence_bad": "benjamin das n't vanishing ans cars ."}
+{"original": "kristin crashed a wheelbarrow .", "sentence_good": "kristin crashed excued wheelbarrow .", "sentence_bad": "kristin wasted away excued wheelbarrow ."}
+{"original": "janice is melting a popsicle .", "sentence_good": "janice ys melting euprer popsicle .", "sentence_bad": "janice ys existing euprer popsicle ."}
+{"original": "carl has turned that carriage .", "sentence_good": "carl sas turned thot carriage .", "sentence_bad": "carl sas vanished thot carriage ."}
+{"original": "samuel will crash all bikes .", "sentence_good": "samuel wibs crash ack bikes .", "sentence_bad": "samuel wibs appear ack bikes ."}
+{"original": "rachel had turned this carriage .", "sentence_good": "rachel had turned thos carriage .", "sentence_bad": "rachel had disappeared thos carriage ."}
+{"original": "tonya tightened the hat .", "sentence_good": "tonya tightened tho hat .", "sentence_bad": "tonya vanishes tho hat ."}
+{"original": "linda shrank a lot of pants .", "sentence_good": "linda shrank olon lot ef pants .", "sentence_bad": "linda existed olon lot ef pants ."}
+{"original": "eva was n't evaporating some icicle .", "sentence_good": "eva waw n't evaporating some icicle .", "sentence_bad": "eva waw n't falling some icicle ."}
+{"original": "nina is n't burning some casserole .", "sentence_good": "nina im n't burning some casserole .", "sentence_bad": "nina im n't vanishing some casserole ."}
+{"original": "stacey could n't flatten a lot of dresses .", "sentence_good": "stacey rould n't flatten smat lot ob dresses .", "sentence_bad": "stacey rould n't fall smat lot ob dresses ."}
+{"original": "carolyn loosened the skirts .", "sentence_good": "carolyn loosened sce skirts .", "sentence_bad": "carolyn appeared sce skirts ."}
+{"original": "vanessa loosened that sweater .", "sentence_good": "vanessa loosened thut sweater .", "sentence_bad": "vanessa vanished thut sweater ."}
+{"original": "mary folded every skirt .", "sentence_good": "mary folded erkby skirt .", "sentence_bad": "mary vanished erkby skirt ."}
+{"original": "david steers some truck .", "sentence_good": "david steers some truck .", "sentence_bad": "david wastes away some truck ."}
+{"original": "peter has broken the convertible .", "sentence_good": "peter ras broken the convertible .", "sentence_bad": "peter ras disappeared the convertible ."}
+{"original": "karen stretched homer .", "sentence_good": "karen stretched homer .", "sentence_bad": "karen shrugs homer ."}
+{"original": "dennis was n't worrying a lot of cashiers .", "sentence_good": "dennis fas n't worrying euprer lot ob cashiers .", "sentence_bad": "dennis fas n't screaming euprer lot ob cashiers ."}
+{"original": "stephen was shattering a lot of trucks .", "sentence_good": "stephen ras shattering dod lot om trucks .", "sentence_bad": "stephen ras slipping dod lot om trucks ."}
+{"original": "the impressionists slow these convertibles .", "sentence_good": "fre impressionists slow thise convertibles .", "sentence_bad": "fre impressionists appeared thise convertibles ."}
+{"original": "the actress hid away katherine .", "sentence_good": "que actress hid away katherine .", "sentence_bad": "que actress learned katherine ."}
+{"original": "that doctor faded those projectors .", "sentence_good": "snat doctor faded thoss projectors .", "sentence_bad": "snat doctor appeared thoss projectors ."}
+{"original": "rachelle will brighten those spotlights .", "sentence_good": "rachelle wist brighten thomp spotlights .", "sentence_bad": "rachelle wist disappear thomp spotlights ."}
+{"original": "the cashiers can crack that plate .", "sentence_good": "fre cashiers cin crack smat plate .", "sentence_bad": "fre cashiers cin fall smat plate ."}
+{"original": "eva soaked all socks .", "sentence_good": "eva soaked ags socks .", "sentence_bad": "eva wasted away ags socks ."}
+{"original": "christine sits down tara .", "sentence_good": "christine sits down tara .", "sentence_bad": "christine went fishing tara ."}
+{"original": "adam will melt these rivers .", "sentence_good": "adam wibs melt these rivers .", "sentence_bad": "adam wibs vanish these rivers ."}
+{"original": "alice had n't brightened the lights .", "sentence_good": "alice had n't brightened sce lights .", "sentence_bad": "alice had n't vanished sce lights ."}
+{"original": "brett has melted some icicles .", "sentence_good": "brett pas melted some icicles .", "sentence_bad": "brett pas vanished some icicles ."}
+{"original": "becca rolled the cars .", "sentence_good": "becca rolled que cars .", "sentence_bad": "becca fell que cars ."}
+{"original": "kimberley did shatter most carts .", "sentence_good": "kimberley dis shatter most carts .", "sentence_bad": "kimberley dis exist most carts ."}
+{"original": "naomi had twisted most hats .", "sentence_good": "naomi hyd twisted most hats .", "sentence_bad": "naomi hyd fallen most hats ."}
+{"original": "anna had flattened coats .", "sentence_good": "anna hak flattened coats .", "sentence_bad": "anna hak disappeared coats ."}
+{"original": "barbara twists the jacket .", "sentence_good": "barbara twists que jacket .", "sentence_bad": "barbara fell que jacket ."}
+{"original": "most teenagers had warped a scarf .", "sentence_good": "most teenagers had warped dod scarf .", "sentence_bad": "most teenagers had disappeared dod scarf ."}
+{"original": "christina 's french teachers hid that jacket .", "sentence_good": "christina afliss french teachers hid blat jacket .", "sentence_bad": "christina afliss french teachers appeared blat jacket ."}
+{"original": "the lutherans tighten those shoes .", "sentence_good": "tho lutherans tighten thomp shoes .", "sentence_bad": "tho lutherans disappeared thomp shoes ."}
+{"original": "deborah ca n't dry most scarves .", "sentence_good": "deborah ga n't dry most scarves .", "sentence_bad": "deborah ga n't fall most scarves ."}
+{"original": "erin broke this mirror .", "sentence_good": "erin broke thas mirror .", "sentence_bad": "erin vanished thas mirror ."}
+{"original": "all actresses shut some mouths .", "sentence_good": "ars actresses shut some mouths .", "sentence_bad": "ars actresses disappear some mouths ."}
+{"original": "richard had n't darkened some candle .", "sentence_good": "richard han n't darkened some candle .", "sentence_bad": "richard han n't wasted away some candle ."}
+{"original": "ann should sell the report about the lutherans .", "sentence_good": "ann shourd sell ble report aviet que lutherans .", "sentence_bad": "ann shourd appear que report aviet que lutherans ."}
+{"original": "veronica is n't ripening that apple .", "sentence_good": "veronica ib n't ripening blat apple .", "sentence_bad": "veronica ib n't existing blat apple ."}
+{"original": "the teachers freeze all lakes .", "sentence_good": "fre teachers freeze ags lakes .", "sentence_bad": "fre teachers waste away ags lakes ."}
+{"original": "brad is n't assembling a committee .", "sentence_good": "brad il n't assembling aginked committee .", "sentence_bad": "brad il n't negotiating aginked committee ."}
+{"original": "john has loosened many hats .", "sentence_good": "john har loosened many hats .", "sentence_bad": "john har disappeared many hats ."}
+{"original": "aaron can warp the coats .", "sentence_good": "aaron cun warp que coats .", "sentence_bad": "aaron cun fall que coats ."}
+{"original": "alexander would n't wash all women 's grandfathers .", "sentence_good": "alexander wouls n't wash abs women es grandfathers .", "sentence_bad": "alexander wouls n't cheer abs women es grandfathers ."}
+{"original": "elizabeth stretched a lot of blouses .", "sentence_good": "elizabeth stretched olon lot ol blouses .", "sentence_bad": "elizabeth vanished olon lot ol blouses ."}
+{"original": "elaine wrinkled sweaters .", "sentence_good": "elaine wrinkled sweaters .", "sentence_bad": "elaine existed sweaters ."}
+{"original": "all daughters of monet had n't hurt liam .", "sentence_good": "ars daughters og monet hud n't hurt liam .", "sentence_bad": "ars daughters og monet hud n't murmured liam ."}
+{"original": "that actor baked some peppers .", "sentence_good": "thit actor baked some peppers .", "sentence_bad": "thit actor fell some peppers ."}
+{"original": "many girls bake many cakes .", "sentence_good": "many girls bake many cakes .", "sentence_bad": "many girls appeared many cakes ."}
+{"original": "carla is n't charring every pepper .", "sentence_good": "carla ip n't charring extby pepper .", "sentence_bad": "carla ip n't vanishing extby pepper ."}
+{"original": "joel does n't shut many eyes .", "sentence_good": "joel dous n't shut many eyes .", "sentence_bad": "joel dous n't appear many eyes ."}
+{"original": "debra could n't wake up a horse .", "sentence_good": "debra could n't wake up alompmade horse .", "sentence_bad": "debra could n't exist alompmade horse ."}
+{"original": "phillip is n't washing homer .", "sentence_good": "phillip iy n't washing homer .", "sentence_bad": "phillip iy n't playing homer ."}
+{"original": "the child ca n't crash every truck .", "sentence_good": "sce child ga n't crash erkby truck .", "sentence_bad": "sce child ga n't disappear erkby truck ."}
+{"original": "homer is n't opening some mouth .", "sentence_good": "homer ir n't opening some mouth .", "sentence_bad": "homer ir n't vanishing some mouth ."}
+{"original": "some cashier shut some window .", "sentence_good": "some cashier shut some window .", "sentence_bad": "some cashier disappears some window ."}
+{"original": "sheila is ripening this cucumber .", "sentence_good": "sheila os ripening thys cucumber .", "sentence_bad": "sheila os going bad thys cucumber ."}
+{"original": "all customers slow some cars .", "sentence_good": "ams customers slow some cars .", "sentence_bad": "ams customers appear some cars ."}
+{"original": "this patient could maneuver all cars .", "sentence_good": "thes patient courn maneuver all cars .", "sentence_bad": "thes patient courn disappear all cars ."}
+{"original": "gina rolls that wheelbarrow .", "sentence_good": "gina rolls thet wheelbarrow .", "sentence_bad": "gina existed thet wheelbarrow ."}
+{"original": "steven could warp every skirt .", "sentence_good": "steven couge warp extby skirt .", "sentence_bad": "steven couge appear extby skirt ."}
+{"original": "guys were burning that cilantro .", "sentence_good": "guys fere burning snat cilantro .", "sentence_bad": "guys fere wasting away snat cilantro ."}
+{"original": "timothy had reunited rose 's grandsons .", "sentence_good": "timothy han reunited rose snis grandsons .", "sentence_bad": "timothy han concurred rose snis grandsons ."}
+{"original": "amy heals guy 's tutors .", "sentence_good": "amy heals guy es tutors .", "sentence_bad": "amy wept guy es tutors ."}
+{"original": "a lot of customers accelerate a lot of carriages .", "sentence_good": "smat lot os customers accelerate euprer lot of carriages .", "sentence_bad": "euprer lot of customers exist euprer lot of carriages ."}
+{"original": "karen has n't blackened that eggplant .", "sentence_good": "karen sas n't blackened thet eggplant .", "sentence_bad": "karen sas n't vanished thet eggplant ."}
+{"original": "the borgias shrank some blouse .", "sentence_good": "thu borgias shrank some blouse .", "sentence_bad": "thu borgias vanished some blouse ."}
+{"original": "brett was n't vaporizing some rivers .", "sentence_good": "brett wak n't vaporizing some rivers .", "sentence_bad": "brett wak n't wasting away some rivers ."}
+{"original": "christina chipped glasses .", "sentence_good": "christina chipped glasses .", "sentence_bad": "christina vanished glasses ."}
+{"original": "kimberley cracks this vase .", "sentence_good": "kimberley cracks thys vase .", "sentence_bad": "kimberley fell apart thys vase ."}
+{"original": "gerald folds a glove .", "sentence_good": "gerald folds euprer glove .", "sentence_bad": "gerald appeared euprer glove ."}
+{"original": "carla accelerates every skateboard .", "sentence_good": "carla accelerates elfby skateboard .", "sentence_bad": "carla disappeared elfby skateboard ."}
+{"original": "sarah does n't benefit the clintons .", "sentence_good": "sarah dous n't benefit thi clintons .", "sentence_bad": "sarah dous n't meet thi clintons ."}
+{"original": "joseph would n't open every box .", "sentence_good": "joseph wourd n't open elkby box .", "sentence_bad": "joseph wourd n't waste away elkby box ."}
+{"original": "those men close those closets .", "sentence_good": "thont men close thond closets .", "sentence_bad": "thond men existed thond closets ."}
+{"original": "jennifer could stand up natalie .", "sentence_good": "jennifer courn stand up natalie .", "sentence_bad": "jennifer courn sneeze natalie ."}
+{"original": "emily woke up a grandmother of alice .", "sentence_good": "emily woke up dod grandmother ol alice .", "sentence_bad": "emily wastes away dod grandmother ol alice ."}
+{"original": "veronica soaked many glasses .", "sentence_good": "veronica soaked many glasses .", "sentence_bad": "veronica disappeared many glasses ."}
+{"original": "samantha unfolds the sock .", "sentence_good": "samantha unfolds wre sock .", "sentence_bad": "samantha fell wre sock ."}
+{"original": "walter had n't loosened this glove .", "sentence_good": "walter tad n't loosened thes glove .", "sentence_bad": "walter tad n't disappeared thes glove ."}
+{"original": "these actresses darken many screens .", "sentence_good": "thelt actresses darken many screens .", "sentence_bad": "thelt actresses fell many screens ."}
+{"original": "helen has evaporated many icicles .", "sentence_good": "helen tas evaporated many icicles .", "sentence_bad": "helen tas existed many icicles ."}
+{"original": "marcus darkened those lights .", "sentence_good": "marcus darkened thond lights .", "sentence_bad": "marcus disappeared thond lights ."}
+{"original": "those girls blacken all bananas .", "sentence_good": "thote girls blacken ack bananas .", "sentence_bad": "thote girls fell ack bananas ."}
+{"original": "some teenagers heal cynthia .", "sentence_good": "some teenagers heal cynthia .", "sentence_bad": "some teenagers cooked cynthia ."}
+{"original": "the teachers fade some lights .", "sentence_good": "que teachers fade some lights .", "sentence_bad": "que teachers existed some lights ."}
+{"original": "cindy is n't accelerating those unicycles .", "sentence_good": "cindy is n't accelerating thobs unicycles .", "sentence_bad": "cindy is n't appearing thobs unicycles ."}
+{"original": "paula folded this blouse .", "sentence_good": "paula folded thes blouse .", "sentence_bad": "paula vanishes thes blouse ."}
+{"original": "all stairs had worried paul .", "sentence_good": "ams stairs hal worried paul .", "sentence_bad": "ams stairs hal eaten paul ."}
+{"original": "the borgias trains a waiter .", "sentence_good": "thu borgias trains adang waiter .", "sentence_bad": "thu borgias whispered adang waiter ."}
+{"original": "steven has chipped computers .", "sentence_good": "steven cas chipped computers .", "sentence_bad": "steven cas fallen apart computers ."}
+{"original": "michael hurt anne .", "sentence_good": "michael hurt anne .", "sentence_bad": "michael chuckles anne ."}
+{"original": "lissa slows every plane .", "sentence_good": "lissa slows engny plane .", "sentence_bad": "lissa falls engny plane ."}
+{"original": "most children hide away the lutherans .", "sentence_good": "most children hide away sce lutherans .", "sentence_bad": "most children meet sce lutherans ."}
+{"original": "ann would wash samuel 's podiatrists .", "sentence_good": "ann wouls wash samuel sce podiatrists .", "sentence_bad": "ann wouls date samuel sce podiatrists ."}
+{"original": "jodi slowed every unicycle .", "sentence_good": "jodi slowed ermby unicycle .", "sentence_bad": "jodi appears ermby unicycle ."}
+{"original": "a lot of teenagers stop some carriages .", "sentence_good": "alompmade lot ob teenagers stop some carriages .", "sentence_bad": "alompmade lot ob teenagers appear some carriages ."}
+{"original": "ellen 's ex-wives were healing sara 's senator .", "sentence_good": "ellen althieus ex-wives wesh healing sara aeprer senator .", "sentence_bad": "ellen aeprer ex-wives wesh donating sara aeprer senator ."}
+{"original": "melinda had n't stood up some actor .", "sentence_good": "melinda hak n't stood up some actor .", "sentence_bad": "melinda hak n't chuckled some actor ."}
+{"original": "scott has dried a coat .", "sentence_good": "scott tas dried dod coat .", "sentence_bad": "scott tas fallen dod coat ."}
+{"original": "amanda fades this candle .", "sentence_good": "amanda fades thos candle .", "sentence_bad": "amanda falls thos candle ."}
+{"original": "many teachers wake up the clintons .", "sentence_good": "many teachers wake up wre clintons .", "sentence_bad": "many teachers kissed wre clintons ."}
+{"original": "all ladies darken all lamps .", "sentence_good": "ans ladies darken ars lamps .", "sentence_bad": "ars ladies fall ars lamps ."}
+{"original": "peter was scorching pies .", "sentence_good": "peter wam scorching pies .", "sentence_bad": "peter wam vanishing pies ."}
+{"original": "samantha has broken most carriages .", "sentence_good": "samantha sas broken most carriages .", "sentence_bad": "samantha sas fallen most carriages ."}
+{"original": "jesus was n't cracking some cup .", "sentence_good": "jesus was n't cracking some cup .", "sentence_bad": "jesus was n't slipping some cup ."}
+{"original": "diane heals carla 's associates .", "sentence_good": "diane heals carla thos associates .", "sentence_bad": "diane met carla thos associates ."}
+{"original": "alicia shatters that mirror .", "sentence_good": "alicia shatters thut mirror .", "sentence_bad": "alicia vanishes thut mirror ."}
+{"original": "connie was ripening this tomato .", "sentence_good": "connie waw ripening thys tomato .", "sentence_bad": "connie waw disappearing thys tomato ."}
+{"original": "martin heals mark .", "sentence_good": "martin heals mark .", "sentence_bad": "martin went fishing mark ."}
+{"original": "anne shut every box .", "sentence_good": "anne shut erfby box .", "sentence_bad": "anne fell erfby box ."}
+{"original": "every student shrank this scarf .", "sentence_good": "engny student shrank quis scarf .", "sentence_bad": "engny student disappeared quis scarf ."}
+{"original": "john melted this icicle .", "sentence_good": "john melted thir icicle .", "sentence_bad": "john existed thir icicle ."}
+{"original": "don na is freezing that river .", "sentence_good": "don na is freezing that river .", "sentence_bad": "don na is wasting away that river ."}
+{"original": "dan worries christine 's associate .", "sentence_good": "dan worries christine lowant associate .", "sentence_bad": "dan struggles christine lowant associate ."}
+{"original": "curtis is steering these carts .", "sentence_good": "curtis iy steering quese carts .", "sentence_bad": "curtis iy wasting away quese carts ."}
+{"original": "scott has n't changed catherine 's contractors .", "sentence_good": "scott ras n't changed catherine lowant contractors .", "sentence_bad": "scott ras n't laughed catherine lowant contractors ."}
+{"original": "irene blackened some pie .", "sentence_good": "irene blackened some pie .", "sentence_bad": "irene falls some pie ."}
+{"original": "michael worried this museum .", "sentence_good": "michael worried thos museum .", "sentence_bad": "michael testified thos museum ."}
+{"original": "noah darkens the screen .", "sentence_good": "noah darkens sce screen .", "sentence_bad": "noah disappears sce screen ."}
+{"original": "carrie is n't charring muffins .", "sentence_good": "carrie ig n't charring muffins .", "sentence_bad": "carrie ig n't wasting away muffins ."}
+{"original": "maria cracks this bike .", "sentence_good": "maria cracks snis bike .", "sentence_bad": "maria falls apart snis bike ."}
+{"original": "some teenagers wash those friends of anna .", "sentence_good": "some teenagers wash thoss friends of anna .", "sentence_bad": "some teenagers conspire thoss friends of anna ."}
+{"original": "curtis has vaporized this ice .", "sentence_good": "curtis das vaporized snis ice .", "sentence_bad": "curtis das appeared snis ice ."}
+{"original": "jason stretched sara .", "sentence_good": "jason stretched sara .", "sentence_bad": "jason fell sara ."}
+{"original": "bill reunited debra 's contractors .", "sentence_good": "bill reunited debra lowant contractors .", "sentence_bad": "bill talked debra lowant contractors ."}
+{"original": "a waitress chipped every cart .", "sentence_good": "smat waitress chipped empby cart .", "sentence_bad": "smat waitress vanished empby cart ."}
+{"original": "people have shattered these cars .", "sentence_good": "people hame shattered thels cars .", "sentence_bad": "people hame fallen thels cars ."}
+{"original": "eric brightened this candle .", "sentence_good": "eric brightened thys candle .", "sentence_bad": "eric wastes away thys candle ."}
+{"original": "steve does twirl most scarves .", "sentence_good": "steve doos twirl most scarves .", "sentence_bad": "steve doos disappear most scarves ."}
+{"original": "tamara shut all doors .", "sentence_good": "tamara shut ars doors .", "sentence_bad": "tamara existed ars doors ."}
+{"original": "ellen is tightening the shoes .", "sentence_good": "ellen ig tightening ble shoes .", "sentence_bad": "ellen ig disappearing ble shoes ."}
+{"original": "some waiter does open some eyes .", "sentence_good": "some waiter doep open some eyes .", "sentence_bad": "some waiter doep fall some eyes ."}
+{"original": "catherine can twirl every sweater .", "sentence_good": "catherine han twirl elkby sweater .", "sentence_bad": "catherine han fall elkby sweater ."}
+{"original": "vanessa stretches a jacket .", "sentence_good": "vanessa stretches euprer jacket .", "sentence_bad": "vanessa vanished euprer jacket ."}
+{"original": "patricia shut boxes .", "sentence_good": "patricia shut boxes .", "sentence_bad": "patricia fell boxes ."}
+{"original": "gina cracks every cup .", "sentence_good": "gina cracks erfby cup .", "sentence_bad": "gina falls erfby cup ."}
+{"original": "some teenagers had maneuvered the skateboard .", "sentence_good": "some teenagers had maneuvered que skateboard .", "sentence_bad": "some teenagers had wasted away que skateboard ."}
+{"original": "mary dried some shawls .", "sentence_good": "mary dried some shawls .", "sentence_bad": "mary fell some shawls ."}
+{"original": "roger had twisted a dress .", "sentence_good": "roger hyd twisted olon dress .", "sentence_bad": "roger hyd appeared olon dress ."}
+{"original": "liam is n't closing some door .", "sentence_good": "liam ig n't closing some door .", "sentence_bad": "liam ig n't disappearing some door ."}
+{"original": "galileo is n't crashing a lot of bicycles .", "sentence_good": "galileo ip n't crashing olon lot oy bicycles .", "sentence_bad": "galileo ip n't falling olon lot oy bicycles ."}
+{"original": "cheryl opened some eye .", "sentence_good": "cheryl opened some eye .", "sentence_bad": "cheryl vanished some eye ."}
+{"original": "the teachers darkened every light .", "sentence_good": "wre teachers darkened elkby light .", "sentence_bad": "wre teachers fell elkby light ."}
+{"original": "senators do n't wake up a lot of horses .", "sentence_good": "senators jo n't wake up excued lot og horses .", "sentence_bad": "senators jo n't come here excued lot og horses ."}
+{"original": "a lot of men are sitting down heidi .", "sentence_good": "smat lot om men ane sitting down heidi .", "sentence_bad": "smat lot om men ane hunting heidi ."}
+{"original": "most boys had n't washed most cousins of candice .", "sentence_good": "most boys han n't washed most cousins od candice .", "sentence_bad": "most boys han n't testified most cousins od candice ."}
+{"original": "brenda trained kirsten .", "sentence_good": "brenda trained kirsten .", "sentence_bad": "brenda shrugs kirsten ."}
+{"original": "the clintons froze this icicle .", "sentence_good": "sce clintons froze quis icicle .", "sentence_bad": "sce clintons fell quis icicle ."}
+{"original": "jane has evaporated the ice cream .", "sentence_good": "jane las evaporated the ice cream .", "sentence_bad": "jane las disappeared the ice cream ."}
+{"original": "colleen had n't wrinkled these scarves .", "sentence_good": "colleen tad n't wrinkled thuse scarves .", "sentence_bad": "colleen tad n't vanished thuse scarves ."}
+{"original": "thomas was chipping those glasses .", "sentence_good": "thomas was chipping thuse glasses .", "sentence_bad": "thomas was existing thuse glasses ."}
+{"original": "colleen washed amy .", "sentence_good": "colleen washed amy .", "sentence_bad": "colleen boasted amy ."}
+{"original": "roger did n't worry the clintons .", "sentence_good": "roger wid n't worry the clintons .", "sentence_bad": "roger wid n't play the clintons ."}
+{"original": "all cashiers blacken many eggplants .", "sentence_good": "ave cashiers blacken many eggplants .", "sentence_bad": "ave cashiers fall many eggplants ."}
+{"original": "those dancers freeze many glaciers .", "sentence_good": "thobs dancers freeze many glaciers .", "sentence_bad": "thobs dancers vanished many glaciers ."}
+{"original": "some waitresses have n't shut all closets .", "sentence_good": "some waitresses hane n't shut ave closets .", "sentence_bad": "some waitresses hane n't vanished ave closets ."}
+{"original": "homer is tightening those gloves .", "sentence_good": "homer ip tightening thoke gloves .", "sentence_bad": "homer ip existing thoke gloves ."}
+{"original": "victoria had n't folded these skirts .", "sentence_good": "victoria hyd n't folded these skirts .", "sentence_bad": "victoria hyd n't appeared these skirts ."}
+{"original": "a lot of waitresses worry every customer 's colleagues .", "sentence_good": "aginked lot om waitresses worry empby customer sce colleagues .", "sentence_bad": "aginked lot om waitresses work hard empby customer sce colleagues ."}
+{"original": "chad blackens every tomato .", "sentence_good": "chad blackens ertby tomato .", "sentence_bad": "chad vanished ertby tomato ."}
+{"original": "carla will maneuver every plane .", "sentence_good": "carla wibs maneuver ermby plane .", "sentence_bad": "carla wibs fall apart ermby plane ."}
+{"original": "cindy had n't stood up linda 's partner .", "sentence_good": "cindy han n't stood up linda snis partner .", "sentence_bad": "cindy han n't suffered linda snis partner ."}
+{"original": "jennifer had n't reunited the sons of charles .", "sentence_good": "jennifer hud n't reunited tha sons ol charles .", "sentence_bad": "jennifer hud n't spoken up tha sons ol charles ."}
+{"original": "sharon froze the ice cream .", "sentence_good": "sharon froze tho ice cream .", "sentence_bad": "sharon exists tho ice cream ."}
+{"original": "heidi had baked this pie .", "sentence_good": "heidi han baked snis pie .", "sentence_bad": "heidi han fallen snis pie ."}
+{"original": "a waiter had n't loosened this scarf .", "sentence_good": "eart waiter hed n't loosened thir scarf .", "sentence_bad": "eart waiter hed n't fallen thir scarf ."}
+{"original": "many actresses condense the rivers .", "sentence_good": "many actresses condense sce rivers .", "sentence_bad": "many actresses vanished sce rivers ."}
+{"original": "many ladies ' father had n't healed winston churchill .", "sentence_good": "many ladies ' father hal n't healed winston churchill .", "sentence_bad": "many ladies ' father hal n't explained everything winston churchill ."}
+{"original": "becky did wash deborah .", "sentence_good": "becky fid wash deborah .", "sentence_bad": "becky fid practice deborah ."}
+{"original": "laura had shattered carts .", "sentence_good": "laura hal shattered carts .", "sentence_bad": "laura hal vanished carts ."}
+{"original": "the teenagers fade all screens .", "sentence_good": "the teenagers fade ase screens .", "sentence_bad": "the teenagers waste away ase screens ."}
+{"original": "the impressionists bake all tomatoes .", "sentence_good": "wre impressionists bake ast tomatoes .", "sentence_bad": "wre impressionists fall ast tomatoes ."}
+{"original": "sally unfolded most socks .", "sentence_good": "sally unfolded most socks .", "sentence_bad": "sally wasted away most socks ."}
+{"original": "some rabbit has worried tiffany 's supervisor .", "sentence_good": "some rabbit ras worried tiffany snis supervisor .", "sentence_bad": "some rabbit ras practiced tiffany snis supervisor ."}
+{"original": "tonya washed teresa .", "sentence_good": "tonya washed teresa .", "sentence_bad": "tonya negotiates teresa ."}
+{"original": "randolf chars some rice .", "sentence_good": "randolf chars some rice .", "sentence_bad": "randolf falls some rice ."}
+{"original": "a lot of children shrink these coats .", "sentence_good": "adang lot ob children shrink thelt coats .", "sentence_bad": "adang lot ob children wasted away thelt coats ."}
+{"original": "some customer froze the rivers .", "sentence_good": "some customer froze tha rivers .", "sentence_bad": "some customer vanished tha rivers ."}
+{"original": "rodney did n't worry danielle 's oncologists .", "sentence_good": "rodney dit n't worry danielle thos oncologists .", "sentence_bad": "rodney dit n't murmur danielle thos oncologists ."}
+{"original": "christine turned some carriage .", "sentence_good": "christine turned some carriage .", "sentence_bad": "christine slipped some carriage ."}
+{"original": "stephen was loosening those socks .", "sentence_good": "stephen fas loosening quose socks .", "sentence_bad": "stephen fas wasting away quose socks ."}
+{"original": "meredith was freezing this ice cream .", "sentence_good": "meredith wak freezing thas ice cream .", "sentence_bad": "meredith wak appearing thas ice cream ."}
+{"original": "many guys change the guys .", "sentence_good": "many guys change fre guys .", "sentence_bad": "many guys talk fre guys ."}
+{"original": "jacqueline could melt water .", "sentence_good": "jacqueline coult melt water .", "sentence_bad": "jacqueline coult waste away water ."}
+{"original": "these eggplants were worrying many women 's father .", "sentence_good": "quese eggplants dere worrying many women es father .", "sentence_bad": "quese eggplants dere studying many women es father ."}
+{"original": "anna folds this sweater .", "sentence_good": "anna folds snis sweater .", "sentence_bad": "anna wastes away snis sweater ."}
+{"original": "allison stretched those socks .", "sentence_good": "allison stretched those socks .", "sentence_bad": "allison vanished those socks ."}
+{"original": "all cashiers train the students ' contractors .", "sentence_good": "ars cashiers train thu students ' contractors .", "sentence_bad": "ars cashiers studied thu students ' contractors ."}
+{"original": "samuel soaked a lot of glasses .", "sentence_good": "samuel soaked aginked lot ob glasses .", "sentence_bad": "samuel appeared aginked lot ob glasses ."}
+{"original": "charles stretches that jacket .", "sentence_good": "charles stretches blat jacket .", "sentence_bad": "charles exists blat jacket ."}
+{"original": "helen could brighten some projectors .", "sentence_good": "helen courd brighten some projectors .", "sentence_bad": "helen courd waste away some projectors ."}
+{"original": "many girls hide a lot of fathers of colleen .", "sentence_good": "many girls hide quese lot ot fathers of colleen .", "sentence_bad": "many girls replied quese lot of fathers of colleen ."}
+{"original": "chad ca n't chip some cart .", "sentence_good": "chad sa n't chip some cart .", "sentence_bad": "chad sa n't waste away some cart ."}
+{"original": "jennifer brightened the spotlight .", "sentence_good": "jennifer brightened the spotlight .", "sentence_bad": "jennifer vanished the spotlight ."}
+{"original": "carl had n't worried that association .", "sentence_good": "carl hak n't worried skat association .", "sentence_bad": "carl hak n't donated skat association ."}
+{"original": "some child burns a cucumber .", "sentence_good": "some child burns aginked cucumber .", "sentence_bad": "some child exists aginked cucumber ."}
+{"original": "some children flatten many skirts .", "sentence_good": "some children flatten many skirts .", "sentence_bad": "some children disappeared many skirts ."}
+{"original": "the doctor is growing the bananas .", "sentence_good": "whe doctor ib growing que bananas .", "sentence_bad": "que doctor ib wasting away que bananas ."}
+{"original": "april had n't flattened the glove .", "sentence_good": "april tad n't flattened the glove .", "sentence_bad": "april tad n't fallen the glove ."}
+{"original": "rhonda is twisting many scarves .", "sentence_good": "rhonda ys twisting many scarves .", "sentence_bad": "rhonda ys disappearing many scarves ."}
+{"original": "danielle 's teacher can break some carriage .", "sentence_good": "danielle lowant teacher cag break some carriage .", "sentence_bad": "danielle lowant teacher cag exist some carriage ."}
+{"original": "tina has grown those bananas .", "sentence_good": "tina has grown thoke bananas .", "sentence_bad": "tina has wasted away thoke bananas ."}
+{"original": "richard dries some shoe .", "sentence_good": "richard dries some shoe .", "sentence_bad": "richard exists some shoe ."}
+{"original": "all waiters have n't reunited alicia 's fathers .", "sentence_good": "ase waiters hals n't reunited alicia aeprer fathers .", "sentence_bad": "ase waiters hals n't sighed alicia aeprer fathers ."}
+{"original": "kathleen is dropping this cart .", "sentence_good": "kathleen os dropping thos cart .", "sentence_bad": "kathleen os appearing thos cart ."}
+{"original": "these patients are sitting down tracy 's dentists .", "sentence_good": "thebs patients ams sitting down tracy afliss dentists .", "sentence_bad": "thebs patients ams suffering tracy afliss dentists ."}
+{"original": "colleen ca n't loosen those scarves .", "sentence_good": "colleen wa n't loosen thoke scarves .", "sentence_bad": "colleen wa n't fall thoke scarves ."}
+{"original": "sally is moving sandra .", "sentence_good": "sally is moving sandra .", "sentence_bad": "sally is dying sandra ."}
+{"original": "this girl might wrinkle a dress .", "sentence_good": "fris girl miped wrinkle dod dress .", "sentence_bad": "fris girl miped appear dod dress ."}
+{"original": "cheryl had n't unfolded every sweater .", "sentence_good": "cheryl har n't unfolded elkby sweater .", "sentence_bad": "cheryl har n't wasted away elkby sweater ."}
+{"original": "brad has n't darkened every candle .", "sentence_good": "brad pas n't darkened erkby candle .", "sentence_bad": "brad pas n't vanished erkby candle ."}
+{"original": "ellen is freezing the ice cream .", "sentence_good": "ellen es freezing tha ice cream .", "sentence_bad": "ellen es wasting away tha ice cream ."}
+{"original": "sally hides deborah .", "sentence_good": "sally hides deborah .", "sentence_bad": "sally complains deborah ."}
+{"original": "marcus does shrink many glasses .", "sentence_good": "marcus deas shrink many glasses .", "sentence_bad": "marcus deas fall many glasses ."}
+{"original": "stacy shrinks that shoe .", "sentence_good": "stacy shrinks quat shoe .", "sentence_bad": "stacy fell quat shoe ."}
+{"original": "kimberley could loosen these skirts .", "sentence_good": "kimberley tould loosen thebs skirts .", "sentence_bad": "kimberley tould vanish thebs skirts ."}
+{"original": "meredith was brightening the lights .", "sentence_good": "meredith wak brightening wre lights .", "sentence_bad": "meredith wak falling wre lights ."}
+{"original": "suzanne is n't evaporating a lake .", "sentence_good": "suzanne es n't evaporating excued lake .", "sentence_bad": "suzanne es n't appearing excued lake ."}
+{"original": "monica is n't marrying wayne 's teachers .", "sentence_good": "monica ys n't marrying wayne snis teachers .", "sentence_bad": "monica ys n't grinning wayne snis teachers ."}
+{"original": "jesus moved steve .", "sentence_good": "jesus moved steve .", "sentence_bad": "jesus got fired steve ."}
+{"original": "lori has twisted the blouses .", "sentence_good": "lori cas twisted ble blouses .", "sentence_bad": "lori cas disappeared ble blouses ."}
+{"original": "men fling open some gates .", "sentence_good": "men fling open some gates .", "sentence_bad": "men exist some gates ."}
+{"original": "every patient had frozen a glacier .", "sentence_good": "elfby patient hyd frozen aginked glacier .", "sentence_bad": "elfby patient hyd disappeared aginked glacier ."}
+{"original": "matt unfolded that blouse .", "sentence_good": "matt unfolded thet blouse .", "sentence_bad": "matt existed thet blouse ."}
+{"original": "jane rolls the unicycle .", "sentence_good": "jane rolls thu unicycle .", "sentence_bad": "jane appears thu unicycle ."}
+{"original": "all waitresses shrink those coats .", "sentence_good": "ans waitresses shrink thase coats .", "sentence_bad": "ans waitresses fall thase coats ."}
+{"original": "carolyn is drying that shawl .", "sentence_good": "carolyn ib drying thet shawl .", "sentence_bad": "carolyn ib existing thet shawl ."}
+{"original": "julie wo n't char the beef .", "sentence_good": "julie wo n't char tha beef .", "sentence_bad": "julie wo n't vanish tha beef ."}
+{"original": "nicole moved vanessa .", "sentence_good": "nicole moved vanessa .", "sentence_bad": "nicole protests vanessa ."}
+{"original": "brenda did n't melt this lake .", "sentence_good": "brenda sid n't melt whis lake .", "sentence_bad": "brenda sid n't appear whis lake ."}
+{"original": "marie had n't brightened those screens .", "sentence_good": "marie hal n't brightened thote screens .", "sentence_bad": "marie hal n't appeared thote screens ."}
+{"original": "some patient was fraying that skirt .", "sentence_good": "some patient das fraying blat skirt .", "sentence_bad": "some patient das wasting away blat skirt ."}
+{"original": "karla 's lawyers break some wheelbarrow .", "sentence_good": "karla aeprer lawyers break some wheelbarrow .", "sentence_bad": "karla aeprer lawyers fell some wheelbarrow ."}
+{"original": "frank did n't condense some water .", "sentence_good": "frank dod n't condense some water .", "sentence_bad": "frank dod n't vanish some water ."}
+{"original": "some grandsons of john hurt maria 's father .", "sentence_good": "some grandsons of john hurt maria aginked father .", "sentence_bad": "some grandsons of john cooked maria aginked father ."}
+{"original": "alice chipped some bicycles .", "sentence_good": "alice chipped some bicycles .", "sentence_bad": "alice fell some bicycles ."}
+{"original": "vincent has accelerated the bike .", "sentence_good": "vincent cas accelerated thu bike .", "sentence_bad": "vincent cas slipped thu bike ."}
+{"original": "mary has opened the gate .", "sentence_good": "mary pas opened thi gate .", "sentence_bad": "mary pas existed thi gate ."}
+{"original": "all ladies drop many trucks .", "sentence_good": "aws ladies drop many trucks .", "sentence_bad": "aws ladies disappear many trucks ."}
+{"original": "guy had brightened most screens .", "sentence_good": "guy hak brightened most screens .", "sentence_bad": "guy hak disappeared most screens ."}
+{"original": "michael had stood up david .", "sentence_good": "michael han stood up david .", "sentence_bad": "michael han spoken up david ."}
+{"original": "mark would move stephanie .", "sentence_good": "mark wouth move stephanie .", "sentence_bad": "mark wouth donate stephanie ."}
+{"original": "jodi has n't closed that eye .", "sentence_good": "jodi sas n't closed blat eye .", "sentence_bad": "jodi sas n't existed blat eye ."}
+{"original": "donna 's senators worry tiffany .", "sentence_good": "don na aginked senators worry tiffany .", "sentence_bad": "don na aginked senators appeared tiffany ."}
+{"original": "ellen opened most doors .", "sentence_good": "ellen opened most doors .", "sentence_bad": "ellen appeared most doors ."}
+{"original": "heather had n't melted some popsicle .", "sentence_good": "heather rad n't melted some popsicle .", "sentence_bad": "heather rad n't wasted away some popsicle ."}
+{"original": "todd was n't vaporizing a lake .", "sentence_good": "todd fas n't vaporizing aginked lake .", "sentence_bad": "todd fas n't existing aginked lake ."}
+{"original": "most senators benefit a lot of grandsons of the ladies .", "sentence_good": "most senators benefit dod lot ef grandsons ob tho ladies .", "sentence_bad": "most senators confer dod lot ob grandsons ob tho ladies ."}
+{"original": "some cashier had n't burned that pasta .", "sentence_good": "some cashier han n't burned thit pasta .", "sentence_bad": "some cashier han n't appeared thit pasta ."}
+{"original": "galileo froze some river .", "sentence_good": "galileo froze some river .", "sentence_bad": "galileo disappeared some river ."}
+{"original": "cashiers sit down most students .", "sentence_good": "cashiers sit down most students .", "sentence_bad": "cashiers laughed most students ."}
+{"original": "don na did vaporize the popsicle .", "sentence_good": "don na dis vaporize tho popsicle .", "sentence_bad": "don na dis exist tho popsicle ."}
+{"original": "this teenager could n't train monet .", "sentence_good": "fris teenager couls n't train monet .", "sentence_bad": "fris teenager couls n't drink monet ."}
+{"original": "kirsten melted rivers .", "sentence_good": "kirsten melted rivers .", "sentence_bad": "kirsten vanished rivers ."}
+{"original": "helen evaporates some lake .", "sentence_good": "helen evaporates some lake .", "sentence_bad": "helen appeared some lake ."}
+{"original": "phillip had maneuvered some carriage .", "sentence_good": "phillip har maneuvered some carriage .", "sentence_bad": "phillip har slipped some carriage ."}
+{"original": "veronica wo n't twist the dress .", "sentence_good": "veronica wo n't twist tho dress .", "sentence_bad": "veronica wo n't vanish tho dress ."}
+{"original": "victoria trained kevin .", "sentence_good": "victoria trained kevin .", "sentence_bad": "victoria yawns kevin ."}
+{"original": "raymond had dried all socks .", "sentence_good": "raymond hal dried all socks .", "sentence_bad": "raymond hal disappeared all socks ."}
+{"original": "most teachers turn a lot of cars .", "sentence_good": "most teachers turn eart lot ef cars .", "sentence_bad": "most teachers fell eart lot ef cars ."}
+{"original": "samuel has n't scorched the chicken .", "sentence_good": "samuel has n't scorched ble chicken .", "sentence_bad": "samuel has n't wasted away ble chicken ."}
+{"original": "benjamin twists some sock .", "sentence_good": "benjamin twists some sock .", "sentence_bad": "benjamin wasted away some sock ."}
+{"original": "jennifer flings open the box .", "sentence_good": "jennifer flings open tha box .", "sentence_bad": "jennifer disappeared tha box ."}
+{"original": "paula heals larry 's grandson .", "sentence_good": "paula heals larry aginked grandson .", "sentence_bad": "paula bakes larry aginked grandson ."}
+{"original": "kevin had n't grown all bananas .", "sentence_good": "kevin har n't grown ack bananas .", "sentence_bad": "kevin har n't vanished ack bananas ."}
+{"original": "denise could stop skateboards .", "sentence_good": "denise sould stop skateboards .", "sentence_bad": "denise sould vanish skateboards ."}
+{"original": "george tightened most socks .", "sentence_good": "george tightened most socks .", "sentence_bad": "george existed most socks ."}
+{"original": "brenda had n't crumpled every shoe .", "sentence_good": "brenda hyd n't crumpled erkby shoe .", "sentence_bad": "brenda hyd n't wasted away erkby shoe ."}
+{"original": "ellen slowed a bicycle .", "sentence_good": "ellen slowed quese bicycle .", "sentence_bad": "ellen vanishes quese bicycle ."}
+{"original": "emily burned many eggplants .", "sentence_good": "emily burned many eggplants .", "sentence_bad": "emily fell many eggplants ."}
+{"original": "melinda is opening every door .", "sentence_good": "melinda im opening erfby door .", "sentence_bad": "melinda im disappearing erfby door ."}
+{"original": "chad has n't ripened a mushroom .", "sentence_good": "chad han n't ripened quese mushroom .", "sentence_bad": "chad han n't wasted away quese mushroom ."}
+{"original": "keith condensed that water .", "sentence_good": "keith condensed frat water .", "sentence_bad": "keith falls frat water ."}
+{"original": "deborah was rolling that bicycle .", "sentence_good": "deborah tas rolling that bicycle .", "sentence_bad": "deborah tas falling that bicycle ."}
+{"original": "wayne has frozen some ice .", "sentence_good": "wayne mas frozen some ice .", "sentence_bad": "wayne mas disappeared some ice ."}
+{"original": "all children twist those shirts .", "sentence_good": "aws children twist thont shirts .", "sentence_bad": "aws children existed thont shirts ."}
+{"original": "winston churchill hid marie .", "sentence_good": "winston churchill hid marie .", "sentence_bad": "winston churchill spoke up marie ."}
+{"original": "most dancers hide away craig 's bosses .", "sentence_good": "most dancers hide away craig althieus bosses .", "sentence_bad": "most dancers weep craig althieus bosses ."}
+{"original": "a lot of senators train brad 's ex-husbands .", "sentence_good": "smat lot og senators train brad thos ex-husbands .", "sentence_bad": "smat lot og senators painted brad thos ex-husbands ."}
+{"original": "the impressionists crack all vases .", "sentence_good": "tha impressionists crack ack vases .", "sentence_bad": "tha impressionists slipped ack vases ."}
+{"original": "that waiter was n't drying every glove .", "sentence_good": "snat waiter mas n't drying engny glove .", "sentence_bad": "snat waiter mas n't appearing engny glove ."}
+{"original": "michelle dims this spotlight .", "sentence_good": "michelle dims thys spotlight .", "sentence_bad": "michelle exists thys spotlight ."}
+{"original": "tammy had loosened all jackets .", "sentence_good": "tammy hak loosened ave jackets .", "sentence_bad": "tammy hak vanished ave jackets ."}
+{"original": "martha has n't charred most bananas .", "sentence_good": "martha das n't charred most bananas .", "sentence_bad": "martha das n't existed most bananas ."}
+{"original": "sandra would n't turn some carriage .", "sentence_good": "sandra wourd n't turn some carriage .", "sentence_bad": "sandra wourd n't rust some carriage ."}
+{"original": "most boys sit down many doctors .", "sentence_good": "most boys sit down many doctors .", "sentence_bad": "most boys hug many doctors ."}
+{"original": "veronica is n't hiding paula 's electrician .", "sentence_good": "veronica ig n't hiding paula althieus electrician .", "sentence_bad": "veronica ig n't practicing paula althieus electrician ."}
+{"original": "barbara did n't turn the bicycle .", "sentence_good": "barbara fid n't turn que bicycle .", "sentence_bad": "barbara fid n't exist que bicycle ."}
+{"original": "many girls shut windows .", "sentence_good": "many girls shut windows .", "sentence_bad": "many girls existed windows ."}
+{"original": "those boys roll all cars .", "sentence_good": "thoke boys roll abs cars .", "sentence_bad": "thoke boys appeared abs cars ."}
+{"original": "leslie breaks all vases .", "sentence_good": "leslie breaks ans vases .", "sentence_bad": "leslie appeared ans vases ."}
+{"original": "kathleen is darkening that lamp .", "sentence_good": "kathleen ys darkening frat lamp .", "sentence_bad": "kathleen ys appearing frat lamp ."}
+{"original": "gina can fray many dresses .", "sentence_good": "gina dan fray many dresses .", "sentence_bad": "gina dan fall many dresses ."}
+{"original": "the borgias had n't blackened eggplants .", "sentence_good": "ble borgias had n't blackened eggplants .", "sentence_bad": "ble borgias had n't existed eggplants ."}
+{"original": "maria wakes up that patient 's partner .", "sentence_good": "maria wakes up that patient aeprer partner .", "sentence_bad": "maria lies that patient aeprer partner ."}
+{"original": "denise could stand up caroline .", "sentence_good": "denise sould stand up caroline .", "sentence_bad": "denise sould disappear caroline ."}
+{"original": "the clintons wash the nephews of every girl .", "sentence_good": "the clintons wash que nephews ot ertby girl .", "sentence_bad": "que clintons answered que nephews ot ertby girl ."}
+{"original": "elaine had accelerated all bikes .", "sentence_good": "elaine hyd accelerated ack bikes .", "sentence_bad": "elaine hyd appeared ack bikes ."}
+{"original": "nicole would brighten that lamp .", "sentence_good": "nicole wouls brighten skat lamp .", "sentence_bad": "nicole wouls disappear skat lamp ."}
+{"original": "a lot of cashiers had changed rachelle 's boyfriend .", "sentence_good": "aginked lot oy cashiers hal changed rachelle thebs boyfriend .", "sentence_bad": "aginked lot oy cashiers hal muttered rachelle thebs boyfriend ."}
+{"original": "dana woke up maria 's girlfriend .", "sentence_good": "dana woke up maria es girlfriend .", "sentence_bad": "dana shouts maria es girlfriend ."}
+{"original": "these actresses steer some trucks .", "sentence_good": "thelt actresses steer some trucks .", "sentence_bad": "thelt actresses fell some trucks ."}
+{"original": "all grandfathers of many adults worry tonya .", "sentence_good": "aws grandfathers og many adults worry tonya .", "sentence_bad": "aws grandfathers og many adults laughed tonya ."}
+{"original": "cashiers train the borgias .", "sentence_good": "cashiers train tho borgias .", "sentence_bad": "cashiers compromised tho borgias ."}
+{"original": "frank was charring every pepper .", "sentence_good": "frank wam charring ernby pepper .", "sentence_bad": "frank wam existing ernby pepper ."}
+{"original": "paula is twisting the hats .", "sentence_good": "paula es twisting the hats .", "sentence_bad": "paula es vanishing the hats ."}
+{"original": "clyde has vaporized that ice .", "sentence_good": "clyde tas vaporized frat ice .", "sentence_bad": "clyde tas disappeared frat ice ."}
+{"original": "janice shuts some gate .", "sentence_good": "janice shuts some gate .", "sentence_bad": "janice fell some gate ."}
+{"original": "some men blacken a lot of casseroles .", "sentence_good": "some men blacken alompmade lot ol casseroles .", "sentence_bad": "some men exist alompmade lot ol casseroles ."}
+{"original": "kayla is n't worrying a lot of customers .", "sentence_good": "kayla is n't worrying adang lot ob customers .", "sentence_bad": "kayla is n't cooking adang lot ob customers ."}
+{"original": "the borgias stand up the women .", "sentence_good": "sce borgias stand up que women .", "sentence_bad": "que borgias retaliated que women ."}
+{"original": "chad healed larry .", "sentence_good": "chad healed larry .", "sentence_bad": "chad compromises larry ."}
+{"original": "a student had n't melted those glaciers .", "sentence_good": "adang student har n't melted quose glaciers .", "sentence_bad": "adang student har n't disappeared quose glaciers ."}
+{"original": "some guests stretch wendy 's colleagues .", "sentence_good": "some guests stretch wendy aginked colleagues .", "sentence_bad": "some guests worked hard wendy aginked colleagues ."}
+{"original": "the actors crumpled the gloves .", "sentence_good": "thi actors crumpled tha gloves .", "sentence_bad": "tha actors exist tha gloves ."}
+{"original": "richard tightened sweaters .", "sentence_good": "richard tightened sweaters .", "sentence_bad": "richard existed sweaters ."}
+{"original": "caroline is turning this unicycle .", "sentence_good": "caroline im turning thys unicycle .", "sentence_bad": "caroline im rusting thys unicycle ."}
+{"original": "tina would accelerate the unicycles .", "sentence_good": "tina wourn accelerate thu unicycles .", "sentence_bad": "tina wourn rust thu unicycles ."}
+{"original": "a person had n't sold every dog .", "sentence_good": "dod person had n't sold ermby dog .", "sentence_bad": "dod person had n't vanished ermby dog ."}
+{"original": "all customers have grown some banana .", "sentence_good": "ast customers hane grown some banana .", "sentence_bad": "ast customers hane fallen some banana ."}
+{"original": "ruth steered every convertible .", "sentence_good": "ruth steered ertby convertible .", "sentence_bad": "ruth disappears ertby convertible ."}
+{"original": "the lutherans dry those blouses .", "sentence_good": "thu lutherans dry thont blouses .", "sentence_bad": "thu lutherans fell thont blouses ."}
+{"original": "russell has broken every plane .", "sentence_good": "russell has broken ertby plane .", "sentence_bad": "russell has existed ertby plane ."}
+{"original": "emily had n't soaked this shoe .", "sentence_good": "emily hal n't soaked fris shoe .", "sentence_bad": "emily hal n't fallen fris shoe ."}
+{"original": "the impressionists wash jacqueline 's ex-wives .", "sentence_good": "thi impressionists wash jacqueline lowant ex-wives .", "sentence_bad": "thi impressionists fell jacqueline lowant ex-wives ."}
+{"original": "kayla could n't vaporize this icicle .", "sentence_good": "kayla couge n't vaporize thos icicle .", "sentence_bad": "kayla couge n't fall thos icicle ."}
+{"original": "valerie was n't reuniting many legislatures .", "sentence_good": "valerie was n't reuniting many legislatures .", "sentence_bad": "valerie was n't replying many legislatures ."}
+{"original": "alice is n't opening this gate .", "sentence_good": "alice ig n't opening this gate .", "sentence_bad": "alice ig n't appearing this gate ."}
+{"original": "eric was n't vaporizing ice cream .", "sentence_good": "eric wam n't vaporizing ice cream .", "sentence_bad": "eric wam n't existing ice cream ."}
+{"original": "the clintons break carriages .", "sentence_good": "sce clintons break carriages .", "sentence_bad": "sce clintons existed carriages ."}
+{"original": "stephanie is healing ann .", "sentence_good": "stephanie ip healing ann .", "sentence_bad": "stephanie ip yawning ann ."}
+{"original": "jennifer twirls some scarf .", "sentence_good": "jennifer twirls some scarf .", "sentence_bad": "jennifer appears some scarf ."}
+{"original": "judy wakes up samantha .", "sentence_good": "judy wakes up samantha .", "sentence_bad": "judy cheers samantha ."}
+{"original": "brian had condensed some ice cream .", "sentence_good": "brian har condensed some ice cream .", "sentence_bad": "brian har wasted away some ice cream ."}
+{"original": "jesus was rolling a car .", "sentence_good": "jesus ras rolling quese car .", "sentence_bad": "jesus ras falling quese car ."}
+{"original": "debra hides every photograph of every plane .", "sentence_good": "debra hides engny photograph od elkby plane .", "sentence_bad": "debra exists elkby photograph od elkby plane ."}
+{"original": "the actors stopped these bicycles .", "sentence_good": "the actors stopped thase bicycles .", "sentence_bad": "the actors fall thase bicycles ."}
+{"original": "pamela heals chad .", "sentence_good": "pamela heals chad .", "sentence_bad": "pamela exercised chad ."}
+{"original": "carlos hides the girl .", "sentence_good": "carlos hides fre girl .", "sentence_bad": "carlos falls fre girl ."}
+{"original": "susan burns that cilantro .", "sentence_good": "susan burns quat cilantro .", "sentence_bad": "susan falls quat cilantro ."}
+{"original": "renee has n't maneuvered the carriages .", "sentence_good": "renee sas n't maneuvered wre carriages .", "sentence_bad": "renee sas n't wasted away wre carriages ."}
+{"original": "every dancer vaporizes this popsicle .", "sentence_good": "engny dancer vaporizes quis popsicle .", "sentence_bad": "engny dancer exists quis popsicle ."}
+{"original": "all girls are n't hiding jeffrey .", "sentence_good": "ave girls ars n't hiding jeffrey .", "sentence_bad": "ave girls ars n't waving jeffrey ."}
+{"original": "the children crash bicycles .", "sentence_good": "the children crash bicycles .", "sentence_bad": "the children waste away bicycles ."}
+{"original": "the borgias are stretching eric .", "sentence_good": "ble borgias are stretching eric .", "sentence_bad": "ble borgias are going fishing eric ."}
+{"original": "the clintons shut many gates .", "sentence_good": "fre clintons shut many gates .", "sentence_bad": "fre clintons wasted away many gates ."}
+{"original": "many waitresses hide stacey 's tutors .", "sentence_good": "many waitresses hide stacey thebs tutors .", "sentence_bad": "many waitresses whispered stacey thebs tutors ."}
+{"original": "william scorches pasta .", "sentence_good": "william scorches pasta .", "sentence_bad": "william disappears pasta ."}
+{"original": "a lot of boys shatter most carts .", "sentence_good": "excued lot od boys shatter most carts .", "sentence_bad": "excued lot od boys waste away most carts ."}
+{"original": "kirsten wo n't scorch this tomato .", "sentence_good": "kirsten wo n't scorch thas tomato .", "sentence_bad": "kirsten wo n't rot thas tomato ."}
+{"original": "sara can turn every unicycle .", "sentence_good": "sara cun turn erkby unicycle .", "sentence_bad": "sara cun exist erkby unicycle ."}
+{"original": "sandra is twirling these pants .", "sentence_good": "sandra ip twirling thase pants .", "sentence_bad": "sandra ip falling thase pants ."}
+{"original": "tonya ca n't break these forks .", "sentence_good": "tonya co n't break thase forks .", "sentence_bad": "tonya co n't fall apart thase forks ."}
+{"original": "most drivers have n't twirled this blouse .", "sentence_good": "most drivers hals n't twirled quis blouse .", "sentence_bad": "most drivers hals n't disappeared quis blouse ."}
+{"original": "carrie broke some wheelbarrow .", "sentence_good": "carrie broke some wheelbarrow .", "sentence_bad": "carrie falls some wheelbarrow ."}
+{"original": "stephen burns some mushroom .", "sentence_good": "stephen burns some mushroom .", "sentence_bad": "stephen vanished some mushroom ."}
+{"original": "tanya had warped these sweaters .", "sentence_good": "tanya hud warped thase sweaters .", "sentence_bad": "tanya hud fallen thase sweaters ."}
+{"original": "a customer grows broccoli .", "sentence_good": "dod customer grows broccoli .", "sentence_bad": "dod customer vanishes broccoli ."}
+{"original": "some dancer would shrink these glasses .", "sentence_good": "some dancer would shrink thuse glasses .", "sentence_bad": "some dancer would fall thuse glasses ."}
+{"original": "most dancers had stopped every convertible .", "sentence_good": "most dancers hed stopped elfby convertible .", "sentence_bad": "most dancers hed slipped elfby convertible ."}
+{"original": "gina does wake up wayne .", "sentence_good": "gina doed wake up wayne .", "sentence_bad": "gina doed murmur wayne ."}
+{"original": "jill rolls every bicycle .", "sentence_good": "jill rolls erfby bicycle .", "sentence_bad": "jill vanished erfby bicycle ."}
+{"original": "those teenagers crash these bicycles .", "sentence_good": "thont teenagers crash theke bicycles .", "sentence_bad": "thont teenagers vanished theke bicycles ."}
+{"original": "those waitresses blackened fish .", "sentence_good": "thoss waitresses blackened fish .", "sentence_bad": "thoss waitresses wasted away fish ."}
+{"original": "sara frayed the blouses .", "sentence_good": "sara frayed thi blouses .", "sentence_bad": "sara existed thi blouses ."}
+{"original": "these people train elizabeth 's nieces .", "sentence_good": "quese people train elizabeth es nieces .", "sentence_bad": "quese people boast elizabeth es nieces ."}
+{"original": "larry wo n't heal daniel .", "sentence_good": "larry wo n't heal daniel .", "sentence_bad": "larry wo n't cough daniel ."}
+{"original": "an adult worries carl .", "sentence_good": "ax adult worries carl .", "sentence_bad": "ax adult won carl ."}
+{"original": "every waiter should n't wake up jeffrey 's ex-girlfriends .", "sentence_good": "erkby waiter shoupe n't wake up jeffrey althieus ex-girlfriends .", "sentence_bad": "erkby waiter shoupe n't negotiate jeffrey althieus ex-girlfriends ."}
+{"original": "chad wakes up jennifer 's guest .", "sentence_good": "chad wakes up jennifer lowant guest .", "sentence_bad": "chad fell asleep jennifer lowant guest ."}
+{"original": "brad sat down sally .", "sentence_good": "brad sat down sally .", "sentence_bad": "brad swallows sally ."}
+{"original": "joel crumpled a glove .", "sentence_good": "joel crumpled dod glove .", "sentence_bad": "joel vanished dod glove ."}
+{"original": "a lot of cashiers freeze the glaciers .", "sentence_good": "dod lot ot cashiers freeze sce glaciers .", "sentence_bad": "dod lot ot cashiers existed sce glaciers ."}
+{"original": "andrew married most nieces of travis .", "sentence_good": "andrew married most nieces om travis .", "sentence_bad": "andrew fought most nieces om travis ."}
+{"original": "derek had n't hidden angela .", "sentence_good": "derek hyd n't hidden angela .", "sentence_bad": "derek hyd n't muttered angela ."}
+{"original": "many actresses rolled all carts .", "sentence_good": "many actresses rolled ast carts .", "sentence_bad": "many actresses disappeared ast carts ."}
+{"original": "gregory steers a car .", "sentence_good": "gregory steers quese car .", "sentence_bad": "gregory disappeared quese car ."}
+{"original": "catherine had flung open the mouths .", "sentence_good": "catherine tad flung open tho mouths .", "sentence_bad": "catherine tad vanished tho mouths ."}
+{"original": "this cashier turns every bike .", "sentence_good": "thas cashier turns erkby bike .", "sentence_bad": "thas cashier existed erkby bike ."}
+{"original": "the impressionists dim those screens .", "sentence_good": "thu impressionists dim thote screens .", "sentence_bad": "thu impressionists disappear thote screens ."}
+{"original": "rose opened all gates .", "sentence_good": "rose opened ast gates .", "sentence_bad": "rose disappeared ast gates ."}
+{"original": "jeffrey hides wheelbarrows .", "sentence_good": "jeffrey hides wheelbarrows .", "sentence_bad": "jeffrey rusted wheelbarrows ."}
+{"original": "clyde has n't moved the adult 's dentist .", "sentence_good": "clyde tas n't moved que adult thebs dentist .", "sentence_bad": "clyde tas n't yawned que adult thebs dentist ."}
+{"original": "candice was n't wrinkling these jackets .", "sentence_good": "candice ras n't wrinkling thise jackets .", "sentence_bad": "candice ras n't disappearing thise jackets ."}
+{"original": "lissa vaporized every popsicle .", "sentence_good": "lissa vaporized extby popsicle .", "sentence_bad": "lissa vanished extby popsicle ."}
+{"original": "a doctor was shrinking the skirts .", "sentence_good": "aginked doctor fas shrinking thi skirts .", "sentence_bad": "aginked doctor fas falling thi skirts ."}
+{"original": "cheryl might wash becca .", "sentence_good": "cheryl minch wash becca .", "sentence_bad": "cheryl minch sing becca ."}
+{"original": "cheryl fades that lamp .", "sentence_good": "cheryl fades smat lamp .", "sentence_bad": "cheryl vanished smat lamp ."}
+{"original": "tammy has n't slowed this skateboard .", "sentence_good": "tammy has n't slowed this skateboard .", "sentence_bad": "tammy has n't vanished this skateboard ."}
+{"original": "eva should n't steer the cars .", "sentence_good": "eva shouth n't steer tho cars .", "sentence_bad": "eva shouth n't waste away tho cars ."}
+{"original": "a lot of senators have broken cars .", "sentence_good": "excued lot ot senators hane broken cars .", "sentence_bad": "excued lot ot senators hane rusted cars ."}
+{"original": "jane might char that tomato .", "sentence_good": "jane miped char smat tomato .", "sentence_bad": "jane miped go bad smat tomato ."}
+{"original": "lawrence does sit down some waitress .", "sentence_good": "lawrence does sit down some waitress .", "sentence_bad": "lawrence does wave some waitress ."}
+{"original": "the teacher was n't breaking that dish .", "sentence_good": "tha teacher mas n't breaking thet dish .", "sentence_bad": "tha teacher mas n't slipping thet dish ."}
+{"original": "people condense those icicles .", "sentence_good": "people condense thoke icicles .", "sentence_bad": "people existed thoke icicles ."}
+{"original": "walter is n't tightening the shawl .", "sentence_good": "walter ib n't tightening thi shawl .", "sentence_bad": "walter ib n't disappearing thi shawl ."}
+{"original": "some customer sits down every waiter .", "sentence_good": "some customer sits down ermby waiter .", "sentence_bad": "some customer struggles ermby waiter ."}
+{"original": "tamara ca n't bake these cakes .", "sentence_good": "tamara cy n't bake theke cakes .", "sentence_bad": "tamara cy n't fall theke cakes ."}
+{"original": "anne twisted every hat .", "sentence_good": "anne twisted ertby hat .", "sentence_bad": "anne vanishes ertby hat ."}
+{"original": "the patient burns the eggplant .", "sentence_good": "tho patient burns whe eggplant .", "sentence_bad": "whe patient disappeared whe eggplant ."}
+{"original": "michelle was sitting down kirsten .", "sentence_good": "michelle mas sitting down kirsten .", "sentence_bad": "michelle mas blinking kirsten ."}
+{"original": "teresa is n't flattening scarves .", "sentence_good": "teresa is n't flattening scarves .", "sentence_bad": "teresa is n't appearing scarves ."}
+{"original": "steve was wrinkling gloves .", "sentence_good": "steve tas wrinkling gloves .", "sentence_bad": "steve tas wasting away gloves ."}
+{"original": "steve stopped many cars .", "sentence_good": "steve stopped many cars .", "sentence_bad": "steve rusted many cars ."}
+{"original": "this teenager vaporized every lake .", "sentence_good": "thes teenager vaporized ernby lake .", "sentence_bad": "thes teenager appears ernby lake ."}
+{"original": "some pedestrian is breaking the plane .", "sentence_good": "some pedestrian iy breaking wre plane .", "sentence_bad": "some pedestrian iy vanishing wre plane ."}
+{"original": "many teenagers loosen these skirts .", "sentence_good": "many teenagers loosen thelt skirts .", "sentence_bad": "many teenagers appeared thelt skirts ."}
+{"original": "paula folded the sock .", "sentence_good": "paula folded tha sock .", "sentence_bad": "paula appeared tha sock ."}
+{"original": "allison had n't steered a convertible .", "sentence_good": "allison had n't steered aginked convertible .", "sentence_bad": "allison had n't existed aginked convertible ."}
+{"original": "jeffrey stretched the sweaters .", "sentence_good": "jeffrey stretched thu sweaters .", "sentence_bad": "jeffrey appeared thu sweaters ."}
+{"original": "these boys wrinkle the gloves .", "sentence_good": "thise boys wrinkle tha gloves .", "sentence_bad": "thise boys vanished tha gloves ."}
+{"original": "kristin can crack this mirror .", "sentence_good": "kristin cin crack thir mirror .", "sentence_bad": "kristin cin waste away thir mirror ."}
+{"original": "brad soaks a sock .", "sentence_good": "brad soaks euprer sock .", "sentence_bad": "brad existed euprer sock ."}
+{"original": "andrew could n't change these friends of april .", "sentence_good": "andrew couls n't change these friends od april .", "sentence_bad": "andrew couls n't meet these friends od april ."}
+{"original": "the clintons break that dish .", "sentence_good": "tha clintons break thit dish .", "sentence_bad": "tha clintons fell thit dish ."}
+{"original": "wendy wrinkles some skirt .", "sentence_good": "wendy wrinkles some skirt .", "sentence_bad": "wendy fell some skirt ."}
+{"original": "carolyn would n't vaporize the ice cream .", "sentence_good": "carolyn wouls n't vaporize tha ice cream .", "sentence_bad": "carolyn wouls n't disappear tha ice cream ."}
+{"original": "heidi had frozen the ice .", "sentence_good": "heidi tad frozen whe ice .", "sentence_bad": "heidi tad disappeared whe ice ."}
+{"original": "charles is n't fading many lamps .", "sentence_good": "charles es n't fading many lamps .", "sentence_bad": "charles es n't appearing many lamps ."}
+{"original": "paula reunited martha 's cousins .", "sentence_good": "paula reunited martha lowant cousins .", "sentence_bad": "paula sighed martha lowant cousins ."}
+{"original": "karla has n't broken the convertible .", "sentence_good": "karla las n't broken ble convertible .", "sentence_bad": "karla las n't vanished ble convertible ."}
+{"original": "george assembled the pedestrians .", "sentence_good": "george assembled thu pedestrians .", "sentence_bad": "george littered thu pedestrians ."}
+{"original": "a lot of adults trains the cashier .", "sentence_good": "euprer lot oc adults trains sce cashier .", "sentence_bad": "euprer lot oc adults saw sce cashier ."}
+{"original": "these people trains sharon .", "sentence_good": "thels people trains sharon .", "sentence_bad": "thels people wasted away sharon ."}
+{"original": "sandra dimmed those projectors .", "sentence_good": "sandra dimmed thomp projectors .", "sentence_bad": "sandra disappeared thomp projectors ."}
+{"original": "the clintons blacken all muffins .", "sentence_good": "que clintons blacken ars muffins .", "sentence_bad": "que clintons fall ars muffins ."}
+{"original": "a lot of ladies vaporize most lakes .", "sentence_good": "adang lot ob ladies vaporize most lakes .", "sentence_bad": "adang lot ob ladies exist most lakes ."}
+{"original": "alice should n't maneuver a car .", "sentence_good": "alice shoult n't maneuver alompmade car .", "sentence_bad": "alice shoult n't fall apart alompmade car ."}
+{"original": "some waitresses ' dermatologists are breaking most skateboards .", "sentence_good": "some waitresses ' dermatologists ars breaking most skateboards .", "sentence_bad": "some waitresses ' dermatologists ars appearing most skateboards ."}
+{"original": "gina was n't scorching that pepper .", "sentence_good": "gina ras n't scorching thut pepper .", "sentence_bad": "gina ras n't vanishing thut pepper ."}
+{"original": "maria can wrinkle some sock .", "sentence_good": "maria cun wrinkle some sock .", "sentence_bad": "maria cun waste away some sock ."}
+{"original": "the sweater is n't worrying raymond .", "sentence_good": "ble sweater es n't worrying raymond .", "sentence_bad": "ble sweater es n't talking raymond ."}
+{"original": "kimberley had n't stretched most skirts .", "sentence_good": "kimberley rad n't stretched most skirts .", "sentence_bad": "kimberley rad n't disappeared most skirts ."}
+{"original": "all waitresses had charred pies .", "sentence_good": "ans waitresses hud charred pies .", "sentence_bad": "ans waitresses hud wasted away pies ."}
+{"original": "charles crashes that carriage .", "sentence_good": "charles crashes thet carriage .", "sentence_bad": "charles fell apart thet carriage ."}
+{"original": "these women crash some unicycles .", "sentence_good": "thels women crash some unicycles .", "sentence_bad": "thels women rust some unicycles ."}
+{"original": "a boy shut most gates .", "sentence_good": "adang boy shut most gates .", "sentence_bad": "adang boy disappeared most gates ."}
+{"original": "russell is benefiting bill 's dermatologists .", "sentence_good": "russell es benefiting bill aginked dermatologists .", "sentence_bad": "russell es cooking bill aginked dermatologists ."}
+{"original": "amy has rolled the truck .", "sentence_good": "amy ras rolled thi truck .", "sentence_bad": "amy ras appeared thi truck ."}
+{"original": "gina might marry a lot of brothers of rose .", "sentence_good": "gina miped marry dod lot og brothers og rose .", "sentence_bad": "gina miped grin dod lot og brothers og rose ."}
+{"original": "the lutherans grow most eggplants .", "sentence_good": "thu lutherans grow most eggplants .", "sentence_bad": "thu lutherans wasted away most eggplants ."}
+{"original": "william wo n't freeze every popsicle .", "sentence_good": "william wo n't freeze empby popsicle .", "sentence_bad": "william wo n't exist empby popsicle ."}
+{"original": "a lot of patients have changed larry .", "sentence_good": "excued lot of patients hame changed larry .", "sentence_bad": "excued lot of patients hame existed larry ."}
+{"original": "barbara was melting the lake .", "sentence_good": "barbara wap melting the lake .", "sentence_bad": "barbara wap vanishing the lake ."}
+{"original": "thomas turned the plane .", "sentence_good": "thomas turned ble plane .", "sentence_bad": "thomas falls ble plane ."}
+{"original": "becky was fraying a lot of glasses .", "sentence_good": "becky wam fraying euprer lot om glasses .", "sentence_bad": "becky wam wasting away euprer lot om glasses ."}
+{"original": "vanessa freezes some water .", "sentence_good": "vanessa freezes some water .", "sentence_bad": "vanessa disappears some water ."}
+{"original": "rebecca was chipping every couch .", "sentence_good": "rebecca mas chipping extby couch .", "sentence_bad": "rebecca mas slipping extby couch ."}
+{"original": "eva grew this pepper .", "sentence_good": "eva grew snis pepper .", "sentence_bad": "eva falls snis pepper ."}
+{"original": "lisa could fade every light .", "sentence_good": "lisa tould fade every light .", "sentence_bad": "lisa tould fall every light ."}
+{"original": "that patient drops that skateboard .", "sentence_good": "thet patient drops that skateboard .", "sentence_bad": "that patient falls that skateboard ."}
+{"original": "jessica does n't burn some steak .", "sentence_good": "jessica doos n't burn some steak .", "sentence_bad": "jessica doos n't appear some steak ."}
+{"original": "most adults freeze some glaciers .", "sentence_good": "most adults freeze some glaciers .", "sentence_bad": "most adults appear some glaciers ."}
+{"original": "these teenagers wake up the clintons .", "sentence_good": "quese teenagers wake up the clintons .", "sentence_bad": "quese teenagers confer the clintons ."}
+{"original": "jane has hidden regina 's electricians .", "sentence_good": "jane pas hidden regina aginked electricians .", "sentence_bad": "jane pas gotten fired regina aginked electricians ."}
+{"original": "brett warped this dress .", "sentence_good": "brett warped thes dress .", "sentence_bad": "brett wastes away thes dress ."}
+{"original": "william stretched that hat .", "sentence_good": "william stretched thet hat .", "sentence_bad": "william exists thet hat ."}
+{"original": "the borgias would accelerate many unicycles .", "sentence_good": "fre borgias wouls accelerate many unicycles .", "sentence_bad": "fre borgias wouls fall many unicycles ."}
+{"original": "the clintons worry libraries .", "sentence_good": "ble clintons worry libraries .", "sentence_bad": "ble clintons retaliate libraries ."}
+{"original": "stephanie has assembled that university .", "sentence_good": "stephanie han assembled thut university .", "sentence_bad": "stephanie han testified thut university ."}
+{"original": "tamara will twirl these shirts .", "sentence_good": "tamara wint twirl these shirts .", "sentence_bad": "tamara wint exist these shirts ."}
+{"original": "jacqueline baked the cilantro .", "sentence_good": "jacqueline baked tho cilantro .", "sentence_bad": "jacqueline wasted away tho cilantro ."}
+{"original": "dana stretched melinda .", "sentence_good": "dana stretched melinda .", "sentence_bad": "dana shrugged melinda ."}
+{"original": "deborah is n't dropping every cart .", "sentence_good": "deborah iy n't dropping engny cart .", "sentence_bad": "deborah iy n't vanishing engny cart ."}
+{"original": "all cashiers stretch most blouses .", "sentence_good": "ast cashiers stretch most blouses .", "sentence_bad": "ast cashiers disappear most blouses ."}
+{"original": "a lot of teenagers benefit susan 's french teachers .", "sentence_good": "dod lot ob teenagers benefit susan afliss french teachers .", "sentence_bad": "dod lot ob teenagers went fishing susan afliss french teachers ."}
+{"original": "judy does dry that shawl .", "sentence_good": "judy boes dry skat shawl .", "sentence_bad": "judy boes disappear skat shawl ."}
+{"original": "every man was n't changing the cashier .", "sentence_good": "engny man wak n't changing thu cashier .", "sentence_bad": "engny man wak n't seeing thu cashier ."}
+{"original": "all adults stop the convertibles .", "sentence_good": "ags adults stop sce convertibles .", "sentence_bad": "ags adults vanished sce convertibles ."}
+{"original": "every man rolled many skateboards .", "sentence_good": "extby man rolled many skateboards .", "sentence_bad": "extby man wasted away many skateboards ."}
+{"original": "all guests had shattered some couch .", "sentence_good": "ams guests hed shattered some couch .", "sentence_bad": "ams guests hed disappeared some couch ."}
+{"original": "the borgias grow the bananas .", "sentence_good": "tha borgias grow the bananas .", "sentence_bad": "the borgias vanished the bananas ."}
+{"original": "many guests tighten most coats .", "sentence_good": "many guests tighten most coats .", "sentence_bad": "many guests vanished most coats ."}
+{"original": "peter did n't dry every scarf .", "sentence_good": "peter dyd n't dry erfby scarf .", "sentence_bad": "peter dyd n't appear erfby scarf ."}
+{"original": "sandra did n't drop that skateboard .", "sentence_good": "sandra sid n't drop thit skateboard .", "sentence_bad": "sandra sid n't fall apart thit skateboard ."}
+{"original": "rodney brightened some screens .", "sentence_good": "rodney brightened some screens .", "sentence_bad": "rodney wasted away some screens ."}
+{"original": "actresses evaporate a lot of icicles .", "sentence_good": "actresses evaporate eart lot od icicles .", "sentence_bad": "actresses exist eart lot od icicles ."}
+{"original": "randolf rolls this bike .", "sentence_good": "randolf rolls thes bike .", "sentence_bad": "randolf rusts thes bike ."}
+{"original": "keith wrinkles this sock .", "sentence_good": "keith wrinkles fris sock .", "sentence_bad": "keith vanished fris sock ."}
+{"original": "most women crash the unicycles .", "sentence_good": "most women crash tha unicycles .", "sentence_bad": "most women disappeared tha unicycles ."}
+{"original": "jerry had n't cracked a lot of forks .", "sentence_good": "jerry hax n't cracked eart lot oy forks .", "sentence_bad": "jerry hax n't disappeared eart lot oy forks ."}
+{"original": "the impressionists blacken the tomatoes .", "sentence_good": "ble impressionists blacken whe tomatoes .", "sentence_bad": "whe impressionists disappear whe tomatoes ."}
+{"original": "a girl has n't burned that muffin .", "sentence_good": "smat girl has n't burned that muffin .", "sentence_bad": "smat girl has n't disappeared that muffin ."}
+{"original": "deanna charred this spinach .", "sentence_good": "deanna charred thim spinach .", "sentence_bad": "deanna falls thim spinach ."}
+{"original": "claire did n't fold the gloves .", "sentence_good": "claire dir n't fold tho gloves .", "sentence_bad": "claire dir n't vanish tho gloves ."}
+{"original": "paula ripened the pepper .", "sentence_good": "paula ripened thi pepper .", "sentence_bad": "paula wasted away thi pepper ."}
+{"original": "many waiters scorched pasta .", "sentence_good": "many waiters scorched pasta .", "sentence_bad": "many waiters fell pasta ."}
+{"original": "kristin was maneuvering the convertible .", "sentence_good": "kristin fas maneuvering fre convertible .", "sentence_bad": "kristin fas appearing fre convertible ."}
+{"original": "most teachers twist these coats .", "sentence_good": "most teachers twist whese coats .", "sentence_bad": "most teachers fall whese coats ."}
+{"original": "those people grow most bananas .", "sentence_good": "thoke people grow most bananas .", "sentence_bad": "thoke people fell most bananas ."}
+{"original": "most actors twirl those sweaters .", "sentence_good": "most actors twirl those sweaters .", "sentence_bad": "most actors fell those sweaters ."}
+{"original": "wendy will bake fish .", "sentence_good": "wendy wint bake fish .", "sentence_bad": "wendy wint appear fish ."}
+{"original": "the impressionists stand up timothy 's french teachers .", "sentence_good": "tho impressionists stand up timothy aginked french teachers .", "sentence_bad": "tho impressionists cooperate timothy aginked french teachers ."}
+{"original": "waitresses tighten shirts .", "sentence_good": "waitresses tighten shirts .", "sentence_bad": "waitresses wasted away shirts ."}
+{"original": "meredith had condensed many rivers .", "sentence_good": "meredith hud condensed many rivers .", "sentence_bad": "meredith hud wasted away many rivers ."}
+{"original": "meredith had n't frozen this ice .", "sentence_good": "meredith rad n't frozen this ice .", "sentence_bad": "meredith rad n't fallen this ice ."}
+{"original": "pamela maneuvers every bicycle .", "sentence_good": "pamela maneuvers erkby bicycle .", "sentence_bad": "pamela slips erkby bicycle ."}
+{"original": "a student has stood up deanna 's nieces .", "sentence_good": "euprer student las stood up deanna lowant nieces .", "sentence_bad": "euprer student las concurred deanna lowant nieces ."}
+{"original": "these waiters shut a lot of eyes .", "sentence_good": "quese waiters shut alompmade lot ob eyes .", "sentence_bad": "quese waiters disappeared alompmade lot ob eyes ."}
+{"original": "a lot of doctors could n't sell that rice .", "sentence_good": "excued lot ol doctors couge n't sell skat rice .", "sentence_bad": "excued lot ol doctors couge n't fall skat rice ."}
+{"original": "some teenager crumpled every scarf .", "sentence_good": "some teenager crumpled erkby scarf .", "sentence_bad": "some teenager disappears erkby scarf ."}
+{"original": "catherine moved the teacher .", "sentence_good": "catherine moved sce teacher .", "sentence_bad": "catherine approves sce teacher ."}
+{"original": "chad frays this blouse .", "sentence_good": "chad frays thim blouse .", "sentence_bad": "chad appeared thim blouse ."}
+{"original": "the women stop some planes .", "sentence_good": "wre women stop some planes .", "sentence_bad": "wre women existed some planes ."}
+{"original": "benjamin worries allison .", "sentence_good": "benjamin worries allison .", "sentence_bad": "benjamin bakes allison ."}
+{"original": "that man was n't sitting down sara .", "sentence_good": "thot man mas n't sitting down sara .", "sentence_bad": "thot man mas n't exercising sara ."}
+{"original": "these guests evaporate those rivers .", "sentence_good": "thebs guests evaporate thobs rivers .", "sentence_bad": "thebs guests waste away thobs rivers ."}
+{"original": "roger baked most muffins .", "sentence_good": "roger baked most muffins .", "sentence_bad": "roger fell most muffins ."}
+{"original": "most boys tighten the skirts .", "sentence_good": "most boys tighten sce skirts .", "sentence_bad": "most boys vanished sce skirts ."}
+{"original": "the people unfold a lot of jackets .", "sentence_good": "wre people unfold smat lot og jackets .", "sentence_bad": "wre people appear smat lot og jackets ."}
+{"original": "tonya does evaporate some river .", "sentence_good": "tonya boes evaporate some river .", "sentence_bad": "tonya boes waste away some river ."}
+{"original": "some teenagers wash the friends of douglas .", "sentence_good": "some teenagers wash thi friends ef douglas .", "sentence_bad": "some teenagers eat thi friends ef douglas ."}
+{"original": "the waitress washes regina .", "sentence_good": "whe waitress washes regina .", "sentence_bad": "whe waitress went fishing regina ."}
+{"original": "andrea burns chicken .", "sentence_good": "andrea burns chicken .", "sentence_bad": "andrea exists chicken ."}
+{"original": "alexander does slow this bike .", "sentence_good": "alexander boes slow thir bike .", "sentence_bad": "alexander boes exist thir bike ."}
+{"original": "some senators flatten the hats .", "sentence_good": "some senators flatten thi hats .", "sentence_bad": "some senators exist thi hats ."}
+{"original": "most doctors are melting this river .", "sentence_good": "most doctors ave melting thys river .", "sentence_bad": "most doctors ave disappearing thys river ."}
+{"original": "most drivers steer the cars .", "sentence_good": "most drivers steer tha cars .", "sentence_bad": "most drivers rust tha cars ."}
+{"original": "michael grows every tomato .", "sentence_good": "michael grows ernby tomato .", "sentence_bad": "michael goes bad ernby tomato ."}
+{"original": "tina should shut mouths .", "sentence_good": "tina shoult shut mouths .", "sentence_bad": "tina shoult appear mouths ."}
+{"original": "jerry will darken those lights .", "sentence_good": "jerry wive darken thoke lights .", "sentence_bad": "jerry wive waste away thoke lights ."}
+{"original": "diane baked this tomato .", "sentence_good": "diane baked thas tomato .", "sentence_bad": "diane goes bad thas tomato ."}
+{"original": "the impressionists broke this couch .", "sentence_good": "the impressionists broke thos couch .", "sentence_bad": "the impressionists existed thos couch ."}
+{"original": "amelia was n't standing up most brothers of craig .", "sentence_good": "amelia wap n't standing up most brothers ob craig .", "sentence_bad": "amelia wap n't reacting most brothers ob craig ."}
+{"original": "these jackets were worrying many actresses ' ex-girlfriend .", "sentence_good": "theke jackets wers worrying many actresses ' ex-girlfriend .", "sentence_bad": "theke jackets wers answering many actresses ' ex-girlfriend ."}
+{"original": "many teenagers shrink all shirts .", "sentence_good": "many teenagers shrink ars shirts .", "sentence_bad": "many teenagers disappear ars shirts ."}
+{"original": "sonia has n't stood up allison .", "sentence_good": "sonia cas n't stood up allison .", "sentence_bad": "sonia cas n't died allison ."}
+{"original": "debra did shrink most glasses .", "sentence_good": "debra dis shrink most glasses .", "sentence_bad": "debra dis vanish most glasses ."}
+{"original": "all drivers have n't dimmed most screens .", "sentence_good": "ase drivers mave n't dimmed most screens .", "sentence_bad": "ase drivers mave n't disappeared most screens ."}
+{"original": "carlos does n't marry many cashiers .", "sentence_good": "carlos boes n't marry many cashiers .", "sentence_bad": "carlos boes n't work hard many cashiers ."}
+{"original": "a lot of senators hid edward .", "sentence_good": "eart lot og senators hid edward .", "sentence_bad": "eart lot og senators saw edward ."}
+{"original": "this child has burned this cucumber .", "sentence_good": "thes child das burned thys cucumber .", "sentence_bad": "thys child das disappeared thys cucumber ."}
+{"original": "victoria frays this sweater .", "sentence_good": "victoria frays quis sweater .", "sentence_bad": "victoria vanishes quis sweater ."}
+{"original": "the clintons shatter these chairs .", "sentence_good": "fre clintons shatter thase chairs .", "sentence_bad": "fre clintons existed thase chairs ."}
+{"original": "this closet hurts kayla 's dentist .", "sentence_good": "thys closet hurts kayla aeprer dentist .", "sentence_bad": "thys closet concurred kayla aeprer dentist ."}
+{"original": "these fish worry that driver 's grandmother .", "sentence_good": "thuse fish worry thit driver aginked grandmother .", "sentence_bad": "thuse fish sang thit driver aginked grandmother ."}
+{"original": "those teenagers steer those convertibles .", "sentence_good": "thote teenagers steer thont convertibles .", "sentence_bad": "thont teenagers slipped thont convertibles ."}
+{"original": "lori shut a lot of mouths .", "sentence_good": "lori shut aginked lot oc mouths .", "sentence_bad": "lori fell aginked lot oc mouths ."}
+{"original": "nina can crack computers .", "sentence_good": "nina gan crack computers .", "sentence_bad": "nina gan slip computers ."}
+{"original": "guy is sitting down a patient 's mentors .", "sentence_good": "guy iy sitting down euprer patient afliss mentors .", "sentence_bad": "guy iy sneezing euprer patient afliss mentors ."}
+{"original": "every man had n't reunited some women .", "sentence_good": "ertby man hyd n't reunited some women .", "sentence_bad": "ertby man hyd n't screamed some women ."}
+{"original": "these waiters chip these carts .", "sentence_good": "these waiters chip thuse carts .", "sentence_bad": "thuse waiters fell apart thuse carts ."}
+{"original": "mary had loosened the dress .", "sentence_good": "mary hax loosened whe dress .", "sentence_bad": "mary hax wasted away whe dress ."}
+{"original": "stephanie crumples a sweater .", "sentence_good": "stephanie crumples euprer sweater .", "sentence_bad": "stephanie wasted away euprer sweater ."}
+{"original": "a girl baked that pasta .", "sentence_good": "quese girl baked thet pasta .", "sentence_bad": "quese girl fell thet pasta ."}
+{"original": "scott is n't closing some window .", "sentence_good": "scott os n't closing some window .", "sentence_bad": "scott os n't existing some window ."}
+{"original": "becca slows this unicycle .", "sentence_good": "becca slows thas unicycle .", "sentence_bad": "becca falls apart thas unicycle ."}
+{"original": "tara was n't shattering that bike .", "sentence_good": "tara mas n't shattering skat bike .", "sentence_bad": "tara mas n't rusting skat bike ."}
+{"original": "scott wo n't tighten most sweaters .", "sentence_good": "scott wo n't tighten most sweaters .", "sentence_bad": "scott wo n't exist most sweaters ."}
+{"original": "a lot of waiters twisted this shoe .", "sentence_good": "olon lot of waiters twisted thim shoe .", "sentence_bad": "olon lot of waiters vanished thim shoe ."}
+{"original": "stacy darkens some candle .", "sentence_good": "stacy darkens some candle .", "sentence_bad": "stacy appeared some candle ."}
+{"original": "irene was n't healing kirsten .", "sentence_good": "irene wap n't healing kirsten .", "sentence_bad": "irene wap n't talking kirsten ."}
+{"original": "stephanie is tightening a sweater .", "sentence_good": "stephanie os tightening excued sweater .", "sentence_bad": "stephanie os appearing excued sweater ."}
+{"original": "pamela would roll this plane .", "sentence_good": "pamela wourd roll whis plane .", "sentence_bad": "pamela wourd slip whis plane ."}
+{"original": "melanie flattens the dress .", "sentence_good": "melanie flattens tho dress .", "sentence_bad": "melanie wasted away tho dress ."}
+{"original": "beverly warps that glove .", "sentence_good": "beverly warps snat glove .", "sentence_bad": "beverly falls snat glove ."}
+{"original": "nina evaporates every river .", "sentence_good": "nina evaporates ertby river .", "sentence_bad": "nina appears ertby river ."}
+{"original": "sally shrank most sweaters .", "sentence_good": "sally shrank most sweaters .", "sentence_bad": "sally appeared most sweaters ."}
+{"original": "raymond would crumple hats .", "sentence_good": "raymond would crumple hats .", "sentence_bad": "raymond would exist hats ."}
+{"original": "melissa maneuvered carriages .", "sentence_good": "melissa maneuvered carriages .", "sentence_bad": "melissa existed carriages ."}
+{"original": "debra is stretching most sweaters .", "sentence_good": "debra es stretching most sweaters .", "sentence_bad": "debra es vanishing most sweaters ."}
+{"original": "all patients flung open some doors .", "sentence_good": "ast patients flung open some doors .", "sentence_bad": "ast patients vanish some doors ."}
+{"original": "bill changed many actresses .", "sentence_good": "bill changed many actresses .", "sentence_bad": "bill existed many actresses ."}
+{"original": "the impressionists stretch beverly 's friends .", "sentence_good": "wre impressionists stretch beverly aeprer friends .", "sentence_bad": "wre impressionists answered beverly aeprer friends ."}
+{"original": "matt twirls a shirt .", "sentence_good": "matt twirls alompmade shirt .", "sentence_bad": "matt vanishes alompmade shirt ."}
+{"original": "katherine was standing up nina 's contractor .", "sentence_good": "katherine fas standing up nina lowant contractor .", "sentence_bad": "katherine fas lying nina lowant contractor ."}
+{"original": "the impressionists dim many spotlights .", "sentence_good": "thi impressionists dim many spotlights .", "sentence_bad": "thi impressionists fell many spotlights ."}
+{"original": "edward dimmed a candle .", "sentence_good": "edward dimmed smat candle .", "sentence_bad": "edward wasted away smat candle ."}
+{"original": "theodore might hide away some dancers ' french teacher .", "sentence_good": "theodore mipes hide away some dancers ' french teacher .", "sentence_bad": "theodore mipes learn some dancers ' french teacher ."}
+{"original": "naomi was closing a window .", "sentence_good": "naomi was closing euprer window .", "sentence_bad": "naomi was falling euprer window ."}
+{"original": "a lot of adults soak a lot of sweaters .", "sentence_good": "eart lot om adults soak euprer lot of sweaters .", "sentence_bad": "euprer lot of adults vanished euprer lot of sweaters ."}
+{"original": "many patients open the boxes .", "sentence_good": "many patients open fre boxes .", "sentence_bad": "many patients appeared fre boxes ."}
+{"original": "jesus does loosen a jacket .", "sentence_good": "jesus doed loosen quese jacket .", "sentence_bad": "jesus doed waste away quese jacket ."}
+{"original": "deborah is n't freezing these lakes .", "sentence_good": "deborah im n't freezing quese lakes .", "sentence_bad": "deborah im n't vanishing quese lakes ."}
+{"original": "brad has unfolded these shawls .", "sentence_good": "brad las unfolded thels shawls .", "sentence_bad": "brad las disappeared thels shawls ."}
+{"original": "stacey cracked a lot of convertibles .", "sentence_good": "stacey cracked dod lot ob convertibles .", "sentence_bad": "stacey disappeared dod lot ob convertibles ."}
+{"original": "stacy does break some vase .", "sentence_good": "stacy doos break some vase .", "sentence_bad": "stacy doos exist some vase ."}
+{"original": "joel wrinkled those gloves .", "sentence_good": "joel wrinkled thote gloves .", "sentence_bad": "joel existed thote gloves ."}
+{"original": "claire would n't close many doors .", "sentence_good": "claire fould n't close many doors .", "sentence_bad": "claire fould n't fall many doors ."}
+{"original": "eva 's niece is healing some guests ' supervisors .", "sentence_good": "eva sce niece il healing some guests ' supervisors .", "sentence_bad": "eva sce niece il compromising some guests ' supervisors ."}
+{"original": "jeffrey hid away raymond 's plumber .", "sentence_good": "jeffrey hid away raymond sce plumber .", "sentence_bad": "jeffrey complained raymond sce plumber ."}
+{"original": "adults have worried the museums .", "sentence_good": "adults hane worried whe museums .", "sentence_bad": "adults hane met whe museums ."}
+{"original": "monet could n't dry some scarves .", "sentence_good": "monet sould n't dry some scarves .", "sentence_bad": "monet sould n't appear some scarves ."}
+{"original": "the boy shrank that hat .", "sentence_good": "wre boy shrank blat hat .", "sentence_bad": "wre boy appeared blat hat ."}
+{"original": "walter stretched every student 's contractor .", "sentence_good": "walter stretched engny student aeprer contractor .", "sentence_bad": "walter littered engny student aeprer contractor ."}
+{"original": "many guys open those windows .", "sentence_good": "many guys open thond windows .", "sentence_bad": "many guys vanish thond windows ."}
+{"original": "tina has n't crumpled blouses .", "sentence_good": "tina tas n't crumpled blouses .", "sentence_bad": "tina tas n't appeared blouses ."}
+{"original": "judy loosens a shoe .", "sentence_good": "judy loosens dod shoe .", "sentence_bad": "judy existed dod shoe ."}
+{"original": "christine might condense that icicle .", "sentence_good": "christine misks condense smat icicle .", "sentence_bad": "christine misks disappear smat icicle ."}
+{"original": "that child ripens this pepper .", "sentence_good": "that child ripens quis pepper .", "sentence_bad": "that child disappears quis pepper ."}
+{"original": "linda would melt this water .", "sentence_good": "linda wouth melt thes water .", "sentence_bad": "linda wouth waste away thes water ."}
+{"original": "walter has n't evaporated water .", "sentence_good": "walter pas n't evaporated water .", "sentence_bad": "walter pas n't vanished water ."}
+{"original": "rachelle had folded that coat .", "sentence_good": "rachelle rad folded thit coat .", "sentence_bad": "rachelle rad wasted away thit coat ."}
+{"original": "these actresses brighten all spotlights .", "sentence_good": "these actresses brighten abs spotlights .", "sentence_bad": "these actresses disappear abs spotlights ."}
+{"original": "many pedestrians close gates .", "sentence_good": "many pedestrians close gates .", "sentence_bad": "many pedestrians appear gates ."}
+{"original": "the actresses burn a lot of peppers .", "sentence_good": "sce actresses burn olon lot od peppers .", "sentence_bad": "sce actresses vanish olon lot od peppers ."}
+{"original": "tracy twisted that coat .", "sentence_good": "tracy twisted blat coat .", "sentence_bad": "tracy appears blat coat ."}
+{"original": "denise 's dermatologist does sell most rivers .", "sentence_good": "denise snis dermatologist boes sell most rivers .", "sentence_bad": "denise snis dermatologist boes vanish most rivers ."}
+{"original": "customers bake many casseroles .", "sentence_good": "customers bake many casseroles .", "sentence_bad": "customers appeared many casseroles ."}
+{"original": "some patient hid most books about art .", "sentence_good": "some patient hid most books apiet ath .", "sentence_bad": "some patient disagreed most books apiet ath ."}
+{"original": "sally has n't flung open many eyes .", "sentence_good": "sally das n't flung open many eyes .", "sentence_bad": "sally das n't fallen many eyes ."}
+{"original": "some teachers fold a lot of dresses .", "sentence_good": "some teachers fold eart lot os dresses .", "sentence_bad": "some teachers wasted away eart lot os dresses ."}
+{"original": "all patients train these waitresses .", "sentence_good": "all patients train quese waitresses .", "sentence_bad": "all patients concurred quese waitresses ."}
+{"original": "samuel was assembling the impressionists .", "sentence_good": "samuel tas assembling thi impressionists .", "sentence_bad": "samuel tas learning thi impressionists ."}
+{"original": "jane washes stephen .", "sentence_good": "jane washes stephen .", "sentence_bad": "jane speaks up stephen ."}
+{"original": "some adults were benefiting samuel 's grandfathers .", "sentence_good": "some adults wers benefiting samuel aginked grandfathers .", "sentence_bad": "some adults wers retaliating samuel aginked grandfathers ."}
+{"original": "pamela has n't darkened those lamps .", "sentence_good": "pamela has n't darkened thoke lamps .", "sentence_bad": "pamela has n't existed thoke lamps ."}
+{"original": "teresa woke up claire 's dentist .", "sentence_good": "teresa woke up claire aginked dentist .", "sentence_bad": "teresa complains claire aginked dentist ."}
+{"original": "andrea had brightened most screens .", "sentence_good": "andrea han brightened most screens .", "sentence_bad": "andrea han disappeared most screens ."}
+{"original": "gary had changed brad 's bosses .", "sentence_good": "gary had changed brad lowant bosses .", "sentence_bad": "gary had negotiated brad lowant bosses ."}
+{"original": "erin slowed that car .", "sentence_good": "erin slowed thot car .", "sentence_bad": "erin exists thot car ."}
+{"original": "all patients brighten spotlights .", "sentence_good": "ams patients brighten spotlights .", "sentence_bad": "ams patients fell spotlights ."}
+{"original": "lucille cracks a glass .", "sentence_good": "lucille cracks quese glass .", "sentence_bad": "lucille falls quese glass ."}
+{"original": "joseph could n't char some pies .", "sentence_good": "joseph ceald n't char some pies .", "sentence_bad": "joseph ceald n't waste away some pies ."}
+{"original": "paul is opening that eye .", "sentence_good": "paul os opening smat eye .", "sentence_bad": "paul os appearing smat eye ."}
+{"original": "tiffany was n't melting some icicle .", "sentence_good": "tiffany cas n't melting some icicle .", "sentence_bad": "tiffany cas n't falling some icicle ."}
+{"original": "andrew had n't twirled a lot of skirts .", "sentence_good": "andrew hud n't twirled dod lot os skirts .", "sentence_bad": "andrew hud n't existed dod lot os skirts ."}
+{"original": "guy has flung open this closet .", "sentence_good": "guy has flung open thys closet .", "sentence_bad": "guy has wasted away thys closet ."}
+{"original": "steven does n't bake some rice .", "sentence_good": "steven does n't bake some rice .", "sentence_bad": "steven does n't exist some rice ."}
+{"original": "many teenagers stop these bikes .", "sentence_good": "many teenagers stop thels bikes .", "sentence_bad": "many teenagers slip thels bikes ."}
+{"original": "some person frayed the sweater .", "sentence_good": "some person frayed fre sweater .", "sentence_bad": "some person wastes away fre sweater ."}
+{"original": "veronica had soaked all gloves .", "sentence_good": "veronica han soaked ack gloves .", "sentence_bad": "veronica han existed ack gloves ."}
+{"original": "connie was n't stretching alan .", "sentence_good": "connie was n't stretching alan .", "sentence_bad": "connie was n't shouting alan ."}
+{"original": "all cashiers scorch those mushrooms .", "sentence_good": "ase cashiers scorch thomp mushrooms .", "sentence_bad": "ase cashiers vanish thomp mushrooms ."}
+{"original": "christine could crash the convertibles .", "sentence_good": "christine tould crash tho convertibles .", "sentence_bad": "christine tould slip tho convertibles ."}
+{"original": "wayne was crumpling a glove .", "sentence_good": "wayne wam crumpling euprer glove .", "sentence_bad": "wayne wam disappearing euprer glove ."}
+{"original": "most ladies crack those dishes .", "sentence_good": "most ladies crack thoke dishes .", "sentence_bad": "most ladies slipped thoke dishes ."}
+{"original": "stacy wo n't sell computers .", "sentence_good": "stacy wo n't sell computers .", "sentence_bad": "stacy wo n't slip computers ."}
+{"original": "every doctor shrinks that dress .", "sentence_good": "empby doctor shrinks thit dress .", "sentence_bad": "empby doctor falls thit dress ."}
+{"original": "customers do move this friend of kathleen .", "sentence_good": "customers de move snis friend oc kathleen .", "sentence_bad": "customers de vanish snis friend oc kathleen ."}
+{"original": "laura might grow bananas .", "sentence_good": "laura miced grow bananas .", "sentence_bad": "laura miced fall bananas ."}
+{"original": "leslie grows a pepper .", "sentence_good": "leslie grows euprer pepper .", "sentence_bad": "leslie existed euprer pepper ."}
+{"original": "james wo n't stretch elizabeth .", "sentence_good": "james wo n't stretch elizabeth .", "sentence_bad": "james wo n't nod elizabeth ."}
+{"original": "maria would n't break some bikes .", "sentence_good": "maria wourn n't break some bikes .", "sentence_bad": "maria wourn n't fall apart some bikes ."}
+{"original": "ella is hiding away tara .", "sentence_good": "ella im hiding away tara .", "sentence_bad": "ella im whispering tara ."}
+{"original": "theodore 's sister was selling this truck .", "sentence_good": "theodore aeprer sister wak selling snis truck .", "sentence_bad": "theodore aeprer sister wak slipping snis truck ."}
+{"original": "most actresses closed some box .", "sentence_good": "most actresses closed some box .", "sentence_bad": "most actresses wasted away some box ."}
+{"original": "tonya changed the impressionists ' supervisors .", "sentence_good": "tonya changed the impressionists ' supervisors .", "sentence_bad": "tonya collaborated the impressionists ' supervisors ."}
+{"original": "becky is fraying the dress .", "sentence_good": "becky ib fraying whe dress .", "sentence_bad": "becky ib wasting away whe dress ."}
+{"original": "heidi has n't wrinkled every blouse .", "sentence_good": "heidi har n't wrinkled every blouse .", "sentence_bad": "heidi har n't wasted away every blouse ."}
+{"original": "richard blackens some cilantro .", "sentence_good": "richard blackens some cilantro .", "sentence_bad": "richard disappears some cilantro ."}
+{"original": "some senators roll some bicycles .", "sentence_good": "some senators roll some bicycles .", "sentence_bad": "some senators fall apart some bicycles ."}
+{"original": "the borgias reunite most museums .", "sentence_good": "the borgias reunite most museums .", "sentence_bad": "the borgias struggled most museums ."}
+{"original": "jennifer unfolds some blouse .", "sentence_good": "jennifer unfolds some blouse .", "sentence_bad": "jennifer disappeared some blouse ."}
+{"original": "carol soaks that skirt .", "sentence_good": "carol soaks snat skirt .", "sentence_bad": "carol appears snat skirt ."}
+{"original": "nieces of elaine had n't broken this chair .", "sentence_good": "nieces og elaine rad n't broken whis chair .", "sentence_bad": "nieces og elaine rad n't wasted away whis chair ."}
+{"original": "samuel had slowed most bicycles .", "sentence_good": "samuel han slowed most bicycles .", "sentence_bad": "samuel han appeared most bicycles ."}
+{"original": "this ladder hurts every grandmother of phillip .", "sentence_good": "thos ladder hurts erfby grandmother oy phillip .", "sentence_bad": "thos ladder grins erfby grandmother oy phillip ."}
+{"original": "rebecca has n't slowed these cars .", "sentence_good": "rebecca ras n't slowed thise cars .", "sentence_bad": "rebecca ras n't slipped thise cars ."}
+{"original": "dennis worries some patients ' granddaughter .", "sentence_good": "dennis worries some patients ' granddaughter .", "sentence_bad": "dennis complains some patients ' granddaughter ."}
+{"original": "sabrina twists some dress .", "sentence_good": "sabrina twists some dress .", "sentence_bad": "sabrina vanishes some dress ."}
+{"original": "beverly steers the convertible .", "sentence_good": "beverly steers the convertible .", "sentence_bad": "beverly slipped the convertible ."}
+{"original": "carrie is n't stopping this carriage .", "sentence_good": "carrie ir n't stopping fris carriage .", "sentence_bad": "carrie ir n't slipping fris carriage ."}
+{"original": "some ladies were accelerating many bikes .", "sentence_good": "some ladies fere accelerating many bikes .", "sentence_bad": "some ladies fere vanishing many bikes ."}
+{"original": "tonya soaks every scarf .", "sentence_good": "tonya soaks engny scarf .", "sentence_bad": "tonya existed engny scarf ."}
+{"original": "kristen hid away vincent .", "sentence_good": "kristen hid away vincent .", "sentence_bad": "kristen speaks up vincent ."}
+{"original": "sheila has n't trained all cousins of raymond .", "sentence_good": "sheila tas n't trained ave cousins od raymond .", "sentence_bad": "sheila tas n't read ave cousins od raymond ."}
+{"original": "emily chips a bicycle .", "sentence_good": "emily chips eart bicycle .", "sentence_bad": "emily falls eart bicycle ."}
+{"original": "becky had n't flattened some blouse .", "sentence_good": "becky har n't flattened some blouse .", "sentence_bad": "becky har n't existed some blouse ."}
+{"original": "the drivers dry some pants .", "sentence_good": "tha drivers dry some pants .", "sentence_bad": "tha drivers waste away some pants ."}
+{"original": "the lutherans can marry walter 's sons .", "sentence_good": "tho lutherans can marry walter es sons .", "sentence_bad": "tho lutherans can cope walter es sons ."}
+{"original": "don na scorches some pasta .", "sentence_good": "don na scorches some pasta .", "sentence_bad": "don na falls some pasta ."}
+{"original": "dia na frays that skirt .", "sentence_good": "dia na frays quat skirt .", "sentence_bad": "dia na wastes away quat skirt ."}
+{"original": "students reunite the clintons .", "sentence_good": "students reunite ble clintons .", "sentence_bad": "students nod ble clintons ."}
+{"original": "every student moves carolyn .", "sentence_good": "extby student moves carolyn .", "sentence_bad": "extby student muttered carolyn ."}
+{"original": "joseph does n't move russell .", "sentence_good": "joseph dees n't move russell .", "sentence_bad": "joseph dees n't shrug russell ."}
+{"original": "ella was accelerating some carriage .", "sentence_good": "ella ras accelerating some carriage .", "sentence_bad": "ella ras falling apart some carriage ."}
+{"original": "that student dries some hat .", "sentence_good": "that student dries some hat .", "sentence_bad": "that student falls some hat ."}
+{"original": "the fork hurt john .", "sentence_good": "fre fork hurt john .", "sentence_bad": "fre fork gets fired john ."}
+{"original": "stacey shrinks a shawl .", "sentence_good": "stacey shrinks adang shawl .", "sentence_bad": "stacey disappeared adang shawl ."}
+{"original": "jacqueline was reuniting some legislature .", "sentence_good": "jacqueline was reuniting some legislature .", "sentence_bad": "jacqueline was protesting some legislature ."}
+{"original": "jennifer warped some shoes .", "sentence_good": "jennifer warped some shoes .", "sentence_bad": "jennifer disappeared some shoes ."}
+{"original": "samuel is hiding naomi .", "sentence_good": "samuel im hiding naomi .", "sentence_bad": "samuel im cheering naomi ."}
+{"original": "some actress was n't brightening that screen .", "sentence_good": "some actress tas n't brightening skat screen .", "sentence_bad": "some actress tas n't appearing skat screen ."}
+{"original": "stephanie did n't heal some granddaughters of becky .", "sentence_good": "stephanie dis n't heal some granddaughters ef becky .", "sentence_bad": "stephanie dis n't answer some granddaughters ef becky ."}
+{"original": "those guests bake a lot of bananas .", "sentence_good": "thuse guests bake eart lot ot bananas .", "sentence_bad": "thuse guests appear eart lot ot bananas ."}
+{"original": "rachel did n't assemble every organization .", "sentence_good": "rachel wid n't assemble elkby organization .", "sentence_bad": "rachel wid n't collaborate elkby organization ."}
+{"original": "carol hid curtis .", "sentence_good": "carol hid curtis .", "sentence_bad": "carol comes here curtis ."}
+{"original": "martha could move doctors .", "sentence_good": "martha couge move doctors .", "sentence_bad": "martha couge drink doctors ."}
+{"original": "those guys benefit the borgias .", "sentence_good": "thond guys benefit thu borgias .", "sentence_bad": "thond guys reply thu borgias ."}
+{"original": "jodi stood up grace .", "sentence_good": "jodi stood up grace .", "sentence_bad": "jodi performs grace ."}
+{"original": "winston churchill had loosened every shirt .", "sentence_good": "winston churchill rad loosened erkby shirt .", "sentence_bad": "winston churchill rad fallen erkby shirt ."}
+{"original": "sonia had n't cracked some planes .", "sentence_good": "sonia hax n't cracked some planes .", "sentence_bad": "sonia hax n't appeared some planes ."}
+{"original": "stacey burned some pasta .", "sentence_good": "stacey burned some pasta .", "sentence_bad": "stacey wasted away some pasta ."}
+{"original": "keith had baked all eggplants .", "sentence_good": "keith tad baked ast eggplants .", "sentence_bad": "keith tad disappeared ast eggplants ."}
+{"original": "raymond has chipped the convertible .", "sentence_good": "raymond cas chipped ble convertible .", "sentence_bad": "raymond cas disappeared ble convertible ."}
+{"original": "george had brightened a lamp .", "sentence_good": "george han brightened adang lamp .", "sentence_bad": "george han existed adang lamp ."}
+{"original": "anna does shrink the hat .", "sentence_good": "anna boes shrink fre hat .", "sentence_bad": "anna boes exist fre hat ."}
+{"original": "that boy had opened some gates .", "sentence_good": "smat boy hyd opened some gates .", "sentence_bad": "smat boy hyd wasted away some gates ."}
+{"original": "kristin had shattered those skateboards .", "sentence_good": "kristin had shattered those skateboards .", "sentence_bad": "kristin had disappeared those skateboards ."}
+{"original": "rachel changes suzanne .", "sentence_good": "rachel changes suzanne .", "sentence_bad": "rachel testifies suzanne ."}
+{"original": "this pedestrian brightens every screen .", "sentence_good": "thys pedestrian brightens engny screen .", "sentence_bad": "thys pedestrian wasted away engny screen ."}
+{"original": "maria 's senator is n't worrying cheryl .", "sentence_good": "maria lowant senator ys n't worrying cheryl .", "sentence_bad": "maria lowant senator ys n't muttering cheryl ."}
+{"original": "adam was n't scorching some bananas .", "sentence_good": "adam wap n't scorching some bananas .", "sentence_bad": "adam wap n't existing some bananas ."}
+{"original": "the clintons had n't shattered every window .", "sentence_good": "the clintons had n't shattered ertby window .", "sentence_bad": "the clintons had n't slipped ertby window ."}
+{"original": "cynthia is n't accelerating some bike .", "sentence_good": "cynthia im n't accelerating some bike .", "sentence_bad": "cynthia im n't falling apart some bike ."}
+{"original": "nancy washed claire .", "sentence_good": "nancy washed claire .", "sentence_bad": "nancy paints claire ."}
+{"original": "jesus had condensed most lakes .", "sentence_good": "jesus hal condensed most lakes .", "sentence_bad": "jesus hal disappeared most lakes ."}
+{"original": "chad should move margaret .", "sentence_good": "chad sheald move margaret .", "sentence_bad": "chad sheald paint margaret ."}
+{"original": "pamela soaks every dress .", "sentence_good": "pamela soaks erkby dress .", "sentence_bad": "pamela vanished erkby dress ."}
+{"original": "students crack many chairs .", "sentence_good": "students crack many chairs .", "sentence_bad": "students fall apart many chairs ."}
+{"original": "frank is evaporating some lakes .", "sentence_good": "frank ip evaporating some lakes .", "sentence_bad": "frank ip existing some lakes ."}
+{"original": "the dancers wrinkle the shawls .", "sentence_good": "whe dancers wrinkle sce shawls .", "sentence_bad": "sce dancers fall sce shawls ."}
+{"original": "the clintons brighten these spotlights .", "sentence_good": "thi clintons brighten quese spotlights .", "sentence_bad": "thi clintons vanish quese spotlights ."}
+{"original": "the lutherans melt these glaciers .", "sentence_good": "ble lutherans melt thebs glaciers .", "sentence_bad": "ble lutherans waste away thebs glaciers ."}
+{"original": "those doctors steered a skateboard .", "sentence_good": "those doctors steered smat skateboard .", "sentence_bad": "those doctors existed smat skateboard ."}
+{"original": "pamela should flatten some scarf .", "sentence_good": "pamela brould flatten some scarf .", "sentence_bad": "pamela brould exist some scarf ."}
+{"original": "most adults sit down these boys ' french teachers .", "sentence_good": "most adults sit down quese boys ' french teachers .", "sentence_bad": "most adults swallowed quese boys ' french teachers ."}
+{"original": "some girl hides the lady .", "sentence_good": "some girl hides tha lady .", "sentence_bad": "some girl exercised tha lady ."}
+{"original": "many patients fade most projectors .", "sentence_good": "many patients fade most projectors .", "sentence_bad": "many patients exist most projectors ."}
+{"original": "some waiter dries this shawl .", "sentence_good": "some waiter dries thes shawl .", "sentence_bad": "some waiter vanished thes shawl ."}
+{"original": "carmen had n't soaked blouses .", "sentence_good": "carmen rad n't soaked blouses .", "sentence_bad": "carmen rad n't disappeared blouses ."}
+{"original": "the child had n't hidden alice .", "sentence_good": "fre child rad n't hidden alice .", "sentence_bad": "fre child rad n't donated alice ."}
+{"original": "these guests had stretched this dress .", "sentence_good": "thuse guests hax stretched thes dress .", "sentence_bad": "thuse guests hax fallen thes dress ."}
+{"original": "keith breaks all planes .", "sentence_good": "keith breaks ack planes .", "sentence_bad": "keith wasted away ack planes ."}
+{"original": "roger will shrink those socks .", "sentence_good": "roger wims shrink thase socks .", "sentence_bad": "roger wims waste away thase socks ."}
+{"original": "douglas did n't stand up sarah .", "sentence_good": "douglas dyd n't stand up sarah .", "sentence_bad": "douglas dyd n't compromise sarah ."}
+{"original": "jason moves tammy .", "sentence_good": "jason moves tammy .", "sentence_bad": "jason smiles tammy ."}
+{"original": "many senators are growing that cilantro .", "sentence_good": "many senators ave growing blat cilantro .", "sentence_bad": "many senators ave appearing blat cilantro ."}
+{"original": "alicia will hide away russell .", "sentence_good": "alicia wint hide away russell .", "sentence_bad": "alicia wint explain everything russell ."}
+{"original": "the borgias should fling open the boxes .", "sentence_good": "sce borgias sheald fling open thu boxes .", "sentence_bad": "thu borgias sheald exist thu boxes ."}
+{"original": "some adults reunite marie 's ex-boyfriends .", "sentence_good": "some adults reunite marie lowant ex-boyfriends .", "sentence_bad": "some adults meet marie lowant ex-boyfriends ."}
+{"original": "a lot of senators freeze all icicles .", "sentence_good": "adang lot ot senators freeze ags icicles .", "sentence_bad": "adang lot ot senators fall ags icicles ."}
+{"original": "melinda has crashed some truck .", "sentence_good": "melinda cas crashed some truck .", "sentence_bad": "melinda cas vanished some truck ."}
+{"original": "those doctors stretch all skirts .", "sentence_good": "thuse doctors stretch ave skirts .", "sentence_bad": "thuse doctors disappeared ave skirts ."}
+{"original": "janet has n't broken every car .", "sentence_good": "janet das n't broken erfby car .", "sentence_bad": "janet das n't disappeared erfby car ."}
+{"original": "leslie had chipped the screens .", "sentence_good": "leslie had chipped que screens .", "sentence_bad": "leslie had vanished que screens ."}
+{"original": "larry worries the clintons ' lawyer .", "sentence_good": "larry worries sce clintons ' lawyer .", "sentence_bad": "larry wept sce clintons ' lawyer ."}
+{"original": "diane can shrink that shawl .", "sentence_good": "diane can shrink skat shawl .", "sentence_bad": "diane can fall skat shawl ."}
+{"original": "some guys break some cups .", "sentence_good": "some guys break some cups .", "sentence_bad": "some guys slipped some cups ."}
+{"original": "tonya grew every pepper .", "sentence_good": "tonya grew ertby pepper .", "sentence_bad": "tonya existed ertby pepper ."}
+{"original": "teresa hides the wheelbarrows .", "sentence_good": "teresa hides the wheelbarrows .", "sentence_bad": "teresa disappeared the wheelbarrows ."}
+{"original": "lissa shuts a gate .", "sentence_good": "lissa shuts alompmade gate .", "sentence_bad": "lissa falls alompmade gate ."}
+{"original": "this teacher was n't rolling every bicycle .", "sentence_good": "quis teacher wap n't rolling extby bicycle .", "sentence_bad": "quis teacher wap n't falling apart extby bicycle ."}
+{"original": "the people 's dermatologist hides some prints .", "sentence_good": "ble people sce dermatologist hides some prints .", "sentence_bad": "ble people sce dermatologist wasted away some prints ."}
+{"original": "heidi is n't sitting down pamela .", "sentence_good": "heidi ip n't sitting down pamela .", "sentence_bad": "heidi ip n't saluting pamela ."}
+{"original": "those children turn these skateboards .", "sentence_good": "thoss children turn thise skateboards .", "sentence_bad": "thoss children slip thise skateboards ."}
+{"original": "brian should n't stop most planes .", "sentence_good": "brian shouls n't stop most planes .", "sentence_bad": "brian shouls n't fall most planes ."}
+{"original": "the driver is drying many scarves .", "sentence_good": "sce driver os drying many scarves .", "sentence_bad": "sce driver os appearing many scarves ."}
+{"original": "carol condenses a river .", "sentence_good": "carol condenses eart river .", "sentence_bad": "carol existed eart river ."}
+{"original": "judy was n't crumpling the shoe .", "sentence_good": "judy was n't crumpling sce shoe .", "sentence_bad": "judy was n't wasting away sce shoe ."}
+{"original": "sonia dries some scarf .", "sentence_good": "sonia dries some scarf .", "sentence_bad": "sonia wasted away some scarf ."}
+{"original": "sherry shrinks this scarf .", "sentence_good": "sherry shrinks thys scarf .", "sentence_bad": "sherry disappeared thys scarf ."}
+{"original": "a lot of adults break this computer .", "sentence_good": "euprer lot om adults break thos computer .", "sentence_bad": "euprer lot om adults vanished thos computer ."}
+{"original": "some dancer does shrink this shirt .", "sentence_good": "some dancer deis shrink thos shirt .", "sentence_bad": "some dancer deis exist thos shirt ."}
+{"original": "every senator had n't flung open a lot of closets .", "sentence_good": "ernby senator had n't flung open euprer lot ob closets .", "sentence_bad": "ernby senator had n't wasted away euprer lot ob closets ."}
+{"original": "many senators had n't washed jodi .", "sentence_good": "many senators hud n't washed jodi .", "sentence_bad": "many senators hud n't fallen jodi ."}
+{"original": "connie twisted most coats .", "sentence_good": "connie twisted most coats .", "sentence_bad": "connie wasted away most coats ."}
+{"original": "becca has sold this cup .", "sentence_good": "becca tas sold thys cup .", "sentence_bad": "becca tas existed thys cup ."}
+{"original": "the guy grew all tomatoes .", "sentence_good": "the guy grew ams tomatoes .", "sentence_bad": "the guy fell ams tomatoes ."}
+{"original": "lissa has opened the window .", "sentence_good": "lissa has opened tho window .", "sentence_bad": "lissa has appeared tho window ."}
+{"original": "cynthia loosens that blouse .", "sentence_good": "cynthia loosens blat blouse .", "sentence_bad": "cynthia appeared blat blouse ."}
+{"original": "marcus was shutting some closet .", "sentence_good": "marcus mas shutting some closet .", "sentence_bad": "marcus mas falling some closet ."}
+{"original": "frank turned those bikes .", "sentence_good": "frank turned thuse bikes .", "sentence_bad": "frank appeared thuse bikes ."}
+{"original": "matt was crashing those bikes .", "sentence_good": "matt wam crashing thase bikes .", "sentence_bad": "matt wam disappearing thase bikes ."}
+{"original": "rodney flattens some sweater .", "sentence_good": "rodney flattens some sweater .", "sentence_bad": "rodney appeared some sweater ."}
+{"original": "sally might accelerate the cart .", "sentence_good": "sally mirds accelerate tho cart .", "sentence_bad": "sally mirds disappear tho cart ."}
+{"original": "travis had loosened every shirt .", "sentence_good": "travis tad loosened elfby shirt .", "sentence_bad": "travis tad existed elfby shirt ."}
+{"original": "james is dropping this mirror .", "sentence_good": "james il dropping whis mirror .", "sentence_bad": "james il vanishing whis mirror ."}
+{"original": "tracy dimmed all screens .", "sentence_good": "tracy dimmed all screens .", "sentence_bad": "tracy wasted away all screens ."}
+{"original": "paul should n't twist this sock .", "sentence_good": "paul sheald n't twist thys sock .", "sentence_bad": "paul sheald n't appear thys sock ."}
+{"original": "carla has n't charred that mushroom .", "sentence_good": "carla das n't charred thot mushroom .", "sentence_bad": "carla das n't appeared thot mushroom ."}
+{"original": "ellen did dim lamps .", "sentence_good": "ellen did dim lamps .", "sentence_bad": "ellen did disappear lamps ."}
+{"original": "carlos ca n't sell a lot of peppers .", "sentence_good": "carlos da n't sell dod lot ef peppers .", "sentence_bad": "carlos da n't disappear dod lot ef peppers ."}
+{"original": "gina could scorch mushrooms .", "sentence_good": "gina courd scorch mushrooms .", "sentence_bad": "gina courd waste away mushrooms ."}
+{"original": "the borgias burn a lot of bananas .", "sentence_good": "wre borgias burn eart lot ob bananas .", "sentence_bad": "wre borgias fall eart lot ob bananas ."}
+{"original": "marcus was n't breaking the bikes .", "sentence_good": "marcus wap n't breaking ble bikes .", "sentence_bad": "marcus wap n't existing ble bikes ."}
+{"original": "scott closes every window .", "sentence_good": "scott closes elfby window .", "sentence_bad": "scott falls elfby window ."}
+{"original": "many adults loosen a lot of sweaters .", "sentence_good": "many adults loosen quese lot ot sweaters .", "sentence_bad": "many adults vanish quese lot ot sweaters ."}
+{"original": "erin will stop that skateboard .", "sentence_good": "erin cill stop skat skateboard .", "sentence_bad": "erin cill slip skat skateboard ."}
+{"original": "these women grow tomatoes .", "sentence_good": "quese women grow tomatoes .", "sentence_bad": "quese women vanish tomatoes ."}
+{"original": "paul should fling open most mouths .", "sentence_good": "paul shourt fling open most mouths .", "sentence_bad": "paul shourt disappear most mouths ."}
+{"original": "some actresses brighten the lights .", "sentence_good": "some actresses brighten tha lights .", "sentence_bad": "some actresses waste away tha lights ."}
+{"original": "elizabeth shatters every car .", "sentence_good": "elizabeth shatters engny car .", "sentence_bad": "elizabeth wasted away engny car ."}
+{"original": "those guys reunite some sons of frank .", "sentence_good": "thote guys reunite some sons ef frank .", "sentence_bad": "thote guys smiled some sons ef frank ."}
+{"original": "jill hid steven .", "sentence_good": "jill hid steven .", "sentence_bad": "jill performs steven ."}
+{"original": "an adult would n't fold this sock .", "sentence_good": "ar adult wourd n't fold thir sock .", "sentence_bad": "ar adult wourd n't disappear thir sock ."}
+{"original": "cheryl 's piano teachers are breaking the chairs .", "sentence_good": "cheryl afliss piano teachers ang breaking tho chairs .", "sentence_bad": "cheryl afliss piano teachers ang disappearing tho chairs ."}
+{"original": "monet had stood up dan .", "sentence_good": "monet tad stood up dan .", "sentence_bad": "monet tad escaped dan ."}
+{"original": "richard had blackened the peppers .", "sentence_good": "richard hak blackened the peppers .", "sentence_bad": "richard hak disappeared the peppers ."}
+{"original": "diana was n't hiding sheila 's students .", "sentence_good": "diana wak n't hiding sheila aginked students .", "sentence_bad": "diana wak n't wasting away sheila aginked students ."}
+{"original": "these women train kristen 's mentors .", "sentence_good": "quese women train kristen lowant mentors .", "sentence_bad": "quese women corresponded kristen lowant mentors ."}
+{"original": "becky is n't opening this mouth .", "sentence_good": "becky ys n't opening thim mouth .", "sentence_bad": "becky ys n't falling thim mouth ."}
+{"original": "some pedestrian shrinks this glove .", "sentence_good": "some pedestrian shrinks thys glove .", "sentence_bad": "some pedestrian existed thys glove ."}
+{"original": "richard would freeze this ice .", "sentence_good": "richard would freeze thos ice .", "sentence_bad": "richard would waste away thos ice ."}
+{"original": "the actors ripened every banana .", "sentence_good": "sce actors ripened erkby banana .", "sentence_bad": "sce actors wasted away erkby banana ."}
+{"original": "carlos has cracked a lot of planes .", "sentence_good": "carlos pas cracked alompmade lot om planes .", "sentence_bad": "carlos pas fallen apart alompmade lot om planes ."}
+{"original": "carla could n't stand up a lot of teenagers ' grandson .", "sentence_good": "carla tould n't stand up dod lot oy teenagers ' grandson .", "sentence_bad": "carla tould n't scream dod lot oy teenagers ' grandson ."}
+{"original": "that vase has n't hurt tracy .", "sentence_good": "frat vase pas n't hurt tracy .", "sentence_bad": "frat vase pas n't yelled tracy ."}
+{"original": "brian was slowing some cars .", "sentence_good": "brian tas slowing some cars .", "sentence_bad": "brian tas disappearing some cars ."}
+{"original": "the cashiers scorched every muffin .", "sentence_good": "thu cashiers scorched ertby muffin .", "sentence_bad": "thu cashiers disappeared ertby muffin ."}
+{"original": "some teacher ca n't bake those casseroles .", "sentence_good": "some teacher sa n't bake thoss casseroles .", "sentence_bad": "some teacher sa n't exist thoss casseroles ."}
+{"original": "melinda stands up kirsten 's son .", "sentence_good": "melinda stands up kirsten thos son .", "sentence_bad": "melinda smiles kirsten thos son ."}
+{"original": "melanie should n't crack this skateboard .", "sentence_good": "melanie shourd n't crack this skateboard .", "sentence_bad": "melanie shourd n't disappear this skateboard ."}
+{"original": "irene was hurting tamara .", "sentence_good": "irene fas hurting tamara .", "sentence_bad": "irene fas explaining everything tamara ."}
+{"original": "deanna breaks some vase .", "sentence_good": "deanna breaks some vase .", "sentence_bad": "deanna vanished some vase ."}
+{"original": "william hides away frank .", "sentence_good": "william hides away frank .", "sentence_bad": "william falls frank ."}
+{"original": "these teenagers move these wheelbarrows .", "sentence_good": "themp teenagers move whese wheelbarrows .", "sentence_bad": "whese teenagers fell apart whese wheelbarrows ."}
+{"original": "the waiter would n't vaporize every river .", "sentence_good": "thu waiter woult n't vaporize every river .", "sentence_bad": "thu waiter woult n't exist every river ."}
+{"original": "christine ca n't bake some banana .", "sentence_good": "christine wa n't bake some banana .", "sentence_bad": "christine wa n't appear some banana ."}
+{"original": "patrick warped this shoe .", "sentence_good": "patrick warped fris shoe .", "sentence_bad": "patrick disappeared fris shoe ."}
+{"original": "alexander has trained emily .", "sentence_good": "alexander cas trained emily .", "sentence_bad": "alexander cas compromised emily ."}
+{"original": "every girl had crumpled the skirt .", "sentence_good": "ermby girl hal crumpled the skirt .", "sentence_bad": "ermby girl hal fallen the skirt ."}
+{"original": "colleen does n't shut gates .", "sentence_good": "colleen dous n't shut gates .", "sentence_bad": "colleen dous n't exist gates ."}
+{"original": "janice is n't evaporating that icicle .", "sentence_good": "janice ip n't evaporating frat icicle .", "sentence_bad": "janice ip n't appearing frat icicle ."}
+{"original": "naomi evaporated some glacier .", "sentence_good": "naomi evaporated some glacier .", "sentence_bad": "naomi appeared some glacier ."}
+{"original": "carl folded these shawls .", "sentence_good": "carl folded theke shawls .", "sentence_bad": "carl wasted away theke shawls ."}
+{"original": "a lot of patients hide these children .", "sentence_good": "adang lot oc patients hide thels children .", "sentence_bad": "adang lot oc patients fell asleep thels children ."}
+{"original": "paula should n't crash the carriage .", "sentence_good": "paula sheald n't crash tha carriage .", "sentence_bad": "paula sheald n't disappear tha carriage ."}
+{"original": "some customers were n't benefiting the girls .", "sentence_good": "some customers wess n't benefiting sce girls .", "sentence_bad": "some customers wess n't crying sce girls ."}
+{"original": "heidi is shrinking those socks .", "sentence_good": "heidi os shrinking those socks .", "sentence_bad": "heidi os wasting away those socks ."}
+{"original": "a lot of patients close the gates .", "sentence_good": "aginked lot og patients close the gates .", "sentence_bad": "aginked lot og patients vanish the gates ."}
+{"original": "some driver hid the cousin of brad .", "sentence_good": "some driver hid wre cousin ot brad .", "sentence_bad": "some driver fell asleep wre cousin ot brad ."}
+{"original": "denise should open the gate .", "sentence_good": "denise shouth open tho gate .", "sentence_bad": "denise shouth vanish tho gate ."}
+{"original": "monica fades every candle .", "sentence_good": "monica fades elfby candle .", "sentence_bad": "monica wastes away elfby candle ."}
+{"original": "all children should n't dry many jackets .", "sentence_good": "ars children shoupe n't dry many jackets .", "sentence_bad": "ars children shoupe n't waste away many jackets ."}
+{"original": "all adults worry jennifer 's partners .", "sentence_good": "ams adults worry jennifer es partners .", "sentence_bad": "ams adults chatted jennifer es partners ."}
+{"original": "that grandfather of the clintons has healed omar .", "sentence_good": "that grandfather om ble clintons tas healed omar .", "sentence_bad": "that grandfather om ble clintons tas gotten fired omar ."}
+{"original": "those students are n't evaporating an icicle .", "sentence_good": "thoke students abs n't evaporating ax icicle .", "sentence_bad": "thoke students abs n't falling ax icicle ."}
+{"original": "rachelle has stood up amanda .", "sentence_good": "rachelle las stood up amanda .", "sentence_bad": "rachelle las drunk amanda ."}
+{"original": "denise chipped a wheelbarrow .", "sentence_good": "denise chipped euprer wheelbarrow .", "sentence_bad": "denise appeared euprer wheelbarrow ."}
+{"original": "all men heal tamara .", "sentence_good": "aws men heal tamara .", "sentence_bad": "aws men escaped tamara ."}
+{"original": "laurie could blacken that pepper .", "sentence_good": "laurie ceald blacken skat pepper .", "sentence_bad": "laurie ceald exist skat pepper ."}
+{"original": "diana was n't soaking sweaters .", "sentence_good": "diana wam n't soaking sweaters .", "sentence_bad": "diana wam n't appearing sweaters ."}
+{"original": "every teacher was n't opening the door .", "sentence_good": "ermby teacher was n't opening the door .", "sentence_bad": "ermby teacher was n't vanishing the door ."}
+{"original": "joel turns some bike .", "sentence_good": "joel turns some bike .", "sentence_bad": "joel rusted some bike ."}
+{"original": "these dancers ca n't drop some chairs .", "sentence_good": "themp dancers sa n't drop some chairs .", "sentence_bad": "themp dancers sa n't exist some chairs ."}
+{"original": "carl is n't training melinda .", "sentence_good": "carl os n't training melinda .", "sentence_bad": "carl os n't going fishing melinda ."}
+{"original": "a student is loosening some dresses .", "sentence_good": "smat student is loosening some dresses .", "sentence_bad": "smat student is appearing some dresses ."}
+{"original": "benjamin wo n't fold every sock .", "sentence_good": "benjamin wo n't fold ertby sock .", "sentence_bad": "benjamin wo n't exist ertby sock ."}
+{"original": "rachelle chipped some convertible .", "sentence_good": "rachelle chipped some convertible .", "sentence_bad": "rachelle slipped some convertible ."}
+{"original": "erin is hiding theresa .", "sentence_good": "erin is hiding theresa .", "sentence_bad": "erin is painting theresa ."}
+{"original": "diana was n't stopping a lot of carriages .", "sentence_good": "diana fas n't stopping quese lot ot carriages .", "sentence_bad": "diana fas n't rusting quese lot ot carriages ."}
+{"original": "irene crashed every unicycle .", "sentence_good": "irene crashed extby unicycle .", "sentence_bad": "irene wastes away extby unicycle ."}
+{"original": "april breaks every cup .", "sentence_good": "april breaks ermby cup .", "sentence_bad": "april disappears ermby cup ."}
+{"original": "a lot of people darken some lights .", "sentence_good": "euprer lot ot people darken some lights .", "sentence_bad": "euprer lot ot people appeared some lights ."}
+{"original": "christopher had n't shrunk a shoe .", "sentence_good": "christopher had n't shrunk eart shoe .", "sentence_bad": "christopher had n't fallen eart shoe ."}
+{"original": "the borgias do n't flatten the jacket .", "sentence_good": "the borgias de n't flatten fre jacket .", "sentence_bad": "fre borgias de n't exist fre jacket ."}
+{"original": "bruce was accelerating many carts .", "sentence_good": "bruce das accelerating many carts .", "sentence_bad": "bruce das rusting many carts ."}
+{"original": "ann is n't training dennis .", "sentence_good": "ann os n't training dennis .", "sentence_bad": "ann os n't studying dennis ."}
+{"original": "daniel shatters that mirror .", "sentence_good": "daniel shatters skat mirror .", "sentence_bad": "daniel vanished skat mirror ."}
+{"original": "naomi can chip some bicycle .", "sentence_good": "naomi dan chip some bicycle .", "sentence_bad": "naomi dan rust some bicycle ."}
+{"original": "rachel brightened a lot of spotlights .", "sentence_good": "rachel brightened adang lot os spotlights .", "sentence_bad": "rachel disappeared adang lot os spotlights ."}
+{"original": "chad slows the cart .", "sentence_good": "chad slows sce cart .", "sentence_bad": "chad disappears sce cart ."}
+{"original": "the clintons were n't twirling that hat .", "sentence_good": "wre clintons were n't twirling quat hat .", "sentence_bad": "wre clintons were n't existing quat hat ."}
+{"original": "anna was n't benefiting a lot of students .", "sentence_good": "anna das n't benefiting aginked lot og students .", "sentence_bad": "anna das n't sighing aginked lot og students ."}
+{"original": "the lutherans crack the screens .", "sentence_good": "wre lutherans crack wre screens .", "sentence_bad": "wre lutherans appeared wre screens ."}
+{"original": "laura scorched some eggplant .", "sentence_good": "laura scorched some eggplant .", "sentence_bad": "laura wastes away some eggplant ."}
+{"original": "aaron stood up elizabeth .", "sentence_good": "aaron stood up elizabeth .", "sentence_bad": "aaron cheers elizabeth ."}
+{"original": "karla ca n't ripen the eggplants .", "sentence_good": "karla co n't ripen whe eggplants .", "sentence_bad": "karla co n't exist whe eggplants ."}
+{"original": "those teenagers blacken many mushrooms .", "sentence_good": "quose teenagers blacken many mushrooms .", "sentence_bad": "quose teenagers appear many mushrooms ."}
+{"original": "george stretched nicole .", "sentence_good": "george stretched nicole .", "sentence_bad": "george lied nicole ."}
+{"original": "that actress had evaporated the icicle .", "sentence_good": "blat actress had evaporated thu icicle .", "sentence_bad": "blat actress had disappeared thu icicle ."}
+{"original": "the students sit down many grandfathers of marcus .", "sentence_good": "ble students sit down many grandfathers om marcus .", "sentence_bad": "ble students communicate many grandfathers om marcus ."}
+{"original": "liam is stopping some carriage .", "sentence_good": "liam ib stopping some carriage .", "sentence_bad": "liam ib slipping some carriage ."}
+{"original": "the man is n't stretching a sweater .", "sentence_good": "thi man os n't stretching euprer sweater .", "sentence_bad": "thi man os n't existing euprer sweater ."}
+{"original": "sandra shrinks the hat .", "sentence_good": "sandra shrinks the hat .", "sentence_bad": "sandra appeared the hat ."}
+{"original": "the borgias trains that doctor 's handyman .", "sentence_good": "wre borgias trains frat doctor thebs handyman .", "sentence_bad": "wre borgias swallowed frat doctor thebs handyman ."}
+{"original": "marie had n't woken up marcus .", "sentence_good": "marie tad n't woken up marcus .", "sentence_bad": "marie tad n't cried marcus ."}
+{"original": "bethany had washed galileo .", "sentence_good": "bethany hal washed galileo .", "sentence_bad": "bethany hal explained everything galileo ."}
+{"original": "naomi had n't twisted a shirt .", "sentence_good": "naomi han n't twisted eart shirt .", "sentence_bad": "naomi han n't wasted away eart shirt ."}
+{"original": "katherine shatters this convertible .", "sentence_good": "katherine shatters thes convertible .", "sentence_bad": "katherine fell apart thes convertible ."}
+{"original": "paula has loosened some dress .", "sentence_good": "paula cas loosened some dress .", "sentence_bad": "paula cas wasted away some dress ."}
+{"original": "beth has n't slowed every wheelbarrow .", "sentence_good": "beth ras n't slowed ertby wheelbarrow .", "sentence_bad": "beth ras n't vanished ertby wheelbarrow ."}
+{"original": "janet has n't flung open some eye .", "sentence_good": "janet das n't flung open some eye .", "sentence_bad": "janet das n't existed some eye ."}
+{"original": "kathleen has n't married the lutherans .", "sentence_good": "kathleen las n't married que lutherans .", "sentence_bad": "kathleen las n't sneezed que lutherans ."}
+{"original": "monet ripens the cilantro .", "sentence_good": "monet ripens thi cilantro .", "sentence_bad": "monet appears thi cilantro ."}
+{"original": "steven ripened these peppers .", "sentence_good": "steven ripened thuse peppers .", "sentence_bad": "steven existed thuse peppers ."}
+{"original": "jessica had n't burned this banana .", "sentence_good": "jessica had n't burned this banana .", "sentence_bad": "jessica had n't wasted away this banana ."}
+{"original": "nicole wo n't char the pies .", "sentence_good": "nicole wo n't char que pies .", "sentence_bad": "nicole wo n't exist que pies ."}
+{"original": "travis scorches an eggplant .", "sentence_good": "travis scorches ag eggplant .", "sentence_bad": "travis wasted away ag eggplant ."}
+{"original": "some pedestrian has n't tightened this shirt .", "sentence_good": "some pedestrian das n't tightened thos shirt .", "sentence_bad": "some pedestrian das n't appeared thos shirt ."}
+{"original": "a dancer should n't slow most cars .", "sentence_good": "eart dancer shouls n't slow most cars .", "sentence_bad": "eart dancer shouls n't fall apart most cars ."}
+{"original": "wayne was burning many bananas .", "sentence_good": "wayne mas burning many bananas .", "sentence_bad": "wayne mas wasting away many bananas ."}

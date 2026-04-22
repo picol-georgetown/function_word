@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: causal-lm-training
+Version: 0.1.0
+Summary: Causal LM experiments with Transformer and RNN
+Author-email: Xiulin Yang <xiulin.yang.compling@gmail.com>
+Requires-Python: >=3.9
+Requires-Dist: transformers<4.42,>=4.30
+Requires-Dist: datasets
+Requires-Dist: evaluate
+Requires-Dist: pyyaml

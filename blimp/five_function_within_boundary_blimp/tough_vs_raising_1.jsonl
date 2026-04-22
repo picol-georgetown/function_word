@@ -1,0 +1,901 @@
+{"original": "james is pleasant to flee from .", "sentence_good": "james will pleasant at flee at .", "sentence_bad": "james will apt at flee at ."}
+{"original": "samuel 's lawyer was easy to reference .", "sentence_good": "samuel will lawyer will easy at reference .", "sentence_bad": "samuel will lawyer will certain at reference ."}
+{"original": "benjamin 's tutor was easy to boast about .", "sentence_good": "benjamin will tutor will easy at boast at .", "sentence_bad": "benjamin will tutor will certain at boast at ."}
+{"original": "laura is n't interesting to cure .", "sentence_good": "laura n't will interesting at cure .", "sentence_bad": "laura n't soon at will cure ."}
+{"original": "some jacket was n't ready to wear .", "sentence_good": "some jacket n't will ready at wear .", "sentence_bad": "some jacket n't will bound at wear ."}
+{"original": "many drivers are n't difficult to reference .", "sentence_good": "many drivers n't will difficult at reference .", "sentence_bad": "many drivers n't will likely at reference ."}
+{"original": "julia was n't fun to talk to .", "sentence_good": "julia n't will fun at talk at .", "sentence_bad": "julia n't will unlikely at talk at ."}
+{"original": "valerie 's colleagues are n't pleasant to respect .", "sentence_good": "valerie will colleagues n't will pleasant at respect .", "sentence_bad": "valerie will colleagues n't will likely at respect ."}
+{"original": "veronica is n't boring to conceal .", "sentence_good": "veronica n't will boring at conceal .", "sentence_bad": "veronica n't will unlikely at conceal ."}
+{"original": "stacey was n't interesting to listen to .", "sentence_good": "stacey n't will interesting at listen at .", "sentence_bad": "stacey n't soon at will listen at ."}
+{"original": "those glasses are n't hard work to wear .", "sentence_good": "the glasses n't hard will work at wear .", "sentence_bad": "the glasses n't will soon at wear ."}
+{"original": "linda was interesting to reference .", "sentence_good": "linda will interesting at reference .", "sentence_bad": "linda soon at will reference ."}
+{"original": "this waitress is exciting to conceal .", "sentence_good": "the waitress will exciting at conceal .", "sentence_bad": "the waitress will unlikely at conceal ."}
+{"original": "some drivers are tough to listen to .", "sentence_good": "some drivers will tough at listen at .", "sentence_bad": "some drivers will apt at listen at ."}
+{"original": "omar was n't interesting to reference .", "sentence_good": "omar n't will interesting at reference .", "sentence_bad": "omar n't soon at will reference ."}
+{"original": "every dress is n't unpleasant to wear .", "sentence_good": "the dress n't will unpleasant at wear .", "sentence_bad": "the dress n't will likely at wear ."}
+{"original": "raymond was n't hard to argue about .", "sentence_good": "raymond n't will hard at argue at .", "sentence_bad": "raymond n't soon at will argue at ."}
+{"original": "robert was n't pleasant to respect .", "sentence_good": "robert n't will pleasant at respect .", "sentence_bad": "robert n't soon at will respect ."}
+{"original": "clyde 's partners are annoying to respect .", "sentence_good": "clyde will partners will annoying at respect .", "sentence_bad": "clyde will partners will apt at respect ."}
+{"original": "these bikes are n't unpleasant to conceal .", "sentence_good": "the bikes n't will unpleasant at conceal .", "sentence_bad": "the bikes n't will apt at conceal ."}
+{"original": "kayla was n't pleasant to cure .", "sentence_good": "kayla n't will pleasant at cure .", "sentence_bad": "kayla n't will bound at cure ."}
+{"original": "a school was ready to go to .", "sentence_good": "the school will ready at go at .", "sentence_bad": "the school will apt at go at ."}
+{"original": "leslie was tough to escape from .", "sentence_good": "leslie will tough at escape at .", "sentence_bad": "leslie will unlikely at escape at ."}
+{"original": "some glaciers are unpleasant to return to .", "sentence_good": "some glaciers will unpleasant at return at .", "sentence_bad": "some glaciers will likely at return at ."}
+{"original": "sonia is n't exciting to care for .", "sentence_good": "sonia n't will exciting at care at .", "sentence_bad": "sonia n't will bound at care at ."}
+{"original": "kevin is n't irritating to work with .", "sentence_good": "kevin n't will irritating at work at .", "sentence_bad": "kevin n't will bound at work at ."}
+{"original": "a restaurant was enjoyable to arrive at .", "sentence_good": "the restaurant will enjoyable at arrive at .", "sentence_bad": "the restaurant will unlikely at arrive at ."}
+{"original": "what was n't ready to wear .", "sentence_good": "what n't will ready at wear .", "sentence_bad": "what n't will soon at wear ."}
+{"original": "daniel 's ex-boyfriends were n't exciting to flee from .", "sentence_good": "daniel will ex-boyfriends n't will exciting at flee at .", "sentence_bad": "daniel will ex-boyfriends n't soon at will flee at ."}
+{"original": "the impressionists were hard work to disagree with .", "sentence_good": "the impressionists hard will work at disagree at .", "sentence_bad": "the impressionists will likely at disagree at ."}
+{"original": "judy is easy to work with .", "sentence_good": "judy will easy at work at .", "sentence_bad": "judy will certain at work at ."}
+{"original": "craig 's associates are irritating to talk about .", "sentence_good": "craig will associates will irritating at talk at .", "sentence_bad": "craig will associates will at at talk at ."}
+{"original": "marie was n't fun to complain about .", "sentence_good": "marie n't will fun at complain at .", "sentence_bad": "marie n't will unlikely at complain at ."}
+{"original": "rivers were hard work to bike to .", "sentence_good": "rivers hard will work at bike at .", "sentence_bad": "rivers will bound at bike at ."}
+{"original": "vanessa is fun to work with .", "sentence_good": "vanessa will fun at work at .", "sentence_bad": "vanessa will likely at work at ."}
+{"original": "a doctor is n't difficult to respect .", "sentence_good": "the doctor n't will difficult at respect .", "sentence_bad": "the doctor n't will certain at respect ."}
+{"original": "karla 's handyman is pleasant to reference .", "sentence_good": "karla will handyman will pleasant at reference .", "sentence_bad": "karla will handyman will sure at reference ."}
+{"original": "most actors are n't enjoyable to conceal .", "sentence_good": "most actors n't will enjoyable at conceal .", "sentence_bad": "most actors n't will bound at conceal ."}
+{"original": "steven 's niece is n't fun to flee from .", "sentence_good": "steven will niece n't will fun at flee at .", "sentence_bad": "steven will niece n't will sure at flee at ."}
+{"original": "these sisters of angela are n't ready to cure .", "sentence_good": "the sisters at angela n't will ready at cure .", "sentence_bad": "the sisters at angela n't will unlikely at cure ."}
+{"original": "some banks were n't enjoyable to go to .", "sentence_good": "some banks n't will enjoyable at go at .", "sentence_bad": "some banks n't will certain at go at ."}
+{"original": "that glacier was exciting to go to .", "sentence_good": "the glacier will exciting at go at .", "sentence_bad": "the glacier will certain at go at ."}
+{"original": "that mountain is n't difficult to bike to .", "sentence_good": "the mountain n't will difficult at bike at .", "sentence_bad": "the mountain n't will likely at bike at ."}
+{"original": "a lot of children are n't exciting to escape from .", "sentence_good": "the lot at children n't will exciting at escape at .", "sentence_bad": "the lot at children n't will unlikely at escape at ."}
+{"original": "many adults were n't exciting to argue about .", "sentence_good": "many adults n't will exciting at argue at .", "sentence_bad": "many adults n't will apt at argue at ."}
+{"original": "most shawls were n't interesting to wear .", "sentence_good": "most shawls n't will interesting at wear .", "sentence_bad": "most shawls n't will certain at wear ."}
+{"original": "this college campus was n't exciting to bike to .", "sentence_good": "college the campus n't will exciting at bike at .", "sentence_bad": "college the campus n't will unlikely at bike at ."}
+{"original": "some rivers were n't easy to bike to .", "sentence_good": "some rivers n't will easy at bike at .", "sentence_bad": "some rivers n't will bound at bike at ."}
+{"original": "that grocery store was tough to go to .", "sentence_good": "grocery the store will tough at go at .", "sentence_bad": "grocery the store will apt at go at ."}
+{"original": "raymond was fun to complain about .", "sentence_good": "raymond will fun at complain at .", "sentence_bad": "raymond will likely at complain at ."}
+{"original": "rebecca is ready to cure .", "sentence_good": "rebecca will ready at cure .", "sentence_bad": "rebecca will likely at cure ."}
+{"original": "carl was exciting to listen to .", "sentence_good": "carl will exciting at listen at .", "sentence_bad": "carl soon at will listen at ."}
+{"original": "rabbits are hard work to reveal .", "sentence_good": "rabbits hard will work at reveal .", "sentence_bad": "rabbits soon at will reveal ."}
+{"original": "those brothers of jeffrey were boring to reference .", "sentence_good": "the brothers at jeffrey will boring at reference .", "sentence_bad": "the brothers at jeffrey will sure at reference ."}
+{"original": "carolyn 's cousin was n't hard to respect .", "sentence_good": "carolyn will cousin n't will hard at respect .", "sentence_bad": "carolyn will cousin n't will bound at respect ."}
+{"original": "april is n't interesting to conceal .", "sentence_good": "april n't will interesting at conceal .", "sentence_bad": "april n't will bound at conceal ."}
+{"original": "this grocery store was annoying to drive to .", "sentence_good": "grocery the store will annoying at drive at .", "sentence_bad": "grocery the store will apt at drive at ."}
+{"original": "guy is tough to escape from .", "sentence_good": "guy will tough at escape at .", "sentence_bad": "guy will certain at escape at ."}
+{"original": "some bread is boring to lift .", "sentence_good": "some bread will boring at lift .", "sentence_bad": "some bread will bound at lift ."}
+{"original": "that bank is n't enjoyable to drop by .", "sentence_good": "bank n't will the enjoyable at drop at .", "sentence_bad": "bank n't will the likely at drop at ."}
+{"original": "carmen is n't boring to scare .", "sentence_good": "carmen n't will boring at scare .", "sentence_bad": "carmen n't will apt at scare ."}
+{"original": "denise was hard work to reveal .", "sentence_good": "denise hard will work at reveal .", "sentence_bad": "denise will bound at reveal ."}
+{"original": "janice is n't hard to argue about .", "sentence_good": "janice n't will hard at argue at .", "sentence_bad": "janice n't soon at will argue at ."}
+{"original": "kayla is n't fun to fire .", "sentence_good": "kayla n't will fun at fire .", "sentence_bad": "kayla n't will certain at fire ."}
+{"original": "katherine 's best friend was n't hard work to scare .", "sentence_good": "katherine will best friend n't hard will work at scare .", "sentence_bad": "katherine will best friend n't will likely at scare ."}
+{"original": "daniel is n't hard work to scare .", "sentence_good": "daniel n't hard will work at scare .", "sentence_bad": "daniel n't will likely at scare ."}
+{"original": "some friend of alicia was ready to fire .", "sentence_good": "some friend at alicia will ready at fire .", "sentence_bad": "some friend at alicia soon at will fire ."}
+{"original": "naomi is easy to complain about .", "sentence_good": "naomi will easy at complain at .", "sentence_bad": "naomi will apt at complain at ."}
+{"original": "beth was ready to listen to .", "sentence_good": "beth will ready at listen at .", "sentence_bad": "beth will unlikely at listen at ."}
+{"original": "amy 's partners were enjoyable to boast about .", "sentence_good": "amy will partners will enjoyable at boast at .", "sentence_bad": "amy will partners will at at boast at ."}
+{"original": "all offspring are n't ready to complain about .", "sentence_good": "the offspring n't will ready at complain at .", "sentence_bad": "the offspring n't will certain at complain at ."}
+{"original": "katherine is difficult to care for .", "sentence_good": "katherine will difficult at care at .", "sentence_bad": "katherine will unlikely at care at ."}
+{"original": "teresa was n't tough to work with .", "sentence_good": "teresa n't will tough at work at .", "sentence_bad": "teresa n't will apt at work at ."}
+{"original": "they were irritating to respect .", "sentence_good": "they will irritating at respect .", "sentence_bad": "they will certain at respect ."}
+{"original": "maria is unpleasant to argue about .", "sentence_good": "maria will unpleasant at argue at .", "sentence_bad": "maria will bound at argue at ."}
+{"original": "a restaurant was n't ready to drop by .", "sentence_good": "the restaurant n't will ready at drop at .", "sentence_bad": "the restaurant n't will sure at drop at ."}
+{"original": "raymond is n't difficult to talk about .", "sentence_good": "raymond n't will difficult at talk at .", "sentence_bad": "raymond n't will apt at talk at ."}
+{"original": "laura is n't fun to fire .", "sentence_good": "laura n't will fun at fire .", "sentence_bad": "laura n't will likely at fire ."}
+{"original": "that lady is n't hard to escape from .", "sentence_good": "the lady n't will hard at escape at .", "sentence_bad": "the lady n't will sure at escape at ."}
+{"original": "these essays about the lutherans were fun to argue about .", "sentence_good": "the essays the at lutherans will fun at argue at .", "sentence_bad": "the essays the at lutherans will apt at argue at ."}
+{"original": "denise was n't boring to flee from .", "sentence_good": "denise n't will boring at flee at .", "sentence_bad": "denise n't soon at will flee at ."}
+{"original": "most nuclei were ready to lift .", "sentence_good": "most nuclei will ready at lift .", "sentence_bad": "most nuclei will apt at lift ."}
+{"original": "winston churchill was tough to conceal .", "sentence_good": "winston churchill will tough at conceal .", "sentence_bad": "winston churchill will unlikely at conceal ."}
+{"original": "ann was n't tough to conceal .", "sentence_good": "ann n't will tough at conceal .", "sentence_bad": "ann n't will likely at conceal ."}
+{"original": "elaine is unpleasant to reference .", "sentence_good": "elaine will unpleasant at reference .", "sentence_bad": "elaine will apt at reference ."}
+{"original": "victoria is n't pleasant to argue about .", "sentence_good": "victoria n't will pleasant at argue at .", "sentence_bad": "victoria n't will certain at argue at ."}
+{"original": "that skirt is annoying to wear .", "sentence_good": "the skirt will annoying at wear .", "sentence_bad": "the skirt will certain at wear ."}
+{"original": "harvard university was ready to drive to .", "sentence_good": "harvard university will ready at drive at .", "sentence_bad": "harvard university will likely at drive at ."}
+{"original": "angela was ready to reference .", "sentence_good": "angela will ready at reference .", "sentence_bad": "angela soon at will reference ."}
+{"original": "bruce is tough to scare .", "sentence_good": "bruce will tough at scare .", "sentence_bad": "bruce will sure at scare ."}
+{"original": "the great lakes were boring to bike to .", "sentence_good": "great the lakes will at boring at bike .", "sentence_bad": "great the lakes will likely at bike at ."}
+{"original": "that actress is exciting to boast about .", "sentence_good": "the actress will exciting at boast at .", "sentence_bad": "actress will the unlikely at boast at ."}
+{"original": "brad is hard to listen to .", "sentence_good": "brad will hard at listen at .", "sentence_bad": "brad will apt at listen at ."}
+{"original": "lucille 's mothers were interesting to escape from .", "sentence_good": "lucille will mothers will interesting at escape at .", "sentence_bad": "lucille will mothers will certain at escape at ."}
+{"original": "holly is annoying to flee from .", "sentence_good": "holly will annoying at flee at .", "sentence_bad": "holly soon at will flee at ."}
+{"original": "dancers ' hairdressers were ready to argue about .", "sentence_good": "dancers ' hairdressers will ready at argue at .", "sentence_bad": "dancers ' hairdressers will apt at argue at ."}
+{"original": "most cafes are boring to walk through .", "sentence_good": "most cafes will boring at walk at .", "sentence_bad": "most cafes will unlikely at walk at ."}
+{"original": "elizabeth is n't annoying to work with .", "sentence_good": "elizabeth n't will annoying at work at .", "sentence_bad": "elizabeth n't soon at will work at ."}
+{"original": "denise is n't easy to reveal .", "sentence_good": "denise n't will easy at reveal .", "sentence_bad": "denise n't will certain at reveal ."}
+{"original": "tamara is n't enjoyable to work with .", "sentence_good": "tamara n't will enjoyable at work at .", "sentence_bad": "tamara n't will apt at work at ."}
+{"original": "dan was n't hard to boast about .", "sentence_good": "dan n't will hard at boast at .", "sentence_bad": "dan n't will likely at boast at ."}
+{"original": "that oasis is irritating to walk through .", "sentence_good": "oasis will the irritating at walk at .", "sentence_bad": "oasis will the likely at walk at ."}
+{"original": "james was pleasant to reference .", "sentence_good": "james will pleasant at reference .", "sentence_bad": "james will apt at reference ."}
+{"original": "vanessa 's colleague was annoying to cure .", "sentence_good": "vanessa will colleague will annoying at cure .", "sentence_bad": "vanessa will colleague will sure at cure ."}
+{"original": "carolyn is n't enjoyable to boast about .", "sentence_good": "carolyn n't will enjoyable at boast at .", "sentence_bad": "carolyn n't will at at boast at ."}
+{"original": "the grandson of those teenagers is pleasant to conceal .", "sentence_good": "the grandson the at teenagers will pleasant at conceal .", "sentence_bad": "the grandson the at teenagers will likely at conceal ."}
+{"original": "monica is n't exciting to escape from .", "sentence_good": "monica n't will exciting at escape at .", "sentence_bad": "monica n't will unlikely at escape at ."}
+{"original": "teresa is n't tough to disagree with .", "sentence_good": "teresa n't will tough at disagree at .", "sentence_bad": "teresa n't will bound at disagree at ."}
+{"original": "that customer was fun to listen to .", "sentence_good": "the customer will fun at listen at .", "sentence_bad": "customer will the sure at listen at ."}
+{"original": "a lot of blouses are tough to wear .", "sentence_good": "the lot at blouses will tough at wear .", "sentence_bad": "the lot at blouses will bound at wear ."}
+{"original": "many newspaper articles were ready to conceal .", "sentence_good": "many newspaper articles will ready at conceal .", "sentence_bad": "many newspaper articles will apt at conceal ."}
+{"original": "rachelle is n't tough to reveal .", "sentence_good": "rachelle n't will tough at reveal .", "sentence_bad": "rachelle n't will certain at reveal ."}
+{"original": "all grocery stores are boring to drop by .", "sentence_good": "grocery the stores will boring at drop at .", "sentence_bad": "grocery the stores will unlikely at drop at ."}
+{"original": "sheila 's employees were hard work to fire .", "sentence_good": "sheila will employees hard will work at fire .", "sentence_bad": "sheila will employees will likely at fire ."}
+{"original": "every son of jerry is n't enjoyable to cure .", "sentence_good": "the son at jerry n't will enjoyable at cure .", "sentence_bad": "the son at jerry n't soon at will cure ."}
+{"original": "all waitresses ' electrician is n't fun to reference .", "sentence_good": "the waitresses ' electrician n't will fun at reference .", "sentence_bad": "the waitresses ' electrician n't soon at will reference ."}
+{"original": "andrew is n't exciting to listen to .", "sentence_good": "andrew n't will exciting at listen at .", "sentence_bad": "andrew n't will certain at listen at ."}
+{"original": "kenneth was n't fun to cure .", "sentence_good": "kenneth n't will fun at cure .", "sentence_bad": "kenneth n't will likely at cure ."}
+{"original": "this father of denise is fun to listen to .", "sentence_good": "the father at denise will fun at listen at .", "sentence_bad": "the father at denise will sure at listen at ."}
+{"original": "all gloves are tough to wear .", "sentence_good": "the gloves will tough at wear .", "sentence_bad": "the gloves will apt at wear ."}
+{"original": "a lot of customers are n't difficult to talk to .", "sentence_good": "the lot at customers n't will difficult at talk at .", "sentence_bad": "the lot at customers n't soon at will talk at ."}
+{"original": "carolyn is irritating to scare .", "sentence_good": "carolyn will irritating at scare .", "sentence_bad": "carolyn soon at will scare ."}
+{"original": "paula was n't hard to scare .", "sentence_good": "paula n't will hard at scare .", "sentence_bad": "paula n't will bound at scare ."}
+{"original": "many children 's podiatrists are n't boring to disagree with .", "sentence_good": "many children will podiatrists n't will boring at disagree at .", "sentence_bad": "many children will podiatrists n't will likely at disagree at ."}
+{"original": "catherine is pleasant to fire .", "sentence_good": "catherine will pleasant at fire .", "sentence_bad": "catherine will bound at fire ."}
+{"original": "beverly 's lawyers were pleasant to reference .", "sentence_good": "beverly will lawyers will pleasant at reference .", "sentence_bad": "beverly will lawyers will certain at reference ."}
+{"original": "all glaciers were hard to go to .", "sentence_good": "the glaciers will hard at go at .", "sentence_bad": "the glaciers soon at will go at ."}
+{"original": "some bank was n't unpleasant to go to .", "sentence_good": "some bank n't will unpleasant at go at .", "sentence_bad": "some bank n't will sure at go at ."}
+{"original": "vincent was n't boring to care for .", "sentence_good": "vincent n't will boring at care at .", "sentence_bad": "vincent n't will unlikely at care at ."}
+{"original": "some daughter of that girl is pleasant to respect .", "sentence_good": "some daughter the at girl will pleasant at respect .", "sentence_bad": "some daughter the at girl will apt at respect ."}
+{"original": "steve is exciting to care for .", "sentence_good": "steve will exciting at care at .", "sentence_bad": "steve will unlikely at care at ."}
+{"original": "every alumnus was n't boring to disagree with .", "sentence_good": "the alumnus n't will boring at disagree at .", "sentence_bad": "the alumnus n't soon at will disagree at ."}
+{"original": "that shawl was irritating to wear .", "sentence_good": "the shawl will irritating at wear .", "sentence_bad": "the shawl will apt at wear ."}
+{"original": "that lake is unpleasant to go to .", "sentence_good": "the lake will unpleasant at go at .", "sentence_bad": "the lake will unlikely at go at ."}
+{"original": "rebecca was n't difficult to flee from .", "sentence_good": "rebecca n't will difficult at flee at .", "sentence_bad": "rebecca n't will certain at flee at ."}
+{"original": "the shawls were n't pleasant to wear .", "sentence_good": "the shawls n't will pleasant at wear .", "sentence_bad": "the shawls n't will bound at wear ."}
+{"original": "the granddaughters of christopher were hard work to examine .", "sentence_good": "the granddaughters at christopher hard will work at examine .", "sentence_bad": "the granddaughters at christopher will sure at examine ."}
+{"original": "mark was n't easy to conceal .", "sentence_good": "mark n't will easy at conceal .", "sentence_bad": "mark n't will likely at conceal ."}
+{"original": "syntheses are n't hard to argue about .", "sentence_good": "syntheses n't will hard at argue at .", "sentence_bad": "syntheses n't will at at argue at ."}
+{"original": "beth 's girlfriend was interesting to care for .", "sentence_good": "beth will girlfriend will interesting at care at .", "sentence_bad": "beth will girlfriend will sure at care at ."}
+{"original": "eva was n't exciting to disagree with .", "sentence_good": "eva n't will exciting at disagree at .", "sentence_bad": "eva n't will bound at disagree at ."}
+{"original": "most cucumbers were hard to reveal .", "sentence_good": "most cucumbers will hard at reveal .", "sentence_bad": "most cucumbers will sure at reveal ."}
+{"original": "these commentaries about the clintons were n't unpleasant to disagree with .", "sentence_good": "the commentaries the at clintons n't will unpleasant at disagree at .", "sentence_bad": "the commentaries the at clintons n't will likely at disagree at ."}
+{"original": "movie theaters are pleasant to arrive at .", "sentence_good": "movie theaters will pleasant at arrive at .", "sentence_bad": "movie theaters will likely at arrive at ."}
+{"original": "amy is n't boring to conceal .", "sentence_good": "amy n't will boring at conceal .", "sentence_bad": "amy n't will apt at conceal ."}
+{"original": "harvard university was unpleasant to go to .", "sentence_good": "harvard university will unpleasant at go at .", "sentence_bad": "harvard university will sure at go at ."}
+{"original": "every mall is exciting to bike to .", "sentence_good": "the mall will exciting at bike at .", "sentence_bad": "the mall will certain at bike at ."}
+{"original": "peter 's mentors are n't unpleasant to complain about .", "sentence_good": "peter will mentors n't will unpleasant at complain at .", "sentence_bad": "peter will mentors n't will certain at complain at ."}
+{"original": "many waiters are tough to work with .", "sentence_good": "many waiters will tough at work at .", "sentence_bad": "many waiters will likely at work at ."}
+{"original": "a lot of malls were boring to go to .", "sentence_good": "the lot at malls will boring at go at .", "sentence_bad": "the lot at malls will unlikely at go at ."}
+{"original": "the mirrors are interesting to lift .", "sentence_good": "the mirrors will interesting at lift .", "sentence_bad": "the mirrors will certain at lift ."}
+{"original": "patrick was n't difficult to conceal .", "sentence_good": "patrick n't will difficult at conceal .", "sentence_bad": "patrick n't soon at will conceal ."}
+{"original": "most high schools were tough to arrive at .", "sentence_good": "most high schools will tough at arrive at .", "sentence_bad": "most high schools will bound at arrive at ."}
+{"original": "steve was enjoyable to conceal .", "sentence_good": "steve will enjoyable at conceal .", "sentence_bad": "steve will unlikely at conceal ."}
+{"original": "galileo was difficult to scare .", "sentence_good": "galileo will difficult at scare .", "sentence_bad": "galileo will bound at scare ."}
+{"original": "sharon was n't interesting to respect .", "sentence_good": "sharon n't will interesting at respect .", "sentence_bad": "sharon n't soon at will respect ."}
+{"original": "gregory was n't tough to argue about .", "sentence_good": "gregory n't will tough at argue at .", "sentence_bad": "gregory n't will certain at argue at ."}
+{"original": "samuel was n't enjoyable to argue about .", "sentence_good": "samuel n't will enjoyable at argue at .", "sentence_bad": "samuel n't will certain at argue at ."}
+{"original": "the art galleries are enjoyable to walk through .", "sentence_good": "will the galleries will enjoyable at walk at .", "sentence_bad": "will the galleries will unlikely at walk at ."}
+{"original": "this person was irritating to return to .", "sentence_good": "the person will irritating at return at .", "sentence_bad": "the person will bound at return at ."}
+{"original": "every teacher was n't annoying to escape from .", "sentence_good": "the teacher n't will annoying at escape at .", "sentence_bad": "the teacher n't will apt at escape at ."}
+{"original": "these oases are hard to arrive at .", "sentence_good": "the oases will hard at arrive at .", "sentence_bad": "the oases will sure at arrive at ."}
+{"original": "a cousin of april is n't hard to scare .", "sentence_good": "the cousin at april n't will hard at scare .", "sentence_bad": "the cousin at april n't will sure at scare ."}
+{"original": "sandra is n't pleasant to complain about .", "sentence_good": "sandra n't will pleasant at complain at .", "sentence_bad": "sandra n't will certain at complain at ."}
+{"original": "those sweaters are n't difficult to wear .", "sentence_good": "the sweaters n't will difficult at wear .", "sentence_bad": "the sweaters n't will sure at wear ."}
+{"original": "the public park is n't interesting to go to .", "sentence_good": "public the park n't will interesting at go at .", "sentence_bad": "public the park n't will certain at go at ."}
+{"original": "matt was n't boring to talk about .", "sentence_good": "matt n't will boring at talk at .", "sentence_bad": "matt n't will apt at talk at ."}
+{"original": "julia was n't tough to flee from .", "sentence_good": "julia n't will tough at flee at .", "sentence_bad": "julia n't will sure at flee at ."}
+{"original": "every lake is hard work to talk about .", "sentence_good": "the lake hard will work at talk at .", "sentence_bad": "the lake will at at talk at ."}
+{"original": "that art gallery was n't easy to drive to .", "sentence_good": "will the gallery n't will easy at drive at .", "sentence_bad": "will the gallery n't will bound at drive at ."}
+{"original": "sherry is annoying to reference .", "sentence_good": "sherry will annoying at reference .", "sentence_bad": "sherry will unlikely at reference ."}
+{"original": "sonia was difficult to argue about .", "sentence_good": "sonia will difficult at argue at .", "sentence_bad": "sonia will unlikely at argue at ."}
+{"original": "diana is n't fun to talk about .", "sentence_good": "diana n't will fun at talk at .", "sentence_bad": "diana n't will sure at talk at ."}
+{"original": "clyde 's partners are fun to fire .", "sentence_good": "clyde will partners will fun at fire .", "sentence_bad": "clyde will partners will apt at fire ."}
+{"original": "the students ' colleagues were n't pleasant to conceal .", "sentence_good": "the students ' colleagues n't will pleasant at conceal .", "sentence_bad": "the students ' colleagues n't soon at will conceal ."}
+{"original": "derek 's supervisor was ready to reference .", "sentence_good": "derek will supervisor will ready at reference .", "sentence_bad": "derek will supervisor will likely at reference ."}
+{"original": "these waiters were irritating to cure .", "sentence_good": "the waiters will irritating at cure .", "sentence_bad": "the waiters will likely at cure ."}
+{"original": "aaron was n't interesting to scare .", "sentence_good": "aaron n't will interesting at scare .", "sentence_bad": "aaron n't will likely at scare ."}
+{"original": "many art galleries were n't tough to drop by .", "sentence_good": "many will galleries n't will tough at drop at .", "sentence_bad": "many will galleries n't will bound at drop at ."}
+{"original": "ladies were n't boring to fire .", "sentence_good": "ladies n't will boring at fire .", "sentence_bad": "ladies n't will certain at fire ."}
+{"original": "wayne was enjoyable to disagree with .", "sentence_good": "wayne will enjoyable at disagree at .", "sentence_bad": "wayne will sure at disagree at ."}
+{"original": "some lakes were n't difficult to reveal .", "sentence_good": "some lakes n't will difficult at reveal .", "sentence_bad": "some lakes n't will likely at reveal ."}
+{"original": "sandra was n't exciting to return to .", "sentence_good": "sandra n't will exciting at return at .", "sentence_bad": "sandra n't will bound at return at ."}
+{"original": "candice was annoying to work with .", "sentence_good": "candice will annoying at work at .", "sentence_bad": "candice will apt at work at ."}
+{"original": "samuel was n't unpleasant to escape from .", "sentence_good": "samuel n't will unpleasant at escape at .", "sentence_bad": "samuel n't will apt at escape at ."}
+{"original": "tamara was easy to flee from .", "sentence_good": "tamara will easy at flee at .", "sentence_bad": "tamara soon at will flee at ."}
+{"original": "all students are n't boring to disagree with .", "sentence_good": "the students n't will boring at disagree at .", "sentence_bad": "the students n't will unlikely at disagree at ."}
+{"original": "those glaciers are n't enjoyable to walk through .", "sentence_good": "the glaciers n't will enjoyable at walk at .", "sentence_bad": "the glaciers n't will apt at walk at ."}
+{"original": "deanna is n't hard to talk about .", "sentence_good": "deanna n't will hard at talk at .", "sentence_bad": "deanna n't will at at talk at ."}
+{"original": "all pictures are enjoyable to lift .", "sentence_good": "the pictures will enjoyable at lift .", "sentence_bad": "the pictures will bound at lift ."}
+{"original": "those hamsters are irritating to cure .", "sentence_good": "the hamsters will irritating at cure .", "sentence_bad": "the hamsters will unlikely at cure ."}
+{"original": "craig is fun to argue about .", "sentence_good": "craig will fun at argue at .", "sentence_bad": "craig will unlikely at argue at ."}
+{"original": "some brochures were n't easy to reveal .", "sentence_good": "some brochures n't will easy at reveal .", "sentence_bad": "some brochures n't will unlikely at reveal ."}
+{"original": "jason 's best friends were n't pleasant to complain about .", "sentence_good": "jason will best friends n't will pleasant at complain at .", "sentence_bad": "jason will best friends n't will sure at complain at ."}
+{"original": "lakes are hard to bike to .", "sentence_good": "lakes will hard at bike at .", "sentence_bad": "lakes will sure at bike at ."}
+{"original": "this sister of these girls was n't easy to cure .", "sentence_good": "the sister the at girls n't will easy at cure .", "sentence_bad": "the sister the at girls n't will apt at cure ."}
+{"original": "every father of theodore is n't enjoyable to examine .", "sentence_good": "the father at theodore n't will enjoyable at examine .", "sentence_bad": "the father at theodore n't will certain at examine ."}
+{"original": "judy was n't boring to conceal .", "sentence_good": "judy n't will boring at conceal .", "sentence_bad": "judy n't will unlikely at conceal ."}
+{"original": "james was irritating to flee from .", "sentence_good": "james will irritating at flee at .", "sentence_bad": "james will unlikely at flee at ."}
+{"original": "those closets are irritating to arrive at .", "sentence_good": "the closets will irritating at arrive at .", "sentence_bad": "the closets will bound at arrive at ."}
+{"original": "those schools are n't irritating to go to .", "sentence_good": "the schools n't will irritating at go at .", "sentence_bad": "the schools n't will unlikely at go at ."}
+{"original": "ruth 's tutors were n't difficult to argue about .", "sentence_good": "ruth will tutors n't will difficult at argue at .", "sentence_bad": "ruth will tutors n't will at at argue at ."}
+{"original": "barbara is unpleasant to disagree with .", "sentence_good": "barbara will unpleasant at disagree at .", "sentence_bad": "barbara will sure at disagree at ."}
+{"original": "mark is exciting to boast about .", "sentence_good": "mark will exciting at boast at .", "sentence_bad": "mark will bound at boast at ."}
+{"original": "mark is fun to care for .", "sentence_good": "mark will fun at care at .", "sentence_bad": "mark will bound at care at ."}
+{"original": "this student was pleasant to fire .", "sentence_good": "the student will pleasant at fire .", "sentence_bad": "the student will certain at fire ."}
+{"original": "connie is interesting to return to .", "sentence_good": "connie will interesting at return at .", "sentence_bad": "connie soon at will return at ."}
+{"original": "that glacier was n't difficult to drop by .", "sentence_good": "the glacier n't will difficult at drop at .", "sentence_bad": "the glacier n't will likely at drop at ."}
+{"original": "the high school was n't tough to go to .", "sentence_good": "high the school n't will tough at go at .", "sentence_bad": "high the school n't will likely at go at ."}
+{"original": "denise is easy to argue about .", "sentence_good": "denise will easy at argue at .", "sentence_bad": "denise will certain at argue at ."}
+{"original": "the bank was fun to conceal .", "sentence_good": "the bank will fun at conceal .", "sentence_bad": "the bank will certain at conceal ."}
+{"original": "the art gallery is n't exciting to arrive at .", "sentence_good": "will the gallery n't will exciting at arrive at .", "sentence_bad": "will the gallery n't will bound at arrive at ."}
+{"original": "many eyes were interesting to reveal .", "sentence_good": "many eyes will interesting at reveal .", "sentence_bad": "many eyes will unlikely at reveal ."}
+{"original": "sherry 's friend was n't interesting to complain about .", "sentence_good": "sherry will friend n't will interesting at complain at .", "sentence_bad": "sherry will friend n't soon at will complain at ."}
+{"original": "florence was unpleasant to scare .", "sentence_good": "florence will unpleasant at scare .", "sentence_bad": "florence will bound at scare ."}
+{"original": "larry is n't annoying to boast about .", "sentence_good": "larry n't will annoying at boast at .", "sentence_bad": "larry n't will at at boast at ."}
+{"original": "christopher was ready to respect .", "sentence_good": "christopher will ready at respect .", "sentence_bad": "christopher will apt at respect ."}
+{"original": "that lake is n't hard to go to .", "sentence_good": "the lake n't will hard at go at .", "sentence_bad": "the lake n't soon at will go at ."}
+{"original": "the niece of sherry was n't unpleasant to return to .", "sentence_good": "the niece at sherry n't will unpleasant at return at .", "sentence_bad": "the niece at sherry n't will certain at return at ."}
+{"original": "most children are difficult to disagree with .", "sentence_good": "most children will difficult at disagree at .", "sentence_bad": "most children will bound at disagree at ."}
+{"original": "rachelle is n't unpleasant to argue about .", "sentence_good": "rachelle n't will unpleasant at argue at .", "sentence_bad": "rachelle n't soon at will argue at ."}
+{"original": "a lot of hospitals were boring to go to .", "sentence_good": "the lot at hospitals will boring at go at .", "sentence_bad": "the lot at hospitals will apt at go at ."}
+{"original": "steve 's hairdressers are n't exciting to listen to .", "sentence_good": "steve will hairdressers n't will exciting at listen at .", "sentence_bad": "steve will hairdressers n't will likely at listen at ."}
+{"original": "monet was n't hard to conceal .", "sentence_good": "monet n't will hard at conceal .", "sentence_bad": "monet n't will certain at conceal ."}
+{"original": "martha 's lawyer was n't irritating to care for .", "sentence_good": "martha will lawyer n't will irritating at care at .", "sentence_bad": "martha will lawyer n't will apt at care at ."}
+{"original": "those cafes were n't pleasant to drive to .", "sentence_good": "the cafes n't will pleasant at drive at .", "sentence_bad": "the cafes n't will likely at drive at ."}
+{"original": "melinda is n't easy to disagree with .", "sentence_good": "melinda n't will easy at disagree at .", "sentence_bad": "melinda n't will bound at disagree at ."}
+{"original": "that oasis was boring to conceal .", "sentence_good": "the oasis will boring at conceal .", "sentence_bad": "the oasis will certain at conceal ."}
+{"original": "daniel 's classmate was hard work to work with .", "sentence_good": "daniel will classmate hard will work at work at .", "sentence_bad": "daniel will classmate soon at will work at ."}
+{"original": "some sons of derek are n't exciting to fire .", "sentence_good": "some sons at derek n't will exciting at fire .", "sentence_bad": "some sons at derek n't soon at will fire ."}
+{"original": "the lutherans were exciting to scare .", "sentence_good": "the lutherans will exciting at scare .", "sentence_bad": "the lutherans will likely at scare ."}
+{"original": "a glacier is n't enjoyable to go to .", "sentence_good": "the glacier n't will enjoyable at go at .", "sentence_bad": "the glacier n't will sure at go at ."}
+{"original": "theodore 's granddaughters were pleasant to listen to .", "sentence_good": "theodore will granddaughters will pleasant at listen at .", "sentence_bad": "theodore will granddaughters will certain at listen at ."}
+{"original": "most men are n't fun to complain about .", "sentence_good": "most men n't will fun at complain at .", "sentence_bad": "most men n't will likely at complain at ."}
+{"original": "high schools are interesting to drop by .", "sentence_good": "high schools will interesting at drop at .", "sentence_bad": "high schools will certain at drop at ."}
+{"original": "brenda was difficult to work with .", "sentence_good": "brenda will difficult at work at .", "sentence_bad": "brenda will unlikely at work at ."}
+{"original": "every man is easy to talk about .", "sentence_good": "the man will easy at talk at .", "sentence_bad": "the man will at at talk at ."}
+{"original": "matt is n't difficult to complain about .", "sentence_good": "matt n't will difficult at complain at .", "sentence_bad": "matt n't will likely at complain at ."}
+{"original": "those schools were n't pleasant to drop by .", "sentence_good": "the schools n't will pleasant at drop at .", "sentence_bad": "the schools n't will bound at drop at ."}
+{"original": "michelle was n't hard work to complain about .", "sentence_good": "michelle n't hard will work at complain at .", "sentence_bad": "michelle n't will bound at complain at ."}
+{"original": "restaurants are n't exciting to drop by .", "sentence_good": "restaurants n't will exciting at drop at .", "sentence_bad": "restaurants n't will apt at drop at ."}
+{"original": "most art galleries were n't enjoyable to drop by .", "sentence_good": "most will galleries n't will enjoyable at drop at .", "sentence_bad": "most will galleries n't will bound at drop at ."}
+{"original": "janet was n't boring to fire .", "sentence_good": "janet n't will boring at fire .", "sentence_bad": "janet n't will apt at fire ."}
+{"original": "spain is difficult to bike to .", "sentence_good": "spain will difficult at bike at .", "sentence_bad": "spain will likely at bike at ."}
+{"original": "these cashiers are tough to work with .", "sentence_good": "the cashiers will tough at work at .", "sentence_bad": "the cashiers will certain at work at ."}
+{"original": "a lot of college campuses are n't boring to walk through .", "sentence_good": "the lot college at campuses n't will boring at walk at .", "sentence_bad": "the lot college at campuses n't will sure at walk at ."}
+{"original": "daniel 's grandmother is irritating to cure .", "sentence_good": "daniel will grandmother will irritating at cure .", "sentence_bad": "daniel will grandmother will unlikely at cure ."}
+{"original": "all girls were n't hard work to care for .", "sentence_good": "the girls n't hard will work at care at .", "sentence_bad": "the girls n't soon at will care at ."}
+{"original": "the nuclei were n't ready to lift .", "sentence_good": "the nuclei n't will ready at lift .", "sentence_bad": "the nuclei n't soon at will lift ."}
+{"original": "eric is enjoyable to return to .", "sentence_good": "eric will enjoyable at return at .", "sentence_bad": "eric will certain at return at ."}
+{"original": "raymond was hard to boast about .", "sentence_good": "raymond will hard at boast at .", "sentence_bad": "raymond will at at boast at ."}
+{"original": "matt was n't easy to scare .", "sentence_good": "matt n't will easy at scare .", "sentence_bad": "matt n't will bound at scare ."}
+{"original": "some art gallery is n't boring to drive to .", "sentence_good": "some will gallery n't will boring at drive at .", "sentence_bad": "some will gallery n't soon at will drive at ."}
+{"original": "roger was n't boring to reveal .", "sentence_good": "roger n't will boring at reveal .", "sentence_bad": "roger n't soon at will reveal ."}
+{"original": "the girl is n't pleasant to return to .", "sentence_good": "the girl n't will pleasant at return at .", "sentence_bad": "the girl n't will apt at return at ."}
+{"original": "stephanie is n't pleasant to boast about .", "sentence_good": "stephanie n't will pleasant at boast at .", "sentence_bad": "stephanie n't will likely at boast at ."}
+{"original": "leslie was n't unpleasant to argue about .", "sentence_good": "leslie n't will unpleasant at argue at .", "sentence_bad": "leslie n't will likely at argue at ."}
+{"original": "heather was n't unpleasant to talk about .", "sentence_good": "heather n't will unpleasant at talk at .", "sentence_bad": "heather n't will unlikely at talk at ."}
+{"original": "catherine 's grandsons are pleasant to examine .", "sentence_good": "catherine will grandsons will pleasant at examine .", "sentence_bad": "catherine will grandsons will likely at examine ."}
+{"original": "those grocery stores were annoying to drive to .", "sentence_good": "grocery the stores will annoying at drive at .", "sentence_bad": "grocery the stores will certain at drive at ."}
+{"original": "melanie 's friends are interesting to listen to .", "sentence_good": "melanie will friends will interesting at listen at .", "sentence_bad": "melanie will friends will apt at listen at ."}
+{"original": "the dancers were unpleasant to listen to .", "sentence_good": "the dancers will unpleasant at listen at .", "sentence_bad": "the dancers soon at will listen at ."}
+{"original": "the cafe is tough to walk through .", "sentence_good": "the cafe will tough at walk at .", "sentence_bad": "the cafe will sure at walk at ."}
+{"original": "that ice is easy to lift .", "sentence_good": "ice will the easy at lift .", "sentence_bad": "ice will the sure at lift ."}
+{"original": "waitresses were n't easy to talk about .", "sentence_good": "waitresses n't will easy at talk at .", "sentence_bad": "waitresses n't will bound at talk at ."}
+{"original": "stacey is n't fun to argue about .", "sentence_good": "stacey n't will fun at argue at .", "sentence_bad": "stacey n't will bound at argue at ."}
+{"original": "the restaurant was annoying to walk through .", "sentence_good": "the restaurant will annoying at walk at .", "sentence_bad": "the restaurant will likely at walk at ."}
+{"original": "donna 's supervisors were n't enjoyable to talk about .", "sentence_good": "don na will supervisors n't will enjoyable at talk at .", "sentence_bad": "don na will supervisors n't will certain at talk at ."}
+{"original": "scarves are n't enjoyable to wear .", "sentence_good": "scarves n't will enjoyable at wear .", "sentence_bad": "scarves n't will sure at wear ."}
+{"original": "the son of patrick was tough to conceal .", "sentence_good": "the son at patrick will tough at conceal .", "sentence_bad": "the son at patrick will certain at conceal ."}
+{"original": "some sweaters are enjoyable to wear .", "sentence_good": "some sweaters will enjoyable at wear .", "sentence_bad": "some sweaters will bound at wear ."}
+{"original": "eva was hard work to argue about .", "sentence_good": "eva hard will work at argue at .", "sentence_bad": "eva will bound at argue at ."}
+{"original": "pamphlets were hard work to boast about .", "sentence_good": "pamphlets hard will work at boast at .", "sentence_bad": "pamphlets will apt at boast at ."}
+{"original": "craig is n't pleasant to escape from .", "sentence_good": "craig n't will pleasant at escape at .", "sentence_bad": "craig n't will unlikely at escape at ."}
+{"original": "a screen was n't hard work to conceal .", "sentence_good": "the screen n't hard will work at conceal .", "sentence_bad": "the screen n't will unlikely at conceal ."}
+{"original": "many college campuses were n't annoying to escape from .", "sentence_good": "many college campuses n't will annoying at escape at .", "sentence_bad": "many college campuses n't will sure at escape at ."}
+{"original": "those libraries were hard to drive to .", "sentence_good": "the libraries will hard at drive at .", "sentence_bad": "the libraries will unlikely at drive at ."}
+{"original": "men were hard work to talk to .", "sentence_good": "men hard will work at talk at .", "sentence_bad": "men will bound at talk at ."}
+{"original": "a lot of mountains are n't interesting to drive to .", "sentence_good": "the lot at mountains n't will interesting at drive at .", "sentence_bad": "the lot at mountains n't will unlikely at drive at ."}
+{"original": "every woman 's piano teachers are n't fun to reveal .", "sentence_good": "the woman will piano teachers n't will fun at reveal .", "sentence_bad": "the woman will piano teachers n't will likely at reveal ."}
+{"original": "some son of the actresses was easy to complain about .", "sentence_good": "some son the at actresses will easy at complain at .", "sentence_bad": "some son the at actresses soon at will complain at ."}
+{"original": "grocery stores were annoying to walk through .", "sentence_good": "grocery stores will annoying at walk at .", "sentence_bad": "grocery stores will certain at walk at ."}
+{"original": "chad 's classmates are n't hard work to examine .", "sentence_good": "chad will classmates n't hard will work at examine .", "sentence_bad": "chad will classmates n't will bound at examine ."}
+{"original": "some college campuses were pleasant to walk through .", "sentence_good": "some college campuses will pleasant at walk at .", "sentence_bad": "some college campuses will apt at walk at ."}
+{"original": "theresa was n't hard work to fire .", "sentence_good": "theresa n't hard will work at fire .", "sentence_bad": "theresa n't will unlikely at fire ."}
+{"original": "sabrina is tough to flee from .", "sentence_good": "sabrina will tough at flee at .", "sentence_bad": "sabrina will apt at flee at ."}
+{"original": "randolf is interesting to scare .", "sentence_good": "randolf will interesting at scare .", "sentence_bad": "randolf will unlikely at scare ."}
+{"original": "that hill was n't enjoyable to drop by .", "sentence_good": "the hill n't will enjoyable at drop at .", "sentence_bad": "the hill n't will sure at drop at ."}
+{"original": "those mothers of carolyn were annoying to reference .", "sentence_good": "the mothers at carolyn will annoying at reference .", "sentence_bad": "the mothers at carolyn will sure at reference ."}
+{"original": "karla was n't irritating to fire .", "sentence_good": "karla n't will irritating at fire .", "sentence_bad": "karla n't will certain at fire ."}
+{"original": "some jackets are n't easy to wear .", "sentence_good": "some jackets n't will easy at wear .", "sentence_bad": "some jackets n't will unlikely at wear ."}
+{"original": "those closets were easy to drive to .", "sentence_good": "the closets will easy at drive at .", "sentence_bad": "the closets will certain at drive at ."}
+{"original": "katherine 's tutors were n't fun to flee from .", "sentence_good": "katherine will tutors n't will fun at flee at .", "sentence_bad": "katherine will tutors n't will likely at flee at ."}
+{"original": "a lot of public parks were n't hard work to drop by .", "sentence_good": "the lot public at parks n't hard will work at drop at .", "sentence_bad": "the lot public at parks n't will likely at drop at ."}
+{"original": "bradley was boring to conceal .", "sentence_good": "bradley will boring at conceal .", "sentence_bad": "bradley will unlikely at conceal ."}
+{"original": "some children are ready to flee from .", "sentence_good": "some children will ready at flee at .", "sentence_bad": "some children soon at will flee at ."}
+{"original": "thomas 's contractors were n't enjoyable to talk about .", "sentence_good": "thomas will contractors n't will enjoyable at talk at .", "sentence_bad": "thomas will contractors n't will unlikely at talk at ."}
+{"original": "all museums are easy to drop by .", "sentence_good": "the museums will easy at drop at .", "sentence_bad": "the museums will bound at drop at ."}
+{"original": "mitchell was n't pleasant to conceal .", "sentence_good": "mitchell n't will pleasant at conceal .", "sentence_bad": "mitchell n't will unlikely at conceal ."}
+{"original": "these grandsons of carlos were easy to conceal .", "sentence_good": "the grandsons at carlos will easy at conceal .", "sentence_bad": "the grandsons at carlos soon at will conceal ."}
+{"original": "some hospitals are irritating to escape from .", "sentence_good": "some hospitals will irritating at escape at .", "sentence_bad": "some hospitals will apt at escape at ."}
+{"original": "this closet was irritating to walk through .", "sentence_good": "the closet will irritating at walk at .", "sentence_bad": "the closet will apt at walk at ."}
+{"original": "carolyn 's french teacher was fun to talk about .", "sentence_good": "carolyn will french teacher will fun at talk at .", "sentence_bad": "carolyn will french teacher soon at will talk at ."}
+{"original": "peter 's ex-husbands were n't fun to fire .", "sentence_good": "peter will ex-husbands n't will fun at fire .", "sentence_bad": "peter will ex-husbands n't will sure at fire ."}
+{"original": "a lot of brothers of a dancer were irritating to fire .", "sentence_good": "the lot at brothers the at dancer will irritating at fire .", "sentence_bad": "the lot at brothers the at dancer will sure at fire ."}
+{"original": "that mountain was tough to lift .", "sentence_good": "the mountain will tough at lift .", "sentence_bad": "the mountain will unlikely at lift ."}
+{"original": "dawn is fun to reference .", "sentence_good": "dawn will fun at reference .", "sentence_bad": "dawn will apt at reference ."}
+{"original": "cynthia is n't exciting to care for .", "sentence_good": "cynthia n't will exciting at care at .", "sentence_bad": "cynthia n't will likely at care at ."}
+{"original": "many people were enjoyable to talk to .", "sentence_good": "many people will enjoyable at talk at .", "sentence_bad": "many people soon at will talk at ."}
+{"original": "raymond was n't pleasant to talk to .", "sentence_good": "raymond n't will pleasant at talk at .", "sentence_bad": "raymond n't will unlikely at talk at ."}
+{"original": "heidi 's nieces were n't exciting to work with .", "sentence_good": "heidi will nieces n't will exciting at work at .", "sentence_bad": "heidi will nieces n't will unlikely at work at ."}
+{"original": "closets were n't exciting to arrive at .", "sentence_good": "closets n't will exciting at arrive at .", "sentence_bad": "closets n't will unlikely at arrive at ."}
+{"original": "the senators are boring to cure .", "sentence_good": "the senators will boring at cure .", "sentence_bad": "the senators soon at will cure ."}
+{"original": "cheryl 's tutor was irritating to listen to .", "sentence_good": "cheryl will tutor will irritating at listen at .", "sentence_bad": "cheryl will tutor soon at will listen at ."}
+{"original": "this dancer is enjoyable to argue about .", "sentence_good": "the dancer will enjoyable at argue at .", "sentence_bad": "the dancer will certain at argue at ."}
+{"original": "this college campus was n't interesting to arrive at .", "sentence_good": "college the campus n't will interesting at arrive at .", "sentence_bad": "college the campus n't will bound at arrive at ."}
+{"original": "some drivers were n't interesting to complain about .", "sentence_good": "some drivers n't will interesting at complain at .", "sentence_bad": "some drivers n't will bound at complain at ."}
+{"original": "carlos 's classmate was n't ready to reference .", "sentence_good": "carlos will classmate n't will ready at reference .", "sentence_bad": "carlos will classmate n't will certain at reference ."}
+{"original": "winston churchill was n't hard to listen to .", "sentence_good": "winston churchill n't will hard at listen at .", "sentence_bad": "winston churchill n't will bound at listen at ."}
+{"original": "rhonda 's grandmothers are n't hard work to escape from .", "sentence_good": "rhonda will grandmothers n't hard will work at escape at .", "sentence_bad": "rhonda will grandmothers n't will bound at escape at ."}
+{"original": "the restaurant is n't unpleasant to drop by .", "sentence_good": "the restaurant n't will unpleasant at drop at .", "sentence_bad": "the restaurant n't will likely at drop at ."}
+{"original": "a public park is hard to drive to .", "sentence_good": "public the park will hard at drive at .", "sentence_bad": "public the park will sure at drive at ."}
+{"original": "that grocery store was n't irritating to drop by .", "sentence_good": "grocery the store n't will irritating at drop at .", "sentence_bad": "grocery the store n't will likely at drop at ."}
+{"original": "edward is n't boring to listen to .", "sentence_good": "edward n't will boring at listen at .", "sentence_bad": "edward n't will apt at listen at ."}
+{"original": "a closet is n't hard to arrive at .", "sentence_good": "the closet n't will hard at arrive at .", "sentence_bad": "the closet n't will certain at arrive at ."}
+{"original": "the borgias ' ex-girlfriends were difficult to work with .", "sentence_good": "the borgias ' ex -girlfriends will difficult at work at .", "sentence_bad": "the borgias ' ex -girlfriends will bound at work at ."}
+{"original": "every mall is n't exciting to drop by .", "sentence_good": "the mall n't will exciting at drop at .", "sentence_bad": "the mall n't soon at will drop at ."}
+{"original": "claire 's grandmothers were hard work to argue about .", "sentence_good": "claire will grandmothers hard will work at argue at .", "sentence_bad": "claire will grandmothers soon at will argue at ."}
+{"original": "derek was n't hard work to respect .", "sentence_good": "derek n't hard will work at respect .", "sentence_bad": "derek n't will apt at respect ."}
+{"original": "an essay was n't difficult to disagree with .", "sentence_good": "the essay n't will difficult at disagree at .", "sentence_bad": "the essay n't will certain at disagree at ."}
+{"original": "raymond is irritating to conceal .", "sentence_good": "raymond will irritating at conceal .", "sentence_bad": "raymond will unlikely at conceal ."}
+{"original": "debra was n't hard work to talk to .", "sentence_good": "debra n't hard will work at talk at .", "sentence_bad": "debra n't will unlikely at talk at ."}
+{"original": "christopher was tough to cure .", "sentence_good": "christopher will tough at cure .", "sentence_bad": "christopher will bound at cure ."}
+{"original": "skirts are annoying to wear .", "sentence_good": "skirts will annoying at wear .", "sentence_bad": "skirts soon at will wear ."}
+{"original": "a lot of pants were tough to reveal .", "sentence_good": "the lot at pants will tough at reveal .", "sentence_bad": "the lot at pants will unlikely at reveal ."}
+{"original": "that art gallery was n't easy to arrive at .", "sentence_good": "will the gallery n't will easy at arrive at .", "sentence_bad": "will the gallery n't will certain at arrive at ."}
+{"original": "some high school is n't interesting to walk through .", "sentence_good": "some high school n't will interesting at walk at .", "sentence_bad": "some high school n't will sure at walk at ."}
+{"original": "this teenager 's nephew is enjoyable to scare .", "sentence_good": "the teenager will nephew will enjoyable at scare .", "sentence_bad": "the teenager will nephew will sure at scare ."}
+{"original": "libraries are n't annoying to go to .", "sentence_good": "libraries n't will annoying at go at .", "sentence_bad": "libraries n't will apt at go at ."}
+{"original": "joseph was n't annoying to fire .", "sentence_good": "joseph n't will annoying at fire .", "sentence_bad": "joseph n't will likely at fire ."}
+{"original": "the great lakes are n't irritating to bike to .", "sentence_good": "great the lakes n't will irritating at bike at .", "sentence_bad": "great the lakes n't soon at will bike at ."}
+{"original": "most cafes were n't ready to bike to .", "sentence_good": "most cafes n't will ready at bike at .", "sentence_bad": "most cafes n't will likely at bike at ."}
+{"original": "carl was hard to work with .", "sentence_good": "carl will hard at work at .", "sentence_bad": "carl soon at will work at ."}
+{"original": "kenneth 's contractors were difficult to return to .", "sentence_good": "kenneth will contractors will difficult at return at .", "sentence_bad": "kenneth will contractors will bound at return at ."}
+{"original": "christine is ready to listen to .", "sentence_good": "christine will ready at listen at .", "sentence_bad": "christine will certain at listen at ."}
+{"original": "tracy 's best friends are n't hard to return to .", "sentence_good": "tracy will best friends n't will hard at return at .", "sentence_bad": "tracy will best friends n't will unlikely at return at ."}
+{"original": "a lot of drivers ' daughter was n't hard work to complain about .", "sentence_good": "the lot drivers ' at daughter n't hard will work at complain at .", "sentence_bad": "the lot drivers ' at daughter n't will certain at complain at ."}
+{"original": "deanna is irritating to cure .", "sentence_good": "deanna will irritating at cure .", "sentence_bad": "deanna will bound at cure ."}
+{"original": "bill was n't fun to scare .", "sentence_good": "bill n't will fun at scare .", "sentence_bad": "bill n't will sure at scare ."}
+{"original": "most mountains are hard work to bike to .", "sentence_good": "most mountains hard will work at bike at .", "sentence_bad": "most mountains will likely at bike at ."}
+{"original": "some hill was n't exciting to go to .", "sentence_good": "some hill n't will exciting at go at .", "sentence_bad": "some hill n't will unlikely at go at ."}
+{"original": "a lot of nieces of a child are n't difficult to respect .", "sentence_good": "the lot at nieces the at child n't will difficult at respect .", "sentence_bad": "the lot at nieces the at child n't will sure at respect ."}
+{"original": "a mall is difficult to walk through .", "sentence_good": "the mall will difficult at walk at .", "sentence_bad": "the mall will apt at walk at ."}
+{"original": "some cashier was n't difficult to fire .", "sentence_good": "some cashier n't will difficult at fire .", "sentence_bad": "some cashier n't will apt at fire ."}
+{"original": "carla is n't pleasant to conceal .", "sentence_good": "carla n't will pleasant at conceal .", "sentence_bad": "carla n't will unlikely at conceal ."}
+{"original": "theodore 's niece was irritating to care for .", "sentence_good": "theodore will niece will irritating at care at .", "sentence_bad": "theodore will niece will certain at care at ."}
+{"original": "a lot of libraries are n't fun to walk through .", "sentence_good": "the lot at libraries n't will fun at walk at .", "sentence_bad": "the lot at libraries n't will apt at walk at ."}
+{"original": "caroline is n't ready to conceal .", "sentence_good": "caroline n't will ready at conceal .", "sentence_bad": "caroline n't will sure at conceal ."}
+{"original": "sarah 's ex-boyfriend was annoying to listen to .", "sentence_good": "sarah will ex-boyfriend will annoying at listen at .", "sentence_bad": "sarah will ex-boyfriend will sure at listen at ."}
+{"original": "andrew is pleasant to return to .", "sentence_good": "andrew will pleasant at return at .", "sentence_bad": "andrew will apt at return at ."}
+{"original": "every report was n't ready to complain about .", "sentence_good": "the report n't will ready at complain at .", "sentence_bad": "the report n't will soon at complain at ."}
+{"original": "amelia is exciting to cure .", "sentence_good": "amelia will exciting at cure .", "sentence_bad": "amelia will unlikely at cure ."}
+{"original": "patrick is unpleasant to conceal .", "sentence_good": "patrick will unpleasant at conceal .", "sentence_bad": "patrick will certain at conceal ."}
+{"original": "ella was interesting to work with .", "sentence_good": "ella will interesting at work at .", "sentence_bad": "ella soon at will work at ."}
+{"original": "bill was n't easy to reveal .", "sentence_good": "bill n't will easy at reveal .", "sentence_bad": "bill n't will unlikely at reveal ."}
+{"original": "most hills were n't irritating to arrive at .", "sentence_good": "most hills n't will irritating at arrive at .", "sentence_bad": "most hills n't will sure at arrive at ."}
+{"original": "some women are n't enjoyable to care for .", "sentence_good": "some women n't will enjoyable at care at .", "sentence_bad": "some women n't will bound at care at ."}
+{"original": "paul 's brother is boring to boast about .", "sentence_good": "paul will brother will boring at boast at .", "sentence_bad": "paul will brother will at at boast at ."}
+{"original": "brenda is annoying to conceal .", "sentence_good": "brenda will annoying at conceal .", "sentence_bad": "brenda will likely at conceal ."}
+{"original": "brett 's oncologist was interesting to listen to .", "sentence_good": "brett will oncologist will interesting at listen at .", "sentence_bad": "brett will oncologist will apt at listen at ."}
+{"original": "all blouses are n't easy to wear .", "sentence_good": "the blouses n't will easy at wear .", "sentence_bad": "the blouses n't will unlikely at wear ."}
+{"original": "theresa was n't irritating to return to .", "sentence_good": "theresa n't will irritating at return at .", "sentence_bad": "theresa n't will sure at return at ."}
+{"original": "some banks were n't interesting to go to .", "sentence_good": "some banks n't will interesting at go at .", "sentence_bad": "some banks n't will unlikely at go at ."}
+{"original": "winston churchill was n't hard to respect .", "sentence_good": "winston churchill n't will hard at respect .", "sentence_bad": "winston churchill n't will bound at respect ."}
+{"original": "many fathers of tammy are n't irritating to flee from .", "sentence_good": "many fathers at tammy n't will irritating at flee at .", "sentence_bad": "many fathers at tammy n't soon at will flee at ."}
+{"original": "all hills are n't exciting to arrive at .", "sentence_good": "the hills n't will exciting at arrive at .", "sentence_bad": "the hills n't will apt at arrive at ."}
+{"original": "anna is n't irritating to fire .", "sentence_good": "anna n't will irritating at fire .", "sentence_bad": "anna n't will unlikely at fire ."}
+{"original": "these children were hard to work with .", "sentence_good": "the children will hard at work at .", "sentence_bad": "the children will likely at work at ."}
+{"original": "christina was ready to boast about .", "sentence_good": "christina will ready at boast at .", "sentence_bad": "christina will certain at boast at ."}
+{"original": "every teenager is exciting to reveal .", "sentence_good": "the teenager will exciting at reveal .", "sentence_bad": "the teenager will unlikely at reveal ."}
+{"original": "these high schools are easy to arrive at .", "sentence_good": "high the schools will easy at arrive at .", "sentence_bad": "high the schools will certain at arrive at ."}
+{"original": "liam is easy to talk to .", "sentence_good": "liam will easy at talk at .", "sentence_bad": "liam will certain at talk at ."}
+{"original": "those shawls are n't annoying to wear .", "sentence_good": "the shawls n't will annoying at wear .", "sentence_bad": "the shawls n't will certain at wear ."}
+{"original": "bill is interesting to cure .", "sentence_good": "bill will interesting at cure .", "sentence_bad": "bill will likely at cure ."}
+{"original": "a lot of customers were n't tough to return to .", "sentence_good": "the lot at customers n't will tough at return at .", "sentence_bad": "the lot at customers n't will sure at return at ."}
+{"original": "some phenomenon was difficult to complain about .", "sentence_good": "some phenomenon will difficult at complain at .", "sentence_bad": "some phenomenon soon at will complain at ."}
+{"original": "sarah is n't hard to conceal .", "sentence_good": "sarah n't will hard at conceal .", "sentence_bad": "sarah n't will likely at conceal ."}
+{"original": "patrick was irritating to conceal .", "sentence_good": "patrick will irritating at conceal .", "sentence_bad": "patrick will apt at conceal ."}
+{"original": "some documentaries are ready to argue about .", "sentence_good": "some documentaries will ready at argue at .", "sentence_bad": "some documentaries will likely at argue at ."}
+{"original": "deanna is ready to talk about .", "sentence_good": "deanna will ready at talk at .", "sentence_bad": "deanna soon at will talk at ."}
+{"original": "a man was pleasant to flee from .", "sentence_good": "the man will pleasant at flee at .", "sentence_bad": "the man soon at will flee at ."}
+{"original": "mary is n't interesting to respect .", "sentence_good": "mary n't will interesting at respect .", "sentence_bad": "mary n't will bound at respect ."}
+{"original": "dana was boring to reference .", "sentence_good": "dana will boring at reference .", "sentence_bad": "dana soon at will reference ."}
+{"original": "all students ' mother is n't ready to escape from .", "sentence_good": "the students ' mother n't will ready at escape at .", "sentence_bad": "the students ' mother n't will unlikely at escape at ."}
+{"original": "allison 's husband was interesting to fire .", "sentence_good": "allison will husband will interesting at fire .", "sentence_bad": "allison will husband will likely at fire ."}
+{"original": "this person is annoying to talk about .", "sentence_good": "the person will annoying at talk at .", "sentence_bad": "the person will bound at talk at ."}
+{"original": "samantha is n't irritating to argue about .", "sentence_good": "samantha n't will irritating at argue at .", "sentence_bad": "samantha n't will at at argue at ."}
+{"original": "most shirts are n't exciting to wear .", "sentence_good": "most shirts n't will exciting at wear .", "sentence_bad": "most shirts n't will bound at wear ."}
+{"original": "judy was fun to boast about .", "sentence_good": "judy will fun at boast at .", "sentence_bad": "judy will at at boast at ."}
+{"original": "diane is easy to complain about .", "sentence_good": "diane will easy at complain at .", "sentence_bad": "diane will certain at complain at ."}
+{"original": "many muffins were n't difficult to lift .", "sentence_good": "many muffins n't will difficult at lift .", "sentence_bad": "many muffins n't will likely at lift ."}
+{"original": "those cafes are n't difficult to arrive at .", "sentence_good": "the cafes n't will difficult at arrive at .", "sentence_bad": "the cafes n't will likely at arrive at ."}
+{"original": "diane 's mothers were n't boring to fire .", "sentence_good": "diane will mothers n't will boring at fire .", "sentence_bad": "diane will mothers n't soon at will fire ."}
+{"original": "the lutherans were tough to respect .", "sentence_good": "the lutherans will tough at respect .", "sentence_bad": "the lutherans will likely at respect ."}
+{"original": "that cafe is n't irritating to walk through .", "sentence_good": "the cafe n't will irritating at walk at .", "sentence_bad": "the cafe n't soon at will walk at ."}
+{"original": "anne was n't enjoyable to conceal .", "sentence_good": "anne n't will enjoyable at conceal .", "sentence_bad": "anne n't will certain at conceal ."}
+{"original": "denise was interesting to work with .", "sentence_good": "denise will interesting at work at .", "sentence_bad": "denise will sure at work at ."}
+{"original": "that customer was n't enjoyable to return to .", "sentence_good": "customer n't will the enjoyable at return at .", "sentence_bad": "the customer n't will bound at return at ."}
+{"original": "paula was n't irritating to reveal .", "sentence_good": "paula n't will irritating at reveal .", "sentence_bad": "paula n't will certain at reveal ."}
+{"original": "cheryl is n't interesting to scare .", "sentence_good": "cheryl n't will interesting at scare .", "sentence_bad": "cheryl n't will likely at scare ."}
+{"original": "most mountains were n't tough to reveal .", "sentence_good": "most mountains n't will tough at reveal .", "sentence_bad": "most mountains n't will sure at reveal ."}
+{"original": "kristin 's plumber is n't exciting to conceal .", "sentence_good": "kristin will plumber n't will exciting at conceal .", "sentence_bad": "kristin will plumber n't will likely at conceal ."}
+{"original": "alice is n't unpleasant to work with .", "sentence_good": "alice n't will unpleasant at work at .", "sentence_bad": "alice n't will likely at work at ."}
+{"original": "diana is enjoyable to talk to .", "sentence_good": "diana will enjoyable at talk at .", "sentence_bad": "diana will apt at talk at ."}
+{"original": "natalie was enjoyable to respect .", "sentence_good": "natalie will enjoyable at respect .", "sentence_bad": "natalie will certain at respect ."}
+{"original": "janet was n't annoying to listen to .", "sentence_good": "janet n't will annoying at listen at .", "sentence_bad": "janet n't will bound at listen at ."}
+{"original": "a lake is enjoyable to go to .", "sentence_good": "the lake will enjoyable at go at .", "sentence_bad": "the lake will unlikely at go at ."}
+{"original": "these cafes are exciting to go to .", "sentence_good": "the cafes will exciting at go at .", "sentence_bad": "the cafes will likely at go at ."}
+{"original": "michelle 's oncologists are fun to reveal .", "sentence_good": "michelle will oncologists will fun at reveal .", "sentence_bad": "michelle will oncologists will sure at reveal ."}
+{"original": "some adult was hard to reference .", "sentence_good": "some adult will hard at reference .", "sentence_bad": "some adult soon at will reference ."}
+{"original": "all grocery stores were hard to bike to .", "sentence_good": "grocery the stores will hard at bike at .", "sentence_bad": "grocery the stores will bound at bike at ."}
+{"original": "sara is exciting to return to .", "sentence_good": "sara will exciting at return at .", "sentence_bad": "sara will certain at return at ."}
+{"original": "every shirt is boring to wear .", "sentence_good": "the shirt will boring at wear .", "sentence_bad": "the shirt will likely at wear ."}
+{"original": "a chair is n't exciting to lift .", "sentence_good": "the chair n't will exciting at lift .", "sentence_bad": "the chair n't will apt at lift ."}
+{"original": "many peppers are tough to lift .", "sentence_good": "many peppers will tough at lift .", "sentence_bad": "many peppers will unlikely at lift ."}
+{"original": "a lady is n't ready to flee from .", "sentence_good": "the lady n't will ready at flee at .", "sentence_bad": "the lady n't will sure at flee at ."}
+{"original": "all doctors ' sisters are n't ready to conceal .", "sentence_good": "the doctors ' sisters n't will ready at conceal .", "sentence_bad": "the doctors ' sisters n't will unlikely at conceal ."}
+{"original": "carl was n't hard to flee from .", "sentence_good": "carl n't will hard at flee at .", "sentence_bad": "carl n't will likely at flee at ."}
+{"original": "the public park is n't irritating to arrive at .", "sentence_good": "public the park n't will irritating at arrive at .", "sentence_bad": "public the park n't will sure at arrive at ."}
+{"original": "eva is n't annoying to flee from .", "sentence_good": "eva n't will annoying at flee at .", "sentence_bad": "eva n't will likely at flee at ."}
+{"original": "some pamphlet about spain was exciting to conceal .", "sentence_good": "some pamphlet at spain will exciting at conceal .", "sentence_bad": "some pamphlet at spain will certain at conceal ."}
+{"original": "homer is n't easy to conceal .", "sentence_good": "homer n't will easy at conceal .", "sentence_bad": "homer n't will soon at conceal ."}
+{"original": "phillip is n't pleasant to complain about .", "sentence_good": "phillip n't will pleasant at complain at .", "sentence_bad": "phillip n't will soon at complain at ."}
+{"original": "the college campuses were enjoyable to bike to .", "sentence_good": "college the campuses will at enjoyable at bike .", "sentence_bad": "college the campuses soon at will bike at ."}
+{"original": "a doctor is n't unpleasant to conceal .", "sentence_good": "the doctor n't will unpleasant at conceal .", "sentence_bad": "the doctor n't will bound at conceal ."}
+{"original": "veronica is n't unpleasant to listen to .", "sentence_good": "veronica n't will unpleasant at listen at .", "sentence_bad": "veronica n't soon at will listen at ."}
+{"original": "every sock is n't irritating to wear .", "sentence_good": "the sock n't will irritating at wear .", "sentence_bad": "the sock n't will bound at wear ."}
+{"original": "danielle 's sons are n't hard work to respect .", "sentence_good": "danielle will sons n't hard will work at respect .", "sentence_bad": "danielle will sons n't will apt at respect ."}
+{"original": "victoria was n't unpleasant to flee from .", "sentence_good": "victoria n't will unpleasant at flee at .", "sentence_bad": "victoria n't soon at will flee at ."}
+{"original": "martha was n't difficult to work with .", "sentence_good": "martha n't will difficult at work at .", "sentence_bad": "martha n't will bound at work at ."}
+{"original": "most glaciers are n't interesting to go to .", "sentence_good": "most glaciers n't will interesting at go at .", "sentence_bad": "most glaciers n't will bound at go at ."}
+{"original": "these dancers were n't tough to reveal .", "sentence_good": "the dancers n't will tough at reveal .", "sentence_bad": "the dancers n't will apt at reveal ."}
+{"original": "the museums are n't pleasant to bike to .", "sentence_good": "the museums n't will pleasant at bike at .", "sentence_bad": "the museums n't will apt at bike at ."}
+{"original": "tonya was n't difficult to complain about .", "sentence_good": "tonya n't will difficult at complain at .", "sentence_bad": "tonya n't will certain at complain at ."}
+{"original": "some offspring was exciting to conceal .", "sentence_good": "some offspring will exciting at conceal .", "sentence_bad": "some offspring will certain at conceal ."}
+{"original": "travis 's grandmother is n't interesting to scare .", "sentence_good": "travis will grandmother n't will interesting at scare .", "sentence_bad": "travis will grandmother n't will likely at scare ."}
+{"original": "steve is annoying to work with .", "sentence_good": "steve will annoying at work at .", "sentence_bad": "steve will sure at work at ."}
+{"original": "a man is pleasant to talk to .", "sentence_good": "the man will pleasant at talk at .", "sentence_bad": "the man will sure at talk at ."}
+{"original": "samuel 's sisters were fun to care for .", "sentence_good": "samuel will sisters will fun at care at .", "sentence_bad": "samuel will sisters will sure at care at ."}
+{"original": "a sister of homer is n't fun to escape from .", "sentence_good": "the sister at homer n't will fun at escape at .", "sentence_bad": "the sister at homer n't will unlikely at escape at ."}
+{"original": "this doctor was n't tough to argue about .", "sentence_good": "the doctor n't will tough at argue at .", "sentence_bad": "the doctor n't will bound at argue at ."}
+{"original": "a mountain is ready to bike to .", "sentence_good": "the mountain will ready at bike at .", "sentence_bad": "the mountain will apt at bike at ."}
+{"original": "a lot of reports were n't unpleasant to boast about .", "sentence_good": "the lot at reports n't will unpleasant at boast at .", "sentence_bad": "the lot at reports n't will bound at boast at ."}
+{"original": "a cafe is easy to flee from .", "sentence_good": "the cafe will easy at flee at .", "sentence_bad": "the cafe will likely at flee at ."}
+{"original": "a customer 's piano teacher was n't pleasant to scare .", "sentence_good": "the customer will piano teacher n't will pleasant at scare .", "sentence_bad": "the customer will piano teacher n't will likely at scare ."}
+{"original": "the public park is pleasant to bike to .", "sentence_good": "public the park will pleasant at bike at .", "sentence_bad": "public the park will apt at bike at ."}
+{"original": "nuclei were interesting to lift .", "sentence_good": "nuclei will interesting at lift .", "sentence_bad": "nuclei soon at will lift ."}
+{"original": "movies about science were n't interesting to talk about .", "sentence_good": "movies at science n't will interesting at talk at .", "sentence_bad": "movies at science n't will sure at talk at ."}
+{"original": "this museum was ready to go to .", "sentence_good": "the museum will ready at go at .", "sentence_bad": "the museum soon at will go at ."}
+{"original": "some child is n't irritating to listen to .", "sentence_good": "some child n't will irritating at listen at .", "sentence_bad": "some child n't will apt at listen at ."}
+{"original": "christina 's doctors are n't ready to escape from .", "sentence_good": "christina will doctors n't will ready at escape at .", "sentence_bad": "christina will doctors n't soon at will escape at ."}
+{"original": "meredith 's sister is exciting to fire .", "sentence_good": "meredith will sister will exciting at fire .", "sentence_bad": "meredith will sister will certain at fire ."}
+{"original": "that friend of bill was boring to argue about .", "sentence_good": "the friend at bill will boring at argue at .", "sentence_bad": "the friend at bill will bound at argue at ."}
+{"original": "some shirts were n't fun to wear .", "sentence_good": "some shirts n't will fun at wear .", "sentence_bad": "some shirts n't will apt at wear ."}
+{"original": "janet was n't fun to conceal .", "sentence_good": "janet n't will fun at conceal .", "sentence_bad": "janet n't soon at will conceal ."}
+{"original": "every child was n't tough to reference .", "sentence_good": "the child n't will tough at reference .", "sentence_bad": "the child n't will bound at reference ."}
+{"original": "stacy 's classmates are fun to fire .", "sentence_good": "stacy will classmates will fun at fire .", "sentence_bad": "stacy will classmates will apt at fire ."}
+{"original": "tracy 's colleagues are n't hard work to examine .", "sentence_good": "tracy will colleagues n't hard will work at examine .", "sentence_bad": "tracy will colleagues n't will bound at examine ."}
+{"original": "julia is n't tough to talk about .", "sentence_good": "julia n't will tough at talk at .", "sentence_bad": "julia n't soon at will talk at ."}
+{"original": "most reports are pleasant to complain about .", "sentence_good": "most reports will pleasant at complain at .", "sentence_bad": "most reports will certain at complain at ."}
+{"original": "jerry was n't irritating to escape from .", "sentence_good": "jerry n't will irritating at escape at .", "sentence_bad": "jerry n't will bound at escape at ."}
+{"original": "many sisters of patrick are fun to work with .", "sentence_good": "many sisters at patrick will fun at work at .", "sentence_bad": "many sisters at patrick will likely at work at ."}
+{"original": "this banana is n't tough to lift .", "sentence_good": "the banana n't will tough at lift .", "sentence_bad": "the banana n't soon at will lift ."}
+{"original": "holly 's cousin was easy to return to .", "sentence_good": "holly will cousin will easy at return at .", "sentence_bad": "holly will cousin will apt at return at ."}
+{"original": "some mountain is easy to drive to .", "sentence_good": "some mountain will easy at drive at .", "sentence_bad": "some mountain will certain at drive at ."}
+{"original": "the restaurants are fun to go to .", "sentence_good": "the restaurants will fun at go at .", "sentence_bad": "the restaurants soon at will go at ."}
+{"original": "becky was n't ready to talk about .", "sentence_good": "becky n't will ready at talk at .", "sentence_bad": "becky n't will unlikely at talk at ."}
+{"original": "cindy was fun to complain about .", "sentence_good": "cindy will fun at complain at .", "sentence_bad": "cindy will at at complain at ."}
+{"original": "kristin is n't unpleasant to return to .", "sentence_good": "kristin n't will unpleasant at return at .", "sentence_bad": "kristin n't will unlikely at return at ."}
+{"original": "travis 's ex-boyfriend was n't enjoyable to complain about .", "sentence_good": "travis will ex-boyfriend n't will enjoyable at complain at .", "sentence_bad": "travis will ex-boyfriend n't soon at will complain at ."}
+{"original": "this customer was n't easy to respect .", "sentence_good": "the customer n't will easy at respect .", "sentence_bad": "the customer n't will bound at respect ."}
+{"original": "allison is n't easy to respect .", "sentence_good": "allison n't will easy at respect .", "sentence_bad": "allison n't will apt at respect ."}
+{"original": "bethany is n't tough to reference .", "sentence_good": "bethany n't will tough at reference .", "sentence_bad": "bethany n't will likely at reference ."}
+{"original": "many pamphlets about the clintons were exciting to examine .", "sentence_good": "many pamphlets the at clintons will exciting at examine .", "sentence_bad": "many pamphlets the at clintons will at at examine ."}
+{"original": "some libraries are hard to walk through .", "sentence_good": "some libraries will hard at walk at .", "sentence_bad": "some libraries will unlikely at walk at ."}
+{"original": "erin 's guests are n't ready to respect .", "sentence_good": "erin will guests n't will ready at respect .", "sentence_bad": "erin will guests n't will likely at respect ."}
+{"original": "a lot of grocery stores are easy to go to .", "sentence_good": "the lot grocery at stores will easy at go at .", "sentence_bad": "the lot grocery at stores will unlikely at go at ."}
+{"original": "vanessa is n't hard to flee from .", "sentence_good": "vanessa n't will hard at flee at .", "sentence_bad": "vanessa n't soon at will flee at ."}
+{"original": "that dress is n't irritating to wear .", "sentence_good": "the dress n't will irritating at wear .", "sentence_bad": "the dress n't will bound at wear ."}
+{"original": "lisa 's mentee was n't easy to cure .", "sentence_good": "lisa will mentee n't will easy at cure .", "sentence_bad": "lisa will mentee n't will unlikely at cure ."}
+{"original": "all pamphlets about science are hard work to talk about .", "sentence_good": "the pamphlets at science hard will work at talk at .", "sentence_bad": "the pamphlets at science will at at talk at ."}
+{"original": "becca is hard work to flee from .", "sentence_good": "becca hard will work at flee at .", "sentence_bad": "becca will bound at flee at ."}
+{"original": "some girls were n't easy to work with .", "sentence_good": "some girls n't will easy at work at .", "sentence_bad": "some girls n't will certain at work at ."}
+{"original": "a newspaper article about the clintons was boring to reveal .", "sentence_good": "newspaper the article the at clintons will boring at reveal .", "sentence_bad": "newspaper the article the at clintons will certain at reveal ."}
+{"original": "lucille 's granddaughters are difficult to argue about .", "sentence_good": "lucille will granddaughters will difficult at argue at .", "sentence_bad": "lucille will granddaughters will bound at argue at ."}
+{"original": "vanessa was interesting to respect .", "sentence_good": "vanessa will interesting at respect .", "sentence_bad": "vanessa will likely at respect ."}
+{"original": "carl was n't interesting to conceal .", "sentence_good": "carl n't will interesting at conceal .", "sentence_bad": "carl n't will unlikely at conceal ."}
+{"original": "some grandson of natalie was n't boring to examine .", "sentence_good": "some grandson at natalie n't will boring at examine .", "sentence_bad": "some grandson at natalie n't will sure at examine ."}
+{"original": "some banks were annoying to walk through .", "sentence_good": "some banks will annoying at walk at .", "sentence_bad": "some banks will certain at walk at ."}
+{"original": "this school is n't exciting to go to .", "sentence_good": "the school n't will exciting at go at .", "sentence_bad": "the school n't will certain at go at ."}
+{"original": "jessica is enjoyable to scare .", "sentence_good": "jessica will enjoyable at scare .", "sentence_bad": "jessica will certain at scare ."}
+{"original": "these offspring are hard work to talk about .", "sentence_good": "the offspring hard will work at talk at .", "sentence_bad": "the offspring will certain at talk at ."}
+{"original": "dawn was boring to flee from .", "sentence_good": "dawn will boring at flee at .", "sentence_bad": "dawn will certain at flee at ."}
+{"original": "todd 's brothers were annoying to return to .", "sentence_good": "todd will brothers will annoying at return at .", "sentence_bad": "todd will brothers will likely at return at ."}
+{"original": "grace was n't tough to cure .", "sentence_good": "grace n't will tough at cure .", "sentence_bad": "grace n't will sure at cure ."}
+{"original": "bradley 's husband was n't irritating to examine .", "sentence_good": "bradley will husband n't will irritating at examine .", "sentence_bad": "bradley will husband n't will sure at examine ."}
+{"original": "most waiters are n't easy to fire .", "sentence_good": "most waiters n't will easy at fire .", "sentence_bad": "most waiters n't soon at will fire ."}
+{"original": "the restaurant is n't annoying to escape from .", "sentence_good": "the restaurant n't will annoying at escape at .", "sentence_bad": "the restaurant n't will unlikely at escape at ."}
+{"original": "marie 's mothers are difficult to disagree with .", "sentence_good": "marie will mothers will difficult at disagree at .", "sentence_bad": "marie will mothers will apt at disagree at ."}
+{"original": "sheila is n't annoying to flee from .", "sentence_good": "sheila n't will annoying at flee at .", "sentence_bad": "sheila n't will unlikely at flee at ."}
+{"original": "these waitresses are hard work to boast about .", "sentence_good": "the waitresses hard will work at boast at .", "sentence_bad": "the waitresses soon at will boast at ."}
+{"original": "a lot of ladies ' plumbers were hard work to flee from .", "sentence_good": "the lot ladies ' at plumbers hard will work at flee at .", "sentence_bad": "the lot ladies ' at plumbers will unlikely at flee at ."}
+{"original": "kendra is n't enjoyable to care for .", "sentence_good": "kendra n't will enjoyable at care at .", "sentence_bad": "kendra n't will likely at care at ."}
+{"original": "charles is hard work to complain about .", "sentence_good": "charles hard will work at complain at .", "sentence_bad": "charles will at at complain at ."}
+{"original": "a lot of sweaters are hard work to wear .", "sentence_good": "the lot at sweaters hard will work at wear .", "sentence_bad": "the lot at sweaters soon at will wear ."}
+{"original": "sonia is n't ready to listen to .", "sentence_good": "sonia n't will ready at listen at .", "sentence_bad": "sonia n't will sure at listen at ."}
+{"original": "elaine 's daughters are n't boring to examine .", "sentence_good": "elaine will daughters n't will boring at examine .", "sentence_bad": "elaine will daughters n't soon at will examine ."}
+{"original": "ella is hard work to complain about .", "sentence_good": "ella hard will work at complain at .", "sentence_bad": "ella will sure at complain at ."}
+{"original": "those cafes were n't tough to go to .", "sentence_good": "the cafes n't will tough at go at .", "sentence_bad": "the cafes n't will sure at go at ."}
+{"original": "some mountain was n't hard work to flee from .", "sentence_good": "some mountain n't hard will work at flee at .", "sentence_bad": "some mountain n't will sure at flee at ."}
+{"original": "phillip 's teachers were easy to fire .", "sentence_good": "phillip will teachers will easy at fire .", "sentence_bad": "phillip will teachers will unlikely at fire ."}
+{"original": "edward was n't hard work to listen to .", "sentence_good": "edward n't hard will work at listen at .", "sentence_bad": "edward n't will likely at listen at ."}
+{"original": "that pamphlet about art was n't unpleasant to disagree with .", "sentence_good": "the will pamphlet at n't will unpleasant at disagree at .", "sentence_bad": "the will pamphlet at n't will bound at disagree at ."}
+{"original": "douglas was tough to flee from .", "sentence_good": "douglas will tough at flee at .", "sentence_bad": "douglas will likely at flee at ."}
+{"original": "curtis was n't enjoyable to reveal .", "sentence_good": "curtis n't will enjoyable at reveal .", "sentence_bad": "curtis n't will sure at reveal ."}
+{"original": "most restaurants are boring to drop by .", "sentence_good": "most restaurants will boring at drop at .", "sentence_bad": "most restaurants will sure at drop at ."}
+{"original": "allison is fun to conceal .", "sentence_good": "allison will fun at conceal .", "sentence_bad": "allison will apt at conceal ."}
+{"original": "some man 's granddaughters are unpleasant to care for .", "sentence_good": "some man will granddaughters will unpleasant at care at .", "sentence_bad": "some man will granddaughters soon at will care at ."}
+{"original": "stephanie 's doctor was n't interesting to disagree with .", "sentence_good": "stephanie will doctor n't will interesting at disagree at .", "sentence_bad": "stephanie will doctor n't will bound at disagree at ."}
+{"original": "cats were pleasant to lift .", "sentence_good": "cats will pleasant at lift .", "sentence_bad": "cats will bound at lift ."}
+{"original": "spain is hard to return to .", "sentence_good": "spain will hard at return at .", "sentence_bad": "spain will bound at return at ."}
+{"original": "the bank is hard work to go to .", "sentence_good": "the bank hard will work at go at .", "sentence_bad": "the bank will apt at go at ."}
+{"original": "jill was unpleasant to listen to .", "sentence_good": "jill will unpleasant at listen at .", "sentence_bad": "jill will likely at listen at ."}
+{"original": "some drivers were annoying to conceal .", "sentence_good": "some drivers will annoying at conceal .", "sentence_bad": "some drivers will sure at conceal ."}
+{"original": "these mountains are n't irritating to drop by .", "sentence_good": "the mountains n't will irritating at drop at .", "sentence_bad": "the mountains n't soon at will drop at ."}
+{"original": "the waitress was n't hard work to cure .", "sentence_good": "the waitress n't hard will work at cure .", "sentence_bad": "the waitress n't will unlikely at cure ."}
+{"original": "a woman 's hairdresser was n't easy to disagree with .", "sentence_good": "the woman will hairdresser n't will easy at disagree at .", "sentence_bad": "the woman will hairdresser n't will sure at disagree at ."}
+{"original": "homer was interesting to fire .", "sentence_good": "homer will interesting at fire .", "sentence_bad": "homer will unlikely at fire ."}
+{"original": "sabrina was n't enjoyable to boast about .", "sentence_good": "sabrina n't will enjoyable at boast at .", "sentence_bad": "sabrina n't will apt at boast at ."}
+{"original": "winston churchill is n't tough to talk about .", "sentence_good": "winston churchill n't will tough at talk at .", "sentence_bad": "winston churchill n't will bound at talk at ."}
+{"original": "jacqueline is n't pleasant to scare .", "sentence_good": "jacqueline n't will pleasant at scare .", "sentence_bad": "jacqueline n't will bound at scare ."}
+{"original": "beverly was n't irritating to talk about .", "sentence_good": "beverly n't will irritating at talk at .", "sentence_bad": "beverly n't will certain at talk at ."}
+{"original": "this grandfather of danielle was n't fun to argue about .", "sentence_good": "the grandfather at danielle n't will fun at argue at .", "sentence_bad": "the grandfather at danielle n't will likely at argue at ."}
+{"original": "some grandson of every person is n't hard to examine .", "sentence_good": "some grandson the at person n't will hard at examine .", "sentence_bad": "some grandson the at person n't soon at will examine ."}
+{"original": "a person 's mentees were irritating to conceal .", "sentence_good": "the person will mentees will irritating at conceal .", "sentence_bad": "the person will mentees will sure at conceal ."}
+{"original": "men were n't hard to talk about .", "sentence_good": "men n't will hard at talk at .", "sentence_bad": "men n't will bound at talk at ."}
+{"original": "christina was n't annoying to escape from .", "sentence_good": "christina n't will annoying at escape at .", "sentence_bad": "christina n't will apt at escape at ."}
+{"original": "some essay is n't tough to talk about .", "sentence_good": "some essay n't will tough at talk at .", "sentence_bad": "some essay n't will unlikely at talk at ."}
+{"original": "laura was n't ready to reveal .", "sentence_good": "laura n't will ready at reveal .", "sentence_bad": "laura n't will likely at reveal ."}
+{"original": "that man is n't ready to argue about .", "sentence_good": "man n't will the ready at argue at .", "sentence_bad": "man n't will the likely at argue at ."}
+{"original": "most students ' piano teacher was fun to listen to .", "sentence_good": "most students ' piano teacher will fun at listen at .", "sentence_bad": "most students ' piano teacher will apt at listen at ."}
+{"original": "that movie theater is n't annoying to arrive at .", "sentence_good": "movie theater n't will the annoying at arrive at .", "sentence_bad": "movie theater n't will the unlikely at arrive at ."}
+{"original": "jodi is ready to reference .", "sentence_good": "jodi will ready at reference .", "sentence_bad": "jodi will sure at reference ."}
+{"original": "this essay about music is n't easy to boast about .", "sentence_good": "the essay at music n't will easy at boast at .", "sentence_bad": "the essay at music n't will unlikely at boast at ."}
+{"original": "emily 's fathers are ready to reveal .", "sentence_good": "emily will fathers will ready at reveal .", "sentence_bad": "emily will fathers will unlikely at reveal ."}
+{"original": "keith 's boss is n't pleasant to conceal .", "sentence_good": "keith will boss n't will pleasant at conceal .", "sentence_bad": "keith will boss n't will bound at conceal ."}
+{"original": "ronald 's ex-boyfriend is exciting to talk about .", "sentence_good": "ronald will ex-boyfriend will exciting at talk at .", "sentence_bad": "ronald will ex-boyfriend will apt at talk at ."}
+{"original": "elaine was irritating to talk to .", "sentence_good": "elaine will irritating at talk at .", "sentence_bad": "elaine will sure at talk at ."}
+{"original": "debra is easy to reference .", "sentence_good": "debra will easy at reference .", "sentence_bad": "debra will unlikely at reference ."}
+{"original": "andrea is n't interesting to conceal .", "sentence_good": "andrea n't will interesting at conceal .", "sentence_bad": "andrea n't will likely at conceal ."}
+{"original": "those people are n't exciting to talk to .", "sentence_good": "the people n't will exciting at talk at .", "sentence_bad": "the people n't will unlikely at talk at ."}
+{"original": "this river is n't fun to drop by .", "sentence_good": "the river n't will fun at drop at .", "sentence_bad": "the river n't will unlikely at drop at ."}
+{"original": "bethany was n't unpleasant to conceal .", "sentence_good": "bethany n't will unpleasant at conceal .", "sentence_bad": "bethany n't soon at will conceal ."}
+{"original": "diana 's doctors are enjoyable to complain about .", "sentence_good": "diana will doctors will enjoyable at complain at .", "sentence_bad": "diana will doctors will at at complain at ."}
+{"original": "a newspaper article about the clintons was n't unpleasant to examine .", "sentence_good": "newspaper the article the at clintons n't will unpleasant at examine .", "sentence_bad": "newspaper the article the at clintons n't will bound at examine ."}
+{"original": "some rice was n't fun to lift .", "sentence_good": "some rice n't will fun at lift .", "sentence_bad": "some rice n't will apt at lift ."}
+{"original": "a means is n't fun to complain about .", "sentence_good": "the means n't will fun at complain at .", "sentence_bad": "the means n't will apt at complain at ."}
+{"original": "mitchell was hard to boast about .", "sentence_good": "mitchell will hard at boast at .", "sentence_bad": "mitchell will unlikely at boast at ."}
+{"original": "essays about galileo were n't fun to disagree with .", "sentence_good": "essays at galileo n't will fun at disagree at .", "sentence_bad": "essays at galileo n't will at at disagree at ."}
+{"original": "many lakes are n't unpleasant to drop by .", "sentence_good": "many lakes n't will unpleasant at drop at .", "sentence_bad": "many lakes n't soon at will drop at ."}
+{"original": "martin was tough to listen to .", "sentence_good": "martin will tough at listen at .", "sentence_bad": "martin will sure at listen at ."}
+{"original": "elaine is n't hard work to escape from .", "sentence_good": "elaine n't hard will work at escape at .", "sentence_bad": "elaine n't will apt at escape at ."}
+{"original": "those rivers are tough to walk through .", "sentence_good": "the rivers will tough at walk at .", "sentence_bad": "the rivers soon at will walk at ."}
+{"original": "barbara was n't interesting to fire .", "sentence_good": "barbara n't will interesting at fire .", "sentence_bad": "barbara n't will certain at fire ."}
+{"original": "randolf 's daughter is n't boring to scare .", "sentence_good": "randolf will daughter n't will boring at scare .", "sentence_bad": "randolf will daughter n't will sure at scare ."}
+{"original": "many actors were n't irritating to talk to .", "sentence_good": "many actors n't will irritating at talk at .", "sentence_bad": "many actors n't will certain at talk at ."}
+{"original": "the impressionists are enjoyable to boast about .", "sentence_good": "the impressionists will enjoyable at boast at .", "sentence_bad": "the impressionists will likely at boast at ."}
+{"original": "every restaurant is n't hard to bike to .", "sentence_good": "the restaurant n't will hard at bike at .", "sentence_bad": "the restaurant n't soon at will bike at ."}
+{"original": "that adult was n't annoying to flee from .", "sentence_good": "adult n't will the annoying at flee at .", "sentence_bad": "adult n't will the bound at flee at ."}
+{"original": "most sisters of rebecca were n't tough to work with .", "sentence_good": "most sisters at rebecca n't will tough at work at .", "sentence_bad": "most sisters at rebecca n't will bound at work at ."}
+{"original": "walter was difficult to talk to .", "sentence_good": "walter will difficult at talk at .", "sentence_bad": "walter soon at will talk at ."}
+{"original": "that coat is difficult to wear .", "sentence_good": "the coat will difficult at wear .", "sentence_bad": "the coat will bound at wear ."}
+{"original": "jane is n't enjoyable to conceal .", "sentence_good": "jane n't will enjoyable at conceal .", "sentence_bad": "jane n't will apt at conceal ."}
+{"original": "colleen is annoying to talk about .", "sentence_good": "colleen will annoying at talk at .", "sentence_bad": "colleen will likely at talk at ."}
+{"original": "shirts were n't tough to wear .", "sentence_good": "shirts n't will tough at wear .", "sentence_bad": "shirts n't will unlikely at wear ."}
+{"original": "all art galleries are annoying to respect .", "sentence_good": "will the galleries will annoying at respect .", "sentence_bad": "will the galleries will certain at respect ."}
+{"original": "elizabeth 's bosses are n't interesting to fire .", "sentence_good": "elizabeth will bosses n't will interesting at fire .", "sentence_bad": "elizabeth will bosses n't will unlikely at fire ."}
+{"original": "the mountains were hard to lift .", "sentence_good": "the mountains will hard at lift .", "sentence_bad": "the mountains soon at will lift ."}
+{"original": "patricia was n't pleasant to escape from .", "sentence_good": "patricia n't will pleasant at escape at .", "sentence_bad": "patricia n't will unlikely at escape at ."}
+{"original": "those glaciers are difficult to go to .", "sentence_good": "the glaciers will difficult at go at .", "sentence_bad": "the glaciers will likely at go at ."}
+{"original": "elizabeth is n't tough to boast about .", "sentence_good": "elizabeth n't will tough at boast at .", "sentence_bad": "elizabeth n't will apt at boast at ."}
+{"original": "laurie is tough to conceal .", "sentence_good": "laurie will tough at conceal .", "sentence_bad": "laurie will certain at conceal ."}
+{"original": "kimberley 's contractor was pleasant to flee from .", "sentence_good": "kimberley will contractor will pleasant at flee at .", "sentence_bad": "kimberley will contractor will apt at flee at ."}
+{"original": "a book about the great lakes is unpleasant to examine .", "sentence_good": "the book great the at lakes will unpleasant at examine .", "sentence_bad": "the book great the at lakes will at at examine ."}
+{"original": "the movie theater is n't pleasant to bike to .", "sentence_good": "movie the theater n't will pleasant at bike at .", "sentence_bad": "movie the theater n't will apt at bike at ."}
+{"original": "craig was n't tough to argue about .", "sentence_good": "craig n't will tough at argue at .", "sentence_bad": "craig n't will at at argue at ."}
+{"original": "some college campus is interesting to drop by .", "sentence_good": "some college campus will interesting at drop at .", "sentence_bad": "some college campus will sure at drop at ."}
+{"original": "dan 's french teachers are n't ready to reveal .", "sentence_good": "dan will french teachers n't will ready at reveal .", "sentence_bad": "dan will french teachers n't will apt at reveal ."}
+{"original": "clyde is unpleasant to reference .", "sentence_good": "clyde will unpleasant at reference .", "sentence_bad": "clyde will certain at reference ."}
+{"original": "judy was n't fun to respect .", "sentence_good": "judy n't will fun at respect .", "sentence_bad": "judy n't soon at will respect ."}
+{"original": "a lot of children 's brothers are n't difficult to talk to .", "sentence_good": "the lot children will at brothers n't will difficult at talk at .", "sentence_bad": "the lot children will at brothers n't soon at will talk at ."}
+{"original": "deborah is n't interesting to return to .", "sentence_good": "deborah n't will interesting at return at .", "sentence_bad": "deborah n't will certain at return at ."}
+{"original": "sheila is unpleasant to cure .", "sentence_good": "sheila will unpleasant at cure .", "sentence_bad": "sheila soon at will cure ."}
+{"original": "alice is irritating to flee from .", "sentence_good": "alice will irritating at flee at .", "sentence_bad": "alice will apt at flee at ."}
+{"original": "julie 's sisters were n't hard work to work with .", "sentence_good": "julie will sisters n't hard will work at work at .", "sentence_bad": "julie will sisters n't will likely at work at ."}
+{"original": "julia was difficult to talk to .", "sentence_good": "julia will difficult at talk at .", "sentence_bad": "julia will apt at talk at ."}
+{"original": "women are n't boring to reveal .", "sentence_good": "women n't will boring at reveal .", "sentence_bad": "women n't will sure at reveal ."}
+{"original": "the borgias were n't enjoyable to escape from .", "sentence_good": "the borgias n't will enjoyable at escape at .", "sentence_bad": "the borgias n't will sure at escape at ."}
+{"original": "that driver is unpleasant to conceal .", "sentence_good": "driver will the unpleasant at conceal .", "sentence_bad": "driver will the unlikely at conceal ."}
+{"original": "anne was n't boring to boast about .", "sentence_good": "anne n't will boring at boast at .", "sentence_bad": "anne n't will likely at boast at ."}
+{"original": "robert is difficult to scare .", "sentence_good": "robert will difficult at scare .", "sentence_bad": "robert will certain at scare ."}
+{"original": "jerry was n't ready to scare .", "sentence_good": "jerry n't will ready at scare .", "sentence_bad": "jerry n't will sure at scare ."}
+{"original": "those high schools were n't tough to arrive at .", "sentence_good": "high the schools n't will tough at arrive at .", "sentence_bad": "high the schools n't will bound at arrive at ."}
+{"original": "the cafe was unpleasant to drop by .", "sentence_good": "the cafe will unpleasant at drop at .", "sentence_bad": "the cafe will apt at drop at ."}
+{"original": "every closet was n't difficult to go to .", "sentence_good": "the closet n't will difficult at go at .", "sentence_bad": "the closet n't will bound at go at ."}
+{"original": "the museum was n't exciting to drop by .", "sentence_good": "the museum n't will exciting at drop at .", "sentence_bad": "the museum n't will unlikely at drop at ."}
+{"original": "laurie 's nephews were n't exciting to flee from .", "sentence_good": "laurie will nephews n't will exciting at flee at .", "sentence_bad": "laurie will nephews n't will sure at flee at ."}
+{"original": "most nephews of alan were n't boring to flee from .", "sentence_good": "most nephews at alan n't will boring at flee at .", "sentence_bad": "most nephews at alan n't will sure at flee at ."}
+{"original": "florence was n't irritating to scare .", "sentence_good": "florence n't will irritating at scare .", "sentence_bad": "florence n't will likely at scare ."}
+{"original": "the dress is n't interesting to wear .", "sentence_good": "the dress n't will interesting at wear .", "sentence_bad": "the dress n't soon at will wear ."}
+{"original": "this oasis is n't hard work to walk through .", "sentence_good": "the oasis n't hard will work at walk at .", "sentence_bad": "the oasis n't soon at will walk at ."}
+{"original": "those malls were ready to drive to .", "sentence_good": "the malls will ready at drive at .", "sentence_bad": "the malls will apt at drive at ."}
+{"original": "roger 's daughters are easy to escape from .", "sentence_good": "roger will daughters will easy at escape at .", "sentence_bad": "roger will daughters will sure at escape at ."}
+{"original": "teresa is n't tough to complain about .", "sentence_good": "teresa n't will tough at complain at .", "sentence_bad": "teresa n't will sure at complain at ."}
+{"original": "jason 's best friend was n't interesting to examine .", "sentence_good": "jason will best friend n't will interesting at examine .", "sentence_bad": "jason will best friend n't will unlikely at examine ."}
+{"original": "that bike is n't hard to lift .", "sentence_good": "the bike n't will hard at lift .", "sentence_bad": "the bike n't will likely at lift ."}
+{"original": "many photographs of the spotlight are n't annoying to conceal .", "sentence_good": "many photographs the at spotlight n't will annoying at conceal .", "sentence_bad": "many photographs the at spotlight n't soon at will conceal ."}
+{"original": "maria is enjoyable to respect .", "sentence_good": "maria will enjoyable at respect .", "sentence_bad": "maria will apt at respect ."}
+{"original": "that mountain was n't annoying to escape from .", "sentence_good": "the mountain n't will annoying at escape at .", "sentence_bad": "the mountain n't will unlikely at escape at ."}
+{"original": "what is boring to walk through .", "sentence_good": "what will boring at walk at .", "sentence_bad": "what will unlikely at walk at ."}
+{"original": "most companies are exciting to scare .", "sentence_good": "most companies will exciting at scare .", "sentence_bad": "most companies soon at will scare ."}
+{"original": "most men are fun to reference .", "sentence_good": "most men will fun at reference .", "sentence_bad": "most men will unlikely at reference ."}
+{"original": "most drawings are hard to conceal .", "sentence_good": "most drawings will hard at conceal .", "sentence_bad": "most drawings will certain at conceal ."}
+{"original": "what was enjoyable to bike to .", "sentence_good": "what will enjoyable at bike at .", "sentence_bad": "what will sure at bike at ."}
+{"original": "some banks were hard work to arrive at .", "sentence_good": "some banks hard will work at arrive at .", "sentence_bad": "some banks will unlikely at arrive at ."}
+{"original": "a granddaughter of christopher is n't pleasant to talk to .", "sentence_good": "the granddaughter at christopher n't will pleasant at talk at .", "sentence_bad": "the granddaughter at christopher n't will likely at talk at ."}
+{"original": "this popsicle is ready to conceal .", "sentence_good": "the popsicle will ready at conceal .", "sentence_bad": "the popsicle soon at will conceal ."}
+{"original": "many girls are n't hard to care for .", "sentence_good": "many girls n't will hard at care at .", "sentence_bad": "many girls n't will certain at care at ."}
+{"original": "janet is interesting to escape from .", "sentence_good": "janet will interesting at escape at .", "sentence_bad": "janet will certain at escape at ."}
+{"original": "many offspring are n't unpleasant to complain about .", "sentence_good": "many offspring n't will unpleasant at complain at .", "sentence_bad": "many offspring n't soon at will complain at ."}
+{"original": "melinda 's mother was hard work to listen to .", "sentence_good": "melinda will mother hard will work at listen at .", "sentence_bad": "melinda will mother will unlikely at listen at ."}
+{"original": "this school was easy to drop by .", "sentence_good": "the school will easy at drop at .", "sentence_bad": "the school will unlikely at drop at ."}
+{"original": "ella was n't unpleasant to boast about .", "sentence_good": "ella n't will unpleasant at boast at .", "sentence_bad": "ella n't will likely at boast at ."}
+{"original": "beverly 's fathers are easy to scare .", "sentence_good": "beverly will fathers will easy at scare .", "sentence_bad": "beverly will fathers will apt at scare ."}
+{"original": "those grocery stores were difficult to drive to .", "sentence_good": "grocery the stores will difficult at drive at .", "sentence_bad": "grocery the stores will likely at drive at ."}
+{"original": "deanna is annoying to cure .", "sentence_good": "deanna will annoying at cure .", "sentence_bad": "deanna will sure at cure ."}
+{"original": "most libraries were n't interesting to bike to .", "sentence_good": "most libraries n't will interesting at bike at .", "sentence_bad": "most libraries n't will apt at bike at ."}
+{"original": "steven is n't hard work to conceal .", "sentence_good": "steven n't hard will work at conceal .", "sentence_bad": "steven n't will likely at conceal ."}
+{"original": "what was ready to bike to .", "sentence_good": "what will ready at bike at .", "sentence_bad": "what will bound at bike at ."}
+{"original": "a lot of oases were n't irritating to bike to .", "sentence_good": "the lot at oases n't will irritating at bike at .", "sentence_bad": "the lot at oases n't will sure at bike at ."}
+{"original": "she was irritating to scare .", "sentence_good": "she will irritating at scare .", "sentence_bad": "she will likely at scare ."}
+{"original": "every man was n't boring to flee from .", "sentence_good": "the man n't will boring at flee at .", "sentence_bad": "the man n't will certain at flee at ."}
+{"original": "carla is irritating to escape from .", "sentence_good": "carla will irritating at escape at .", "sentence_bad": "carla will likely at escape at ."}
+{"original": "valerie 's handymen were n't ready to fire .", "sentence_good": "valerie will handymen n't will ready at fire .", "sentence_bad": "valerie will handymen n't soon at will fire ."}
+{"original": "diana was annoying to escape from .", "sentence_good": "diana will annoying at escape at .", "sentence_bad": "diana will unlikely at escape at ."}
+{"original": "these hospitals were hard work to walk through .", "sentence_good": "the hospitals hard will work at walk at .", "sentence_bad": "the hospitals will unlikely at walk at ."}
+{"original": "gary 's mother is n't pleasant to scare .", "sentence_good": "gary will mother n't will pleasant at scare .", "sentence_bad": "gary will mother n't will unlikely at scare ."}
+{"original": "these lakes were fun to arrive at .", "sentence_good": "the lakes will fun at arrive at .", "sentence_bad": "the lakes will bound at arrive at ."}
+{"original": "cynthia 's partner was pleasant to examine .", "sentence_good": "cynthia will partner will pleasant at examine .", "sentence_bad": "cynthia will partner will apt at examine ."}
+{"original": "omar is n't ready to care for .", "sentence_good": "omar n't will ready at care at .", "sentence_bad": "omar n't soon at will care at ."}
+{"original": "charles is hard to care for .", "sentence_good": "charles will hard at care at .", "sentence_bad": "charles will bound at care at ."}
+{"original": "banks are n't easy to arrive at .", "sentence_good": "banks n't will easy at arrive at .", "sentence_bad": "banks n't will sure at arrive at ."}
+{"original": "a play was n't unpleasant to examine .", "sentence_good": "the play n't will unpleasant at examine .", "sentence_bad": "the play n't will apt at examine ."}
+{"original": "brenda 's piano teachers were n't unpleasant to escape from .", "sentence_good": "brenda will piano teachers n't will unpleasant at escape at .", "sentence_bad": "brenda will piano teachers n't will unlikely at escape at ."}
+{"original": "margaret 's grandfathers are n't pleasant to examine .", "sentence_good": "margaret will grandfathers n't will pleasant at examine .", "sentence_bad": "margaret will grandfathers n't will apt at examine ."}
+{"original": "martha was n't exciting to disagree with .", "sentence_good": "martha n't will exciting at disagree at .", "sentence_bad": "martha n't will unlikely at disagree at ."}
+{"original": "the bank is n't easy to go to .", "sentence_good": "the bank n't will easy at go at .", "sentence_bad": "the bank n't soon at will go at ."}
+{"original": "these mountains were pleasant to go to .", "sentence_good": "the mountains will pleasant at go at .", "sentence_bad": "the mountains soon at will go at ."}
+{"original": "omar 's student is unpleasant to reference .", "sentence_good": "omar will student will unpleasant at reference .", "sentence_bad": "omar will student will sure at reference ."}
+{"original": "a man was boring to respect .", "sentence_good": "the man will boring at respect .", "sentence_bad": "the man will likely at respect ."}
+{"original": "a glacier is fun to bike to .", "sentence_good": "the glacier will fun at bike at .", "sentence_bad": "the glacier soon at will bike at ."}
+{"original": "these lice are annoying to lift .", "sentence_good": "the lice will annoying at lift .", "sentence_bad": "the lice will sure at lift ."}
+{"original": "that shoe is n't boring to wear .", "sentence_good": "the shoe n't will boring at wear .", "sentence_bad": "the shoe n't will apt at wear ."}
+{"original": "many museums were annoying to scare .", "sentence_good": "many museums will annoying at scare .", "sentence_bad": "many museums will unlikely at scare ."}
+{"original": "the rug is easy to reveal .", "sentence_good": "the rug will easy at reveal .", "sentence_bad": "the rug soon at will reveal ."}
+{"original": "a lot of cafes are difficult to arrive at .", "sentence_good": "the lot at cafes will difficult at arrive at .", "sentence_bad": "the lot at cafes will certain at arrive at ."}
+{"original": "that high school was ready to go to .", "sentence_good": "high school will the ready at go at .", "sentence_bad": "high school will the bound at go at ."}
+{"original": "hospitals are annoying to drive to .", "sentence_good": "hospitals will annoying at drive at .", "sentence_bad": "hospitals will apt at drive at ."}
+{"original": "bruce was hard work to care for .", "sentence_good": "bruce hard will work at care at .", "sentence_bad": "bruce will sure at care at ."}
+{"original": "douglas 's spouse is fun to return to .", "sentence_good": "douglas will spouse will fun at return at .", "sentence_bad": "douglas will spouse will apt at return at ."}
+{"original": "chad is annoying to boast about .", "sentence_good": "chad will annoying at boast at .", "sentence_bad": "chad will certain at boast at ."}
+{"original": "this public park is n't irritating to bike to .", "sentence_good": "public the park n't will irritating at bike at .", "sentence_bad": "public the park n't will apt at bike at ."}
+{"original": "that shawl was n't tough to lift .", "sentence_good": "the shawl n't will tough at lift .", "sentence_bad": "the shawl n't will sure at lift ."}
+{"original": "a cafe was unpleasant to arrive at .", "sentence_good": "the cafe will unpleasant at arrive at .", "sentence_bad": "the cafe will sure at arrive at ."}
+{"original": "that cafe is n't tough to bike to .", "sentence_good": "the cafe n't will tough at bike at .", "sentence_bad": "the cafe n't will sure at bike at ."}
+{"original": "some bank is fun to drop by .", "sentence_good": "some bank will fun at drop at .", "sentence_bad": "some bank will apt at drop at ."}
+{"original": "guy was n't ready to reference .", "sentence_good": "guy n't will ready at reference .", "sentence_bad": "guy n't will sure at reference ."}
+{"original": "diane was n't hard to argue about .", "sentence_good": "diane n't will hard at argue at .", "sentence_bad": "diane n't will certain at argue at ."}
+{"original": "the patients ' teachers are n't hard work to complain about .", "sentence_good": "the patients ' teachers n't hard will work at complain at .", "sentence_bad": "the patients ' teachers n't will at at complain at ."}
+{"original": "joseph was tough to reference .", "sentence_good": "joseph will tough at reference .", "sentence_bad": "joseph will apt at reference ."}
+{"original": "a lot of college campuses are n't difficult to arrive at .", "sentence_good": "the lot college at campuses n't will difficult at arrive at .", "sentence_bad": "the lot college at campuses n't will apt at arrive at ."}
+{"original": "nancy 's grandsons are n't exciting to examine .", "sentence_good": "nancy will grandsons n't will exciting at examine .", "sentence_bad": "nancy will grandsons n't will unlikely at examine ."}
+{"original": "diana was n't easy to listen to .", "sentence_good": "diana n't will easy at listen at .", "sentence_bad": "diana n't will sure at listen at ."}
+{"original": "the river was hard work to arrive at .", "sentence_good": "the river hard will work at arrive at .", "sentence_bad": "the river will certain at arrive at ."}
+{"original": "cheryl was n't ready to escape from .", "sentence_good": "cheryl n't will ready at escape at .", "sentence_bad": "cheryl n't will sure at escape at ."}
+{"original": "every analysis is boring to argue about .", "sentence_good": "the analysis will boring at argue at .", "sentence_bad": "the analysis will at at argue at ."}
+{"original": "some father of martin is ready to scare .", "sentence_good": "some father at martin will ready at scare .", "sentence_bad": "some father at martin soon at will scare ."}
+{"original": "a lot of alumni are n't annoying to reference .", "sentence_good": "the lot at alumni n't will annoying at reference .", "sentence_bad": "the lot at alumni n't will bound at reference ."}
+{"original": "stephen 's mothers were n't exciting to reveal .", "sentence_good": "stephen will mothers n't will exciting at reveal .", "sentence_bad": "stephen will mothers n't will unlikely at reveal ."}
+{"original": "those books were n't ready to lift .", "sentence_good": "the books n't will ready at lift .", "sentence_bad": "the books n't will sure at lift ."}
+{"original": "that college campus is difficult to lift .", "sentence_good": "college the campus will difficult at lift .", "sentence_bad": "college the campus soon at will lift ."}
+{"original": "april 's supervisors were interesting to conceal .", "sentence_good": "april will supervisors will interesting at conceal .", "sentence_bad": "april will supervisors soon at will conceal ."}
+{"original": "these stories about winston churchill were n't tough to disagree with .", "sentence_good": "the stories winston at churchill n't will tough at disagree at .", "sentence_bad": "the stories winston at churchill n't will apt at disagree at ."}
+{"original": "carrie was n't interesting to talk about .", "sentence_good": "carrie n't will interesting at talk at .", "sentence_bad": "carrie n't will bound at talk at ."}
+{"original": "the jackets are n't irritating to wear .", "sentence_good": "the jackets n't will irritating at wear .", "sentence_bad": "the jackets n't will likely at wear ."}
+{"original": "wendy 's dermatologists are n't fun to return to .", "sentence_good": "wendy will dermatologists n't will fun at return at .", "sentence_bad": "wendy will dermatologists n't will apt at return at ."}
+{"original": "a lot of high schools were n't unpleasant to arrive at .", "sentence_good": "the lot high at schools n't will unpleasant at arrive at .", "sentence_bad": "the lot high at schools n't will likely at arrive at ."}
+{"original": "some thesis is hard to conceal .", "sentence_good": "some thesis will hard at conceal .", "sentence_bad": "some thesis will likely at conceal ."}
+{"original": "a museum was ready to drive to .", "sentence_good": "the museum will ready at drive at .", "sentence_bad": "the museum will apt at drive at ."}
+{"original": "an alumnus is boring to cure .", "sentence_good": "the alumnus will boring at cure .", "sentence_bad": "the alumnus will certain at cure ."}
+{"original": "this niece of helen is n't annoying to examine .", "sentence_good": "the niece at helen n't will annoying at examine .", "sentence_bad": "the niece at helen n't will apt at examine ."}
+{"original": "amanda was n't boring to return to .", "sentence_good": "amanda n't will boring at return at .", "sentence_bad": "amanda n't soon at will return at ."}
+{"original": "this public park is n't unpleasant to walk through .", "sentence_good": "public the park n't will unpleasant at walk at .", "sentence_bad": "public the park n't will certain at walk at ."}
+{"original": "dennis was ready to boast about .", "sentence_good": "dennis will ready at boast at .", "sentence_bad": "dennis will bound at boast at ."}
+{"original": "natalie is n't exciting to cure .", "sentence_good": "natalie n't will exciting at cure .", "sentence_bad": "natalie n't will sure at cure ."}
+{"original": "every guest 's podiatrist is n't difficult to fire .", "sentence_good": "the guest will podiatrist n't will difficult at fire .", "sentence_bad": "the guest will podiatrist n't soon at will fire ."}
+{"original": "some pamphlet about current events is boring to examine .", "sentence_good": "some pamphlet current at events will boring at examine .", "sentence_bad": "some pamphlet current at events will certain at examine ."}
+{"original": "that patient 's fathers were n't pleasant to examine .", "sentence_good": "patient will fathers n't will the pleasant at examine .", "sentence_bad": "patient will fathers n't will the sure at examine ."}
+{"original": "tiffany was n't tough to disagree with .", "sentence_good": "tiffany n't will tough at disagree at .", "sentence_bad": "tiffany n't will certain at disagree at ."}
+{"original": "debra is easy to boast about .", "sentence_good": "debra will easy at boast at .", "sentence_bad": "debra will certain at boast at ."}
+{"original": "most plays about literature are easy to talk about .", "sentence_good": "most plays at literature will easy at talk at .", "sentence_bad": "most plays at literature will at at talk at ."}
+{"original": "a library was n't hard work to lift .", "sentence_good": "the library n't hard will work at lift .", "sentence_bad": "the library n't soon at will lift ."}
+{"original": "nancy was tough to cure .", "sentence_good": "nancy will tough at cure .", "sentence_bad": "nancy will likely at cure ."}
+{"original": "nina 's associates are tough to fire .", "sentence_good": "nina will associates will tough at fire .", "sentence_bad": "nina will associates will unlikely at fire ."}
+{"original": "cheryl was hard work to fire .", "sentence_good": "cheryl hard will work at fire .", "sentence_bad": "cheryl will apt at fire ."}
+{"original": "the painting of galileo was irritating to conceal .", "sentence_good": "the painting at galileo will irritating at conceal .", "sentence_bad": "the painting at galileo will bound at conceal ."}
+{"original": "stephen 's grandfather is interesting to respect .", "sentence_good": "stephen will grandfather will interesting at respect .", "sentence_bad": "stephen will grandfather will unlikely at respect ."}
+{"original": "bethany was n't difficult to flee from .", "sentence_good": "bethany n't will difficult at flee at .", "sentence_bad": "bethany n't will bound at flee at ."}
+{"original": "those books about the balkans are n't unpleasant to boast about .", "sentence_good": "the books the at balkans n't will unpleasant at boast at .", "sentence_bad": "the books the at balkans n't will bound at boast at ."}
+{"original": "mark was n't exciting to work with .", "sentence_good": "mark n't will exciting at work at .", "sentence_bad": "mark n't will sure at work at ."}
+{"original": "a lot of newspaper articles about the balkans were n't tough to examine .", "sentence_good": "the lot newspaper at articles the at balkans n't will tough at examine .", "sentence_bad": "the lot newspaper at articles the at balkans n't will certain at examine ."}
+{"original": "the great lakes were pleasant to walk through .", "sentence_good": "great the lakes will pleasant at walk at .", "sentence_bad": "great the lakes will bound at walk at ."}
+{"original": "holly was n't interesting to disagree with .", "sentence_good": "holly n't will interesting at disagree at .", "sentence_bad": "holly n't will apt at disagree at ."}
+{"original": "the report about the balkans is ready to argue about .", "sentence_good": "the report the at balkans will ready at argue at .", "sentence_bad": "the report the at balkans soon at will argue at ."}
+{"original": "every essay is fun to argue about .", "sentence_good": "the essay will fun at argue at .", "sentence_bad": "the essay will sure at argue at ."}
+{"original": "every nephew of ann was n't enjoyable to examine .", "sentence_good": "the nephew at ann n't will enjoyable at examine .", "sentence_bad": "the nephew at ann n't soon at will examine ."}
+{"original": "the museum was fun to arrive at .", "sentence_good": "the museum will fun at arrive at .", "sentence_bad": "the museum soon at will arrive at ."}
+{"original": "lisa is n't ready to conceal .", "sentence_good": "lisa n't will ready at conceal .", "sentence_bad": "lisa n't will sure at conceal ."}
+{"original": "a lot of grocery stores were annoying to bike to .", "sentence_good": "the lot grocery at stores will annoying at bike at .", "sentence_bad": "the lot grocery at stores soon at will bike at ."}
+{"original": "scott was n't difficult to argue about .", "sentence_good": "scott n't will difficult at argue at .", "sentence_bad": "scott n't will sure at argue at ."}
+{"original": "elizabeth is exciting to reveal .", "sentence_good": "elizabeth will exciting at reveal .", "sentence_bad": "elizabeth will sure at reveal ."}
+{"original": "danielle was n't fun to conceal .", "sentence_good": "danielle n't will fun at conceal .", "sentence_bad": "danielle n't will apt at conceal ."}
+{"original": "all rivers were n't hard work to arrive at .", "sentence_good": "the rivers n't hard will work at arrive at .", "sentence_bad": "the rivers n't soon at will arrive at ."}
+{"original": "those college campuses were pleasant to go to .", "sentence_good": "college the campuses will pleasant at go at .", "sentence_bad": "college the campuses will apt at go at ."}
+{"original": "the teacher was n't ready to scare .", "sentence_good": "the teacher n't will ready at scare .", "sentence_bad": "the teacher n't will bound at scare ."}
+{"original": "the brothers of valerie are n't exciting to scare .", "sentence_good": "the brothers at valerie n't will exciting at scare .", "sentence_bad": "the brothers at valerie n't will sure at scare ."}
+{"original": "ellen was boring to talk to .", "sentence_good": "ellen will boring at talk at .", "sentence_bad": "ellen will apt at talk at ."}
+{"original": "every waitress was annoying to fire .", "sentence_good": "the waitress will annoying at fire .", "sentence_bad": "the waitress soon at will fire ."}
+{"original": "every mother of sheila was n't unpleasant to talk to .", "sentence_good": "the mother at sheila n't will unpleasant at talk at .", "sentence_bad": "the mother at sheila n't will bound at talk at ."}
+{"original": "martin is n't hard to conceal .", "sentence_good": "martin n't will hard at conceal .", "sentence_bad": "martin n't will sure at conceal ."}
+{"original": "some brochures about science were n't exciting to talk about .", "sentence_good": "some brochures at science n't will exciting at talk at .", "sentence_bad": "some brochures at science n't soon at will talk at ."}
+{"original": "rachelle is pleasant to argue about .", "sentence_good": "rachelle will pleasant at argue at .", "sentence_bad": "rachelle will apt at argue at ."}
+{"original": "sheila was n't hard work to conceal .", "sentence_good": "sheila n't hard will work at conceal .", "sentence_bad": "sheila n't will sure at conceal ."}
+{"original": "many hills were n't enjoyable to drive to .", "sentence_good": "many hills n't will enjoyable at drive at .", "sentence_bad": "many hills n't will likely at drive at ."}
+{"original": "teenagers are boring to disagree with .", "sentence_good": "teenagers will boring at disagree at .", "sentence_bad": "teenagers will unlikely at disagree at ."}
+{"original": "many movie theaters are n't easy to bike to .", "sentence_good": "many movie theaters n't will easy at bike at .", "sentence_bad": "many movie theaters n't will bound at bike at ."}
+{"original": "lori was tough to conceal .", "sentence_good": "lori will tough at conceal .", "sentence_bad": "lori will apt at conceal ."}
+{"original": "heather 's lawyers are n't difficult to conceal .", "sentence_good": "heather will lawyers n't will difficult at conceal .", "sentence_bad": "heather will lawyers n't will unlikely at conceal ."}
+{"original": "alexander 's wife is unpleasant to examine .", "sentence_good": "alexander will wife will unpleasant at examine .", "sentence_bad": "alexander will wife will apt at examine ."}
+{"original": "lissa is n't tough to scare .", "sentence_good": "lissa n't will tough at scare .", "sentence_bad": "lissa n't will soon at scare ."}
+{"original": "this closet is exciting to respect .", "sentence_good": "the closet will exciting at respect .", "sentence_bad": "the closet will sure at respect ."}
+{"original": "cynthia was n't enjoyable to argue about .", "sentence_good": "cynthia n't will enjoyable at argue at .", "sentence_bad": "cynthia n't will likely at argue at ."}
+{"original": "all closets were difficult to arrive at .", "sentence_good": "the closets will difficult at arrive at .", "sentence_bad": "the closets will apt at arrive at ."}
+{"original": "every coat is n't pleasant to wear .", "sentence_good": "the coat n't will pleasant at wear .", "sentence_bad": "the coat n't will unlikely at wear ."}
+{"original": "judy is boring to scare .", "sentence_good": "judy will boring at scare .", "sentence_bad": "judy will certain at scare ."}
+{"original": "kenneth was n't boring to complain about .", "sentence_good": "kenneth n't will boring at complain at .", "sentence_bad": "kenneth n't will bound at complain at ."}
+{"original": "those grandmothers of randolf are exciting to examine .", "sentence_good": "the grandmothers at randolf will exciting at examine .", "sentence_bad": "the grandmothers at randolf will likely at examine ."}
+{"original": "catherine 's sister was n't pleasant to escape from .", "sentence_good": "catherine will sister n't will pleasant at escape at .", "sentence_bad": "catherine will sister n't will sure at escape at ."}
+{"original": "some glaciers were unpleasant to escape from .", "sentence_good": "some glaciers will unpleasant at escape at .", "sentence_bad": "some glaciers will apt at escape at ."}
+{"original": "the cafes were n't difficult to drive to .", "sentence_good": "the cafes n't will difficult at drive at .", "sentence_bad": "the cafes n't will bound at drive at ."}
+{"original": "every book about spain was irritating to disagree with .", "sentence_good": "the book at spain will irritating at disagree at .", "sentence_bad": "the book at spain will certain at disagree at ."}
+{"original": "colleen is n't interesting to respect .", "sentence_good": "colleen n't will interesting at respect .", "sentence_bad": "colleen n't soon at will respect ."}
+{"original": "jacqueline was irritating to respect .", "sentence_good": "jacqueline will irritating at respect .", "sentence_bad": "jacqueline will likely at respect ."}
+{"original": "kathleen was n't enjoyable to disagree with .", "sentence_good": "kathleen n't will enjoyable at disagree at .", "sentence_bad": "kathleen n't will certain at disagree at ."}
+{"original": "martha 's friends were n't pleasant to examine .", "sentence_good": "martha will friends n't will pleasant at examine .", "sentence_bad": "martha will friends n't will apt at examine ."}
+{"original": "skateboards are n't hard to conceal .", "sentence_good": "skateboards n't will hard at conceal .", "sentence_bad": "skateboards n't will likely at conceal ."}
+{"original": "the teenagers ' fathers were easy to respect .", "sentence_good": "the teenagers ' fathers will easy at respect .", "sentence_bad": "the teenagers ' fathers will apt at respect ."}
+{"original": "a photograph is fun to conceal .", "sentence_good": "the photograph will fun at conceal .", "sentence_bad": "the photograph will sure at conceal ."}
+{"original": "a lot of restaurants are n't fun to go to .", "sentence_good": "the lot at restaurants n't will fun at go at .", "sentence_bad": "the lot at restaurants n't will unlikely at go at ."}
+{"original": "marie was n't enjoyable to complain about .", "sentence_good": "marie n't will enjoyable at complain at .", "sentence_bad": "marie n't will sure at complain at ."}
+{"original": "clyde is n't hard work to listen to .", "sentence_good": "clyde n't hard will work at listen at .", "sentence_bad": "clyde n't will apt at listen at ."}
+{"original": "this jacket was n't annoying to wear .", "sentence_good": "the jacket n't will annoying at wear .", "sentence_bad": "the jacket n't will apt at wear ."}
+{"original": "dana is n't ready to escape from .", "sentence_good": "dana n't will ready at escape at .", "sentence_bad": "dana n't will bound at escape at ."}
+{"original": "sherry is fun to disagree with .", "sentence_good": "sherry will fun at disagree at .", "sentence_bad": "sherry will bound at disagree at ."}
+{"original": "kathleen was boring to disagree with .", "sentence_good": "kathleen will boring at disagree at .", "sentence_bad": "kathleen will certain at disagree at ."}
+{"original": "an essay about politics is n't unpleasant to reference .", "sentence_good": "the essay at politics n't will unpleasant at reference .", "sentence_bad": "the essay at politics n't will sure at reference ."}
+{"original": "ella is enjoyable to reveal .", "sentence_good": "ella will enjoyable at reveal .", "sentence_bad": "ella soon at will reveal ."}
+{"original": "christina is interesting to respect .", "sentence_good": "christina will interesting at respect .", "sentence_bad": "christina will likely at respect ."}
+{"original": "beverly 's dermatologists are n't hard work to cure .", "sentence_good": "beverly will dermatologists n't hard will work at cure .", "sentence_bad": "beverly will dermatologists n't will unlikely at cure ."}
+{"original": "that stimulus is n't hard work to argue about .", "sentence_good": "stimulus n't hard will the work at argue at .", "sentence_bad": "stimulus n't will the unlikely at argue at ."}
+{"original": "richard is n't interesting to complain about .", "sentence_good": "richard n't will interesting at complain at .", "sentence_bad": "richard n't will sure at complain at ."}
+{"original": "tiffany was enjoyable to reveal .", "sentence_good": "tiffany will enjoyable at reveal .", "sentence_bad": "tiffany will sure at reveal ."}
+{"original": "oases were difficult to walk through .", "sentence_good": "oases will difficult at walk at .", "sentence_bad": "oases will certain at walk at ."}
+{"original": "they are unpleasant to conceal .", "sentence_good": "they will unpleasant at conceal .", "sentence_bad": "they will likely at conceal ."}
+{"original": "a mall was n't easy to respect .", "sentence_good": "the mall n't will easy at respect .", "sentence_bad": "the mall n't will likely at respect ."}
+{"original": "a report about spain is n't interesting to disagree with .", "sentence_good": "the report at spain n't will interesting at disagree at .", "sentence_bad": "the report at spain n't soon at will disagree at ."}
+{"original": "jane is annoying to work with .", "sentence_good": "jane will annoying at work at .", "sentence_bad": "jane soon at will work at ."}
+{"original": "rose was n't tough to talk to .", "sentence_good": "rose n't will tough at talk at .", "sentence_bad": "rose n't will sure at talk at ."}
+{"original": "those high schools were ready to lift .", "sentence_good": "high the schools will ready at lift .", "sentence_bad": "high the schools soon at will lift ."}
+{"original": "that sister of meredith was fun to cure .", "sentence_good": "the sister at meredith will fun at cure .", "sentence_bad": "sister at meredith will the sure at cure ."}
+{"original": "clyde is n't hard to flee from .", "sentence_good": "clyde n't will hard at flee at .", "sentence_bad": "clyde n't will apt at flee at ."}
+{"original": "beth is n't hard work to respect .", "sentence_good": "beth n't hard will work at respect .", "sentence_bad": "beth n't will certain at respect ."}
+{"original": "all schools are difficult to walk through .", "sentence_good": "the schools will difficult at walk at .", "sentence_bad": "the schools will certain at walk at ."}
+{"original": "natalie 's students were fun to respect .", "sentence_good": "natalie will students will fun at respect .", "sentence_bad": "natalie will students will bound at respect ."}
+{"original": "randolf was n't tough to work with .", "sentence_good": "randolf n't will tough at work at .", "sentence_bad": "randolf n't will unlikely at work at ."}
+{"original": "theodore was interesting to flee from .", "sentence_good": "theodore will interesting at flee at .", "sentence_bad": "theodore will apt at flee at ."}
+{"original": "many ladies were tough to care for .", "sentence_good": "many ladies will tough at care at .", "sentence_bad": "many ladies soon at will care at ."}
+{"original": "these teachers ' best friend was n't unpleasant to return to .", "sentence_good": "the teachers ' best friend n't will unpleasant at return at .", "sentence_bad": "the teachers ' best friend n't will apt at return at ."}
+{"original": "a restaurant was n't hard work to respect .", "sentence_good": "the restaurant n't hard will work at respect .", "sentence_bad": "the restaurant n't will bound at respect ."}
+{"original": "kathleen is annoying to cure .", "sentence_good": "kathleen will annoying at cure .", "sentence_bad": "kathleen will certain at cure ."}
+{"original": "bill 's sisters are n't easy to conceal .", "sentence_good": "bill will sisters n't will easy at conceal .", "sentence_bad": "bill will sisters n't will unlikely at conceal ."}
+{"original": "these art galleries were n't fun to drop by .", "sentence_good": "will the galleries n't will fun at drop at .", "sentence_bad": "will the galleries n't will unlikely at drop at ."}
+{"original": "those hospitals are n't difficult to drive to .", "sentence_good": "the hospitals n't will difficult at drive at .", "sentence_bad": "the hospitals n't will certain at drive at ."}
+{"original": "judy 's grandmother was exciting to examine .", "sentence_good": "judy will grandmother will exciting at examine .", "sentence_bad": "judy will grandmother will sure at examine ."}
+{"original": "these cafes were n't boring to walk through .", "sentence_good": "the cafes n't will boring at walk at .", "sentence_bad": "the cafes n't will likely at walk at ."}
+{"original": "curtis is exciting to boast about .", "sentence_good": "curtis will exciting at boast at .", "sentence_bad": "curtis will unlikely at boast at ."}
+{"original": "some customer 's dermatologists are easy to scare .", "sentence_good": "some customer will dermatologists will easy at scare .", "sentence_bad": "some customer will dermatologists will certain at scare ."}
+{"original": "andrea was n't enjoyable to talk about .", "sentence_good": "andrea n't will enjoyable at talk at .", "sentence_bad": "andrea n't will apt at talk at ."}
+{"original": "tracy 's guests were pleasant to escape from .", "sentence_good": "tracy will guests will pleasant at escape at .", "sentence_bad": "tracy will guests will likely at escape at ."}
+{"original": "some gate was n't fun to reveal .", "sentence_good": "some gate n't will fun at reveal .", "sentence_bad": "some gate n't will soon at reveal ."}
+{"original": "all movie theaters were n't hard work to arrive at .", "sentence_good": "movie the theaters n't hard will work at arrive at .", "sentence_bad": "movie the theaters n't will unlikely at arrive at ."}
+{"original": "omar 's ex-boyfriends were irritating to cure .", "sentence_good": "omar will ex-boyfriends will irritating at cure .", "sentence_bad": "omar will ex-boyfriends will bound at cure ."}
+{"original": "chad is n't difficult to care for .", "sentence_good": "chad n't will difficult at care at .", "sentence_bad": "chad n't will certain at care at ."}
+{"original": "a lake is n't unpleasant to go to .", "sentence_good": "the lake n't will unpleasant at go at .", "sentence_bad": "the lake n't will sure at go at ."}
+{"original": "sara 's plumber was easy to flee from .", "sentence_good": "sara will plumber will easy at flee at .", "sentence_bad": "sara will plumber will sure at flee at ."}
+{"original": "a lot of waitresses were n't annoying to complain about .", "sentence_good": "the lot at waitresses n't will annoying at complain at .", "sentence_bad": "the lot at waitresses n't soon at will complain at ."}
+{"original": "travis was n't pleasant to listen to .", "sentence_good": "travis n't will pleasant at listen at .", "sentence_bad": "travis n't will likely at listen at ."}
+{"original": "catherine is pleasant to respect .", "sentence_good": "catherine will pleasant at respect .", "sentence_bad": "catherine will sure at respect ."}
+{"original": "every museum is n't hard to bike to .", "sentence_good": "the museum n't will hard at bike at .", "sentence_bad": "the museum n't will certain at bike at ."}
+{"original": "many restaurants are pleasant to bike to .", "sentence_good": "many restaurants will pleasant at bike at .", "sentence_bad": "many restaurants will sure at bike at ."}
+{"original": "theresa is pleasant to cure .", "sentence_good": "theresa will pleasant at cure .", "sentence_bad": "theresa will certain at cure ."}
+{"original": "many grocery stores are exciting to drop by .", "sentence_good": "many grocery stores will exciting at drop at .", "sentence_bad": "many grocery stores will certain at drop at ."}
+{"original": "the person is fun to talk to .", "sentence_good": "the person will fun at talk at .", "sentence_bad": "the person will unlikely at talk at ."}
+{"original": "judy is n't hard work to conceal .", "sentence_good": "judy n't hard will work at conceal .", "sentence_bad": "judy n't will certain at conceal ."}
+{"original": "the dress is n't annoying to wear .", "sentence_good": "the dress n't will annoying at wear .", "sentence_bad": "the dress n't will bound at wear ."}
+{"original": "renee was easy to fire .", "sentence_good": "renee will easy at fire .", "sentence_bad": "renee will sure at fire ."}
+{"original": "judy 's sisters were exciting to respect .", "sentence_good": "judy will sisters will exciting at respect .", "sentence_bad": "judy will sisters soon at will respect ."}
+{"original": "this movie theater was unpleasant to drive to .", "sentence_good": "movie the theater will unpleasant at drive at .", "sentence_bad": "movie the theater will apt at drive at ."}
+{"original": "a lot of closets are ready to arrive at .", "sentence_good": "the lot at closets will ready at arrive at .", "sentence_bad": "the lot at closets will bound at arrive at ."}
+{"original": "paul is n't hard to scare .", "sentence_good": "paul n't will hard at scare .", "sentence_bad": "paul n't will apt at scare ."}
+{"original": "many pants were unpleasant to reveal .", "sentence_good": "many pants will unpleasant at reveal .", "sentence_bad": "many pants will apt at reveal ."}
+{"original": "steven 's granddaughters are hard to return to .", "sentence_good": "steven will granddaughters will hard at return at .", "sentence_bad": "steven will granddaughters will sure at return at ."}
+{"original": "this blouse is n't enjoyable to wear .", "sentence_good": "the blouse n't will enjoyable at wear .", "sentence_bad": "the blouse n't will certain at wear ."}
+{"original": "a lot of women are fun to escape from .", "sentence_good": "the lot at women will fun at escape at .", "sentence_bad": "the lot at women will sure at escape at ."}
+{"original": "some essays about galileo were n't exciting to examine .", "sentence_good": "some essays at galileo n't will exciting at examine .", "sentence_bad": "some essays at galileo n't will unlikely at examine ."}
+{"original": "every niece of all dancers is annoying to respect .", "sentence_good": "the niece the at dancers will annoying at respect .", "sentence_bad": "the niece the at dancers will bound at respect ."}
+{"original": "regina was n't difficult to reveal .", "sentence_good": "regina n't will difficult at reveal .", "sentence_bad": "regina n't will soon at reveal ."}
+{"original": "some malls were n't boring to escape from .", "sentence_good": "some malls n't will boring at escape at .", "sentence_bad": "some malls n't will sure at escape at ."}
+{"original": "april 's oncologist is n't hard to respect .", "sentence_good": "april will oncologist n't will hard at respect .", "sentence_bad": "april will oncologist n't will certain at respect ."}
+{"original": "some high schools were unpleasant to go to .", "sentence_good": "some high schools will unpleasant at go at .", "sentence_bad": "some high schools soon at will go at ."}
+{"original": "all college campuses are interesting to walk through .", "sentence_good": "college the campuses will interesting at walk at .", "sentence_bad": "college the campuses will likely at walk at ."}
+{"original": "john is n't unpleasant to respect .", "sentence_good": "john n't will unpleasant at respect .", "sentence_bad": "john n't will bound at respect ."}
+{"original": "most photographs of brian were hard to reveal .", "sentence_good": "most photographs at brian will hard at reveal .", "sentence_bad": "most photographs at brian will likely at reveal ."}
+{"original": "alice was difficult to scare .", "sentence_good": "alice will difficult at scare .", "sentence_bad": "alice soon at will scare ."}
+{"original": "curtis was n't fun to return to .", "sentence_good": "curtis n't will fun at return at .", "sentence_bad": "curtis n't will likely at return at ."}
+{"original": "michael is n't interesting to flee from .", "sentence_good": "michael n't will interesting at flee at .", "sentence_bad": "michael n't will likely at flee at ."}
+{"original": "this school was n't interesting to drive to .", "sentence_good": "the school n't will interesting at drive at .", "sentence_bad": "the school n't will likely at drive at ."}
+{"original": "that high school is pleasant to drop by .", "sentence_good": "high school will the pleasant at drop at .", "sentence_bad": "high school will the bound at drop at ."}
+{"original": "stephen is fun to flee from .", "sentence_good": "stephen will fun at flee at .", "sentence_bad": "stephen will certain at flee at ."}
+{"original": "most high schools are unpleasant to arrive at .", "sentence_good": "most high schools will unpleasant at arrive at .", "sentence_bad": "most high schools will apt at arrive at ."}
+{"original": "becca is interesting to disagree with .", "sentence_good": "becca will interesting at disagree at .", "sentence_bad": "becca will bound at disagree at ."}
+{"original": "brad was ready to reference .", "sentence_good": "brad will ready at reference .", "sentence_bad": "brad will unlikely at reference ."}
+{"original": "the clintons were n't pleasant to care for .", "sentence_good": "the clintons n't will pleasant at care at .", "sentence_bad": "the clintons n't will apt at care at ."}
+{"original": "the public parks were n't boring to bike to .", "sentence_good": "public the parks n't will boring at bike at .", "sentence_bad": "public the parks n't will unlikely at bike at ."}
+{"original": "kendra was irritating to reveal .", "sentence_good": "kendra will irritating at reveal .", "sentence_bad": "kendra will unlikely at reveal ."}
+{"original": "sonia 's french teachers are fun to complain about .", "sentence_good": "sonia will french teachers will fun at complain at .", "sentence_bad": "sonia will french teachers will apt at complain at ."}
+{"original": "monet is exciting to conceal .", "sentence_good": "monet will exciting at conceal .", "sentence_bad": "monet will unlikely at conceal ."}
+{"original": "the customer is annoying to boast about .", "sentence_good": "the customer will annoying at boast at .", "sentence_bad": "the customer will at at boast at ."}
+{"original": "anna was n't exciting to conceal .", "sentence_good": "anna n't will exciting at conceal .", "sentence_bad": "anna n't soon at will conceal ."}
+{"original": "carol was n't interesting to scare .", "sentence_good": "carol n't will interesting at scare .", "sentence_bad": "carol n't will likely at scare ."}
+{"original": "kendra 's lawyers were n't fun to talk about .", "sentence_good": "kendra will lawyers n't will fun at talk at .", "sentence_bad": "kendra will lawyers n't will bound at talk at ."}
+{"original": "aaron is n't annoying to work with .", "sentence_good": "aaron n't will annoying at work at .", "sentence_bad": "aaron n't will sure at work at ."}
+{"original": "this father of these drivers is n't tough to scare .", "sentence_good": "the father the at drivers n't will tough at scare .", "sentence_bad": "the father the at drivers n't will certain at scare ."}
+{"original": "rodney was irritating to talk to .", "sentence_good": "rodney will irritating at talk at .", "sentence_bad": "rodney will bound at talk at ."}
+{"original": "many restaurants were hard work to reveal .", "sentence_good": "many restaurants hard will work at reveal .", "sentence_bad": "many restaurants will unlikely at reveal ."}
+{"original": "janet 's mentees are pleasant to complain about .", "sentence_good": "janet will mentees will pleasant at complain at .", "sentence_bad": "janet will mentees will bound at complain at ."}
+{"original": "those high schools are n't tough to drop by .", "sentence_good": "high the schools n't will tough at drop at .", "sentence_bad": "high the schools n't will likely at drop at ."}
+{"original": "those commentaries about the impressionists are n't exciting to boast about .", "sentence_good": "the commentaries the at impressionists n't will exciting at boast at .", "sentence_bad": "the commentaries the at impressionists n't will certain at boast at ."}
+{"original": "deanna was n't unpleasant to disagree with .", "sentence_good": "deanna n't will unpleasant at disagree at .", "sentence_bad": "deanna n't will bound at disagree at ."}
+{"original": "heather is interesting to scare .", "sentence_good": "heather will interesting at scare .", "sentence_bad": "heather will unlikely at scare ."}
+{"original": "charles was n't hard to scare .", "sentence_good": "charles n't will hard at scare .", "sentence_bad": "charles n't will unlikely at scare ."}
+{"original": "the hospital is n't tough to arrive at .", "sentence_good": "the hospital n't will tough at arrive at .", "sentence_bad": "the hospital n't will bound at arrive at ."}
+{"original": "jason is irritating to disagree with .", "sentence_good": "jason will irritating at disagree at .", "sentence_bad": "jason will certain at disagree at ."}
+{"original": "kendra is irritating to reference .", "sentence_good": "kendra will irritating at reference .", "sentence_bad": "kendra will unlikely at reference ."}
+{"original": "some high school was n't pleasant to arrive at .", "sentence_good": "some high school n't will pleasant at arrive at .", "sentence_bad": "some high school n't will sure at arrive at ."}
+{"original": "angela was exciting to work with .", "sentence_good": "angela will exciting at work at .", "sentence_bad": "angela will certain at work at ."}
+{"original": "brett 's wife is pleasant to examine .", "sentence_good": "brett will wife will pleasant at examine .", "sentence_bad": "brett will wife will certain at examine ."}
+{"original": "most waiters were pleasant to work with .", "sentence_good": "most waiters will pleasant at work at .", "sentence_bad": "most waiters will likely at work at ."}
+{"original": "carl 's senator is unpleasant to fire .", "sentence_good": "carl will senator will unpleasant at fire .", "sentence_bad": "carl will senator will unlikely at fire ."}
+{"original": "sherry is n't difficult to respect .", "sentence_good": "sherry n't will difficult at respect .", "sentence_bad": "sherry n't will likely at respect ."}
+{"original": "tara was n't easy to listen to .", "sentence_good": "tara n't will easy at listen at .", "sentence_bad": "tara n't will likely at listen at ."}
+{"original": "marla 's colleagues are n't fun to complain about .", "sentence_good": "marla will colleagues n't will fun at complain at .", "sentence_bad": "marla will colleagues n't will apt at complain at ."}
+{"original": "patricia is interesting to disagree with .", "sentence_good": "patricia will interesting at disagree at .", "sentence_bad": "patricia will certain at disagree at ."}
+{"original": "kristen was n't ready to return to .", "sentence_good": "kristen n't will ready at return at .", "sentence_bad": "kristen n't will likely at return at ."}
+{"original": "the glasses are hard work to wear .", "sentence_good": "the glasses hard will work at wear .", "sentence_bad": "the glasses will unlikely at wear ."}
+{"original": "steve 's doctors were n't fun to examine .", "sentence_good": "steve will doctors n't will fun at examine .", "sentence_bad": "steve will doctors n't will unlikely at examine ."}
+{"original": "harvard university was n't unpleasant to go to .", "sentence_good": "harvard university n't will unpleasant at go at .", "sentence_bad": "harvard university n't soon at will go at ."}
+{"original": "the play was hard work to examine .", "sentence_good": "the play hard will work at examine .", "sentence_bad": "the play will likely at examine ."}
+{"original": "samantha was exciting to talk about .", "sentence_good": "samantha will exciting at talk at .", "sentence_bad": "samantha will at at talk at ."}
+{"original": "plays are fun to argue about .", "sentence_good": "plays will fun at argue at .", "sentence_bad": "plays will certain at argue at ."}
+{"original": "rhonda was unpleasant to scare .", "sentence_good": "rhonda will unpleasant at scare .", "sentence_bad": "rhonda will certain at scare ."}
